@@ -2607,15 +2607,6 @@
       "value": "144",
       "type": "sizing",
       "description": "use for tooltips "
-    },
-    "test2": {
-      "value": "300",
-      "type": "sizing",
-      "description": "delete"
-    },
-    "test4": {
-      "value": "444",
-      "type": "sizing"
     }
   },
   "width": {
