@@ -1218,5 +1218,13 @@
       "tab.bg": "969a4bbf619ff6dd73b0a291b2ae50a2245b499e",
       "text-wrap.padding-fix": "3c28f0d3b5cf44c488404deadef2a8f185fd4533"
     }
+  },
+  {
+    "id": "48cb8f66fdc036b8e74e2961d7f946bc88b129d4",
+    "name": "7Slots",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7slots.main": "enabled"
+    }
   }
 ]
