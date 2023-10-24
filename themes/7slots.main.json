@@ -2612,6 +2612,11 @@
       "value": "300",
       "type": "sizing",
       "description": "delete"
+    },
+    "test3": {
+      "value": "333",
+      "type": "sizing",
+      "description": "test delete"
     }
   },
   "width": {
