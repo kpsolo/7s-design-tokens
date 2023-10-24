@@ -2607,6 +2607,11 @@
       "value": "144",
       "type": "sizing",
       "description": "use for tooltips "
+    },
+    "testgit": {
+      "value": "320",
+      "type": "sizing",
+      "description": "Just testing, delete it"
     }
   },
   "width": {
