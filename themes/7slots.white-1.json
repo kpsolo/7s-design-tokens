@@ -1,0 +1,3586 @@
+{
+  "typography": {
+    "caption-extrasmall": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.1}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Metadata (limited)"
+    },
+    "caption-extrasmall-strong": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.1}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Metadata (limited)"
+    },
+    "caption-extrasmall-stronger": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.1}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
+    },
+    "caption-small": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Caption"
+    },
+    "caption-small-desktop": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.1-desktop}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "For small captions on desktop header, cards,widgets"
+    },
+    "caption-small-app": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Caption"
+    },
+    "caption-small-strong": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Caption (unread)"
+    },
+    "caption-small-stronger": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Caption (unread)"
+    },
+    "body-1": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Body"
+    },
+    "body-1-cross": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.line-through}"
+      },
+      "type": "typography",
+      "description": "Body"
+    },
+    "body-1-stronger": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
+    },
+    "body-1-strong": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Body (unread), button"
+    },
+    "body-1-strong-cross": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.line-through}"
+      },
+      "type": "typography"
+    },
+    "button-text-sm": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.1}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.capitalize}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
+    },
+    "link-s": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Link text"
+    },
+    "link-s-hover": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography",
+      "description": "Link text"
+    },
+    "link-m": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Link text"
+    },
+    "link-m-hover": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography",
+      "description": "Link text"
+    },
+    "button-text-app": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.capitalize}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Caption (unread)"
+    },
+    "button-text-lg": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
+    },
+    "title-small": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Small titles"
+    },
+    "title-small-strong": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Small titles"
+    },
+    "title-small-stronger": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Small titles"
+    },
+    "title-1-strong": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.5}",
+        "fontSize": "{font-size.7}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Email header"
+    },
+    "title-2-strong": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.3}",
+        "fontSize": "{font-size.6}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Email header"
+    },
+    "title-1": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.5}",
+        "fontSize": "{font-size.7}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Email header"
+    },
+    "title-1-light": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.5}",
+        "fontSize": "{font-size.7}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Email header"
+    },
+    "menu-desktop": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.5}",
+        "fontSize": "{font-size.7}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Email header"
+    },
+    "display": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.5}",
+        "fontSize": "{font-size.8}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Email header"
+    },
+    "title-2": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.3}",
+        "fontSize": "{font-size.6}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Page title"
+    },
+    "title-2-light": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.3}",
+        "fontSize": "{font-size.6}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Page title"
+    },
+    "title-block": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.5}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Title text for games group, top title in cashbox filter"
+    },
+    "notification-bubble": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.0}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Notification counter"
+    },
+    "title-tab": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.5}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Titles on popup tabs (profile,cashbox)"
+    }
+  },
+  "shadow": {
+    "tapbar": {
+      "value": [
+        {
+          "color": "#2727271a",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "-4",
+          "blur": "8",
+          "spread": "0"
+        },
+        {
+          "x": "0",
+          "y": "0.5",
+          "blur": "0.2",
+          "spread": "0",
+          "color": "rgba(255,255,255,0.5)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Shadow for sticky bar, modal for download app"
+    },
+    "card": {
+      "value": {
+        "color": "#27272733",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "8",
+        "blur": "16",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "General shadow for cards, 1click"
+    },
+    "card-additional": {
+      "value": [
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "rgba(255,255,255,0.6)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "8",
+          "blur": "16",
+          "spread": "0",
+          "color": "rgba(39,39,39,0.2)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "use for cards/popups inner shadow + dropshadow, "
+    },
+    "card-additional-2": {
+      "value": [
+        {
+          "x": "0",
+          "y": "8",
+          "blur": "16",
+          "spread": "0",
+          "color": "rgba(39,39,39,0.2)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "use for cards/popups dropshadow"
+    },
+    "top": {
+      "value": {
+        "color": "#2727274d",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "10",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for drop downs, modals,notifications"
+    },
+    "button": {
+      "value": {
+        "color": "#27272733",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "2",
+        "blur": "8",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for button"
+    },
+    "text-1": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.5)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for primary button text"
+    },
+    "shine-accent": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0",
+          "color": "{base.accent-primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "0",
+          "color": "{base.accent-primary}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Drop shadow for hover on menu items on desktop"
+    },
+    "text-2": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.5)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for secondary button text"
+    },
+    "accent": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0",
+          "color": "{base.accent-primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "0",
+          "color": "{base.accent-primary}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "accent blur menu items desktop"
+    },
+    "text-3": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.6)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for tertiary button text"
+    },
+    "text-4": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.6)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for button text"
+    },
+    "tips": {
+      "value": {
+        "color": "#26262666",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "1",
+        "blur": "2",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for small elements on top of components,labels, small game thumbs"
+    },
+    "cashbox": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(30, 26, 26, 0.20)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "shadow for payment cards in cashbox"
+    },
+    "win-ticket": {
+      "value": [
+        {
+          "x": "0",
+          "y": "2",
+          "blur": "4",
+          "spread": "0",
+          "color": "{base.gold}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Shadow for win ticket in lottery"
+    },
+    "header": {
+      "value": {
+        "color": "#2626264d",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for header"
+    },
+    "nav": {
+      "value": {
+        "color": "#2727271a",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "-4",
+        "blur": "8",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for sticky bar"
+    },
+    "special-blocks": {
+      "jackpot-wrap": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "16",
+          "spread": "0",
+          "color": "{special-blocks.jackpot-border}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "Shadow for Jackpot widget container"
+      },
+      "jackpot-title": {
+        "value": {
+          "x": "0",
+          "y": "-2",
+          "blur": "6",
+          "spread": "0",
+          "color": "{special-blocks.title-jackpot}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "jackpot-amount": {
+        "value": {
+          "x": "0",
+          "y": "10",
+          "blur": "20",
+          "spread": "0",
+          "color": "{special-blocks.amount-jackpot}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "jackpot-line": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "12",
+          "spread": "0",
+          "color": "{special-blocks.jackpot-line}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "timer-numbers": {
+        "value": {
+          "x": "0",
+          "y": "-1",
+          "blur": "0",
+          "spread": "0",
+          "color": "#1D1F24",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "use as shadow for numbers in timer "
+      },
+      "timer-bottom": {
+        "value": {
+          "x": "0",
+          "y": "1",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba(255, 255, 255, 0.10)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "use for bottom shadow in timer"
+      },
+      "wheel": {
+        "main": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "36",
+            "spread": "",
+            "color": "#8DFCFD",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow",
+          "description": "use as wheel shaddow under main border"
+        }
+      }
+    },
+    "shine-accent-additional": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "",
+          "color": "{base.accent-secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "",
+          "color": "{base.accent-secondary}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Drop shadow for hover on menu items on desktop"
+    }
+  },
+  "border": {
+    "button-default": {
+      "value": {
+        "color": "{button.border.tertiary}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border default"
+    },
+    "ghost-1": {
+      "value": {
+        "color": "{base.light}",
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "results widget in tournament"
+    },
+    "ghost-3": {
+      "value": {
+        "color": "rgba({base.light}, 0.16)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use in lootboxes border on picture"
+    },
+    "ghost-4": {
+      "value": {
+        "color": "rgba( {base.primary} , 0.16)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use in cashbox border on groups icons"
+    },
+    "chips-default": {
+      "value": {
+        "color": "rgba({base.dark} , 0.16)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use in calendar filter for chips"
+    },
+    "chips-active": {
+      "value": {
+        "color": "{base.accent-secondary}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use in calendar filter for active chips state"
+    },
+    "ghost-5": {
+      "value": {
+        "color": "{bg.tertiary}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for game card border in statistic page/hall of fame"
+    },
+    "ghost-6": {
+      "value": {
+        "color": "{bg.tertiary}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for border in timer"
+    },
+    "ghost-7": {
+      "value": {
+        "color": "#ffffff",
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for border welcome popup timer"
+    },
+    "ghost-2": {
+      "value": {
+        "color": "#C9C9C9",
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for counter border in main menu badges"
+    },
+    "button-hover": {
+      "value": {
+        "color": "{button.border.tertiary-hover}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border hover"
+    },
+    "button-pressed": {
+      "value": {
+        "color": "{button.border.tertiary-pressed}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border pressed"
+    },
+    "button-disabled": {
+      "value": {
+        "color": "{button.border.tertiary-disabled}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border disabled"
+    },
+    "button-disabled-additional": {
+      "value": {
+        "color": "{button.border.tertiary-disabled}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border for primarry disabled state"
+    },
+    "input": {
+      "value": {
+        "color": "{input.border.default}",
+        "style": "solid",
+        "width": "{border-width.input}"
+      },
+      "type": "border",
+      "description": "Input border"
+    },
+    "nav": {
+      "value": {
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "popup": {
+      "value": {
+        "color": "rgba(255,255,255,0.05)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for stroke for popup bg"
+    },
+    "wheel-denomination": {
+      "value": {
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use as border for denomination widget"
+    },
+    "achivements": {
+      "value": {
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use as border for achivments widget in desktop profile "
+    },
+    "nav-active": {
+      "value": {
+        "color": "{base.accent-primary}",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "input-focus": {
+      "value": {
+        "color": "{base.accent-secondary}",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "Border for focused input"
+    },
+    "input-hover": {
+      "value": {
+        "color": "{input.border.focus}",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "Border for hover input"
+    },
+    "input-disabled": {
+      "value": {
+        "color": "{input.border.disabled}",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "input-error": {
+      "value": {
+        "color": "{base.error}",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "input-default": {
+      "value": {
+        "color": "#B4B4B4",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for light theme inputs"
+    },
+    "special-blocks": {
+      "jackpot-border": {
+        "value": {
+          "color": "{special-blocks.jackpot-border}",
+          "width": "2px",
+          "style": "solid"
+        },
+        "type": "border",
+        "description": "Border for Jackpot widget"
+      }
+    },
+    "right-menu": {
+      "value": {
+        "color": "rgba(0,0,0,0.2)",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "Border for gamepage right menu"
+    },
+    "input-confirmed": {
+      "value": {
+        "color": "{input.border.confirmed}",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "input-warning": {
+      "value": {
+        "color": "{base.warning}",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  },
+  "base spacing": {
+    "smallest": {
+      "value": "2px",
+      "type": "spacing"
+    },
+    "xxs": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "sm": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "m": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "l": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "32px",
+      "type": "spacing"
+    },
+    "s": {
+      "value": "10px",
+      "type": "spacing"
+    },
+    "xxl": {
+      "value": "48px",
+      "type": "spacing"
+    },
+    "xxxl": {
+      "value": "64px",
+      "type": "spacing"
+    }
+  },
+  "radius": {
+    "card": {
+      "value": "12px",
+      "type": "borderRadius",
+      "description": "Radius for cards amd widgets"
+    },
+    "game-item": {
+      "value": "10px",
+      "type": "borderRadius",
+      "description": "Radius for thumbs"
+    },
+    "navbar": {
+      "value": "12px",
+      "type": "borderRadius",
+      "description": "use for navbar on main page"
+    },
+    "prize": {
+      "value": "{radius.button}",
+      "type": "borderRadius",
+      "description": "use for prize item in tournament/lotery page "
+    },
+    "button": {
+      "value": "8px",
+      "type": "borderRadius",
+      "description": "Radius for buttons"
+    },
+    "tap-bar": {
+      "value": "12px",
+      "type": "borderRadius",
+      "description": "Radius for tapbar"
+    },
+    "popup": {
+      "value": "12px",
+      "type": "borderRadius"
+    },
+    "tooltips-notifications": {
+      "value": "8px",
+      "type": "borderRadius",
+      "description": "Border radius for tooltips ans notifications"
+    },
+    "status-item": {
+      "value": "{radius.button}",
+      "type": "borderRadius",
+      "description": "use for player status item in tournament page"
+    },
+    "no-radius": {
+      "value": "0",
+      "type": "borderRadius",
+      "description": "No radius"
+    },
+    "input-base": {
+      "value": "8px 8px 8px 8px",
+      "type": "borderRadius",
+      "description": "Use for inputs, dropdowns bg"
+    },
+    "game-item-mini": {
+      "value": "8px",
+      "type": "borderRadius",
+      "description": "Radius for smallest game items"
+    },
+    "input-custom1": {
+      "value": "8px 8px 0px 0px",
+      "type": "borderRadius",
+      "description": "Use for error field"
+    },
+    "input-zero": {
+      "value": "0px",
+      "type": "borderRadius",
+      "description": "Radius for select (0)"
+    },
+    "small-tips": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for small elements and widgets, notification in menu item"
+    },
+    "large-tips": {
+      "value": "100px",
+      "type": "borderRadius",
+      "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
+    },
+    "special-blocks": {
+      "jackpot-radius": {
+        "value": "8px",
+        "type": "borderRadius",
+        "description": "Radius for jackpot widget"
+      }
+    }
+  },
+  "opacity": {
+    "08": {
+      "value": "80%",
+      "type": "opacity"
+    },
+    "06": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "00": {
+      "value": "0",
+      "type": "opacity"
+    },
+    "09": {
+      "value": "90%",
+      "type": "opacity"
+    },
+    "04": {
+      "value": "40%",
+      "type": "opacity"
+    },
+    "01": {
+      "value": "10%",
+      "type": "opacity"
+    },
+    "02": {
+      "value": "20%",
+      "type": "opacity"
+    }
+  },
+  "bg": {
+    "radial": {
+      "value": "radial-gradient(50% 50.00% at 50% 50.00%, #57AEFF 0%, rgba(87, 174, 255, 0.00) 100%);",
+      "type": "color"
+    },
+    "primary": {
+      "value": "{base.surface}",
+      "type": "color",
+      "description": "first level bg"
+    },
+    "secondary": {
+      "value": "#d1d1d1",
+      "type": "color",
+      "description": "bg for element above primary bg ( tournament/lottery tabs)"
+    },
+    "tertiary": {
+      "value": "#adadad",
+      "type": "color",
+      "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
+    },
+    "gradient": {
+      "value": "linear-gradient(180deg, {bg.secondary} 0%, {bg.primary} 100%)",
+      "type": "color",
+      "description": "Gradient for bg"
+    },
+    "additional": {
+      "value": "rgba(32, 32, 32, 0.80);",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
+    },
+    "top-surface": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "bg for menu, bottom sheets,dropdown"
+    },
+    "popup": {
+      "value": "{bg.primary}",
+      "type": "color",
+      "description": "use for popups bg"
+    },
+    "widget-bonus": {
+      "value": "linear-gradient(160deg, #AC1717 8.49%, #4A0707 58.22%)",
+      "type": "color",
+      "description": "use as bg for welcome bonus"
+    },
+    "widget-bonus-additional": {
+      "value": "#5D0A0A",
+      "type": "color",
+      "description": "use as bg for welcome bonus success item"
+    },
+    "technical": {
+      "value": "linear-gradient(140deg, #90caff 0%, #0094b5 100%)",
+      "type": "color",
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+    },
+    "widget-disabled": {
+      "value": "linear-gradient(90deg, #a3afbb 0%, #56697a 100%)",
+      "type": "color",
+      "description": "for past tournament,lottery"
+    },
+    "widget-default": {
+      "value": "linear-gradient(180deg, #4388C8 0%, #2C5D8A 100%)",
+      "type": "color",
+      "description": "for tournament on main page, news, lottery"
+    },
+    "other": {
+      "404": {
+        "value": "linear-gradient(180deg, #2c0202 0.06%, #930101 99.97%)",
+        "type": "color",
+        "description": "Bg for empty error pages"
+      },
+      "promo": {
+        "value": "#57abe6",
+        "type": "color",
+        "description": "Main banner background"
+      },
+      "win-card": {
+        "value": "linear-gradient(134deg, #eee 0%, #ccc 100%)",
+        "type": "color",
+        "description": "Background color for card winners now"
+      },
+      "win-card-wrap": {
+        "value": "{bg.tertiary}",
+        "type": "color",
+        "description": "Background color for card winners now"
+      },
+      "tooltip": {
+        "value": "#e0fcfd",
+        "type": "color",
+        "description": "Use for tooltip background"
+      },
+      "footer": {
+        "value": "{bg.primary}",
+        "type": "color",
+        "description": "Background color for footer"
+      },
+      "accent-on-light": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "use as accent on light bg - filter in cashdesk"
+      },
+      "sidebar-desktop": {
+        "value": "linear-gradient(180deg, {bg.secondary} 0%, {bg.tertiary} 100%)",
+        "type": "color",
+        "description": "color for desktop sidebar"
+      },
+      "hover-on-light": {
+        "value": "rgba({base.dark}, 0.06)",
+        "type": "color",
+        "description": "use for hover state in calendar, cashbox filter"
+      },
+      "cashbox": {
+        "value": "#000000",
+        "type": "color",
+        "description": "use for transaction with bg",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "cashbox-additional": {
+        "value": "#000000",
+        "type": "color",
+        "description": "use for transaction with bg (detailed)",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.32",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "strip": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for bg under girls",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.20",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "sidebar-game": {
+        "value": "linear-gradient(180deg, rgba(79, 157, 229, 0.60) 0%, rgba(4, 96, 148, 0.60) 100%)",
+        "type": "color",
+        "description": "Bg for sidebar on gamepage (desktop)"
+      },
+      "welcome": {
+        "value": "linear-gradient(120deg, #6E73C7 2.53%, #60649A 39.06%, #52559E 95.31%);",
+        "type": "color",
+        "description": "use as bg for welcome popup"
+      },
+      "welcome-2": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use as bg for welcome popup timer widget",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.12",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "welcome-3": {
+        "value": "#7B75BE",
+        "type": "color",
+        "description": "use as bg for welcome popup timer widget"
+      },
+      "lootboxes-cell-selected": {
+        "value": "linear-gradient(180deg, #f8001800 53.95%, #f8001833 68.4%, #f8001866 81.71%, #f80018 100%)",
+        "type": "color",
+        "description": "bg.other.lootboxes-cof-selected"
+      },
+      "strip-bg": {
+        "value": "linear-gradient(140deg, #151010 7%, #240303 93%)",
+        "type": "color",
+        "description": "Global background for strip banners",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.20",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "cashbox-bonus-content": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "for cashbox bonus popup content"
+      },
+      "cashbox-bonus-content-opacity": {
+        "value": "{base.dark}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for cashbox bonus popup content"
+      },
+      "status-bg": {
+        "value": "#2d2d2d",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "hsl"
+            }
+          }
+        },
+        "description": "bg for status tournament inside rules of tournament/lottery"
+      }
+    },
+    "overlay": {
+      "1": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "for static table headet",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.10",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "2": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "3": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.06",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "4": {
+        "value": "rgba({base.dark}, 0.16)",
+        "type": "color",
+        "description": "use for bg in cashbox transaction"
+      },
+      "5": {
+        "value": "rgba({base.dark}, 0.32)",
+        "type": "color",
+        "description": "use for bg in cashbox transaction"
+      },
+      "ghost-1": {
+        "value": "{bg.secondary}",
+        "type": "color",
+        "description": "use for results inner tournament card",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "ghost-2": {
+        "value": "#00000080",
+        "type": "color",
+        "description": "Use for underlay of elements on top (star, counter)"
+      },
+      "light-1": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for bg under status in menu top part",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "light-2": {
+        "value": "linear-gradient(180deg, {bg.secondary} 0%, {bg.primary} 100%)",
+        "type": "color",
+        "description": "use for progress bar bg "
+      },
+      "gamepage": {
+        "value": "{bg.primary}",
+        "type": "color",
+        "description": "Background above game image",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "welcome": {
+        "value": "linear-gradient(180deg, rgba(99, 103, 161, 0.00) 0%, #6367A1 60.74%, #6367A1 100%);",
+        "type": "color",
+        "description": "use for overlay under button in welcome popup"
+      }
+    },
+    "blur": {
+      "value": "16px",
+      "type": "dimension",
+      "description": "use for bg blue in categories/ strip service"
+    },
+    "elements-blur": {
+      "value": "24px",
+      "type": "dimension",
+      "description": "use for circle elements on primary bg"
+    },
+    "overlay-gradient": {
+      "1": {
+        "value": "linear-gradient(180deg, {base.dark} 0%, rgba({base.dark}, 0.00) 45%)",
+        "type": "color",
+        "description": "use for menu banner overlay gradient under title"
+      },
+      "2": {
+        "value": "linear-gradient(180deg, {bg.tertiary} 0%, rgba({bg.tertiary}, 0.47) 64%, rgba({bg.tertiary}, 0.00) 100%)",
+        "type": "color",
+        "description": "use as overlay on messages picture, news cards picture"
+      },
+      "3": {
+        "value": "linear-gradient(180deg, rgba({bg.primary}, 0.00) 0%, {bg.primary} 100%)",
+        "type": "color",
+        "description": "use under link in messages\n\n[based on primary bg]"
+      },
+      "4": {
+        "value": "linear-gradient(180deg, #A58600 0%, #EEC101 73.50%);",
+        "type": "color",
+        "description": "use for coin in lootboxes"
+      },
+      "5": {
+        "value": "linear-gradient(180deg, rgba({bg.secondary}, 0.00) 0%, {bg.secondary} 100%)",
+        "type": "color",
+        "description": "use under title in news card on inner page\n\n[based on secondary bg]"
+      },
+      "6": {
+        "value": "linear-gradient(180deg, rgba({bg.additional}, 0.00) 0%, {bg.secondary} 100%)",
+        "type": "color",
+        "description": "use under links on messeges/cards\n\n[based on additional bg]"
+      },
+      "strip": {
+        "value": "linear-gradient(180deg, rgba( {bg.primary}, 0.00) 0%, {bg.primary} 100%)",
+        "type": "color",
+        "description": "strip bg card\n\n[based on primary bg]"
+      },
+      "strip-copy": {
+        "value": "linear-gradient(270deg, #EDEDED 0%, rgba(237, 237, 237, 0.00) 100%)",
+        "type": "color",
+        "description": "fade on pregame popup\n\n[based on base accent light]"
+      },
+      "footer": {
+        "value": "linear-gradient(90deg, rgba( {bg.other.footer} 0.00) 0%, {bg.other.footer} 100%)",
+        "type": "color",
+        "description": "use as overlay on footer"
+      }
+    },
+    "blur-achivments": {
+      "value": "18px",
+      "type": "dimension",
+      "description": "use for bottom block in profile "
+    },
+    "info-blur": {
+      "value": "8px",
+      "type": "dimension",
+      "description": "use for bg under small information (tournament/lotteries)"
+    },
+    "cashbox-bonus": {
+      "value": "linear-gradient(103deg, #EAE7E7 6.88%, #C8C8C8 83.53%)",
+      "type": "color",
+      "description": "for cashbox bonus popup"
+    }
+  },
+  "base": {
+    "light": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Lighttest (white)"
+    },
+    "accent-primary": {
+      "value": "#ff4b31",
+      "type": "color",
+      "description": "Background for accent elements"
+    },
+    "accent-secondary": {
+      "value": "#1ba7bf",
+      "type": "color",
+      "description": "Background for tertiary elements"
+    },
+    "accent-tertiary": {
+      "value": "#efc306",
+      "type": "color",
+      "description": "Background for tertiary elements"
+    },
+    "dark": {
+      "value": "#000000",
+      "type": "color",
+      "description": "Darkest (black)"
+    },
+    "success": {
+      "value": "#00cb6a",
+      "type": "color",
+      "description": "Indication of success transactions"
+    },
+    "surface": {
+      "value": "#0A0A0A",
+      "type": "color",
+      "description": "main color for brand bgs"
+    },
+    "error": {
+      "value": "#cf0000",
+      "type": "color",
+      "description": "Indication of unsuccess transactions"
+    },
+    "warning": {
+      "value": "#dcac00",
+      "type": "color",
+      "description": "Indication of warning"
+    },
+    "gold": {
+      "value": "#c79e0c",
+      "type": "color",
+      "description": "Color for winners lottery tickets"
+    },
+    "silver": {
+      "value": "#b4b4b4",
+      "type": "color",
+      "description": "Color for winners"
+    },
+    "bronze": {
+      "value": "#c1511b",
+      "type": "color",
+      "description": "Color for winners"
+    },
+    "primary": {
+      "value": "#141414",
+      "type": "color",
+      "description": "for text,icons"
+    },
+    "accent-light": {
+      "value": "#e2f0f4",
+      "type": "color",
+      "description": "Color for app button and bg under games in bottom sheet"
+    }
+  },
+  "navbar": {
+    "bg": {
+      "main": {
+        "value": "rgba(98,90,90,0.8)",
+        "type": "color",
+        "description": "Use for tapbar on mainpage, strip",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "button": {
+        "value": "linear-gradient(180deg, #767676 0%, #B7B4B4 100%);",
+        "type": "color",
+        "description": "use for buttton color on main tapbar"
+      },
+      "button-icon": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Color of icon on big button in tapbar"
+      }
+    },
+    "menu-item-active": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "color of active item (icon+text)"
+    }
+  },
+  "button": {
+    "bg": {
+      "primary": {
+        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+        "type": "color",
+        "description": "Background for primary buttons"
+      },
+      "primary-hover": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Background for primary buttons hover",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "primary-pressed": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Background for primary pressed",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "primary-disabled": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Background for primary buttons disabled",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "Background for secondary buttons"
+      },
+      "secondary-hover": {
+        "value": "#1ba7bf",
+        "type": "color",
+        "description": "Background for secondary buttons hover"
+      },
+      "secondary-pressed": {
+        "value": "#42a8ba",
+        "type": "color",
+        "description": "Background for secondary buttons pressed"
+      },
+      "secondary-disabled": {
+        "value": "#4ed7ef66",
+        "type": "color",
+        "description": "Background for secondary buttons disabled"
+      },
+      "app-default": {
+        "value": "{base.accent-light}",
+        "type": "color",
+        "description": "Background for bottom part and button in pregame modal"
+      },
+      "app-hover": {
+        "value": "#f2fcff",
+        "type": "color",
+        "description": "Background for hovered button in pregame modal"
+      },
+      "app-pressed": {
+        "value": "#cde0e6",
+        "type": "color",
+        "description": "Background for pressed button in pregame modal"
+      },
+      "ghost": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Background for ghost button"
+      }
+    },
+    "icon": {
+      "primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Icon color on a primary button"
+      },
+      "secondary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Icon color on a secondary button"
+      },
+      "tertiary": {
+        "value": "#666666",
+        "type": "color",
+        "description": "Icon color on a tertiary button"
+      },
+      "ghost": {
+        "value": "#666666",
+        "type": "color",
+        "description": "Icon color on a ghost button"
+      },
+      "primary-disabled": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "Icon color on a primary disabled button"
+      },
+      "secondary-disabled": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "Icon color on a secondary disabled button"
+      },
+      "tertiary-disabled": {
+        "value": "#66666666",
+        "type": "color",
+        "description": "Icon color on a tertiary disabled button"
+      },
+      "ghost-disabled": {
+        "value": "#66666666",
+        "type": "color",
+        "description": "Icon color on a ghost disabled button"
+      }
+    },
+    "border": {
+      "tertiary": {
+        "value": "#666666",
+        "type": "color",
+        "description": "border color for buttons default"
+      },
+      "tertiary-hover": {
+        "value": "#757575",
+        "type": "color",
+        "description": "border color for buttons hover"
+      },
+      "tertiary-pressed": {
+        "value": "#515151",
+        "type": "color",
+        "description": "border color for buttons pressed"
+      },
+      "tertiary-disabled": {
+        "value": "#66666666",
+        "type": "color",
+        "description": "border color for buttons disabled"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Text color on primary button"
+      },
+      "secondary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Text color on secondary button"
+      },
+      "tertiary": {
+        "value": "#666666",
+        "type": "color",
+        "description": "color on tertiary buttons"
+      },
+      "ghost": {
+        "value": "#666666",
+        "type": "color",
+        "description": "color on ghost buttons"
+      },
+      "primary-disabled": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "Text color on primary disabled button"
+      },
+      "secondary-disabled": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "Text color on secondary disabled button"
+      },
+      "tertiary-disabled": {
+        "value": "#66666666",
+        "type": "color",
+        "description": "Text color on tertiary disabled button"
+      },
+      "ghost-disabled": {
+        "value": "#66666666",
+        "type": "color",
+        "description": "Text color on ghost disabled button"
+      }
+    }
+  },
+  "small-elements": {
+    "game": {
+      "provider-logo-bg": {
+        "value": "linear-gradient(0deg, {bg.primary} 0%, rgba( {bg.primary} , 0.60) 66.66%, rgba( {bg.primary} , 0.0) 100%)",
+        "type": "color",
+        "description": "Background for provider logo on game thumb"
+      },
+      "label-thumb-new": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
+      "label-thumb-top": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
+      "label-thumb-text": {
+        "value": "{text.light}",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
+      "counter-color": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "Color of counter on header of game block",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.9",
+              "space": "hsl"
+            }
+          }
+        }
+      }
+    },
+    "scrollbar": {
+      "dark": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "for scrollbar on light bg (dropdown)",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "light": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "for dark bg (regular popups)",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "separator": {
+      "primary": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "border color for separating groups of table rows/colums,footer ",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "item": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "for line separator in dropdown/menu",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.10",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        }
+      }
+    },
+    "progress-large": {
+      "value": "linear-gradient(180deg, #2e68ae 0%, #598dc3 6.25%, #49a8d4 100%)",
+      "type": "color",
+      "description": "Color of progress for strip, gamepage(desktop)"
+    },
+    "proggress-bar": {
+      "value": "{base.accent-primary}",
+      "type": "color"
+    },
+    "bullet": {
+      "value": "{base.primary}",
+      "type": "color"
+    },
+    "fade-tertiary": {
+      "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
+      "type": "color",
+      "description": "Fade on tertiary backgrounds"
+    },
+    "sign": {
+      "value": "{base.accent-tertiary}",
+      "type": "color"
+    },
+    "badge": {
+      "1": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "use for badge in main tapbar"
+      },
+      "2": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
+      }
+    },
+    "footer": {
+      "crypto-up": {
+        "value": "linear-gradient(180deg, #00dbe9cc 0%, #0000001a 100%)",
+        "type": "color",
+        "description": "Background for crypto"
+      },
+      "crypto-down": {
+        "value": "linear-gradient(180deg, #ff4b31cc 0%, #0000001a 100%)",
+        "type": "color",
+        "description": "Background for crypto"
+      },
+      "navdots": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "navigation for crypto slider"
+      },
+      "bg-social": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "for social icons bg",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.06",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "dropdown": {
+        "value": "{bg.overlay.1}",
+        "type": "color",
+        "description": "Background for payment dropdown element"
+      },
+      "bg-payments": {
+        "value": "{bg.secondary}",
+        "type": "color",
+        "description": "for payments bg"
+      }
+    },
+    "label-new-1": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "use for label new in menu item"
+    },
+    "label-new-2": {
+      "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%);",
+      "type": "color",
+      "description": "use for label new in menu item"
+    },
+    "check-box": {
+      "accent": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for check box border"
+      },
+      "fill": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for check box in lottery"
+      },
+      "default": {
+        "value": "rgba({base.primary},0.8)",
+        "type": "color",
+        "description": "use for border in default state"
+      }
+    },
+    "desktop": {
+      "tournament-counter": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Color of counter for desktop tournament widget"
+      },
+      "tournament-counter-bg": {
+        "value": "{bg.tertiary}",
+        "type": "color",
+        "description": "bg for tournament counter on desktop widget"
+      }
+    },
+    "label": {
+      "success": {
+        "value": "rgba(45, 216, 144, 0.4)",
+        "type": "color",
+        "description": "use for success label in cashbox transactions"
+      },
+      "deny": {
+        "value": "rgba(182, 45, 62, 0.56)",
+        "type": "color",
+        "description": "use for deny label in cashbox transactions"
+      }
+    },
+    "timer": {
+      "top": {
+        "value": "linear-gradient(180deg, #FFF 0%, #000 100%);",
+        "type": "color",
+        "description": "use for timer bg top part"
+      }
+    },
+    "up-button": {
+      "border": {
+        "value": "{bg.secondary}",
+        "type": "color",
+        "description": "border on default on floating button"
+      }
+    },
+    "label-new-1-text": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "use for text of label new in menu item"
+    }
+  },
+  "icon": {
+    "secondary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "menu, bottom sheet"
+    },
+    "primary": {
+      "value": "{base.primary}",
+      "type": "color",
+      "description": "use for categories"
+    },
+    "tertiary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "icons in inputs (registration, profile)",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "accent": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "Use for active icons"
+    },
+    "accent-additional": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "use for push icon in messages"
+    },
+    "success": {
+      "value": "{base.success}",
+      "type": "color",
+      "description": "Success icon"
+    },
+    "warning": {
+      "value": "{base.warning}",
+      "type": "color",
+      "description": "Color of warning icon"
+    },
+    "error": {
+      "value": "{base.error}",
+      "type": "color",
+      "description": "Color for error icon"
+    },
+    "ghost-3": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
+    },
+    "ghost-1": {
+      "value": "#ebebeb",
+      "type": "color",
+      "description": "for main icons in navbar"
+    },
+    "ghost-2": {
+      "value": "#404040",
+      "type": "color",
+      "description": "use for icon button on navbar"
+    },
+    "prize": {
+      "1": {
+        "value": "{base.gold}",
+        "type": "color",
+        "description": "[delete?]"
+      },
+      "2": {
+        "value": "{base.silver}",
+        "type": "color",
+        "description": "[delete?]"
+      },
+      "3": {
+        "value": "{base.bronze}",
+        "type": "color",
+        "description": "[delete?]"
+      }
+    },
+    "alternative": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "use for icons in lists (different from accent icons)"
+    }
+  },
+  "input": {
+    "border": {
+      "default": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "Border color for default inputs",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.9",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "focus": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "Color border for focused input"
+      },
+      "disabled": {
+        "value": "{base.error}",
+        "type": "color",
+        "description": "Color border for disabled input",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.9",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "error": {
+        "value": "{base.error}",
+        "type": "color",
+        "description": "Color border for error input"
+      },
+      "confirmed": {
+        "value": "#cbcbcb",
+        "type": "color",
+        "description": "Color border for disabled input",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "warning": {
+        "value": "{base.warning}",
+        "type": "color",
+        "description": "Color border for warning input"
+      }
+    },
+    "bg": {
+      "default": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Default backgrounds for inputs"
+      },
+      "error": {
+        "value": "{base.error}",
+        "type": "color",
+        "description": "Background for error inputs"
+      },
+      "warning": {
+        "value": "{base.warning}",
+        "type": "color",
+        "description": "Background for warning inputs"
+      },
+      "disabled": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "Backgrounds for disabled buttons",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.6",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "Accent background for input",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.8",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "hover": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "Hover background for input",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "confirmed": {
+        "value": "#181818",
+        "type": "color",
+        "description": "Backgrounds for confirmed inputs"
+      }
+    },
+    "text": {
+      "label": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "Label color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "value-main": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "Input value text color"
+      },
+      "value-submain": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "Input value text color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "Use for active select text"
+      },
+      "error": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for text in error field hint"
+      },
+      "confirmed": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for text in confirmed field hint"
+      },
+      "confirmed-label": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for text in confirmed field hint",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "warning-text": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "Input warning text color"
+      }
+    }
+  },
+  "border-width": {
+    "nav": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "Border width for provider and category navigation"
+    },
+    "button": {
+      "value": "2px",
+      "type": "borderWidth",
+      "description": "Border width for buttons"
+    },
+    "input": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "Border width for inputs"
+    },
+    "separate-line": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "Border width for lines"
+    }
+  },
+  "min-width": {
+    "game-item-block": {
+      "value": "122px",
+      "type": "sizing"
+    },
+    "button": {
+      "value": "64px",
+      "type": "sizing"
+    },
+    "tooltip": {
+      "value": "144",
+      "type": "sizing",
+      "description": "use for tooltips "
+    }
+  },
+  "min-height": {
+    "game-item-block": {
+      "value": "122px",
+      "type": "sizing"
+    }
+  },
+  "font-family": {
+    "roboto": {
+      "value": "Roboto",
+      "type": "fontFamilies"
+    }
+  },
+  "line-height": {
+    "1": {
+      "value": "22px",
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": "24px",
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": "26px",
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": "28px",
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": "32px",
+      "type": "lineHeights"
+    },
+    "sm": {
+      "value": "16px",
+      "type": "lineHeights"
+    },
+    "xs": {
+      "value": "12px",
+      "type": "lineHeights"
+    },
+    "s": {
+      "value": "14px",
+      "type": "lineHeights"
+    },
+    "m": {
+      "value": "18px",
+      "type": "lineHeights"
+    }
+  },
+  "font-weight": {
+    "0": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "1": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "2": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "3": {
+      "value": "Black",
+      "type": "fontWeights"
+    }
+  },
+  "font-size": {
+    "0": {
+      "value": "8",
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "8": {
+      "value": "26",
+      "type": "fontSizes"
+    },
+    "1-desktop": {
+      "value": "11px",
+      "type": "fontSizes",
+      "description": "For small captions on desktop"
+    }
+  },
+  "letter-spacing": {
+    "0": {
+      "value": "0",
+      "type": "letterSpacing"
+    }
+  },
+  "paragraph-spacing": {
+    "0": {
+      "value": "0",
+      "type": "paragraphSpacing"
+    },
+    "24": {
+      "value": "24px",
+      "type": "paragraphSpacing"
+    }
+  },
+  "text-case": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
+    },
+    "capitalize": {
+      "value": "capitalize",
+      "type": "textCase",
+      "description": "for buttons"
+    }
+  },
+  "text-decoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "line-through": {
+      "value": "line-through",
+      "type": "textDecoration"
+    }
+  },
+  "paragraph-indent": {
+    "first-stroke-default": {
+      "value": "0px",
+      "type": "dimension"
+    }
+  },
+  "special-blocks": {
+    "jackpot-border": {
+      "value": "#4ed7ef",
+      "type": "color",
+      "description": "Border-color for jackpot widgets"
+    },
+    "jackpot-widget-bg": {
+      "value": "{bg.primary}",
+      "type": "color",
+      "description": "Background for jackpot widget"
+    },
+    "jackpot-title": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "56px",
+        "fontSize": "56px",
+        "letterSpacing": "-3%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget"
+    },
+    "jackpot-amount": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "64px",
+        "fontSize": "56px",
+        "letterSpacing": "-5%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography",
+      "description": "Amount of prize on jackpot widget"
+    },
+    "jackpot-line": {
+      "value": "#4ed7ef",
+      "type": "color",
+      "description": "Color for jackpot widget separate line"
+    },
+    "jackpot-amount-desktop": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "44px",
+        "fontSize": "38px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for jackpot amount on mane page desktop"
+    },
+    "jackpot-amount-desktop-light": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "44px",
+        "fontSize": "38px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for jackpot amount on mane page desktop"
+    },
+    "404-500-large": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "250px",
+        "fontSize": "280px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for 404/500 "
+    },
+    "404-500-small": {
+      "value": {
+        "fontFamily": "{font-family.roboto}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "160px",
+        "fontSize": "180px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for 404/500 "
+    },
+    "dropdown-custom": {
+      "value": "{bg.other.promo}",
+      "type": "color",
+      "description": "For bg on filter dropdown and language dropdown",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "mix",
+            "value": "0.4",
+            "space": "hsl",
+            "color": "{base.dark}"
+          }
+        }
+      }
+    },
+    "dropdown-content": {
+      "value": "{text.light}",
+      "type": "color",
+      "description": "Color of text and icons for custom dropdown"
+    },
+    "title-jackpot": {
+      "value": "{base.accent-primary}",
+      "type": "color"
+    },
+    "amount-jackpot": {
+      "value": "#4ed7ef",
+      "type": "color"
+    }
+  },
+  "filed spacing": {
+    "left": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "right": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "top-main": {
+      "value": "12px",
+      "type": "spacing",
+      "description": "use for field with label only"
+    },
+    "top-submain": {
+      "value": "4px",
+      "type": "spacing",
+      "description": "use for field with value"
+    },
+    "bottom-main": {
+      "value": "12px",
+      "type": "spacing",
+      "description": "use for fields with label only"
+    },
+    "bottom-submain": {
+      "value": "8px",
+      "type": "spacing",
+      "description": "use for fields with value"
+    }
+  },
+  "categories": {
+    "bg": {
+      "main": {
+        "value": "#736f6f",
+        "type": "color",
+        "description": "use for navbar bg"
+      }
+    },
+    "border": {
+      "main": {
+        "value": "#d7d7d7",
+        "type": "color",
+        "description": "use for navbar border"
+      }
+    }
+  },
+  "header": {
+    "bg": {
+      "balance": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for bg under balance amount",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "main": {
+        "value": "linear-gradient(180deg, #AEAEAE 0%, rgba(217, 217, 217, 0.00) 100%);",
+        "type": "color"
+      },
+      "sticky": {
+        "value": "#838383",
+        "type": "color"
+      },
+      "top-desktop": {
+        "value": "linear-gradient(180deg, #aeaeae 0%, #ffffff 100%)",
+        "type": "color",
+        "description": "bg header on top for desktop"
+      },
+      "bottom-desktop": {
+        "value": "linear-gradient(180deg, #fff 0%, rgba(255,255,255,0) 100%)",
+        "type": "color",
+        "description": "bg header on bottom menu for desktop"
+      }
+    }
+  },
+  "text": {
+    "light": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
+    },
+    "primary": {
+      "value": "{base.primary}",
+      "type": "color",
+      "description": "for titles on images and cards (tournament,lottery,news)"
+    },
+    "secondary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "use for menu items text, 1click text, footer all button"
+    },
+    "tertiary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "(delete?)",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "content": {
+      "value": "{base.primary}",
+      "type": "color",
+      "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
+    },
+    "link": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "also use for win tickets in lottery results"
+    },
+    "link-alternative": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "use for links on lighter bg (notifications), game page",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.1",
+            "space": "lch"
+          }
+        }
+      }
+    },
+    "accent": {
+      "value": "{base.accent-primary}",
+      "type": "color"
+    },
+    "accent-additional": {
+      "value": "{base.accent-tertiary}",
+      "type": "color",
+      "description": "use for accent text in welcome popup"
+    },
+    "error": {
+      "value": "{base.error}",
+      "type": "color"
+    },
+    "success": {
+      "value": "{base.success}",
+      "type": "color"
+    },
+    "warning": {
+      "value": "{base.warning}",
+      "type": "color"
+    },
+    "prize": {
+      "1": {
+        "value": "{base.gold}",
+        "type": "color",
+        "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
+      },
+      "2": {
+        "value": "{base.silver}",
+        "type": "color",
+        "description": "use for 2 prize in tournament/lottery winners list\n[delete?]"
+      },
+      "3": {
+        "value": "{base.bronze}",
+        "type": "color",
+        "description": "use for 3 prize in tournament/lottery winners list\n[delete?]"
+      }
+    },
+    "opacity": {
+      "1": {
+        "value": "{text.primary}",
+        "type": "color",
+        "description": "footer seo header text, ",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "2": {
+        "value": "{text.primary}",
+        "type": "color",
+        "description": "footer seo text, prize in tournament/lottery list",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "3": {
+        "value": "{text.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "4": {
+        "value": "{text.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "light-1": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "light-2": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for time in messages",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "title": {
+      "main": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "for main headers"
+      },
+      "accent": {
+        "value": "{base.accent-tertiary}",
+        "type": "color"
+      },
+      "title-winner": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Title for winner card on a main page"
+      }
+    }
+  },
+  "menu": {
+    "bg": {
+      "gradient": {
+        "value": "linear-gradient(180deg, #939393 0%, #BEBEBE 100%);",
+        "type": "color"
+      },
+      "item-default": {
+        "value": "{bg.top-surface}",
+        "type": "color",
+        "description": "bg for menu\n\n(delete?)"
+      },
+      "item-hover": {
+        "value": "{base.dark}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "item-active": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "banner": {
+        "value": "linear-gradient(180deg, #C3C3C3 0%, #B4B4B4 100%);",
+        "type": "color",
+        "description": "use for banner bg for unlogged "
+      },
+      "notification": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "use for special notification in menu items"
+      },
+      "info": {
+        "value": "#8a8a8a",
+        "type": "color",
+        "description": "use as bg in menu info zone"
+      },
+      "language": {
+        "value": "{base.dark}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    }
+  },
+  "max-width": {
+    "288": {
+      "value": "288",
+      "type": "sizing"
+    },
+    "368": {
+      "value": "368",
+      "type": "sizing"
+    },
+    "tooltip": {
+      "value": "256",
+      "type": "sizing",
+      "description": "use for tooltips"
+    }
+  },
+  "betting": {
+    "surface": {
+      "value": "#FFF8FA",
+      "type": "color"
+    },
+    "card": {
+      "value": "#f0f5ff",
+      "type": "color"
+    },
+    "green": {
+      "value": "{base.success}",
+      "type": "color"
+    },
+    "red": {
+      "value": "{base.error}",
+      "type": "color"
+    },
+    "temp": {
+      "value": "{base.accent-secondary}",
+      "type": "color"
+    },
+    "separator primary": {
+      "value": "#9d9b9b",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{bg.overlay.1}",
+      "type": "color",
+      "description": "cashout bg/ "
+    },
+    "hover card": {
+      "value": "#E2EBFF",
+      "type": "color"
+    },
+    "select card": {
+      "value": "#2f97fa",
+      "type": "color"
+    }
+  },
+  "tab": {
+    "active tab": {
+      "value": "{radius.game-item}",
+      "type": "borderRadius",
+      "description": "Tab news, shop"
+    },
+    "bg": {
+      "value": "{radius.card}",
+      "type": "borderRadius",
+      "description": "bg all tabs"
+    },
+    "bg all": {
+      "value": "{bg.tertiary}",
+      "type": "color"
+    }
+  },
+  "wheel": {
+    "text": {
+      "1": {
+        "value": "{base.accent-light}",
+        "type": "color",
+        "description": "use for rules text and denomination text"
+      },
+      "2": {
+        "value": "#00000",
+        "type": "color",
+        "description": "use for text in notification and popup"
+      },
+      "3": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for text in denomination default buttons"
+      },
+      "4": {
+        "value": "#000000",
+        "type": "color",
+        "description": "use for text in denomination active buttons"
+      },
+      "sector-1": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "sector-2": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "icons": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for navigation icons"
+      },
+      "2": {
+        "value": "#B51A1A",
+        "type": "color",
+        "description": "use for present icon in popup"
+      },
+      "2-additional": {
+        "value": "#C22222",
+        "type": "color",
+        "description": "use for present icon in popup"
+      }
+    },
+    "bg": {
+      "1": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use as bg for popups and notification"
+      },
+      "2": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for denomination widget bg",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "3": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for switcher default bg",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "4": {
+        "value": "#357B2F",
+        "type": "color",
+        "description": "use for switcher active bg"
+      },
+      "sector-1": {
+        "value": "linear-gradient(0deg, #B70606 0%, #360303 100%);",
+        "type": "color",
+        "description": "use for sectors bg (type1)"
+      },
+      "dots": {
+        "value": "#BB9137",
+        "type": "color",
+        "description": "use for dots shine under wheel border"
+      },
+      "main": {
+        "value": "linear-gradient(180deg, #930101 0.06%, #2C0202 99.97%);",
+        "type": "color",
+        "description": "use as bg on wheel popup"
+      },
+      "sector-2": {
+        "value": "#fff",
+        "type": "color",
+        "description": "use for sectors bg (type1)"
+      },
+      "lines": {
+        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.00) -0.98%, rgba(255, 255, 255, 0.20) 23.37%, rgba(255, 255, 255, 0.20) 74.78%, rgba(255, 255, 255, 0.00) 100%)",
+        "type": "color",
+        "description": "use as bg for lines under wheel"
+      }
+    },
+    "tip": {
+      "hover": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use as bg for denominations bet item hover state",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "active": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use as bg for denominations bet item active state"
+      }
+    },
+    "tips": {
+      "inactive": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use as bg for denominations bet item active state",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "switcher": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "use for switcher icons"
+    },
+    "button": {
+      "play": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "play triangle",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "bg-2": {
+        "value": "linear-gradient(174deg, #FFF 6.36%, rgba(255, 255, 255, 0.00) 80.66%);",
+        "type": "color",
+        "description": "use for shaddow under play triangle"
+      },
+      "bg-1": {
+        "value": "#170101",
+        "type": "color",
+        "description": "use for bg on play button"
+      },
+      "bg-border-1": {
+        "value": "linear-gradient(343deg, #A46C15 3.09%, #F3B755 86.84%);",
+        "type": "color",
+        "description": "use as border for play button"
+      }
+    },
+    "picker": {
+      "bg-shaddow": {
+        "value": "linear-gradient(174deg, #FFF 6.36%, rgba(255, 255, 255, 0.00) 80.66%);",
+        "type": "color",
+        "description": "use for shaddow over picker"
+      },
+      "bg-main": {
+        "value": "linear-gradient(343deg, #A46C15 3.09%, #F3B755 86.84%);",
+        "type": "color",
+        "description": "use as main bg on picker"
+      },
+      "bg-main-2": {
+        "value": "linear-gradient(153deg, #000 8.52%, #2C0303 91.48%);",
+        "type": "color",
+        "description": "use as bg for circle"
+      },
+      "bg-main-2-additional": {
+        "value": "linear-gradient(180deg, #530707 0%, #0F0101 100%);",
+        "type": "color",
+        "description": "use as bg for bigger circle"
+      }
+    },
+    "icon": {
+      "1": {
+        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+        "type": "color"
+      },
+      "popup-more": {
+        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+        "type": "color",
+        "description": "use as color for arrow icon in popup"
+      },
+      "popup-respin": {
+        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+        "type": "color",
+        "description": "use for icon color for respin popup"
+      },
+      "poup-more": {
+        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+        "type": "color"
+      }
+    },
+    "border": {
+      "main": {
+        "value": "linear-gradient(59deg, #A76F18 15.01%, #C08A31 36.89%, #C78724 56.58%, #F0B24D 84.9%);",
+        "type": "color"
+      },
+      "main-additional": {
+        "value": "linear-gradient(59deg, #F0B24D -0.11%, #9E6916 33.79%, #A8792B 64.74%, #A76F18 97.17%);",
+        "type": "color"
+      },
+      "bottom": {
+        "value": "#8DFCFD",
+        "type": "color",
+        "description": "use as bg under wheel main border"
+      }
+    },
+    "loader": {
+      "shaddow": {
+        "value": "#000000",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    }
+  },
+  "nav": {
+    "tab": {
+      "start": {
+        "value": "#373737",
+        "type": "color",
+        "description": "gradient on top for popups"
+      },
+      "stop": {
+        "value": "#000",
+        "type": "color",
+        "description": "gradient on bottom for popups"
+      }
+    }
+  },
+  "width": {
+    "nav": {
+      "value": "48",
+      "type": "sizing",
+      "description": "use for top navbar items"
+    },
+    "tap-button": {
+      "value": "48",
+      "type": "sizing",
+      "description": "use for bottom tapbar main button"
+    }
+  },
+  "height": {
+    "nav": {
+      "value": "48",
+      "type": "sizing",
+      "description": "use for top navbar items"
+    },
+    "tap-button-copy": {
+      "value": "48",
+      "type": "sizing",
+      "description": "use for bottom tapbar main button"
+    }
+  }
+}
