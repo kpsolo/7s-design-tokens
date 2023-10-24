@@ -2607,6 +2607,11 @@
       "value": "144",
       "type": "sizing",
       "description": "use for tooltips "
+    },
+    "test2": {
+      "value": "300",
+      "type": "sizing",
+      "description": "delete"
     }
   },
   "width": {
