@@ -1226,5 +1226,13 @@
     "selectedTokenSets": {
       "7slots.main": "enabled"
     }
+  },
+  {
+    "id": "c02b25926b7fb33b4a9888b84ae80b8ad345ad82",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7slots.white-1": "enabled"
+    }
   }
 ]
