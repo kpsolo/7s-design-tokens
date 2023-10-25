@@ -556,7 +556,7 @@
           "y": "8",
           "blur": "16",
           "spread": "0",
-          "color": "#191E2D",
+          "color": "rgba(25, 30, 45, 0.60)",
           "type": "dropShadow"
         }
       ],
@@ -2081,16 +2081,16 @@
       "primary": {
         "value": "#fff",
         "type": "color",
-        "description": "border color for separating groups of table rows/colums,footer ",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.10",
               "space": "lch"
             }
           }
-        }
+        },
+        "description": "border color for separating groups of table rows/colums,footer "
       },
       "item": {
         "value": "{base.dark}",
