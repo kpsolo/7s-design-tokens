@@ -1354,7 +1354,7 @@
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "linear-gradient(102deg, rgba(255, 255, 255, 0.10) 1.68%, rgba(255, 255, 255, 0.00) 96.87%), rgba(66, 114, 183, 0.60);\nbox-shadow: 0px 4px 6px 0px rgba(0, 0, 22, 0.10);",
+        "value": "linear-gradient(102deg, rgba(255, 255, 255, 0.10) 1.68%, rgba(255, 255, 255, 0.00) 96.87%), rgba(66, 114, 183, 0.60)",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -3699,9 +3699,5 @@
       "value": "2px",
       "type": "sizing"
     }
-  },
-  "test": {
-    "value": "#913535",
-    "type": "color"
   }
 }
