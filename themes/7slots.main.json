@@ -1476,7 +1476,7 @@
       "description": "Gradient for bg"
     },
     "additional": {
-      "value": "#3A4C67",
+      "value": "#31425E",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1783,7 +1783,7 @@
       "description": "Color for winners"
     },
     "primary": {
-      "value": "#fff",
+      "value": "#ffffff",
       "type": "color",
       "description": "for text,icons"
     },
