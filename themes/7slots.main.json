@@ -3699,5 +3699,9 @@
       "value": "2px",
       "type": "sizing"
     }
+  },
+  "test": {
+    "value": "#913535",
+    "type": "color"
   }
 }
