@@ -1573,9 +1573,8 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(210, 229, 255, 0.10);",
+        "value": "rgba(210, 229, 255, 0.10)",
         "type": "color",
-        "description": "use for bg under status in menu top part",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -1584,7 +1583,8 @@
               "space": "lch"
             }
           }
-        }
+        },
+        "description": "use for bg under status in menu top part"
       },
       "light-2": {
         "value": "linear-gradient(180deg, #1C202B 0%, #313646 100%);",
@@ -1688,7 +1688,7 @@
       "description": "use for bottom block in profile "
     },
     "widget-bonus": {
-      "value": "radial-gradient(165.22% 238.29% at -1.91% -36.46%, #57CF93 0%, #2970BB 100%);",
+      "value": "radial-gradient(165.22% 238.29% at -1.91% -36.46%, #57CF93 0%, #2970BB 100%)",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
@@ -2329,7 +2329,7 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for push icon in messages"
     },
@@ -3114,7 +3114,7 @@
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
     "accent-additional": {
-      "value": "{base.accent-tertiary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for accent text in welcome popup"
     },
