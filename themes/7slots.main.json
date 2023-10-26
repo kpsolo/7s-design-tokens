@@ -1618,7 +1618,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(28, 33, 46, 0.00) 0%, #1C212E 72.13%, #1C212E 100%)",
+        "value": "linear-gradient(180deg, rgba(45, 45, 45, 0.00) 0%, #2D2D2D 72.13%, #2D2D2D 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
