@@ -1491,7 +1491,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "#739AA2",
+      "value": "linear-gradient(110deg, #194254 1.8%, #56727A 98.04%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -1509,16 +1509,16 @@
       "1": {
         "value": "{text.content}",
         "type": "color",
-        "description": "for static table headet",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.10",
+              "value": "0.08",
               "space": "lch"
             }
           }
-        }
+        },
+        "description": "for static table headet"
       },
       "2": {
         "value": "{base.primary}",
@@ -1558,17 +1558,8 @@
         "description": "use for bg in cashbox transaction"
       },
       "ghost-1": {
-        "value": "rgba(253,253,253,0.16)",
+        "value": "rgba(0, 0, 0, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "lch"
-            }
-          }
-        },
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
@@ -1627,7 +1618,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(37, 45, 63, 0.00) 0%, #242B3E 72.13%, #242B3E 100%);",
+        "value": "linear-gradient(180deg, rgba(28, 33, 46, 0.00) 0%, #1C212E 72.13%, #1C212E 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
@@ -1688,7 +1679,7 @@
       "description": "use for circle elements on primary bg"
     },
     "radial": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #57AEFF 0%, rgba(87, 174, 255, 0.00) 100%);",
+      "value": "radial-gradient(50% 50% at 50% 50%, rgba(87, 174, 255, 0.40) 0%, rgba(87, 174, 255, 0.00) 100%)",
       "type": "color"
     },
     "blur-achivments": {
@@ -2107,7 +2098,7 @@
         }
       },
       "secondary": {
-        "value": "#rgba(255, 255, 255, 0.10)",
+        "value": "#1C212E",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2301,6 +2292,10 @@
         "type": "color",
         "description": "color of text and icon on active tab"
       }
+    },
+    "slider": {
+      "value": "rgba(66, 114, 183, 0.40)",
+      "type": "color"
     }
   },
   "icon": {
@@ -2339,7 +2334,7 @@
       "description": "use for push icon in messages"
     },
     "alternative": {
-      "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+      "value": "#5CD995",
       "type": "color",
       "description": "use for icons in lists (different from accent icons)"
     },
@@ -3208,16 +3203,16 @@
       "1": {
         "value": "{text.primary}",
         "type": "color",
-        "description": "footer seo header text, ",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.6",
               "space": "lch"
             }
           }
-        }
+        },
+        "description": "footer seo header text, "
       },
       "2": {
         "value": "{text.primary}",

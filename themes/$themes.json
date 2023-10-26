@@ -977,7 +977,7 @@
       "bg.other.cashbox-bonus-content": "S:dac040d4c5a33b6248d763fc9b8a915fcd001770,",
       "bg.other.cashbox-bonus-content-opacity": "S:1c1f7b0372d53442faa7780d7e36db2bf7e306e9,",
       "bg.other.promo": "S:cd49a75bf8b529be7e2429e462b75e18decdfed3,",
-      "bg.other.win-card": "S:38b0321860c2b17778d7bf0b630ddf48a600ea5f,",
+      "bg.other.win-card": "S:57cfb6adeccc6fa424e78f2084d3ae62ee4dc077,",
       "bg.other.tooltip": "S:63c074aea8cabd190b8d9656a40fc1caaa2a9200,",
       "bg.other.footer": "S:cb79d0e43e58c7cca8d05c74a68da1412abb3c6b,",
       "bg.other.accent-on-light": "S:4179a40ad885d4eaf4f734b7efd58368eda9391b,",
@@ -1125,7 +1125,7 @@
       "icon.tertiary": "S:fadc17bce68966da20bd697d5ac4024245f8a329,",
       "icon.accent": "S:11c54baeb0acc1ff581abbdd079517490026de18,",
       "icon.accent-additional": "S:0182409243b55add3101e1585e8a96dab0559203,",
-      "icon.alternative": "S:b75af5d26ec0921856981fec968b08fae44e76da,",
+      "icon.alternative": "S:8902328bd77a6cf20366613d2a4df9a8a57171fc,",
       "icon.success": "S:51472fcf2d4fb0e84e2a3d4c988f84bc53901f90,",
       "icon.warning": "S:35e1e2819cd9940e30d557e3e262481fce55661d,",
       "icon.error": "S:75e926dc03b17031cba1117875c72e1ba2b27329,",
@@ -1319,7 +1319,8 @@
       "shadow.special-blocks.jackpot-line": "S:698c818a0b2a0fdfef4c3fd9a4d402154b14caff,",
       "shadow.special-blocks.timer-numbers": "S:7d1dd991fade403940e654177008a35d654cf34d,",
       "shadow.special-blocks.timer-bottom": "S:f0cb2be7a4f530d6176b7e51d5461da9ffa60ec3,",
-      "shadow.shine-accent-additional": "S:426c23bc1c999352968bfb74972f4e4a246b7edf,"
+      "shadow.shine-accent-additional": "S:426c23bc1c999352968bfb74972f4e4a246b7edf,",
+      "small-elements.slider": "S:30aea862370aeaebdc3898285124737298d56e1b,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"
@@ -1463,6 +1464,7 @@
       "icon.secondary": "cc2df6d0947c9dbc6dc34e8e9824a7510bc18b7e",
       "icon.tertiary": "9036c0df01a11b5e5fccc6d7ee5438fefed80b33",
       "icon.accent": "12fa057f863bcb4d8069d864fa4cd59e0c51367a",
+      "icon.alternative": "68e004c52670197064d5dc0c0295676ba2b30135",
       "icon.success": "14a517802ef789c4e61cf112bc835c445621b33f",
       "icon.warning": "fec1bd08f0748105c9a9d4b00b01694455fdeb2c",
       "icon.error": "ae709c81579b723c4319d3904446b157c1a5ba7f",
