@@ -2330,7 +2330,7 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "{base.accent-primary}",
+      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
       "type": "color",
       "description": "use for push icon in messages"
     },
@@ -3052,16 +3052,8 @@
       "main": {
         "value": "rgba(210, 229, 255, 0.20)",
         "type": "color",
-        "description": "use for game catwgories bg",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "use for game catwgories bg"
       }
     },
     "border": {
