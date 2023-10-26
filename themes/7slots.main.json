@@ -3199,7 +3199,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.6",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
@@ -3208,16 +3208,16 @@
       "2": {
         "value": "{text.primary}",
         "type": "color",
-        "description": "footer seo text, prize in tournament/lottery list",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.6",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
         "value": "{text.primary}",
@@ -3227,7 +3227,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.4",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         }
@@ -3240,7 +3240,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.9",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         }
@@ -3248,30 +3248,30 @@
       "light-1": {
         "value": "{base.light}",
         "type": "color",
-        "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.6",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)"
       },
       "light-2": {
         "value": "{base.light}",
         "type": "color",
-        "description": "use for time in messages, secondary small titles on cards and tables on color backgrounds",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.8",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for time in messages, secondary small titles on cards and tables on color backgrounds"
       }
     },
     "title": {
