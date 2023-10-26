@@ -2307,7 +2307,6 @@
     "primary": {
       "value": "{base.primary}",
       "type": "color",
-      "$extensions": {},
       "description": "use for categories"
     },
     "tertiary": {
@@ -3052,7 +3051,6 @@
       "main": {
         "value": "rgba(210, 229, 255, 0.20)",
         "type": "color",
-        "$extensions": {},
         "description": "use for game catwgories bg"
       }
     },
