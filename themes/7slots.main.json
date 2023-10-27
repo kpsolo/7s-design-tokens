@@ -570,7 +570,7 @@
           "y": "8",
           "blur": "16",
           "spread": "0",
-          "color": "rgba(39,39,39,0.2)",
+          "color": "rgba(25, 30, 45, 0.60)",
           "type": "dropShadow"
         }
       ],
