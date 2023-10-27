@@ -1322,7 +1322,12 @@
       "shadow.special-blocks.timer-numbers": "S:7d1dd991fade403940e654177008a35d654cf34d,",
       "shadow.special-blocks.timer-bottom": "S:f0cb2be7a4f530d6176b7e51d5461da9ffa60ec3,",
       "shadow.shine-accent-additional": "S:426c23bc1c999352968bfb74972f4e4a246b7edf,",
-      "small-elements.slider": "S:30aea862370aeaebdc3898285124737298d56e1b,"
+      "small-elements.slider": "S:30aea862370aeaebdc3898285124737298d56e1b,",
+      "wheel.bg.sector-2-additional": "S:5e8e00a475f8ddb873b93cfefa17867a15a45476,",
+      "wheel.bg.sector-3": "S:5857eb865b5bcc4f81b6c586360241656bcc02e6,",
+      "wheel.bg.sector-1-additional": "S:0a63f9a1ca482732a3fc4136de6a183da0c1c2b8,",
+      "wheel.bg.sector-3-additional": "S:99ccfe9ae0621675a7142aba0e5da42bd8359ed6,",
+      "wheel.bg.border-sector": "S:acc1e0ae8ef953c13d2dd0172f96bcf98c403d2f,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"
