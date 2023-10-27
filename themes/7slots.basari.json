@@ -3491,14 +3491,19 @@
         "description": "use for sectors bg (type1)"
       },
       "sector-1": {
-        "value": "linear-gradient(0deg, #b70606 0%, #360303 100%)",
+        "value": "#360303",
         "type": "color",
-        "description": "use for sectors bg (type1)"
+        "description": "use for sectors bg (type1)-start"
       },
       "dots": {
         "value": "transparent",
         "type": "color",
         "description": "use for dots shine under wheel border"
+      },
+      "border-sector": {
+        "value": "transparent",
+        "type": "color",
+        "description": "use for borders in sectors"
       },
       "main": {
         "value": "linear-gradient(180deg, #930101 0.06%, #2c0202 99.97%)",
@@ -3509,6 +3514,26 @@
         "value": "transparent",
         "type": "color",
         "description": "use as bg for lines under wheel"
+      },
+      "sector-3": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for sectors bg (type3) - win sector - start"
+      },
+      "sector-3-additional": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for sectors bg (type3) - win sector - stop"
+      },
+      "sector-1-additional": {
+        "value": "#B70606",
+        "type": "color",
+        "description": "use for sectors bg (type1) - stop"
+      },
+      "sector-2-additional": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "use for sectors bg (type1) - stop"
       }
     },
     "switcher": {

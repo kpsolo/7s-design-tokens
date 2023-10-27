@@ -452,7 +452,7 @@
       "icon.primary": "S:1d9abf97211bca4876304c7882f828c89389451d,",
       "icon.tertiary": "S:2a0bf8f181fcfb3b7f2a91af261cfb30d6a30a1a,",
       "icon.accent": "S:6402aaea26658397b85a555e7e69a8f203430049,",
-      "icon.accent-additional": "S:4fd098649c5c97003bfc73a3be6e411d5896cdc5,",
+      "icon.accent-additional": "S:e2b983221170a6e7217ab848eae85efa5a2378c8,",
       "icon.success": "S:f56a5e2a562d76f1935467f3fce58284424d5763,",
       "icon.warning": "S:3e786939ddc6b3c1367822597ae45ddc5bc7310e,",
       "icon.error": "S:9d0c55a220aed6d0c85d5d525f96df8286f01213,",
@@ -686,7 +686,9 @@
       "special-blocks.x-status": "S:5c8da53b4d05d69bda9ce35aa015c5ea3fca7d7d,",
       "bg.overlay-gradient.8": "S:9c003aefbb6dc57f6f7354b65fe160ab96d050f1,",
       "small-elements.slider": "S:d46ef7eb90559368586d7127135f7c0c8391c2d9,",
-      "shadow.shine-accent-additional": "S:a3ba179afaf6f1b9134c7641f7e1eec471cb1e23,"
+      "shadow.shine-accent-additional": "S:a3ba179afaf6f1b9134c7641f7e1eec471cb1e23,",
+      "wheel.bg.sector-3": "S:28df03ac0941541e8cc91c7905a9eb45408cd119,",
+      "wheel.bg.sector-1-additional": "S:851e812751cd77908582a306a45bb44aff38cb8e,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
