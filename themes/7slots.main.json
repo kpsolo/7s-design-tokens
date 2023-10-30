@@ -1386,19 +1386,16 @@
       "cashbox": {
         "value": "rgba(0, 0, 0, 0.16)",
         "type": "color",
-        "$extensions": {},
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
         "value": "rgba(0, 0, 0, 0.32)",
         "type": "color",
-        "$extensions": {},
         "description": "use for transaction with bg (detailed)"
       },
       "strip": {
         "value": "rgba(210, 229, 255, 0.04)",
         "type": "color",
-        "$extensions": {},
         "description": "use for bg under girls"
       },
       "strip-bg": {
