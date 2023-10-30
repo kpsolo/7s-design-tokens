@@ -1324,7 +1324,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, #1D2E5B 0.06%, #5D6C97 99.97%);",
+        "value": "linear-gradient(180deg, #1D2E5B 0.06%, #5D6C97 99.97%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -1349,7 +1349,7 @@
         "description": "for cashbox bonus popup content"
       },
       "promo": {
-        "value": "linear-gradient(130deg, #4865AB 0%, #000E2F 100%);",
+        "value": "linear-gradient(130deg, #4865AB 0%, #000E2F 100%)",
         "type": "color",
         "description": "Main banner background"
       },
@@ -1384,46 +1384,22 @@
         "description": "use for hover state in calendar, cashbox filter"
       },
       "cashbox": {
-        "value": "#000000",
+        "value": "rgba(0, 0, 0, 0.16)",
         "type": "color",
-        "description": "use for transaction with bg",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16",
-              "space": "lch"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "#000000",
+        "value": "rgba(0, 0, 0, 0.32)",
         "type": "color",
-        "description": "use for transaction with bg (detailed)",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.32",
-              "space": "lch"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "use for transaction with bg (detailed)"
       },
       "strip": {
         "value": "rgba(210, 229, 255, 0.04)",
         "type": "color",
-        "description": "use for bg under girls",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.20",
-              "space": "lch"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "use for bg under girls"
       },
       "strip-bg": {
         "value": "transparent",
@@ -1445,7 +1421,7 @@
         "description": "bg for row of winners vidgets"
       },
       "welcome": {
-        "value": "linear-gradient(130deg, #6E73C7 1.73%, #60649A 48.39%, #52559E 120.24%);",
+        "value": "linear-gradient(130deg, #6E73C7 1.73%, #60649A 48.39%, #52559E 120.24%)",
         "type": "color",
         "description": "use as bg for welcome popup"
       },
@@ -1501,7 +1477,7 @@
       "description": "for past tournament,lottery"
     },
     "widget-default": {
-      "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%);",
+      "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
       "type": "color",
       "description": "for tournament on main page, news, lottery"
     },
@@ -1514,7 +1490,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.08",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
@@ -1528,7 +1504,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.20",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         }
@@ -1536,16 +1512,16 @@
       "3": {
         "value": "{text.content}",
         "type": "color",
-        "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.08",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
         "value": "rgba({base.dark}, 0.16)",
@@ -1580,40 +1556,40 @@
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "linear-gradient(180deg, #1C202B 0%, #313646 100%);",
+        "value": "linear-gradient(180deg, #1C202B 0%, #313646 100%)",
         "type": "color",
         "description": "use for progress bar bg "
       },
       "gamepage": {
         "value": "rgba(0, 0, 0, 0.90)",
         "type": "color",
-        "description": "Background above game image",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.8",
-              "space": "hsl"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Background above game image"
       }
     },
     "overlay-gradient": {
       "1": {
-        "value": "linear-gradient(0deg, rgba(37, 48, 64, 0.00) 0.39%, rgba(37, 45, 64, 0.56) 20.35%, rgba(37, 45, 64, 0.78) 39.31%, #252D40 99.61%);",
+        "value": "linear-gradient(0deg, rgba(37, 48, 64, 0.00) 0.39%, rgba(37, 45, 64, 0.56) 20.35%, rgba(37, 45, 64, 0.78) 39.31%, #252D40 99.61%)",
         "type": "color",
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(46, 58, 86, 0.00) 0%, rgba(46, 58, 86, 0.47) 62.72%, #2E3A56 100%);",
+        "value": "linear-gradient(0deg, rgba(46, 58, 86, 0.00) 0%, rgba(46, 58, 86, 0.47) 62.72%, #2E3A56 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
@@ -1623,7 +1599,7 @@
         "description": "use under link in messages\n\n[based on primary bg]"
       },
       "4": {
-        "value": "linear-gradient(180deg, #A58600 0%, #EEC101 73.50%);",
+        "value": "linear-gradient(180deg, #A58600 0%, #EEC101 73.50%)",
         "type": "color",
         "description": "use for coin in lootboxes"
       },
@@ -1787,18 +1763,18 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "linear-gradient(180deg, rgba(60, 86, 125, 0.40) 0%, rgba(28, 33, 46, 0.40) 100%);",
+        "value": "linear-gradient(180deg, rgba(60, 86, 125, 0.40) 0%, rgba(28, 33, 46, 0.40) 100%)",
         "type": "color",
-        "description": "Use for tapbar on mainpage, strip",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.4",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
         "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
@@ -1990,7 +1966,7 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(0deg, rgba(17, 19, 39, 0.90) 0%, rgba(17, 19, 39, 0.60) 66.67%, rgba(15, 17, 34, 0.00) 100%);",
+        "value": "linear-gradient(0deg, rgba(17, 19, 39, 0.90) 0%, rgba(17, 19, 39, 0.60) 66.67%, rgba(15, 17, 34, 0.00) 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
@@ -2007,16 +1983,16 @@
       "counter-color": {
         "value": "{base.dark}",
         "type": "color",
-        "description": "Color of counter on header of game block",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
               "value": "0.9",
-              "space": "hsl"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
         "value": "{base.light}",
@@ -2028,44 +2004,44 @@
       "dark": {
         "value": "{base.dark}",
         "type": "color",
-        "description": "for scrollbar on light bg (dropdown)",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.2",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "for scrollbar on light bg (dropdown)"
       },
       "light": {
         "value": "{base.light}",
         "type": "color",
-        "description": "for dark bg (regular popups)",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.6",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "for dark bg (regular popups)"
       },
       "primary": {
         "value": "rgba(186, 188, 194, 0.20)",
         "type": "color",
-        "description": "base on primary color (change in themes)",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.2",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "base on primary color (change in themes)"
       }
     },
     "separator": {
@@ -2077,7 +2053,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.10",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
@@ -2086,16 +2062,16 @@
       "item": {
         "value": "{base.dark}",
         "type": "color",
-        "description": "for line separator in dropdown/menu",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.05",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "for line separator in dropdown/menu"
       },
       "secondary": {
         "value": "#1C212E",
@@ -2112,7 +2088,7 @@
       }
     },
     "progress-large": {
-      "value": "linear-gradient(180deg, #2E68AE 0%, #598DC3 6.25%, #49A8D4 100%);",
+      "value": "linear-gradient(180deg, #2E68AE 0%, #598DC3 6.25%, #49A8D4 100%)",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -2198,7 +2174,7 @@
       "description": "use for text of label new in menu item"
     },
     "label-new-2": {
-      "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%);",
+      "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%)",
       "type": "color",
       "description": "use for label new in menu item"
     },
@@ -2216,7 +2192,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.16",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
@@ -2254,7 +2230,7 @@
     },
     "timer": {
       "top": {
-        "value": "linear-gradient(180deg, #FFF 0%, #000 100%);",
+        "value": "linear-gradient(180deg, #FFF 0%, #000 100%)",
         "type": "color",
         "description": "use for timer bg top part"
       }
@@ -2312,16 +2288,16 @@
     "tertiary": {
       "value": "{base.dark}",
       "type": "color",
-      "description": "icons in inputs (registration, profile)",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
             "value": "0.8",
-            "space": "lch"
+            "space": "srgb"
           }
         }
-      }
+      },
+      "description": "icons in inputs (registration, profile)"
     },
     "accent": {
       "value": "{base.accent-primary}",
@@ -2401,16 +2377,16 @@
       "default": {
         "value": "transparent",
         "type": "color",
-        "description": "Border color for default inputs",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
               "value": "0.9",
-              "space": "hsl"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Border color for default inputs"
       },
       "focus": {
         "value": "{base.accent-primary}",
@@ -2471,46 +2447,46 @@
       "accent": {
         "value": "#DCDDE0",
         "type": "color",
-        "description": "Accent background for input",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
               "value": "0.8",
-              "space": "hsl"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Accent background for input"
       },
       "hover": {
         "value": "{base.light}",
         "type": "color",
-        "description": "Hover background for input",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
               "value": "0.9",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Hover background for input"
       }
     },
     "text": {
       "label": {
         "value": "{base.dark}",
         "type": "color",
-        "description": "Label color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
               "value": "0.2",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Label color"
       },
       "value-main": {
         "value": "{base.dark}",
@@ -2525,16 +2501,16 @@
       "value-submain": {
         "value": "{base.dark}",
         "type": "color",
-        "description": "Input value text color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
               "value": "0.6",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Input value text color"
       },
       "accent": {
         "value": "{base.accent-primary}",
@@ -3056,7 +3032,7 @@
     },
     "border": {
       "main": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 94.57%);",
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 94.57%)",
         "type": "color",
         "description": "use for navbar border"
       }
@@ -3065,25 +3041,25 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%);",
+        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
         "type": "color",
-        "description": "use for bg under balance amount",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, rgba(26, 37, 61, 0.80) 0%, rgba(26, 35, 57, 0.67) 28.65%, rgba(37, 45, 64, 0.52) 53.65%, rgba(37, 45, 64, 0.22) 76.04%, rgba(37, 45, 64, 0.06) 89.06%, rgba(37, 45, 64, 0.00) 100%);",
+        "value": "linear-gradient(180deg, rgba(26, 37, 61, 0.80) 0%, rgba(26, 35, 57, 0.67) 28.65%, rgba(37, 45, 64, 0.52) 53.65%, rgba(37, 45, 64, 0.22) 76.04%, rgba(37, 45, 64, 0.06) 89.06%, rgba(37, 45, 64, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #1A253D 0%, rgba(26, 35, 57, 0.84) 28.65%, rgba(37, 45, 64, 0.65) 53.65%, rgba(37, 45, 64, 0.27) 76.04%, rgba(37, 45, 64, 0.08) 89.06%, rgba(37, 45, 64, 0.00) 100%);",
+        "value": "linear-gradient(180deg, #1A253D 0%, rgba(26, 35, 57, 0.84) 28.65%, rgba(37, 45, 64, 0.65) 53.65%, rgba(37, 45, 64, 0.27) 76.04%, rgba(37, 45, 64, 0.08) 89.06%, rgba(37, 45, 64, 0.00) 100%)",
         "type": "color"
       },
       "top-desktop": {
@@ -3122,16 +3098,16 @@
     "tertiary": {
       "value": "{base.dark}",
       "type": "color",
-      "description": "(delete?)",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
             "value": "0.8",
-            "space": "lch"
+            "space": "srgb"
           }
         }
-      }
+      },
+      "description": "(delete?)"
     },
     "content": {
       "value": "#BABCC2",
@@ -3146,16 +3122,16 @@
     "link-alternative": {
       "value": "#5087D7",
       "type": "color",
-      "description": "use for links on lighter bg (notifications), game page",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "darken",
             "value": "0.1",
-            "space": "lch"
+            "space": "srgb"
           }
         }
-      }
+      },
+      "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
       "value": "{base.accent-primary}",
@@ -3294,7 +3270,7 @@
   "menu": {
     "bg": {
       "gradient": {
-        "value": "linear-gradient(180deg, #273145 0%, #364B6B 100%);",
+        "value": "linear-gradient(180deg, #273145 0%, #364B6B 100%)",
         "type": "color"
       },
       "item-default": {
@@ -3310,7 +3286,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         }
@@ -3320,7 +3296,7 @@
         "type": "color"
       },
       "banner": {
-        "value": "linear-gradient(180deg, #273145 0%, #364B6B 100%);",
+        "value": "linear-gradient(180deg, #273145 0%, #364B6B 100%)",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
@@ -3373,7 +3349,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.1",
-            "space": "hsl"
+            "space": "srgb"
           }
         }
       }
@@ -3403,7 +3379,7 @@
           "modify": {
             "type": "lighten",
             "value": "0.08",
-            "space": "lch"
+            "space": "srgb"
           }
         }
       }
@@ -3469,30 +3445,30 @@
       "2": {
         "value": "linear-gradient(180deg, rgba(76, 121, 133, 0.90) 0%, rgba(74, 162, 186, 0.42) 52.99%, rgba(76, 121, 133, 0.67) 100%)",
         "type": "color",
-        "description": "use for denomination widget bg",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for denomination widget bg"
       },
       "3": {
         "value": "#ffffff",
         "type": "color",
-        "description": "use for switcher default bg",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for switcher default bg"
       },
       "4": {
         "value": "#357B2F",
@@ -3553,16 +3529,16 @@
     "switcher": {
       "value": "#ffffff",
       "type": "color",
-      "description": "use for switcher icons",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "lighten",
             "value": "0.8",
-            "space": "lch"
+            "space": "srgb"
           }
         }
-      }
+      },
+      "description": "use for switcher icons"
     },
     "icons": {
       "0": {
@@ -3589,7 +3565,7 @@
         "description": "use for navigation icons"
       },
       "1": {
-        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%)",
         "type": "color",
         "description": "use for icon respin in popup"
       },
@@ -3613,7 +3589,7 @@
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         }
@@ -3623,16 +3599,16 @@
       "hover": {
         "value": "#ffffff",
         "type": "color",
-        "description": "use as bg for denominations bet item hover state",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.2",
-              "space": "lch"
+              "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use as bg for denominations bet item hover state"
       },
       "active": {
         "value": "linear-gradient(180deg, #6EC6C7 0%, #B1FEFF 100%)",
