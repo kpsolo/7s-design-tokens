@@ -287,7 +287,7 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
+        "letterSpacing": "{letter-spacing.0,5}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.uppercase}",
@@ -2758,6 +2758,10 @@
   "letter-spacing": {
     "0": {
       "value": "0",
+      "type": "letterSpacing"
+    },
+    "0,5": {
+      "value": "0.5",
       "type": "letterSpacing"
     }
   },

@@ -688,7 +688,11 @@
       "small-elements.slider": "S:d46ef7eb90559368586d7127135f7c0c8391c2d9,",
       "shadow.shine-accent-additional": "S:a3ba179afaf6f1b9134c7641f7e1eec471cb1e23,",
       "wheel.bg.sector-3": "S:28df03ac0941541e8cc91c7905a9eb45408cd119,",
-      "wheel.bg.sector-1-additional": "S:851e812751cd77908582a306a45bb44aff38cb8e,"
+      "wheel.bg.sector-1-additional": "S:851e812751cd77908582a306a45bb44aff38cb8e,",
+      "button.text.light-bg": "S:638c13e25b32b540dd25171dc2721092dd24e2e5,",
+      "wheel.bg.border-sector": "S:b63d9cc191fc503f5d72d00c5881f2f958f6c21e,",
+      "wheel.bg.sector-3-additional": "S:1f7d2c2dbbf6c74cc23979025557fdf00d2218d8,",
+      "wheel.bg.sector-2-additional": "S:9b61429c9e60493a13e341975705674f607703f0,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
