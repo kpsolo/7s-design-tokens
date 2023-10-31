@@ -1938,6 +1938,11 @@
         "type": "color",
         "description": "Text color on secondary button"
       },
+      "light-bg": {
+        "value": "{button.text.secondary}",
+        "type": "color",
+        "description": "Text color for buttons on light bg (notificstion)"
+      },
       "tertiary": {
         "value": "{base.light}",
         "type": "color",

@@ -1962,6 +1962,11 @@
         "value": "rgba(255,255,255,0.4)",
         "type": "color",
         "description": "Text color on ghost disabled button"
+      },
+      "light-bg": {
+        "value": "{button.text.secondary}",
+        "type": "color",
+        "description": "Text color for buttons on light bg (notificstion)"
       }
     }
   },
