@@ -553,10 +553,10 @@
         },
         {
           "x": "0",
-          "y": "8",
-          "blur": "16",
+          "y": "4",
+          "blur": "8",
           "spread": "0",
-          "color": "rgba(25, 30, 45, 0.60)",
+          "color": "rgba(25, 30, 45, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -1939,9 +1939,9 @@
         "description": "Text color on secondary button"
       },
       "light-bg": {
-        "value": "{button.text.secondary}",
+        "value": "{button.text.ghost}",
         "type": "color",
-        "description": "Text color for buttons on light bg (notificstion)"
+        "description": "Text color for buttons on light bg (notification)"
       },
       "tertiary": {
         "value": "{base.light}",
@@ -2200,7 +2200,7 @@
       "fill": {
         "value": "#233147",
         "type": "color",
-        "description": "use for check box in lottery"
+        "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
         "value": "{base.light}",
