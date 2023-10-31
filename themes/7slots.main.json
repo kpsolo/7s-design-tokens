@@ -1418,7 +1418,7 @@
         "description": "bg for row of winners vidgets"
       },
       "welcome": {
-        "value": "linear-gradient(130deg, #6E73C7 1.73%, #60649A 48.39%, #52559E 120.24%)",
+        "value": "linear-gradient(130deg, #6E73C7 1.73%, #60649A 48.39%, #52559E 100%)",
         "type": "color",
         "description": "use as bg for welcome popup"
       },
@@ -1500,11 +1500,12 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.20",
+              "value": "0.10",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "social icons bg"
       },
       "3": {
         "value": "{text.content}",
@@ -1560,7 +1561,7 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "rgba(255, 255, 255, 0.10)",
+        "value": "linear-gradient(180deg, #2B3344 0%, #141A27 100%)",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -1661,13 +1662,22 @@
       "description": "use for bottom block in profile "
     },
     "widget-bonus": {
-      "value": "radial-gradient(165.22% 238.29% at -1.91% -36.46%, #57CF93 0%, #2970BB 100%)",
+      "value": "linear-gradient(96deg, #44A6A5 5.85%, #2A70BC 95.66%)",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
     "widget-bonus-additional": {
-      "value": "#2166B1",
+      "value": "#000000",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.08",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "use as bg for welcome bonus success item"
     }
   },
@@ -2077,11 +2087,12 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.8",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use in mob registation tabs"
       }
     },
     "progress-large": {
@@ -2177,7 +2188,7 @@
     },
     "check-box": {
       "accent": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "#2DD890",
         "type": "color",
         "description": "use for check box border"
       },
@@ -2193,7 +2204,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.9",
+              "value": "0.2",
               "space": "srgb"
             }
           }
