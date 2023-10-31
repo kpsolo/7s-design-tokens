@@ -1560,7 +1560,7 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "linear-gradient(180deg, #1C202B 0%, #313646 100%)",
+        "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -2184,7 +2184,6 @@
       "fill": {
         "value": "#233147",
         "type": "color",
-        "$extensions": {},
         "description": "use for check box in lottery"
       },
       "default": {
@@ -3250,7 +3249,7 @@
     },
     "title": {
       "main": {
-        "value": "#D9DBE1",
+        "value": "rgba(255, 255, 255, 0.90)",
         "type": "color",
         "description": "for main headers"
       },
@@ -3681,7 +3680,7 @@
   },
   "text-wrap": {
     "padding-fix": {
-      "value": "2px",
+      "value": "0px",
       "type": "sizing"
     }
   }
