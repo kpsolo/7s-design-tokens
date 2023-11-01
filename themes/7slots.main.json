@@ -3168,7 +3168,7 @@
     },
     "prize": {
       "1": {
-        "value": "{base.gold}",
+        "value": "#D2C25A",
         "type": "color",
         "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
       },
