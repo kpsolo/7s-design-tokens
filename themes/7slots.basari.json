@@ -2763,6 +2763,10 @@
     "0,5": {
       "value": "0.5",
       "type": "letterSpacing"
+    },
+    "0,2": {
+      "value": "0.2",
+      "type": "letterSpacing"
     }
   },
   "paragraph-spacing": {
