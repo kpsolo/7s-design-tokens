@@ -1537,9 +1537,18 @@
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "#00000080",
+        "value": "#00000000",
         "type": "color",
-        "description": "Use for underlay of elements on top (star, counter)"
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
       },
       "right-menu": {
         "value": "rgba(0,0,0,0.6)",
