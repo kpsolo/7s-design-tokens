@@ -2080,6 +2080,20 @@
         },
         "description": "border color for separating groups of table rows/colums,footer "
       },
+      "tertiary": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.05",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "separator for dark bg (mob dropdown providers)"
+      },
       "item": {
         "value": "{base.dark}",
         "type": "color",
