@@ -1354,7 +1354,7 @@
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "linear-gradient(102deg, rgba(255, 255, 255, 0.10) 1.68%, rgba(255, 255, 255, 0.00) 96.87%), rgba(66, 114, 183, 0.60)",
+        "value": "linear-gradient(101deg, rgba(101, 142, 202, 0.60) 5.63%, rgba(79, 126, 194, 0.60) 92.98%)",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -2080,20 +2080,6 @@
         },
         "description": "border color for separating groups of table rows/colums,footer "
       },
-      "tertiary": {
-        "value": "#fff",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.05",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "separator for dark bg (mob dropdown providers)"
-      },
       "item": {
         "value": "{base.dark}",
         "type": "color",
@@ -2107,6 +2093,20 @@
           }
         },
         "description": "for line separator in dropdown/menu"
+      },
+      "tertiary": {
+        "value": "#fff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.05",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
         "value": "#1C212E",
