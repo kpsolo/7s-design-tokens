@@ -3027,6 +3027,11 @@
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography"
+    },
+    "jackpot-border-2": {
+      "value": "rgba(14, 100, 64, 0.30)",
+      "type": "color",
+      "description": "Border-color for jaclpot amount"
     }
   },
   "filed spacing": {
