@@ -3029,9 +3029,9 @@
       "type": "typography"
     },
     "jackpot-border-2": {
-      "value": "rgba(14, 100, 64, 0.30)",
+      "value": "transparent",
       "type": "color",
-      "description": "Border-color for jaclpot amount"
+      "description": "Border-color for jackpot title"
     }
   },
   "filed spacing": {
