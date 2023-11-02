@@ -692,7 +692,8 @@
       "button.text.light-bg": "S:638c13e25b32b540dd25171dc2721092dd24e2e5,",
       "wheel.bg.border-sector": "S:b63d9cc191fc503f5d72d00c5881f2f958f6c21e,",
       "wheel.bg.sector-3-additional": "S:1f7d2c2dbbf6c74cc23979025557fdf00d2218d8,",
-      "wheel.bg.sector-2-additional": "S:9b61429c9e60493a13e341975705674f607703f0,"
+      "wheel.bg.sector-2-additional": "S:9b61429c9e60493a13e341975705674f607703f0,",
+      "small-elements.separator.tertiary": "S:5ce2ef18bb86c884e9a39798d0d20d794e716ff0,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
