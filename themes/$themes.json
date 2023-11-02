@@ -1340,7 +1340,8 @@
       "wheel.bg.sector-3-additional": "S:99ccfe9ae0621675a7142aba0e5da42bd8359ed6,",
       "wheel.bg.border-sector": "S:acc1e0ae8ef953c13d2dd0172f96bcf98c403d2f,",
       "button.text.light-bg": "S:025556d8cb59835d50edbb506c02fe917145ad4c,",
-      "small-elements.separator.tertiary": "S:d483ef5924ab6d04cfa52af5ae19f4456fd06b10,"
+      "small-elements.separator.tertiary": "S:d483ef5924ab6d04cfa52af5ae19f4456fd06b10,",
+      "special-blocks.jackpot-border-2": "S:ef2c1b444fbe2e932e9527cdb19f9469e94a758e,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"

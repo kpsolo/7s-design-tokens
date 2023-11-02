@@ -1490,7 +1490,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(110deg, #194254 1.8%, #56727A 98.04%)",
+      "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
