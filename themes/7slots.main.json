@@ -3551,7 +3551,7 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "#ffffff",
+        "value": "#9BA1B1",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
@@ -3561,17 +3561,17 @@
         "description": "use for sectors bg (type1) - stop"
       },
       "sector-3": {
-        "value": "#ffffff",
+        "value": "#A80000",
         "type": "color",
-        "description": "use for sectors bg (type3) - win sector"
+        "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "#360303",
+        "value": "#3A9B84",
         "type": "color",
         "description": "use for sectors bg (type1) - start "
       },
       "sector-1-additional": {
-        "value": "#B70606",
+        "value": "#5CD995",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
@@ -3591,12 +3591,12 @@
         "description": "use as bg for lines under wheel"
       },
       "sector-3-additional": {
-        "value": "#ffffff",
+        "value": "#8DFCFD",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "border-sector": {
-        "value": "transparent",
+        "value": "#8DFCFD",
         "type": "color",
         "description": "use for borders in sectors"
       }
