@@ -3585,6 +3585,11 @@
         "type": "color",
         "description": "use for dots shine under wheel border"
       },
+      "radial": {
+        "value": "radial-gradient(50% 50% at 50% 50%, rgba(141, 252, 253, 0.42) 0%, rgba(141, 252, 253, 0.00) 100%)",
+        "type": "color",
+        "description": "use for bg elipse on main bg under wheel"
+      },
       "main": {
         "value": "linear-gradient(180deg, #3C5B6A 0%, #252D40 100%)",
         "type": "color",
