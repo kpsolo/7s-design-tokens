@@ -3573,7 +3573,7 @@
         "description": "use for sectors bg (type1) - stop"
       },
       "radial": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(141, 252, 253, 0.42) 0%, rgba(141, 252, 253, 0.00) 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for bg elipse on main bg under wheel"
       }
