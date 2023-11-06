@@ -1857,6 +1857,20 @@
         "type": "color",
         "description": "Background for primary pressed"
       },
+      "primary-disabled-additional": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "Background for primary disabled button for lighgt bg"
+      },
       "primary-disabled": {
         "value": "transparent",
         "type": "color",
