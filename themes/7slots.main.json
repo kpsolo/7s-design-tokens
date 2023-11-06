@@ -1692,7 +1692,7 @@
       "type": "color"
     },
     "radial-additional": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #2D3E51 0%, #252D40 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "use for elipse bg on desktop homepage"
     },
