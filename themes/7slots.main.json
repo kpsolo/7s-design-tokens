@@ -1691,6 +1691,11 @@
       "value": "radial-gradient(50% 50% at 50% 50%, rgba(87, 174, 255, 0.40) 0%, rgba(87, 174, 255, 0.00) 100%)",
       "type": "color"
     },
+    "radial-copy": {
+      "value": "radial-gradient(50% 50% at 50% 50%, #2D3E51 0%, #252D40 100%)",
+      "type": "color",
+      "description": "use for elipse bg on desktop homepage"
+    },
     "blur-achivments": {
       "value": "18px",
       "type": "dimension",

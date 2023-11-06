@@ -1674,6 +1674,11 @@
       "value": "rgba(0, 0, 0, 0.08)",
       "type": "color",
       "description": "use as bg for welcome bonus success item"
+    },
+    "radial-copy": {
+      "value": "radial-gradient(50% 50% at 50% 50%, #2D3E51 0%, #252D40 100%)",
+      "type": "color",
+      "description": "use for elipse bg on desktop homepage"
     }
   },
   "nav": {
