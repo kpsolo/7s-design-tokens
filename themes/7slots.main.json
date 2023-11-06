@@ -1459,7 +1459,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "#212121",
+        "value": "#1C212E",
         "type": "color",
         "description": "Baground foe categories on desktop"
       },
