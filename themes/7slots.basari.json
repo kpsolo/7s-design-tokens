@@ -1880,17 +1880,9 @@
         "description": "Background for ghost button"
       },
       "primary-disabled-additional": {
-        "value": "{button.bg.primary-disabled}",
+        "value": "linear-gradient(160deg, rgba(251, 60, 60, 0.60) 0%, rgba(136, 3, 3, 0.60) 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Background for primary disabled button for lighgt bg"
       }
     },

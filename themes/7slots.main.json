@@ -1877,7 +1877,6 @@
       "primary-disabled-additional": {
         "value": "linear-gradient(180deg, rgba(92, 217, 149, 0.60) 0%, rgba(58, 155, 132, 0.60) 100%)",
         "type": "color",
-        "$extensions": {},
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
