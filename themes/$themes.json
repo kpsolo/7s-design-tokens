@@ -1346,7 +1346,8 @@
       "wheel.bg.radial": "S:5906aecb52a4f93c0503d89f33c1c457c1fbfd98,",
       "button.bg.primary-disabled-additional": "S:9ec63d92f20cba3b5b5cd9976fffb95786de908e,",
       "bg.overlay.sidebar-gamepage": "S:c6d9b11c0621aa33c4c8cf5b499a07d30a857ef0,",
-      "shadow.header-additional": "S:5c3766aa26ccee64f465196eb54b3fa8d64d9fc5,"
+      "shadow.header-additional": "S:5c3766aa26ccee64f465196eb54b3fa8d64d9fc5,",
+      "small-elements.slider-curret": "S:f3d4060e9f362663891a5b8393e41994b8814972,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"

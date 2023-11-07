@@ -1875,17 +1875,9 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
-        "value": "{button.bg.primary}",
+        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0.60) 0%, rgba(58, 155, 132, 0.60) 100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
