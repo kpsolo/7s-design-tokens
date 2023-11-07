@@ -3174,12 +3174,12 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "{bg.tertiary}",
+        "value": "#252D40",
         "type": "color",
         "description": "bg header on top for desktop"
       },
       "bottom-desktop": {
-        "value": "linear-gradient(180deg, {bg.tertiary} 0%, rgba(0,0,0,0) 100%)",
+        "value": "linear-gradient(180deg, #252D40 0%, rgba(37, 45, 64, 0.00) 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
