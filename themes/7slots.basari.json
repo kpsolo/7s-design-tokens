@@ -853,6 +853,18 @@
         "type": "boxShadow",
         "description": "use for bottom shadow in timer"
       }
+    },
+    "header-additional": {
+      "value": {
+        "x": "0",
+        "y": "6",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(0, 0, 0, 0.40)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for header desktop"
     }
   },
   "border": {
