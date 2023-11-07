@@ -3001,7 +3001,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "160px",
-        "fontSize": "180px",
+        "fontSize": "160px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "textDecoration": "{text-decoration.none}",
