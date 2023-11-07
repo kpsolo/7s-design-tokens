@@ -2370,6 +2370,11 @@
     "slider": {
       "value": "rgba(66, 114, 183, 0.40)",
       "type": "color"
+    },
+    "slider-curret": {
+      "value": "#4B9DE8",
+      "type": "color",
+      "description": "use for slider curret in mob main page"
     }
   },
   "icon": {
