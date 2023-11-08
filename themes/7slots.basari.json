@@ -2375,9 +2375,9 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "{base.accent-secondary}",
+      "value": "#fff",
       "type": "color",
-      "description": "use for push icon in messages"
+      "description": "use for categories icons on mob"
     },
     "alternative": {
       "value": "{base.accent-secondary}",
