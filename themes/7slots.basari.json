@@ -611,21 +611,21 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
-          "color": "{base.accent-primary}",
+          "spread": "0",
+          "color": "#FFC02E",
           "type": "dropShadow"
         },
         {
           "x": "0",
           "y": "0",
           "blur": "8",
-          "spread": "",
-          "color": "{base.accent-primary}",
+          "spread": "0",
+          "color": "#FFC02E",
           "type": "dropShadow"
         }
       ],
       "type": "boxShadow",
-      "description": "Drop shadow for hover on menu items on desktop"
+      "description": "Drop shadow for hover on message  on desktop header"
     },
     "shine-accent-additional": {
       "value": [

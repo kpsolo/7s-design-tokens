@@ -693,7 +693,14 @@
       "wheel.bg.border-sector": "S:b63d9cc191fc503f5d72d00c5881f2f958f6c21e,",
       "wheel.bg.sector-3-additional": "S:1f7d2c2dbbf6c74cc23979025557fdf00d2218d8,",
       "wheel.bg.sector-2-additional": "S:9b61429c9e60493a13e341975705674f607703f0,",
-      "small-elements.separator.tertiary": "S:5ce2ef18bb86c884e9a39798d0d20d794e716ff0,"
+      "small-elements.separator.tertiary": "S:5ce2ef18bb86c884e9a39798d0d20d794e716ff0,",
+      "bg.overlay.sidebar-gamepage": "S:9dafe117dc0f144cc26ac751215acf74f36ac227,",
+      "bg.radial-additional": "S:67dbc2cd0e9659fe8af542ae24db206e11c52c23,",
+      "button.bg.primary-disabled-additional": "S:f69a7e94700adadfd4fd2566e12f8ea4d8309d5e,",
+      "small-elements.slider-curret": "S:a1565005d0f4f4bdc638c231ccaf40ff201174df,",
+      "special-blocks.jackpot-border-2": "S:8e6e5189c13a37572ba947818da26d9bf093d6d0,",
+      "wheel.bg.radial": "S:a37e9a9d842aff14ab9b2e3184f89e102d35edc3,",
+      "shadow.header-additional": "S:e2e3ac8caba807ab25f4648cecdf255e0dc9dc6a,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
