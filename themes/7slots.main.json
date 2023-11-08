@@ -633,7 +633,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Drop shadow for hover on menu items on desktop"
+      "description": "Drop shadow for hover on message in header desktop"
     },
     "text-2": {
       "value": {
