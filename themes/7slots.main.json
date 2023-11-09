@@ -2379,7 +2379,7 @@
     "accent-additional": {
       "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
       "type": "color",
-      "description": "use for push icon in messages"
+      "description": "use for icons in categories mob\n"
     },
     "alternative": {
       "value": "#5CD995",
