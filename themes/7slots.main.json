@@ -968,7 +968,7 @@
     },
     "chips-active": {
       "value": {
-        "color": "{base.accent-secondary}",
+        "color": "#43B183",
         "width": "1",
         "style": "solid"
       },
