@@ -771,6 +771,18 @@
         },
         "type": "boxShadow"
       },
+      "jackpot-title-additional": {
+        "value": {
+          "x": "0",
+          "y": "-2",
+          "blur": "6",
+          "spread": "",
+          "color": "{special-blocks.title-jackpot}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "for animation state"
+      },
       "wheel": {
         "main": {
           "value": {

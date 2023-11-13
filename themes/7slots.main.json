@@ -917,6 +917,18 @@
         },
         "type": "boxShadow",
         "description": "use for bottom shadow in timer"
+      },
+      "jackpot-title-additional": {
+        "value": {
+          "x": "0",
+          "y": "-2",
+          "blur": "6",
+          "spread": "",
+          "color": "{special-blocks.title-jackpot}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "for animation state"
       }
     }
   },
