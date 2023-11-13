@@ -3786,5 +3786,17 @@
       "value": "2px",
       "type": "sizing"
     }
+  },
+  "lottery-final": {
+    "live-icon": {
+      "value": "{base.error}",
+      "type": "color",
+      "description": "bg for live icon"
+    },
+    "live-icon-text": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "bg for live icon"
+    }
   }
 }

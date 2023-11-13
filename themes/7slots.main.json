@@ -1837,6 +1837,18 @@
       "description": "Color for app button and bg under games in bottom sheet"
     }
   },
+  "lottery-final": {
+    "live-icon": {
+      "value": "{base.error}",
+      "type": "color",
+      "description": "bg for live icon"
+    },
+    "live-icon-text": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "bg for live icon"
+    }
+  },
   "navbar": {
     "bg": {
       "main": {
