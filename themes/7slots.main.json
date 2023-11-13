@@ -1159,6 +1159,24 @@
         },
         "type": "border",
         "description": "Border for Jackpot widget"
+      },
+      "referral-card": {
+        "value": {
+          "color": "rgba(71, 255, 185, 0.10)",
+          "width": "1px",
+          "style": "solid"
+        },
+        "type": "border",
+        "description": "Border for card 1,2,3 in referral conditions"
+      },
+      "referral-card-line": {
+        "value": {
+          "color": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.30) 50.78%, rgba(255, 255, 255, 0.00) 100%)",
+          "width": "1px",
+          "style": "solid"
+        },
+        "type": "border",
+        "description": "lines inside referral link card "
       }
     }
   },
@@ -2997,6 +3015,21 @@
       "type": "typography",
       "description": "for 404/500 "
     },
+    "referral-number": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "60px",
+        "fontSize": "52px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for referral cards numbers"
+    },
     "dropdown-custom": {
       "value": "#1C212E",
       "type": "color",
@@ -3006,6 +3039,13 @@
       "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
+    },
+    "referral": {
+      "number": {
+        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
+        "type": "color",
+        "description": "use for numbers gradient in conditions"
+      }
     },
     "dropdown-content": {
       "value": "{text.light}",

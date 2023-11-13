@@ -1084,6 +1084,24 @@
         },
         "type": "border",
         "description": "Border for Jackpot widget"
+      },
+      "referral-card": {
+        "value": {
+          "color": "rgba(71, 255, 185, 0.20)",
+          "width": "1px",
+          "style": "solid"
+        },
+        "type": "border",
+        "description": "Border for card 1,2,3 in referral conditions"
+      },
+      "referral-card-line": {
+        "value": {
+          "color": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) -6.59%, rgba(255, 255, 255, 0.30) 51.27%, rgba(255, 255, 255, 0.00) 107.34%)",
+          "width": "1px",
+          "style": "solid"
+        },
+        "type": "border",
+        "description": "lines inside referral link card "
       }
     }
   },
@@ -3042,6 +3060,28 @@
       "value": "transparent",
       "type": "color",
       "description": "Border-color for jackpot title"
+    },
+    "referral": {
+      "number": {
+        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
+        "type": "color",
+        "description": "use for numbers gradient in conditions"
+      }
+    },
+    "referral-number": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "60px",
+        "fontSize": "52px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+      },
+      "type": "typography",
+      "description": "for referral cards numbers"
     }
   },
   "filed spacing": {
