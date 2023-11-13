@@ -819,19 +819,6 @@
         ],
         "type": "boxShadow"
       },
-      "jackpot-title-TEST": {
-        "value": [
-          {
-            "x": "0",
-            "y": "-4",
-            "blur": "16",
-            "spread": "",
-            "color": "#cc19bd",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
       "wheel": {
         "main": {
           "value": {
@@ -919,14 +906,32 @@
         "description": "use for bottom shadow in timer"
       },
       "jackpot-title-additional": {
-        "value": {
-          "x": "0",
-          "y": "-2",
-          "blur": "6",
-          "spread": "",
-          "color": "{special-blocks.title-jackpot}",
-          "type": "dropShadow"
-        },
+        "value": [
+          {
+            "x": "0",
+            "y": "-4",
+            "blur": "16",
+            "spread": "0",
+            "color": "rgba(56, 255, 192, 0.40)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "-1",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba(56, 255, 192, 0.40)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "-1",
+            "blur": "6",
+            "spread": "0",
+            "color": "rgba(56, 255, 192, 0.40)",
+            "type": "dropShadow"
+          }
+        ],
         "type": "boxShadow",
         "description": "for animation state"
       }
