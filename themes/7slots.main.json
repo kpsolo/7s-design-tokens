@@ -850,8 +850,8 @@
         "value": [
           {
             "x": "0",
-            "y": "15",
-            "blur": "40",
+            "y": "4",
+            "blur": "18",
             "spread": "0",
             "color": "rgba(0, 101, 255, 0.62)",
             "type": "dropShadow"
@@ -859,22 +859,22 @@
           {
             "x": "0",
             "y": "6",
-            "blur": "24",
+            "blur": "18",
             "spread": "0",
             "color": "rgba(0, 101, 255, 0.50)",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "2",
-            "blur": "21",
+            "y": "6",
+            "blur": "18",
             "spread": "0",
             "color": "rgba(0, 101, 255, 0.40)",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "0.5",
+            "y": "6",
             "blur": "18",
             "spread": "0",
             "color": "rgba(0, 101, 255, 0.32)",
@@ -2939,7 +2939,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "84px",
+        "lineHeight": "70px",
         "fontSize": "64px",
         "letterSpacing": "-5%",
         "paragraphSpacing": "{paragraph-spacing.0}",
