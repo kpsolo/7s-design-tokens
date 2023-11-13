@@ -1300,7 +1300,7 @@
       "description": "Radius for smallest game items"
     },
     "input-custom1": {
-      "value": "10px 10px 0px 0px",
+      "value": "10px 10px 10px 10px",
       "type": "borderRadius",
       "description": "Use for error field"
     },

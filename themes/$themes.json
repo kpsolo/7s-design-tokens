@@ -1353,7 +1353,8 @@
       "shadow.header-additional": "S:5c3766aa26ccee64f465196eb54b3fa8d64d9fc5,",
       "small-elements.slider-curret": "S:f3d4060e9f362663891a5b8393e41994b8814972,",
       "special-blocks.referral.number": "S:e31e85fb1abfb169d1627709155cb9a5d8185145,",
-      "special-blocks.referral-number": "S:77fd81bc1789f2a2df83ddf44cc41883aa4a5ce5,"
+      "special-blocks.referral-number": "S:77fd81bc1789f2a2df83ddf44cc41883aa4a5ce5,",
+      "shadow.special-blocks.jackpot-title-additional": "S:00ad4805d72e393a573d215177f86d414538ddae,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"
