@@ -3598,12 +3598,12 @@
         "description": "use as bg for lines under wheel"
       },
       "sector-3": {
-        "value": "#ffffff",
+        "value": "#C78725",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-3-additional": {
-        "value": "#ffffff",
+        "value": "#970606",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
