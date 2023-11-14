@@ -1913,6 +1913,16 @@
       "value": "{text.light}",
       "type": "color",
       "description": "text for now-live sticker"
+    },
+    "timer-bg": {
+      "value": "linear-gradient(180deg, rgba(217, 234, 250, 0.22) 0%, rgba(202, 229, 255, 0.15) 31.25%, rgba(157, 203, 245, 0.13) 63.54%, rgba(118, 148, 176, 0.27) 100%)",
+      "type": "color",
+      "description": "bg for timer"
+    },
+    "empty-ball": {
+      "value": "radial-gradient(77.78% 77.78% at 50% 22.22%, rgba(86, 116, 160, 0.40) 0%, rgba(122, 136, 186, 0.40) 57.33%, rgba(119, 139, 187, 0.34) 91.08%, rgba(116, 162, 206, 0.40) 100%)",
+      "type": "color",
+      "description": "bg for empty ball"
     }
   },
   "navbar": {
