@@ -1364,7 +1364,10 @@
       "live-lottery.now-win-ticket": "S:aedf3b0f0fe76fed2d4e2718f5bd8d26dee2884a,",
       "live-lottery.now-win-ticket-text": "S:5d02def71dd49aa893e3f0545ef1821df5ec37c5,",
       "live-lottery.card-bg": "S:8a6616e5d7c1ce0a01438bdf59e744baa7c5decf,",
-      "live-lottery.timer-bg": "S:373ad4db8826136b1334c1b62e91988bdfd339a8,"
+      "live-lottery.timer-bg": "S:373ad4db8826136b1334c1b62e91988bdfd339a8,",
+      "live-lottery.empty-ball": "S:5ad14c6f58722afacdb59a24a3d46cecc0a080af,",
+      "live-lottery.place-label-text": "S:0871c62f8bd168e9be5f4b91b6ff4e5b6fd406c0,",
+      "live-lottery.place-label-bg": "S:897f5f46188101af7841231ae62f74072bb5d2f7,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"
