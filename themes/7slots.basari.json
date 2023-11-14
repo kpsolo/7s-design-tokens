@@ -3828,7 +3828,7 @@
       "type": "sizing"
     }
   },
-  "lottery-final": {
+  "live-lottery": {
     "live-tip": {
       "value": "{base.error}",
       "type": "color",
@@ -3849,7 +3849,7 @@
       "type": "color",
       "description": "text for now-live sticker"
     },
-    "now-win-bg-ticket": {
+    "now-win-ticket": {
       "value": "#A4BBC6",
       "type": "color",
       "description": "bg for now-live ticker"
