@@ -1884,6 +1884,11 @@
       "type": "color",
       "description": "Bg for live icon"
     },
+    "card-bg": {
+      "value": "linear-gradient(175deg, #345CA8 0.65%, #193D84 24.23%, #0B2853 77.42%, #11366F 96.99%)",
+      "type": "color",
+      "description": "Bg for card"
+    },
     "live-tip-text": {
       "value": "{base.light}",
       "type": "color",

@@ -1362,7 +1362,8 @@
       "lottery-final.now-win-bg": "S:3cbdc9aa5107d8ada4920d32031dbeb283da66a6,",
       "lottery-final.now-win-text": "S:04f3f839ce7084c666ddb01b31b3fc2f8ecd8f49,",
       "lottery-final.now-win-ticket": "S:aedf3b0f0fe76fed2d4e2718f5bd8d26dee2884a,",
-      "lottery-final.now-win-ticket-text": "S:5d02def71dd49aa893e3f0545ef1821df5ec37c5,"
+      "lottery-final.now-win-ticket-text": "S:5d02def71dd49aa893e3f0545ef1821df5ec37c5,",
+      "lottery-final.card-bg": "S:8a6616e5d7c1ce0a01438bdf59e744baa7c5decf,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"
