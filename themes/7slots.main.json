@@ -1355,6 +1355,11 @@
       "type": "borderRadius",
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
+    "live-lottery-tips": {
+      "value": "12px",
+      "type": "borderRadius",
+      "description": "use for small tips on final lottery "
+    },
     "special-blocks": {
       "jackpot-radius": {
         "value": "8px",
@@ -1878,6 +1883,31 @@
       "value": "{base.error}",
       "type": "color",
       "description": "Bg for live icon"
+    },
+    "live-tip-text": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "text for live icon"
+    },
+    "now-win-bg": {
+      "value": "#182141",
+      "type": "color",
+      "description": "bg for now-live sticker"
+    },
+    "now-win-ticket": {
+      "value": "#A4BBC6",
+      "type": "color",
+      "description": "bg for now-live ticker"
+    },
+    "now-win-ticket-text": {
+      "value": "#000",
+      "type": "color",
+      "description": "bg for now-live ticker"
+    },
+    "now-win-text": {
+      "value": "{text.light}",
+      "type": "color",
+      "description": "text for now-live sticker"
     }
   },
   "navbar": {

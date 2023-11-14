@@ -1281,6 +1281,11 @@
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
+    },
+    "live-lottery-tips": {
+      "value": "10px",
+      "type": "borderRadius",
+      "description": "use for small tips on final lottery "
     }
   },
   "opacity": {
@@ -3828,6 +3833,31 @@
       "value": "{base.error}",
       "type": "color",
       "description": "Bg for live icon"
+    },
+    "live-tip-text": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "text for live icon"
+    },
+    "now-win-bg": {
+      "value": "#182141",
+      "type": "color",
+      "description": "bg for now-live sticker"
+    },
+    "now-win-text": {
+      "value": "{text.light}",
+      "type": "color",
+      "description": "text for now-live sticker"
+    },
+    "now-win-bg-ticket": {
+      "value": "#A4BBC6",
+      "type": "color",
+      "description": "bg for now-live ticker"
+    },
+    "now-win-ticket-text": {
+      "value": "#000",
+      "type": "color",
+      "description": "bg for now-live ticker"
     }
   }
 }
