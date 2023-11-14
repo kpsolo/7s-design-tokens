@@ -768,6 +768,18 @@
       "description": "Shadow for sticky bar"
     },
     "special-blocks": {
+      "timer-bottom": {
+        "value": {
+          "x": "0",
+          "y": "1",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba(255, 255, 255, 0.10)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "use for bottom shadow in timer"
+      },
       "jackpot-wrap": {
         "value": [
           {
@@ -789,49 +801,6 @@
         ],
         "type": "boxShadow",
         "description": "Shadow for Jackpot widget container"
-      },
-      "jackpot-title": {
-        "value": [
-          {
-            "x": "0",
-            "y": "-4",
-            "blur": "16",
-            "spread": "",
-            "color": "rgba(56, 255, 192, 0.40)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "-1",
-            "blur": "8",
-            "spread": "0",
-            "color": "rgba(56, 255, 192, 0.40)",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "-1",
-            "blur": "6",
-            "spread": "0",
-            "color": "rgba(56, 255, 192, 0.40)",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "wheel": {
-        "main": {
-          "value": {
-            "x": "0",
-            "y": "0",
-            "blur": "36",
-            "spread": "",
-            "color": "#8DFCFD",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow",
-          "description": "use as wheel shaddow under main border"
-        }
       },
       "jackpot-amount": {
         "value": [
@@ -893,17 +862,34 @@
         "type": "boxShadow",
         "description": "use as shadow for numbers in timer "
       },
-      "timer-bottom": {
-        "value": {
-          "x": "0",
-          "y": "1",
-          "blur": "0",
-          "spread": "0",
-          "color": "rgba(255, 255, 255, 0.10)",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow",
-        "description": "use for bottom shadow in timer"
+      "jackpot-title": {
+        "value": [
+          {
+            "x": "0",
+            "y": "-4",
+            "blur": "16",
+            "spread": "",
+            "color": "rgba(56, 255, 192, 0.40)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "-1",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba(56, 255, 192, 0.40)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "-1",
+            "blur": "6",
+            "spread": "0",
+            "color": "rgba(56, 255, 192, 0.40)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       },
       "jackpot-title-additional": {
         "value": [
@@ -934,6 +920,56 @@
         ],
         "type": "boxShadow",
         "description": "for animation state"
+      },
+      "wheel": {
+        "main": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "36",
+            "spread": "",
+            "color": "#8DFCFD",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow",
+          "description": "use as wheel shaddow under main border"
+        }
+      },
+      "card": {
+        "value": [
+          {
+            "x": "-28",
+            "y": "28",
+            "blur": "28",
+            "spread": "0",
+            "color": "rgba(255, 255, 255, 0.03)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "28",
+            "y": "-28",
+            "blur": "28",
+            "spread": "0",
+            "color": "rgba(194, 194, 194, 0.03)",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "use as inner shaddow on cards - referrals, achivements"
+      },
+      "referral": {
+        "value": [
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "4",
+            "spread": "0",
+            "color": "rgba(184, 97, 215, 0.25)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "use as dropshadow card for big numbers in referral program"
       }
     }
   },
@@ -1835,18 +1871,6 @@
       "value": "#E2F1FF",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
-    }
-  },
-  "lottery-final": {
-    "live-icon": {
-      "value": "{base.error}",
-      "type": "color",
-      "description": "bg for live icon"
-    },
-    "live-icon-text": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "bg for live icon"
     }
   },
   "navbar": {

@@ -842,6 +842,42 @@
         },
         "type": "boxShadow",
         "description": "use for bottom shadow in timer"
+      },
+      "card": {
+        "value": [
+          {
+            "x": "-28",
+            "y": "28",
+            "blur": "28",
+            "spread": "0",
+            "color": "rgba(255, 255, 255, 0.03)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "28",
+            "y": "-28",
+            "blur": "28",
+            "spread": "0",
+            "color": "rgba(194, 194, 194, 0.03)",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "use as inner shaddow on cards - referrals, achivements"
+      },
+      "referral": {
+        "value": [
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "4",
+            "spread": "0",
+            "color": "rgba(184, 97, 215, 0.25)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "use as dropshadow card for big numbers in referral program"
       }
     },
     "header-additional": {
@@ -3785,18 +3821,6 @@
     "padding-fix": {
       "value": "2px",
       "type": "sizing"
-    }
-  },
-  "lottery-final": {
-    "live-icon": {
-      "value": "{base.error}",
-      "type": "color",
-      "description": "bg for live icon"
-    },
-    "live-icon-text": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "bg for live icon"
     }
   }
 }
