@@ -3822,5 +3822,12 @@
       "value": "2px",
       "type": "sizing"
     }
+  },
+  "lottery-final": {
+    "live-tip": {
+      "value": "{base.error}",
+      "type": "color",
+      "description": "Bg for live icon"
+    }
   }
 }

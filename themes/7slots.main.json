@@ -1873,6 +1873,13 @@
       "description": "Color for app button and bg under games in bottom sheet"
     }
   },
+  "lottery-final": {
+    "live-tip": {
+      "value": "{base.error}",
+      "type": "color",
+      "description": "Bg for live icon"
+    }
+  },
   "navbar": {
     "bg": {
       "main": {
