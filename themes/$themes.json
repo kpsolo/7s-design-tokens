@@ -1354,16 +1354,7 @@
       "small-elements.slider-curret": "S:f3d4060e9f362663891a5b8393e41994b8814972,",
       "special-blocks.referral.number": "S:e31e85fb1abfb169d1627709155cb9a5d8185145,",
       "special-blocks.referral-number": "S:77fd81bc1789f2a2df83ddf44cc41883aa4a5ce5,",
-      "shadow.special-blocks.jackpot-title-additional": "S:00ad4805d72e393a573d215177f86d414538ddae,",
-      "shadow.special-blocks.card": "S:a66523136b224621786dde2bc5efd31c9af6b5a0,",
-      "shadow.special-blocks.referral": "S:f634a566feac673b506c7eb80871b79dd8879d8b,",
-      "live-lottery.live-tip": "S:54c075d1c8bc1f7f2fda879da4b95a21d79fcf93,",
-      "live-lottery.live-tip-text": "S:bcd9a3a451ebcd879ed31a16078258ac1e45e81b,",
-      "live-lottery.now-win-bg": "S:3cbdc9aa5107d8ada4920d32031dbeb283da66a6,",
-      "live-lottery.now-win-text": "S:04f3f839ce7084c666ddb01b31b3fc2f8ecd8f49,",
-      "live-lottery.now-win-ticket": "S:aedf3b0f0fe76fed2d4e2718f5bd8d26dee2884a,",
-      "live-lottery.now-win-ticket-text": "S:5d02def71dd49aa893e3f0545ef1821df5ec37c5,",
-      "live-lottery.card-bg": "S:8a6616e5d7c1ce0a01438bdf59e744baa7c5decf,"
+      "shadow.special-blocks.jackpot-title-additional": "S:00ad4805d72e393a573d215177f86d414538ddae,"
     },
     "selectedTokenSets": {
       "7slots.main": "enabled"

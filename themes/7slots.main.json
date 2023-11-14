@@ -1355,11 +1355,6 @@
       "type": "borderRadius",
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
-    "live-lottery-tips": {
-      "value": "12px",
-      "type": "borderRadius",
-      "description": "use for small tips on final lottery "
-    },
     "special-blocks": {
       "jackpot-radius": {
         "value": "8px",
@@ -1876,43 +1871,6 @@
       "value": "#E2F1FF",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
-    }
-  },
-  "live-lottery": {
-    "live-tip": {
-      "value": "{base.error}",
-      "type": "color",
-      "description": "Bg for live icon"
-    },
-    "card-bg": {
-      "value": "linear-gradient(175deg, #345CA8 0.65%, #193D84 24.23%, #0B2853 77.42%, #11366F 96.99%)",
-      "type": "color",
-      "description": "Bg for card"
-    },
-    "live-tip-text": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "text for live icon"
-    },
-    "now-win-bg": {
-      "value": "#182141",
-      "type": "color",
-      "description": "bg for now-live sticker"
-    },
-    "now-win-ticket": {
-      "value": "#A4BBC6",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
-    "now-win-ticket-text": {
-      "value": "#000",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
-    "now-win-text": {
-      "value": "{text.light}",
-      "type": "color",
-      "description": "text for now-live sticker"
     }
   },
   "navbar": {
@@ -3568,7 +3526,7 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.1",
+            "value": "0.2",
             "space": "srgb"
           }
         }
