@@ -2510,7 +2510,7 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "{base.accent-primary}",
+      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
       "type": "color",
       "description": "use for icons in categories mob\n"
     },
@@ -2787,7 +2787,7 @@
   },
   "width": {
     "nav": {
-      "value": "48",
+      "value": "64",
       "type": "sizing",
       "description": "use for top navbar items"
     },
