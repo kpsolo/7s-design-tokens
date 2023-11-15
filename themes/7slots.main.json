@@ -619,7 +619,7 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "0",
+          "spread": "",
           "color": "#2A8249",
           "type": "dropShadow"
         },
@@ -627,7 +627,7 @@
           "x": "0",
           "y": "0",
           "blur": "8",
-          "spread": "0",
+          "spread": "",
           "color": "#2A8249",
           "type": "dropShadow"
         }
@@ -653,7 +653,7 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "0",
+          "spread": "",
           "color": "#2A8249",
           "type": "dropShadow"
         },
@@ -661,7 +661,7 @@
           "x": "0",
           "y": "0",
           "blur": "8",
-          "spread": "0",
+          "spread": "",
           "color": "#2A8249",
           "type": "dropShadow"
         }
@@ -876,7 +876,7 @@
             "x": "0",
             "y": "-1",
             "blur": "8",
-            "spread": "0",
+            "spread": "",
             "color": "rgba(56, 255, 192, 0.40)",
             "type": "dropShadow"
           },
@@ -884,7 +884,7 @@
             "x": "0",
             "y": "-1",
             "blur": "6",
-            "spread": "0",
+            "spread": "",
             "color": "rgba(56, 255, 192, 0.40)",
             "type": "dropShadow"
           }
@@ -897,7 +897,7 @@
             "x": "0",
             "y": "-4",
             "blur": "16",
-            "spread": "0",
+            "spread": "",
             "color": "rgba(56, 255, 192, 0.40)",
             "type": "dropShadow"
           },
@@ -905,7 +905,7 @@
             "x": "0",
             "y": "-1",
             "blur": "8",
-            "spread": "0",
+            "spread": "",
             "color": "rgba(56, 255, 192, 0.40)",
             "type": "dropShadow"
           },
@@ -913,7 +913,7 @@
             "x": "0",
             "y": "-1",
             "blur": "6",
-            "spread": "0",
+            "spread": "",
             "color": "rgba(56, 255, 192, 0.40)",
             "type": "dropShadow"
           }
