@@ -1491,7 +1491,7 @@
         "description": "use for bg under girls"
       },
       "strip-bg": {
-        "value": "transparent",
+        "value": "linear-gradient(0deg, #1c212e, rgba(18,72,72,0) 50%)",
         "type": "color",
         "description": "Global background for strip banners"
       },
@@ -1530,7 +1530,7 @@
         "description": "Baground foe categories on desktop"
       },
       "strip-popup": {
-        "value": "transparent",
+        "value": "rgba(0,0,0, 0.5)",
         "type": "color",
         "description": "Bg for background popup on strip desktop"
       }
