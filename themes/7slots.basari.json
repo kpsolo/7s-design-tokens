@@ -774,8 +774,8 @@
       "jackpot-title-additional": {
         "value": {
           "x": "0",
-          "y": "-2",
-          "blur": "6",
+          "y": "-1",
+          "blur": "2",
           "spread": "",
           "color": "{special-blocks.title-jackpot}",
           "type": "dropShadow"
