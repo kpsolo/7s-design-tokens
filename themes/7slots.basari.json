@@ -3860,17 +3860,17 @@
       "description": "bg for now-live ticker"
     },
     "card-bg": {
-      "value": "linear-gradient(175deg, #345CA8 0.65%, #193D84 24.23%, #0B2853 77.42%, #11366F 96.99%)",
+      "value": "linear-gradient(175deg, #841A1A 4.27%, #841919 37.94%, #53140B 75.41%, #6F1111 93.54%)",
       "type": "color",
       "description": "Bg for card"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(217, 234, 250, 0.22) 0%, rgba(202, 229, 255, 0.15) 31.25%, rgba(157, 203, 245, 0.13) 63.54%, rgba(118, 148, 176, 0.27) 100%)",
+      "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.44) 0%, rgba(225, 225, 225, 0.30) 31.25%, rgba(195, 195, 195, 0.26) 63.54%, rgba(153, 153, 153, 0.54) 100%)",
       "type": "color",
       "description": "bg for timer"
     },
     "empty-ball": {
-      "value": "radial-gradient(77.78% 77.78% at 50% 22.22%, rgba(86, 116, 160, 0.40) 0%, rgba(122, 136, 186, 0.40) 57.33%, rgba(119, 139, 187, 0.34) 91.08%, rgba(116, 162, 206, 0.40) 100%)",
+      "value": "linear-gradient(180deg, rgba(234, 234, 234, 0.24) 0%, rgba(229, 229, 229, 0.20) 31.25%, rgba(186, 186, 186, 0.16) 63.54%, rgba(146, 146, 146, 0.32) 100%)",
       "type": "color",
       "description": "bg for empty ball"
     },
@@ -3880,7 +3880,7 @@
       "description": "text on place label"
     },
     "place-label-bg": {
-      "value": "linear-gradient(180deg, #FFD37D 0%, #FFDB59 41.67%, #E1BB33 100%)",
+      "value": "linear-gradient(180deg, #FFC02E 0%, #FFD167 41.67%, #D59B15 100%)",
       "type": "color",
       "description": "bg on place label"
     }
