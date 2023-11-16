@@ -3840,7 +3840,7 @@
       "description": "text for live icon"
     },
     "now-win-bg": {
-      "value": "#182141",
+      "value": "#2b0804",
       "type": "color",
       "description": "bg for now-live sticker"
     },
@@ -3850,7 +3850,7 @@
       "description": "text for now-live sticker"
     },
     "now-win-ticket": {
-      "value": "#A4BBC6",
+      "value": "#fefefe",
       "type": "color",
       "description": "bg for now-live ticker"
     },
