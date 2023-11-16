@@ -3830,7 +3830,7 @@
   },
   "live-lottery": {
     "live-tip": {
-      "value": "{base.error}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Bg for live icon"
     },
