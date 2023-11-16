@@ -2510,7 +2510,7 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for icons in categories mob\n"
     },
