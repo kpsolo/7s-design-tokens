@@ -1460,6 +1460,11 @@
         "type": "color",
         "description": "Background color for footer"
       },
+      "1click": {
+        "value": "#1C212E",
+        "type": "color",
+        "description": "Background color for outside 1click zone "
+      },
       "accent-on-light": {
         "value": "#43B183",
         "type": "color",

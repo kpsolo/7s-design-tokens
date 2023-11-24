@@ -1498,6 +1498,11 @@
         "value": "{bg.popup}",
         "type": "color",
         "description": "Bg for background popup on strip desktop"
+      },
+      "1click": {
+        "value": "#1C212E",
+        "type": "color",
+        "description": "Background color for outside 1click zone "
       }
     },
     "gradient": {
