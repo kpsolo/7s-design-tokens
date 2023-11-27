@@ -1102,11 +1102,12 @@
     },
     "nav": {
       "value": {
-        "color": "transparent",
+        "color": "rgba(255, 255, 255, 0.12)",
         "width": "{border-width.nav}",
         "style": "solid"
       },
-      "type": "border"
+      "type": "border",
+      "description": "border for show more wiget on main page"
     },
     "right-menu": {
       "value": {
