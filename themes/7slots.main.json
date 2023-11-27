@@ -1921,7 +1921,7 @@
       "description": "text for now-live sticker"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(217, 234, 250, 0.22) 0%, rgba(202, 229, 255, 0.15) 31.25%, rgba(157, 203, 245, 0.13) 63.54%, rgba(118, 148, 176, 0.27) 100%)",
+      "value": "linear-gradient(180deg, rgba(108, 164, 216, 0.81) 0%, rgba(92, 141, 187, 0.78) 31.25%, rgba(68, 123, 174, 0.85) 63.54%, rgba(82, 122, 160, 0.63) 100%)",
       "type": "color",
       "description": "bg for timer"
     },
