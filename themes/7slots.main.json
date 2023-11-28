@@ -464,7 +464,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.2}",
+        "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.6}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
