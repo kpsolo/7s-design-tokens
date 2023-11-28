@@ -2801,6 +2801,16 @@
       "value": "48",
       "type": "sizing",
       "description": "use for bottom tapbar main button"
+    },
+    "logo-mobile": {
+      "value": "130",
+      "type": "sizing",
+      "description": "use for mobile logo width "
+    },
+    "logo-desktop": {
+      "value": "160",
+      "type": "sizing",
+      "description": "use for desktop logo width "
     }
   },
   "height": {
@@ -2813,6 +2823,16 @@
       "value": "48",
       "type": "sizing",
       "description": "use for top navbar items"
+    },
+    "logo-mobile": {
+      "value": "32",
+      "type": "sizing",
+      "description": "use for mobile logo height "
+    },
+    "logo-desktop": {
+      "value": "32",
+      "type": "sizing",
+      "description": "use for desktop logo height "
     }
   },
   "min-height": {
