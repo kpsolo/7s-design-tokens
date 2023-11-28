@@ -2001,6 +2001,21 @@
         "value": "rgba(255,255,255,0.4)",
         "type": "color",
         "description": "border color for buttons disabled"
+      },
+      "ghost": {
+        "value": "{button.text.light-bg}",
+        "type": "color",
+        "description": "border color for ghost buttons (use in menu)"
+      },
+      "ghost-hover": {
+        "value": "#4DCC97",
+        "type": "color",
+        "description": "border color for ghost buttons hover state (use in menu)"
+      },
+      "ghost-pressed": {
+        "value": "#3EA379",
+        "type": "color",
+        "description": "border color for ghost buttons pressed state (use in menu)"
       }
     },
     "text": {
