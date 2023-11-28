@@ -699,7 +699,24 @@
       "small-elements.slider-curret": "S:a1565005d0f4f4bdc638c231ccaf40ff201174df,",
       "special-blocks.jackpot-border-2": "S:8e6e5189c13a37572ba947818da26d9bf093d6d0,",
       "wheel.bg.radial": "S:a37e9a9d842aff14ab9b2e3184f89e102d35edc3,",
-      "shadow.header-additional": "S:e2e3ac8caba807ab25f4648cecdf255e0dc9dc6a,"
+      "shadow.header-additional": "S:e2e3ac8caba807ab25f4648cecdf255e0dc9dc6a,",
+      "bg.other.1click": "S:09c90c0daafc3b4961cd6ab70a31346465e0e711,",
+      "special-blocks.referral.number": "S:691fad761f3eb7b1b9085139774997362d21c714,",
+      "live-lottery.live-tip": "S:79b8820b76e355d008c4cff774a64b0561780c2b,",
+      "live-lottery.live-tip-text": "S:169bca706a0723e99ea197e5737602b7196cd324,",
+      "live-lottery.now-win-bg": "S:d0559d6ac450a9a426741c715c8649aa2c767477,",
+      "live-lottery.now-win-text": "S:4242c01a46dda66b328f459fc90e4b016117da5d,",
+      "live-lottery.now-win-ticket": "S:a819ff56c86e14a4abd97f2be81e484e3dd70a71,",
+      "live-lottery.now-win-ticket-text": "S:717653211de0a10df706862568ea007b843590d6,",
+      "live-lottery.card-bg": "S:c21ebf83f38f72e7711aa8ea71caa609119e26bb,",
+      "live-lottery.timer-bg": "S:c8474ff88a741217b827282ed40baea7ec2afa48,",
+      "live-lottery.empty-ball": "S:14005a6149d61aebd503577be26f2dc5228f90f1,",
+      "live-lottery.place-label-text": "S:5994404de8271648fcfa8d2d68abc83fef8d1b9e,",
+      "live-lottery.place-label-bg": "S:dde7f02ac403c10c9e837a89fe28b3e6b25999e1,",
+      "special-blocks.referral-number": "S:0b9d96ee136b97f728ea338e57d58cd2b9793769,",
+      "shadow.special-blocks.jackpot-title-additional": "S:4a6ab683e9c04ee9b376c09cb93c7da00224ec14,",
+      "shadow.special-blocks.card": "S:49561549383eb219ed12cb357851b6804583c05d,",
+      "shadow.special-blocks.referral": "S:77f3efa28a6a07a13db6cedea9e9a7eda0d914bc,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
