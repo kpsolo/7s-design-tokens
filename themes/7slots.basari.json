@@ -2845,6 +2845,11 @@
     "3": {
       "value": "Heavy",
       "type": "fontWeights"
+    },
+    "4": {
+      "value": "600",
+      "type": "fontWeights",
+      "description": "use in mob menu sums"
     }
   },
   "font-size": {

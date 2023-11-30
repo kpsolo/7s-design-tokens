@@ -93,7 +93,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.m}",
+        "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
@@ -166,7 +166,7 @@
     "body-1-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
+        "fontWeight": "{font-weight.4}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}",
         "letterSpacing": "{letter-spacing.0}",
@@ -2936,6 +2936,11 @@
     "3": {
       "value": "900",
       "type": "fontWeights"
+    },
+    "4": {
+      "value": "600",
+      "type": "fontWeights",
+      "description": "use in mob menu sums"
     }
   },
   "font-size": {
