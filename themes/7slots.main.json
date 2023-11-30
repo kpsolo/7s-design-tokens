@@ -197,7 +197,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.3}",
+        "fontSize": "{font-size.2}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
