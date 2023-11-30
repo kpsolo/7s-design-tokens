@@ -583,7 +583,7 @@
         "y": "4",
         "blur": "24",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.10)",
+        "color": "rgba(0, 0, 0, 0.20)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1452,7 +1452,7 @@
         "description": "Background color for card winners now"
       },
       "tooltip": {
-        "value": "#D2E5FF",
+        "value": "#FFF",
         "type": "color",
         "description": "Use for tooltip background"
       },
