@@ -48,7 +48,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.m}",
+        "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
