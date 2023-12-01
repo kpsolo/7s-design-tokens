@@ -504,6 +504,21 @@
       },
       "type": "typography",
       "description": "Notification counter"
+    },
+    "title-1-stronger": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.5}",
+        "fontSize": "{font-size.7}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Email header"
     }
   },
   "shadow": {
