@@ -2823,7 +2823,7 @@
   },
   "width": {
     "nav": {
-      "value": "64",
+      "value": "48",
       "type": "sizing",
       "description": "use for top navbar items"
     },
