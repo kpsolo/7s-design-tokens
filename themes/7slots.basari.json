@@ -523,8 +523,8 @@
     "title-3": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.4}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.extra-2}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
