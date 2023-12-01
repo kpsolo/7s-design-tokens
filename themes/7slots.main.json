@@ -475,6 +475,21 @@
       "type": "typography",
       "description": "Page title"
     },
+    "title-3": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.4}",
+        "fontSize": "{font-size.extra-2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "main banner mob title"
+    },
     "title-2-light": {
       "value": {
         "fontFamily": "{font-family.accent}",
@@ -3002,6 +3017,11 @@
     },
     "extra": {
       "value": "18",
+      "type": "fontSizes",
+      "description": "for main page titles (mob)"
+    },
+    "extra-2": {
+      "value": "22",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     }

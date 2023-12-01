@@ -519,6 +519,21 @@
       },
       "type": "typography",
       "description": "Email header"
+    },
+    "title-3": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.4}",
+        "fontSize": "{font-size.extra-2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "main banner mob title"
     }
   },
   "shadow": {
@@ -2908,6 +2923,11 @@
       "value": "13px",
       "type": "fontSizes",
       "description": "For small captions on desktop"
+    },
+    "extra-2": {
+      "value": "22",
+      "type": "fontSizes",
+      "description": "for main page titles (mob)"
     }
   },
   "letter-spacing": {
