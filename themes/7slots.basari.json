@@ -1656,7 +1656,7 @@
         "description": "use for gradient over picture on right tournament panel"
       },
       "gamepage": {
-        "value": "#282828",
+        "value": "#000000",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
