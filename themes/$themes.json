@@ -716,7 +716,11 @@
       "special-blocks.referral-number": "S:0b9d96ee136b97f728ea338e57d58cd2b9793769,",
       "shadow.special-blocks.jackpot-title-additional": "S:4a6ab683e9c04ee9b376c09cb93c7da00224ec14,",
       "shadow.special-blocks.card": "S:49561549383eb219ed12cb357851b6804583c05d,",
-      "shadow.special-blocks.referral": "S:77f3efa28a6a07a13db6cedea9e9a7eda0d914bc,"
+      "shadow.special-blocks.referral": "S:77f3efa28a6a07a13db6cedea9e9a7eda0d914bc,",
+      "button.border.ghost": "S:2159cc89d1ce172ed368c24c9e76fbeaa18cdff8,",
+      "button.border.ghost-hover": "S:6c943b7a5b0f5dae740a989033be434d6728d3cc,",
+      "button.border.ghost-pressed": "S:200b5ee6c89f3034135957e11576bd88bd143cb6,",
+      "typography.title-1-stronger": "S:9e8a0417a0aa66a581184da923efd636d7c2aa75,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
