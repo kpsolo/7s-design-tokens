@@ -1308,7 +1308,7 @@
   },
   "radius": {
     "card": {
-      "value": "12px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
@@ -1318,7 +1318,7 @@
       "description": "Radius for thumbs"
     },
     "navbar": {
-      "value": "12px",
+      "value": "44px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -1328,17 +1328,17 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "8px",
+      "value": "44px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
     "tap-bar": {
-      "value": "12px",
+      "value": "20px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
     "popup": {
-      "value": "10px",
+      "value": "8px",
       "type": "borderRadius"
     },
     "tooltips-notifications": {
@@ -1357,17 +1357,17 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "10px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
     "game-item-mini": {
-      "value": "8px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
     "input-custom1": {
-      "value": "10px 10px 10px 10px",
+      "value": "8px 8px 8px 8px",
       "type": "borderRadius",
       "description": "Use for error field"
     },
@@ -1387,13 +1387,13 @@
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
     "live-lottery-tips": {
-      "value": "12px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "use for small tips on final lottery "
     },
     "special-blocks": {
       "jackpot-radius": {
-        "value": "8px",
+        "value": "16px",
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
@@ -2896,11 +2896,11 @@
       "type": "fontFamilies"
     },
     "main": {
-      "value": "{font-family.inter}",
+      "value": "Sofia Sans",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "{font-family.golos ui}",
+      "value": "Sofia Sans",
       "type": "fontFamilies"
     },
     "fester": {
