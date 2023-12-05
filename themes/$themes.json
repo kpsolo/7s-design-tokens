@@ -2,7 +2,9 @@
   {
     "id": "d084ff86637cad138fa461f9c45e80f6b4a970eb",
     "name": "Main Light",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "7slots.winita": "disabled"
+    },
     "$figmaStyleReferences": {
       "Typography.caption-2": "S:02a74ed6f0ec47a2a31983f716b98eb9eb1405e5,",
       "Typography.caption-2-strong": "S:880be5f7adf8f92f00a787fff2d8ff16485c5d89,",
@@ -723,7 +725,8 @@
       "typography.title-1-stronger": "S:9e8a0417a0aa66a581184da923efd636d7c2aa75,"
     },
     "selectedTokenSets": {
-      "7slots.basari": "enabled"
+      "7slots.basari": "enabled",
+      "7slots.winita": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11779:83857",
     "$figmaModeId": "11779:0",
@@ -1396,7 +1399,8 @@
       "typography.title-1-stronger": "S:3d4ac5e61005386a73ab566fabf3886668c339cc,"
     },
     "selectedTokenSets": {
-      "7slots.main": "enabled"
+      "7slots.main": "enabled",
+      "7slots.winita": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:15594:1384824",
     "$figmaModeId": "15594:0",
@@ -1670,9 +1674,19 @@
     "id": "c02b25926b7fb33b4a9888b84ae80b8ad345ad82",
     "name": "Light",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "7slots.winita": "disabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:15594:1385078",
     "$figmaModeId": "15594:1",
     "$figmaVariableReferences": {}
+  },
+  {
+    "id": "a221322c9dd2e0252cb8d95b80ba7e47673f4324",
+    "name": "Winita",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7slots.winita": "enabled"
+    }
   }
 ]
