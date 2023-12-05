@@ -2848,12 +2848,12 @@
       "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
-      "value": "80",
+      "value": "124",
       "type": "sizing",
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "104",
+      "value": "140",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
@@ -2870,12 +2870,12 @@
       "description": "use for top navbar items"
     },
     "logo-mobile": {
-      "value": "28",
+      "value": "32",
       "type": "sizing",
       "description": "use for mobile logo height "
     },
     "logo-desktop": {
-      "value": "30",
+      "value": "64",
       "type": "sizing",
       "description": "use for desktop logo height "
     }
