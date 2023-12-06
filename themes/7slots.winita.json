@@ -1441,7 +1441,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#1C212E",
+      "value": "#0B1B45",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
@@ -1472,7 +1472,7 @@
         "description": "for cashbox bonus popup content"
       },
       "promo": {
-        "value": "linear-gradient(130deg, #4865AB 0%, #000E2F 100%)",
+        "value": "radial-gradient(109.52% 88.16% at 0% 0%, rgba(6, 20, 47, 0.46) 0%, rgba(33, 57, 107, 0.46) 100%)",
         "type": "color",
         "description": "Main banner background"
       },
@@ -1487,7 +1487,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#252D40",
+        "value": "#1D273F",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1572,7 +1572,7 @@
       }
     },
     "gradient": {
-      "value": "linear-gradient(0deg, rgba(81, 122, 175, 0.00) 0%, rgba(81, 122, 175, 0.40) 100%)",
+      "value": "linear-gradient(0deg, rgba(81, 122, 175, 0.00) 0%, #183068 100%)",
       "type": "color",
       "description": "Gradient for bg"
     },
@@ -1849,7 +1849,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#2DD890",
+      "value": "#38D660",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -1874,7 +1874,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#252D40",
+      "value": "#132C6C",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -1988,7 +1988,7 @@
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #39CC59 0%, #30AB4B 93.23%)",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
@@ -1999,7 +1999,7 @@
       }
     },
     "menu-item-active": {
-      "value": "linear-gradient(355deg, #35B56F 0.53%, #B2FFAC 72.6%);",
+      "value": "#32C572",
       "type": "color",
       "description": "color of active item (icon+text)"
     }
@@ -2007,7 +2007,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #39CC59 0%, #30AB4B 93.23%)",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2207,12 +2207,12 @@
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
-        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "value": "linear-gradient(180deg, #EB8426 0%, #DF6711 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(180deg, #B03359 0%, #C0496D 100%)",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -2415,7 +2415,7 @@
       }
     },
     "label-new-1": {
-      "value": "linear-gradient(180deg, #C26BA5 0%, #A05487 100%)",
+      "value": "linear-gradient(180deg, #5A32B0 0%, #683FC0 100%)",
       "type": "color",
       "description": "use for label new in menu item"
     },
@@ -2561,7 +2561,7 @@
       "description": "Use for active icons"
     },
     "accent-additional": {
-      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+      "value": "linear-gradient(180deg, #FFF 0%, #C6C6C6 100%)",
       "type": "color",
       "description": "use for icons in categories mob\n"
     },
@@ -2591,7 +2591,7 @@
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
     "ghost-1": {
-      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+      "value": "linear-gradient(180deg, #FFF 0%, #C7C5C1 100%)",
       "type": "color",
       "description": "for main icons in navbar"
     },
@@ -2617,7 +2617,7 @@
         "description": "[delete?]"
       },
       "4": {
-        "value": "linear-gradient(180deg, #C26BA5 0%, #A05487 100%)",
+        "value": "linear-gradient(180deg, #5A32B0 0%, #683FC0 100%)",
         "type": "color",
         "description": "[delete?]"
       },
@@ -3164,7 +3164,7 @@
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography",
-      "description": "for jackpot amount on mane page desktop"
+      "description": "for jackpot amount on mane page desktop [delete]"
     },
     "jackpot-amount-desktop-light": {
       "value": {
@@ -3179,7 +3179,7 @@
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography",
-      "description": "for jackpot amount on mane page desktop"
+      "description": "for jackpot amount on mane page desktop [delete]"
     },
     "404-500-large": {
       "value": {
@@ -3364,23 +3364,15 @@
       "balance": {
         "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, rgba(26, 37, 61, 0.80) 0%, rgba(26, 35, 57, 0.67) 28.65%, rgba(37, 45, 64, 0.52) 53.65%, rgba(37, 45, 64, 0.22) 76.04%, rgba(37, 45, 64, 0.06) 89.06%, rgba(37, 45, 64, 0.00) 100%)",
+        "value": "transparent",
         "type": "color"
       },
       "sticky": {
-        "value": "linear-gradient(180deg, #1A253D 0%, rgba(26, 35, 57, 0.84) 28.65%, rgba(37, 45, 64, 0.65) 53.65%, rgba(37, 45, 64, 0.27) 76.04%, rgba(37, 45, 64, 0.08) 89.06%, rgba(37, 45, 64, 0.00) 100%)",
+        "value": "transparent",
         "type": "color"
       },
       "top-desktop": {
