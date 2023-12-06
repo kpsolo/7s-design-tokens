@@ -1976,7 +1976,6 @@
       "main": {
         "value": "linear-gradient(180deg, rgba(60, 86, 125, 0.40) 0%, rgba(28, 33, 46, 0.40) 100%)",
         "type": "color",
-        "$extensions": {},
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
@@ -3356,7 +3355,6 @@
       "balance": {
         "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
         "type": "color",
-        "$extensions": {},
         "description": "use for bg under balance amount"
       },
       "main": {
@@ -3750,7 +3748,6 @@
       "2": {
         "value": "linear-gradient(180deg, rgba(76, 121, 133, 0.90) 0%, rgba(74, 162, 186, 0.42) 52.99%, rgba(76, 121, 133, 0.67) 100%)",
         "type": "color",
-        "$extensions": {},
         "description": "use for denomination widget bg"
       },
       "3": {
