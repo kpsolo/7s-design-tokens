@@ -1497,7 +1497,7 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "#43B183",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
