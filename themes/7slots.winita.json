@@ -1436,7 +1436,7 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#374C6D",
+      "value": "#1A326A",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
@@ -1487,7 +1487,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#1D273F",
+        "value": "#132C6C",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1541,7 +1541,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "#1C212E",
+        "value": "#101F42",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
@@ -1854,7 +1854,7 @@
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#FCFF71",
+      "value": "#DB413C",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -1869,7 +1869,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#2DD890",
+      "value": "#3EC332",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -1879,12 +1879,12 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#B62D3E",
+      "value": "#C33232",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FDBB2C",
+      "value": "#DAC13B",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -2032,7 +2032,7 @@
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "value": "linear-gradient(180deg, #E95B56 0%, #D83C37 100%)",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -2431,7 +2431,7 @@
     },
     "check-box": {
       "accent": {
-        "value": "#2DD890",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for check box border"
       },
@@ -2488,7 +2488,7 @@
     },
     "up-button": {
       "accent": {
-        "value": "#2DD890",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
@@ -2566,7 +2566,7 @@
       "description": "use for icons in categories mob\n"
     },
     "alternative": {
-      "value": "#5CD995",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for icons in lists (different from accent icons)"
     },
@@ -3227,7 +3227,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "#1C212E",
+      "value": "#182C53",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -3364,7 +3364,6 @@
       "balance": {
         "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
         "type": "color",
-        "$extensions": {},
         "description": "use for bg under balance amount"
       },
       "main": {
@@ -3428,12 +3427,12 @@
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
     "link": {
-      "value": "#D2E5FF",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#5087D7",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
@@ -3464,7 +3463,7 @@
     },
     "prize": {
       "1": {
-        "value": "#D2C25A",
+        "value": "{base.gold}",
         "type": "color",
         "description": "use for 1 prize in tournament/lottery winners list\n[delete?]"
       },
@@ -3570,7 +3569,7 @@
         "description": "for main headers"
       },
       "accent": {
-        "value": "#FCFF71",
+        "value": "#3BEA62",
         "type": "color"
       },
       "title-winner": {
@@ -3614,7 +3613,7 @@
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for special notification in menu items"
       },
