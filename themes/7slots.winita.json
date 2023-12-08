@@ -3422,7 +3422,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#BABCC2",
+      "value": "#DBDCE0",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
@@ -3646,11 +3646,11 @@
   },
   "betting": {
     "surface": {
-      "value": "#0F1625",
+      "value": "#0D1934",
       "type": "color"
     },
     "card": {
-      "value": "#1C2233",
+      "value": "#172648",
       "type": "color"
     },
     "green": {
