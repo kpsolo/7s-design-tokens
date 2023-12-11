@@ -2298,7 +2298,7 @@
         "description": "navigation for crypto slider"
       },
       "bg-social": {
-        "value": "#454545",
+        "value": "{bg.overlay.2}",
         "type": "color",
         "description": "for social icons bg"
       },
@@ -2317,18 +2317,10 @@
         "description": "for payments bg"
       },
       "dropdown": {
-        "value": "{base.light}",
+        "value": "{bg.overlay.2}",
         "type": "color",
-        "description": "Background for payment dropdown element",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "Background for payment dropdown element"
       }
     },
     "label-new-1": {

@@ -2786,7 +2786,6 @@
       "disabled-label": {
         "value": "{input.text.disabled-value}",
         "type": "color",
-        "$extensions": {},
         "description": "use for text in confirmed field hint"
       }
     }
