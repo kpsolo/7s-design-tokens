@@ -1592,7 +1592,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
+      "value": "linear-gradient(180deg, #3E62AF 0%, #233B6E 100%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -1642,7 +1642,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.08",
+              "value": "0.12",
               "space": "srgb"
             }
           }
@@ -2779,23 +2779,15 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "rgba(186, 188, 194, 0.60)",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
         "description": "use for text in disabled field "
       },
       "disabled-label": {
-        "value": "rgba(186, 188, 194, 0.40)",
+        "value": "{input.text.disabled-value}",
         "type": "color",
-        "description": "use for text in confirmed field hint",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "use for text in confirmed field hint"
       }
     }
   },
