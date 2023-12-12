@@ -908,6 +908,20 @@
         ],
         "type": "boxShadow",
         "description": "use as dropshadow card for big numbers in referral program"
+      },
+      "banner-title": {
+        "value": [
+          {
+            "x": "0",
+            "y": "2",
+            "blur": "2",
+            "spread": "",
+            "color": "rgba(0, 0, 0, 0.25)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "for mob main banner shaddow"
       }
     },
     "header-additional": {
@@ -2319,7 +2333,6 @@
       "dropdown": {
         "value": "{bg.overlay.2}",
         "type": "color",
-        "$extensions": {},
         "description": "Background for payment dropdown element"
       }
     },

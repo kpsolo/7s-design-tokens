@@ -1415,7 +1415,9 @@
       "button.border.ghost": "S:e52b1437ce461d5386a11bddeda993b006a7018c,",
       "button.border.ghost-hover": "S:20b6ed45130bfdb55140c85ec99f362664871f93,",
       "button.border.ghost-pressed": "S:ef546008792caf7f1bcb942e09062ad0f6b8acf5,",
-      "typography.title-1-stronger": "S:3d4ac5e61005386a73ab566fabf3886668c339cc,"
+      "typography.title-1-stronger": "S:3d4ac5e61005386a73ab566fabf3886668c339cc,",
+      "typography.title-3": "S:0ab48e160d80d1e0917ade899e8a460c27eaeef8,",
+      "shadow.special-blocks.banner-title": "S:659fdb0a9cb38ef499e33ad38fdfdd7fa770f7f4,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
