@@ -2407,5 +2407,13 @@
       "wheel.border.bottom": "c2fe34c29150dbe9c8e4df3fa971937319176823",
       "text-wrap.padding-fix": "7890c3b8a29b1a0804012cdb8f2da6ca6a1a3670"
     }
+  },
+  {
+    "id": "8a0e084e4e264680e164a5214256b558d095d4de",
+    "name": "Winita",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7slots.winita": "enabled"
+    }
   }
 ]
