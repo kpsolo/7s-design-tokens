@@ -2,9 +2,7 @@
   {
     "id": "d084ff86637cad138fa461f9c45e80f6b4a970eb",
     "name": "Main Light",
-    "selectedTokenSets": {
-      "7slots.winita": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {
       "Typography.caption-2": "S:02a74ed6f0ec47a2a31983f716b98eb9eb1405e5,",
       "Typography.caption-2-strong": "S:880be5f7adf8f92f00a787fff2d8ff16485c5d89,",
@@ -725,8 +723,7 @@
       "typography.title-1-stronger": "S:9e8a0417a0aa66a581184da923efd636d7c2aa75,"
     },
     "selectedTokenSets": {
-      "7slots.basari": "enabled",
-      "7slots.winita": "disabled"
+      "7slots.basari": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11779:83857",
     "$figmaModeId": "11779:0",
@@ -1423,8 +1420,7 @@
       "shadow.special-blocks.banner-title": "S:659fdb0a9cb38ef499e33ad38fdfdd7fa770f7f4,"
     },
     "selectedTokenSets": {
-      "7slots.default": "enabled",
-      "7slots.winita": "disabled"
+      "7slots.default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:15594:1384824",
     "$figmaModeId": "15594:0",
@@ -1719,9 +1715,7 @@
     "id": "c02b25926b7fb33b4a9888b84ae80b8ad345ad82",
     "name": "Light",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "7slots.winita": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:15594:1385078",
     "$figmaModeId": "15594:1",
     "$figmaVariableReferences": {}
@@ -2119,8 +2113,7 @@
       "shadow.special-blocks.referral": "S:8adf38504745a5f4ca52a609c2522b535bcc8334,"
     },
     "selectedTokenSets": {
-      "7slots.theme-1": "enabled",
-      "7slots.winita": "disabled"
+      "7slots.theme-1": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:18950:92612",
     "$figmaModeId": "18950:0",
@@ -2413,14 +2406,6 @@
       "wheel.button.play": "38d6bf4031c2ea5ae4fdfb35a9fde41d011b093f",
       "wheel.border.bottom": "c2fe34c29150dbe9c8e4df3fa971937319176823",
       "text-wrap.padding-fix": "7890c3b8a29b1a0804012cdb8f2da6ca6a1a3670"
-    }
-  },
-  {
-    "id": "04f8084f258eee88016fc672d795103e41bb0fba",
-    "name": "Winita",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "7slots.theme-1": "enabled"
     }
   }
 ]
