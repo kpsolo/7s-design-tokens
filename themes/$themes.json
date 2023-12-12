@@ -3,7 +3,7 @@
     "id": "d084ff86637cad138fa461f9c45e80f6b4a970eb",
     "name": "Main Light",
     "selectedTokenSets": {
-      "7slots.theme": "disabled"
+      "7slots.theme-1": "disabled"
     },
     "$figmaStyleReferences": {
       "Typography.caption-2": "S:02a74ed6f0ec47a2a31983f716b98eb9eb1405e5,",
@@ -726,7 +726,7 @@
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled",
-      "7slots.theme": "disabled"
+      "7slots.theme-1": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:11779:83857",
     "$figmaModeId": "11779:0",
@@ -1424,7 +1424,7 @@
     },
     "selectedTokenSets": {
       "7slots.default": "enabled",
-      "7slots.theme": "disabled"
+      "7slots.theme-1": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:15594:1384824",
     "$figmaModeId": "15594:0",
@@ -1720,7 +1720,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "7slots.theme": "disabled"
+      "7slots.theme-1": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:15594:1385078",
     "$figmaModeId": "15594:1",
@@ -1728,7 +1728,7 @@
   },
   {
     "id": "a221322c9dd2e0252cb8d95b80ba7e47673f4324",
-    "name": "Winita",
+    "name": "Theme-1",
     "$figmaStyleReferences": {
       "bg.primary": "S:487eee4d59be7fd10b881443da25c6430d3c46f4,",
       "bg.secondary": "S:836d49823286631772175830d601603f15ebd7c0,",
@@ -2119,7 +2119,7 @@
       "shadow.special-blocks.referral": "S:8adf38504745a5f4ca52a609c2522b535bcc8334,"
     },
     "selectedTokenSets": {
-      "7slots.theme": "enabled"
+      "7slots.theme-1": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:18950:92612",
     "$figmaModeId": "18950:0",
