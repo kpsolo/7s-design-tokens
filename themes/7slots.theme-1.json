@@ -738,10 +738,10 @@
     "cashbox": {
       "value": {
         "x": "0",
-        "y": "8",
+        "y": "4",
         "blur": "16",
         "spread": "0",
-        "color": "rgba(30, 26, 26, 0.20)",
+        "color": "rgba(30, 26, 26, 0.40)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
