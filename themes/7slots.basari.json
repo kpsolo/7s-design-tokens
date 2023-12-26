@@ -2508,6 +2508,11 @@
       "type": "color",
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
+    "menu-socials": {
+      "value": "#454545",
+      "type": "color",
+      "description": "For social icons in menu "
+    },
     "ghost-1": {
       "value": "rgba( {base.primary} ,0.6)",
       "type": "color",
@@ -2544,11 +2549,6 @@
         "type": "color",
         "description": "[delete?]"
       }
-    },
-    "menu-socials": {
-      "value": "{text.link-alternative}",
-      "type": "color",
-      "description": "For social icons in menu "
     }
   },
   "input": {
