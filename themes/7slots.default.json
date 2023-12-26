@@ -2595,6 +2595,11 @@
       "type": "color",
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
+    "menu-socials": {
+      "value": "{text.link-alternative}",
+      "type": "color",
+      "description": "For social icons in menu "
+    },
     "ghost-1": {
       "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
       "type": "color",

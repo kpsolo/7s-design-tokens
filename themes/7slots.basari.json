@@ -2544,6 +2544,11 @@
         "type": "color",
         "description": "[delete?]"
       }
+    },
+    "menu-socials": {
+      "value": "{text.link-alternative}",
+      "type": "color",
+      "description": "For social icons in menu "
     }
   },
   "input": {
