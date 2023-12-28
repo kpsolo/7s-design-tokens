@@ -2596,7 +2596,7 @@
       "description": "For light icons on color background or picture- footer app buttons, icons on menu top part,header.collection cards, tournament/lottery inner card, messages picture"
     },
     "menu-socials": {
-      "value": "{text.link-alternative}",
+      "value": "#416daf",
       "type": "color",
       "description": "For social icons in menu "
     },
