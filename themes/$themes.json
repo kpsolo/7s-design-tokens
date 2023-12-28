@@ -1391,8 +1391,8 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {},
-    "$figmaCollectionId": "VariableCollectionId:15594:1385078",
-    "$figmaModeId": "15594:1",
+    "$figmaCollectionId": "VariableCollectionId:20780:25240",
+    "$figmaModeId": "20780:0",
     "$figmaVariableReferences": {}
   },
   {
@@ -2709,7 +2709,7 @@
       "bg.overlay-gradient.welcome": "S:a24d6e22e03e11e710b4da35bed17b26cc8a10b5,"
     },
     "$figmaVariableReferences": {},
-    "$figmaCollectionId": "VariableCollectionId:10003:66179",
-    "$figmaModeId": "10003:0"
+    "$figmaCollectionId": "VariableCollectionId:20780:25241",
+    "$figmaModeId": "20780:1"
   }
 ]
