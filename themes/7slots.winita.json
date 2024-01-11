@@ -540,19 +540,11 @@
     "tapbar": {
       "value": [
         {
-          "color": "#2727271a",
-          "type": "dropShadow",
           "x": "0",
-          "y": "-4",
-          "blur": "8",
-          "spread": "0"
-        },
-        {
-          "x": "0",
-          "y": "0.5",
-          "blur": "1",
+          "y": "0",
+          "blur": "0",
           "spread": "0",
-          "color": "rgba(255,255,255,0.2)",
+          "color": "transparent",
           "type": "innerShadow"
         }
       ],
@@ -565,7 +557,7 @@
         "y": "8",
         "blur": "16",
         "spread": "0",
-        "color": "rgba(25, 30, 45, 0.60)",
+        "color": "transparent",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -575,18 +567,10 @@
       "value": [
         {
           "x": "0",
-          "y": "1",
-          "blur": "1",
-          "spread": "0",
-          "color": "rgba(255,255,255,0.08)",
-          "type": "innerShadow"
-        },
-        {
-          "x": "0",
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "rgba(25, 30, 45, 0.40)",
+          "color": "transparent",
           "type": "dropShadow"
         }
       ],
@@ -600,7 +584,7 @@
           "y": "8",
           "blur": "16",
           "spread": "0",
-          "color": "rgba(25, 30, 45, 0.60)",
+          "color": "transparent",
           "type": "dropShadow"
         }
       ],
@@ -613,7 +597,7 @@
         "y": "4",
         "blur": "24",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.20)",
+        "color": "transparent",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -621,12 +605,12 @@
     },
     "button": {
       "value": {
-        "color": "#27272733",
-        "type": "dropShadow",
         "x": "0",
         "y": "2",
         "blur": "8",
-        "spread": "0"
+        "spread": "0",
+        "color": "transparent",
+        "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for button"
@@ -650,7 +634,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "#2A8249",
+          "color": "transparent",
           "type": "dropShadow"
         },
         {
@@ -658,7 +642,7 @@
           "y": "0",
           "blur": "8",
           "spread": "",
-          "color": "#2A8249",
+          "color": "transparent",
           "type": "dropShadow"
         }
       ],
@@ -684,7 +668,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "#2A8249",
+          "color": "transparent",
           "type": "dropShadow"
         },
         {
@@ -692,7 +676,7 @@
           "y": "0",
           "blur": "8",
           "spread": "",
-          "color": "#2A8249",
+          "color": "transparent",
           "type": "dropShadow"
         }
       ],
@@ -717,7 +701,7 @@
         "y": "1",
         "blur": "2",
         "spread": "0",
-        "color": "rgba(0,0,0,0.6)",
+        "color": "transparent",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -725,12 +709,12 @@
     },
     "tips": {
       "value": {
-        "color": "#26262666",
-        "type": "dropShadow",
         "x": "0",
         "y": "1",
         "blur": "2",
-        "spread": "0"
+        "spread": "0",
+        "color": "transparent",
+        "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for small elements on top of components,labels, small game thumbs"
@@ -741,7 +725,7 @@
         "y": "8",
         "blur": "16",
         "spread": "0",
-        "color": "rgba(30, 26, 26, 0.20)",
+        "color": "transparent",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -754,7 +738,7 @@
           "y": "2",
           "blur": "4",
           "spread": "0",
-          "color": "{base.gold}",
+          "color": "transparent",
           "type": "dropShadow"
         }
       ],
@@ -767,7 +751,7 @@
         "y": "0",
         "blur": "0",
         "spread": "0",
-        "color": "#2626264d",
+        "color": "transparent",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -779,7 +763,7 @@
         "y": "6",
         "blur": "12",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0.40)",
+        "color": "transparent",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -787,12 +771,12 @@
     },
     "nav": {
       "value": {
-        "color": "#2727271a",
-        "type": "dropShadow",
         "x": "0",
         "y": "-4",
         "blur": "8",
-        "spread": "0"
+        "spread": "0",
+        "color": "transparent",
+        "type": "dropShadow"
       },
       "type": "boxShadow",
       "description": "Shadow for sticky bar"
@@ -804,7 +788,7 @@
           "y": "1",
           "blur": "0",
           "spread": "0",
-          "color": "rgba(255, 255, 255, 0.10)",
+          "color": "transparent",
           "type": "dropShadow"
         },
         "type": "boxShadow",
@@ -817,7 +801,7 @@
             "y": "0",
             "blur": "16",
             "spread": "0",
-            "color": "#006CFF",
+            "color": "transparent",
             "type": "dropShadow"
           },
           {
@@ -825,7 +809,7 @@
             "y": "0",
             "blur": "16",
             "spread": "0",
-            "color": "#006CFF",
+            "color": "transparent",
             "type": "dropShadow"
           }
         ],
@@ -839,7 +823,7 @@
             "y": "4",
             "blur": "18",
             "spread": "",
-            "color": "rgba(0, 101, 255, 0.62)",
+            "color": "transparent",
             "type": "dropShadow"
           },
           {
@@ -847,7 +831,7 @@
             "y": "6",
             "blur": "18",
             "spread": "",
-            "color": "rgba(0, 101, 255, 0.50)",
+            "color": "transparent",
             "type": "dropShadow"
           },
           {
@@ -855,7 +839,7 @@
             "y": "6",
             "blur": "18",
             "spread": "",
-            "color": "rgba(0, 101, 255, 0.40)",
+            "color": "transparent",
             "type": "dropShadow"
           },
           {
@@ -863,7 +847,7 @@
             "y": "6",
             "blur": "18",
             "spread": "",
-            "color": "rgba(0, 101, 255, 0.32)",
+            "color": "transparent",
             "type": "dropShadow"
           }
         ],
@@ -875,7 +859,7 @@
           "y": "0",
           "blur": "12",
           "spread": "0",
-          "color": "#00FFC2",
+          "color": "transparent",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -886,7 +870,7 @@
           "y": "-1",
           "blur": "0",
           "spread": "",
-          "color": "#1D1F24",
+          "color": "transparent",
           "type": "dropShadow"
         },
         "type": "boxShadow",
@@ -899,7 +883,7 @@
             "y": "-4",
             "blur": "16",
             "spread": "",
-            "color": "rgba(56, 255, 192, 0.40)",
+            "color": "transparent",
             "type": "dropShadow"
           },
           {
@@ -907,7 +891,7 @@
             "y": "-1",
             "blur": "8",
             "spread": "",
-            "color": "rgba(56, 255, 192, 0.40)",
+            "color": "transparent",
             "type": "dropShadow"
           },
           {
@@ -915,7 +899,7 @@
             "y": "-1",
             "blur": "6",
             "spread": "",
-            "color": "rgba(56, 255, 192, 0.40)",
+            "color": "transparent",
             "type": "dropShadow"
           }
         ],
@@ -958,7 +942,7 @@
             "y": "0",
             "blur": "36",
             "spread": "",
-            "color": "#8DFCFD",
+            "color": "transparent",
             "type": "dropShadow"
           },
           "type": "boxShadow",
@@ -972,7 +956,7 @@
             "y": "28",
             "blur": "28",
             "spread": "0",
-            "color": "rgba(255, 255, 255, 0.03)",
+            "color": "transparent",
             "type": "innerShadow"
           },
           {
@@ -980,7 +964,7 @@
             "y": "-28",
             "blur": "28",
             "spread": "0",
-            "color": "rgba(194, 194, 194, 0.03)",
+            "color": "transparent",
             "type": "innerShadow"
           }
         ],
@@ -1322,12 +1306,12 @@
   },
   "radius": {
     "card": {
-      "value": "10px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
     "game-item": {
-      "value": "10px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
@@ -1337,7 +1321,7 @@
       "description": "use for navbar on main page"
     },
     "prize": {
-      "value": "4px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "use for prize item in tournament/lotery page "
     },
@@ -1347,16 +1331,16 @@
       "description": "Radius for buttons"
     },
     "tap-bar": {
-      "value": "20px",
+      "value": "0px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
     "popup": {
-      "value": "8px",
+      "value": "2px",
       "type": "borderRadius"
     },
     "tooltips-notifications": {
-      "value": "10px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
@@ -1371,17 +1355,17 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "8px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
     "game-item-mini": {
-      "value": "4px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
     "input-custom1": {
-      "value": "8px 8px 8px 8px",
+      "value": "2px 2px 2px 2px",
       "type": "borderRadius",
       "description": "Use for error field"
     },
@@ -1391,23 +1375,23 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "4px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
     "large-tips": {
-      "value": "100px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
     "live-lottery-tips": {
-      "value": "10px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "use for small tips on final lottery "
     },
     "special-blocks": {
       "jackpot-radius": {
-        "value": "16px",
+        "value": "0px",
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
@@ -1450,18 +1434,18 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#1A326A",
+      "value": "#fff",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#0B1B45",
+      "value": "#D9E4FF",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, #1D2E5B 0.06%, #5D6C97 99.97%)",
+        "value": "#FFFFFF",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -1486,12 +1470,12 @@
         "description": "for cashbox bonus popup content"
       },
       "promo": {
-        "value": "radial-gradient(109.52% 88.16% at 0% 0%, rgba(6, 20, 47, 0.46) 0%, rgba(33, 57, 107, 0.46) 100%)",
+        "value": "#173A86",
         "type": "color",
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "linear-gradient(101deg, rgba(101, 142, 202, 0.60) 5.63%, rgba(79, 126, 194, 0.60) 92.98%)",
+        "value": "#2F57AB",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -1501,7 +1485,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#132C6C",
+        "value": "#1A3271",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -1570,7 +1554,7 @@
         "description": "use as bg for welcome popup timer widget"
       },
       "lootboxes-cell-selected": {
-        "value": "linear-gradient(180deg, rgba(248, 0, 24, 0.00) 53.95%, rgba(248, 0, 24, 0.20) 68.4%, rgba(248, 0, 24, 0.40) 81.71%, #F80018 100%), {bg.secondary}",
+        "value": "transparent",
         "type": "color",
         "description": "bg.other.lootboxes-cof-selected"
       },
@@ -1591,7 +1575,7 @@
       "description": "Gradient for bg"
     },
     "additional": {
-      "value": "#31425E",
+      "value": "#F4F7FB",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1601,7 +1585,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "popup": {
-      "value": "#252D40",
+      "value": "#F2F3F5",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -1863,7 +1847,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#38D660",
+      "value": "#0A5AC9",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -1883,17 +1867,17 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#3EC332",
+      "value": "#39CC59",
       "type": "color",
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#132C6C",
+      "value": "#fff",
       "type": "color",
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#C33232",
+      "value": "#DE3838",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -1988,26 +1972,18 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "linear-gradient(180deg, rgba(60, 86, 125, 0.40) 0%, rgba(28, 33, 46, 0.40) 100%)",
+        "value": "rgba(255, 255, 255, 0.95)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "linear-gradient(180deg, #39CC59 0%, #30AB4B 93.23%)",
+        "value": "#1CB13D",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },
       "button-icon": {
-        "value": "linear-gradient(0deg, #B8DFE1 0.03%, #EBF2FC 58.33%, #EFF5FF 99.97%), #FFF",
+        "value": "#FFFF",
         "type": "color",
         "description": "Color of icon on big button in tapbar"
       }
@@ -2897,28 +2873,12 @@
     }
   },
   "font-family": {
-    "roboto": {
-      "value": "Roboto",
-      "type": "fontFamilies"
-    },
-    "inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    },
     "main": {
-      "value": "Sofia Sans",
+      "value": "Akshar",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "Sofia Sans",
-      "type": "fontFamilies"
-    },
-    "fester": {
-      "value": "Fester",
-      "type": "fontFamilies"
-    },
-    "golos ui": {
-      "value": "Golos UI",
+      "value": "Teko",
       "type": "fontFamilies"
     }
   },
@@ -3715,12 +3675,12 @@
     "active tab": {
       "value": "{radius.button}",
       "type": "borderRadius",
-      "description": "Tab news, shop"
+      "description": "Tab news, shop\n[delete?]"
     },
     "bg": {
       "value": "{radius.button}",
       "type": "borderRadius",
-      "description": "bg all tabs"
+      "description": "bg all tabs\n[delete?]"
     },
     "bg all": {
       "value": "{bg.tertiary}",
