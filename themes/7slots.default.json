@@ -2897,27 +2897,11 @@
     }
   },
   "font-family": {
-    "roboto": {
-      "value": "Roboto",
-      "type": "fontFamilies"
-    },
-    "inter": {
+    "main": {
       "value": "Inter",
       "type": "fontFamilies"
     },
-    "main": {
-      "value": "{font-family.inter}",
-      "type": "fontFamilies"
-    },
     "accent": {
-      "value": "{font-family.golos ui}",
-      "type": "fontFamilies"
-    },
-    "fester": {
-      "value": "Fester",
-      "type": "fontFamilies"
-    },
-    "golos ui": {
       "value": "Golos UI",
       "type": "fontFamilies"
     }

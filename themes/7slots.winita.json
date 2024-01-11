@@ -1974,7 +1974,6 @@
       "main": {
         "value": "rgba(255, 255, 255, 0.95)",
         "type": "color",
-        "$extensions": {},
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
