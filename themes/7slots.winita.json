@@ -1480,7 +1480,7 @@
         "description": "Background color for card winners now"
       },
       "tooltip": {
-        "value": "#FFF",
+        "value": "#E5ECFF",
         "type": "color",
         "description": "Use for tooltip background"
       },
@@ -1559,7 +1559,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "#1C212E",
+        "value": "#173A86",
         "type": "color",
         "description": "Baground foe categories on desktop"
       },
@@ -1585,7 +1585,7 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "popup": {
-      "value": "#F2F3F5",
+      "value": "#FFF",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -2391,7 +2391,6 @@
       "dropdown": {
         "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
-        "$extensions": {},
         "description": "Background for payment dropdown element"
       }
     },
@@ -3354,7 +3353,7 @@
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
     "accent-additional": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "use for accent text in welcome popup"
     },
@@ -3407,7 +3406,7 @@
       "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color"
     },
     "error": {
