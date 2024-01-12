@@ -1696,7 +1696,7 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "linear-gradient(180deg, #2B3344 0%, #141A27 100%)",
+        "value": "#fff",
         "type": "color",
         "description": "use for progress bar bg "
       },
