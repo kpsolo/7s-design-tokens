@@ -1732,7 +1732,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba(37, 45, 64, 0.00) 0%, #252D40 72.13%, #252D40 100%)",
+        "value": "linear-gradient(180deg, {bg.primary} 0%, {bg.primary} 72.13%, {bg.primary} 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
@@ -1902,7 +1902,7 @@
       "description": "Color for winners"
     },
     "primary": {
-      "value": "#ffffff",
+      "value": "#192947",
       "type": "color",
       "description": "for text,icons"
     },
@@ -2196,7 +2196,7 @@
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
-        "value": "linear-gradient(180deg, #EB8426 0%, #DF6711 100%)",
+        "value": "#EB8426",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -2357,7 +2357,7 @@
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "#EB8426",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       }
@@ -2468,17 +2468,17 @@
     },
     "up-button": {
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
       "hover-bg": {
-        "value": "linear-gradient(180deg, #B2FFAC 23.44%, #35B56F 100%)",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Bg on hover on floating button"
       },
       "bg": {
-        "value": "#1C212E",
+        "value": "#FFFFFF",
         "type": "color",
         "description": "Bg on default on floating button"
       },
@@ -2488,7 +2488,7 @@
         "description": "border on default on floating button"
       },
       "hover-icon": {
-        "value": "{icon.secondary}",
+        "value": "#ffff",
         "type": "color",
         "description": "Bg on hover on floating button"
       }
@@ -3204,7 +3204,7 @@
       }
     },
     "dropdown-content": {
-      "value": "{text.light}",
+      "value": "{text.primary}",
       "type": "color",
       "description": "Color of text and icons for custom dropdown"
     },
@@ -3213,7 +3213,7 @@
       "type": "color"
     },
     "amount-jackpot": {
-      "value": "linear-gradient(180deg, #BCDAF6 0%, #FFF 100%)",
+      "value": "#fff",
       "type": "color"
     },
     "verification-title": {
