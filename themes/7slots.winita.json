@@ -92,7 +92,7 @@
     "caption-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.4}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.m}",
         "fontSize": "{font-size.4}",
         "letterSpacing": "{letter-spacing.0}",
@@ -166,7 +166,7 @@
     "body-1-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.4}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.5}",
         "letterSpacing": "{letter-spacing.0}",
@@ -197,7 +197,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.3}",
+        "fontSize": "16px",
         "letterSpacing": "{letter-spacing.0,2}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -271,7 +271,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.s}",
-        "fontSize": "{font-size.3}",
+        "fontSize": "16px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -286,7 +286,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.s}",
-        "fontSize": "{font-size.4}",
+        "fontSize": "18px",
         "letterSpacing": "{letter-spacing.0,5}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -313,7 +313,7 @@
     "title-small-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.4}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.extra}",
         "letterSpacing": "{letter-spacing.0}",
@@ -2920,7 +2920,7 @@
       "type": "fontWeights"
     },
     "4": {
-      "value": "600",
+      "value": "500",
       "type": "fontWeights",
       "description": "use in mob menu sums"
     }
