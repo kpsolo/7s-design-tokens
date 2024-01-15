@@ -2136,12 +2136,12 @@
         "description": "Icon color on a secondary button"
       },
       "tertiary": {
-        "value": "#fff",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "description": "Icon color on a tertiary button"
       },
       "ghost": {
-        "value": "#43B183",
+        "value": "{button.text.ghost}",
         "type": "color",
         "description": "Icon color on a ghost button"
       },
@@ -2156,35 +2156,71 @@
         "description": "Icon color on a secondary disabled button"
       },
       "tertiary-disabled": {
-        "value": "rgba(255,255,255,0.4)",
+        "value": "{button.text.tertiary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Icon color on a tertiary disabled button"
       },
       "ghost-disabled": {
-        "value": "rgba(255,255,255,0.4)",
+        "value": "{button.text.tertiary-disabled}",
         "type": "color",
         "description": "Icon color on a ghost disabled button"
       }
     },
     "border": {
       "tertiary": {
-        "value": "{base.light}",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "description": "border color for buttons default"
       },
       "tertiary-hover": {
-        "value": "#e9e9e9",
+        "value": "{button.border.tertiary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border color for buttons hover"
       },
       "tertiary-pressed": {
-        "value": "#d3d3d3",
+        "value": "{button.text.tertiary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border color for buttons pressed"
       },
       "tertiary-disabled": {
-        "value": "rgba(255,255,255,0.6)",
+        "value": "{button.text.tertiary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border color for buttons disabled"
       },
       "ghost": {
@@ -2220,17 +2256,17 @@
         "description": "Text color for buttons on light bg (notification)"
       },
       "tertiary": {
-        "value": "{base.light}",
+        "value": "#33B34F",
         "type": "color",
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "#31AE4D",
+        "value": "#33B34F",
         "type": "color",
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "#ffffff80",
+        "value": "rgba(255,255,255,0.5)",
         "type": "color",
         "description": "Text color on primary disabled button"
       },
@@ -2240,12 +2276,21 @@
         "description": "Text color on secondary disabled button"
       },
       "tertiary-disabled": {
-        "value": "rgba(255,255,255,0.4)",
+        "value": "{button.text.tertiary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Text color on tertiary disabled button"
       },
       "ghost-disabled": {
-        "value": "rgba(255,255,255,0.4)",
+        "value": "{button.text.tertiary-disabled}",
         "type": "color",
         "description": "Text color on ghost disabled button"
       }
