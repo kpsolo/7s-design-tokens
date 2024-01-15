@@ -297,14 +297,14 @@
     },
     "title-small": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.extra}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -312,14 +312,14 @@
     },
     "title-small-strong": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.4}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.extra}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -327,7 +327,7 @@
     },
     "title-tab": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.5}",
@@ -342,14 +342,14 @@
     },
     "title-small-stronger": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.extra}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -364,7 +364,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -409,7 +409,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -424,7 +424,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -432,14 +432,14 @@
     },
     "menu-desktop": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.5}",
         "fontSize": "{font-size.7}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -469,7 +469,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -484,7 +484,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -499,7 +499,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -514,7 +514,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -1148,7 +1148,7 @@
     },
     "popup": {
       "value": {
-        "color": "transparent",
+        "color": "#DCE0EE",
         "width": "1",
         "style": "solid"
       },
@@ -1225,7 +1225,7 @@
     },
     "input-default": {
       "value": {
-        "color": "transparent",
+        "color": "#C6CCE0",
         "width": "{border-width.input}",
         "style": "solid"
       },
@@ -1727,7 +1727,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(46, 58, 86, 0.00) 0%, rgba(46, 58, 86, 0.47) 62.72%, #2E3A56 100%)",
+        "value": "linear-gradient(0deg, {bg.technical} 0%, {bg.technical} 62.72%, {bg.technical} 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
@@ -2616,17 +2616,9 @@
   "input": {
     "border": {
       "default": {
-        "value": "transparent",
+        "value": "#C6CCE0",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Border color for default inputs"
       },
       "focus": {
@@ -2722,7 +2714,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.2",
+              "value": "0.1",
               "space": "srgb"
             }
           }
@@ -2890,7 +2882,7 @@
       "type": "lineHeights"
     },
     "5": {
-      "value": "32px",
+      "value": "24px",
       "type": "lineHeights"
     },
     "sm": {
@@ -2912,19 +2904,19 @@
   },
   "font-weight": {
     "0": {
-      "value": "400",
+      "value": "300",
       "type": "fontWeights"
     },
     "1": {
-      "value": "500",
+      "value": "400",
       "type": "fontWeights"
     },
     "2": {
-      "value": "700",
+      "value": "500",
       "type": "fontWeights"
     },
     "3": {
-      "value": "900",
+      "value": "700",
       "type": "fontWeights"
     },
     "4": {
@@ -2947,7 +2939,7 @@
       "type": "fontSizes"
     },
     "3": {
-      "value": "12",
+      "value": "13",
       "type": "fontSizes"
     },
     "4": {
@@ -2955,7 +2947,7 @@
       "type": "fontSizes"
     },
     "5": {
-      "value": "16",
+      "value": "15",
       "type": "fontSizes"
     },
     "6": {
@@ -2963,7 +2955,7 @@
       "type": "fontSizes"
     },
     "7": {
-      "value": "24",
+      "value": "20",
       "type": "fontSizes"
     },
     "8": {
@@ -2981,7 +2973,7 @@
       "description": "for main page titles (mob)"
     },
     "extra-2": {
-      "value": "22",
+      "value": "20",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     }
@@ -3187,7 +3179,7 @@
       "description": "for referral cards numbers"
     },
     "dropdown-custom": {
-      "value": "{base.accent-light}",
+      "value": "#fff",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
