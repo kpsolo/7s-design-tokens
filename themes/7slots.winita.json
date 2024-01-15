@@ -1727,12 +1727,12 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, {bg.technical} 0%, {bg.technical} 62.72%, {bg.technical} 100%)",
+        "value": "linear-gradient(0deg, rgba({bg.technical}, 0.00) 0%, rgba({bg.technical}, 62.72) 62.72%, {bg.technical} 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, {bg.primary} 0%, {bg.primary} 72.13%, {bg.primary} 100%)",
+        "value": "linear-gradient(180deg, rgba({bg.primary}, 0.00) 0%, rgba({bg.primary}, 72.13) 72.13%, {bg.primary} 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
@@ -2313,17 +2313,9 @@
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
-        "value": "#1C212E",
+        "value": "#CAD5F4",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use in mob registation tabs"
       }
     },
@@ -2341,7 +2333,7 @@
       "type": "color"
     },
     "fade-tertiary": {
-      "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "Fade on tertiary backgrounds"
     },
