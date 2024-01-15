@@ -2001,43 +2001,106 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "linear-gradient(180deg, #6CFFAF 0%, #3A9B84 100%)",
+        "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "linear-gradient(180deg, #51BF83 0%, #348C77 100%)",
+        "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
-        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0.60) 0%, rgba(58, 155, 132, 0.60) 100%)",
+        "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "transparent",
+        "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(180deg, #E95B56 0%, #D83C37 100%)",
+        "value": "#FF5050",
         "type": "color",
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(180deg, #52ADFF 0%, #416FB4 100%)",
+        "value": "{button.bg.secondary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "linear-gradient(180deg, #3B7BB5 0%, #416FB4 100%)",
+        "value": "{button.bg.secondary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "transparent",
+        "value": "{button.bg.secondary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
@@ -2162,7 +2225,7 @@
         "description": "color on tertiary buttons"
       },
       "ghost": {
-        "value": "#43B183",
+        "value": "#31AE4D",
         "type": "color",
         "description": "color on ghost buttons"
       },

@@ -683,7 +683,8 @@
       "wheel.picker.bg-main-2-additional": "59971d2ee0912483527748f7918c7f1cdf9d8d51",
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
-      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c"
+      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
+      "special-blocks.referral.bg": "bfb53736363e7c6aa9a5325c72b1654148d0eb37"
     }
   },
   {
@@ -1383,7 +1384,8 @@
       "live-lottery.now-win-text": "694731ca12e9febe318df10cada87dea65bd1559",
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
-      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec"
+      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
+      "special-blocks.referral.bg": "1fb38d55d673e88d29dd35fbadbcb517ac2dbf06"
     }
   },
   {
@@ -2081,7 +2083,8 @@
       "wheel.picker.bg-main-2-additional": "15adfce9bfa3d09fc5bed3f7d53459fe7cc87b0a",
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
-      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe"
+      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
+      "special-blocks.referral.bg": "6a1025a7bb33864996b3def9e488a37bd1620c9c"
     }
   },
   {
@@ -2555,6 +2558,7 @@
       "bg.overlay.light-1": "9b90a106f588a7b3a1fddec31c0475977fcd9855",
       "bg.overlay.light-2": "b07d77f5629ab0bdf99bbff796cb45becbc26af9",
       "bg.overlay.gamepage": "0bb6d3ca57b0c7f4c7a11cf9ee039752e76813af",
+      "bg.overlay-gradient.5": "b80ed84062d4914c52e0ae951361a0c2f516db5a",
       "bg.blur": "ce88a73a7c41d7f8c1f121fd8488601469a5bf3c",
       "bg.info-blur": "263c8d58720c734b6ccd1c571d0142691e32fa5b",
       "bg.elements-blur": "df94d97066ed17cc757f8b05f6c5506bb9b08459",
@@ -2590,7 +2594,13 @@
       "navbar.bg.button-icon": "f498f86c55599968333f749feaaf9befb5fd1021",
       "navbar.menu-item-active": "8bad587084eadb1183bdc60b7b8d3449d3785e66",
       "button.bg.primary": "f538eef4fc1c05423c557236d9cb5719ca9a96ac",
+      "button.bg.primary-hover": "c256c286958a8fde0d2526a3b02c31d3483627ba",
+      "button.bg.primary-pressed": "886b203eab47adf9a3c9149841ae278aee049e1b",
+      "button.bg.primary-disabled-additional": "6f707fd81e72defbbf3b3d1cda9c436cf713712c",
       "button.bg.primary-disabled": "c926f139928ae97d22f1abeefcd3875d27492732",
+      "button.bg.secondary": "20b874e37107ae3e086069870724b1b7106fb4b2",
+      "button.bg.secondary-hover": "7c32f426f378388e5fce024922946828e830e4ae",
+      "button.bg.secondary-pressed": "fc3b82a934ca470f7cd07ace0da6e49bf1ec5d1f",
       "button.bg.secondary-disabled": "ebe1359c56140e528a512ac5dc8da61cba8d6164",
       "button.bg.app-default": "c0b64dbe33bfb8f7e149711def87d5473e11df91",
       "button.bg.app-hover": "1fb00bed964e566e5e9b9a758b1c058c6ab91888",
@@ -2720,6 +2730,7 @@
       "special-blocks.jackpot-widget-bg": "a895ad2ac7459b4a67ec3db40bb6c4dce0736a34",
       "special-blocks.jackpot-line": "3ca0132bd31831eaa49e88a524525b45312d0f4c",
       "special-blocks.dropdown-custom": "4983e6f720f30868f33e3c9df44392ee337aa6af",
+      "special-blocks.referral.bg": "9a97ab45d3af870a0154c2aff70975bbef0c426b",
       "special-blocks.dropdown-content": "16729511d16c7719c73c6e2fe44c571565f10ef6",
       "special-blocks.title-jackpot": "d4710164321083a3af9aa96caacbe895b62157a6",
       "special-blocks.amount-jackpot": "ac6eaeea9bcce91744da769cbea4099c9eb803d6",
