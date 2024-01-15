@@ -2352,7 +2352,7 @@
     },
     "badge": {
       "1": {
-        "value": "#B62D3E",
+        "value": "#EB8426",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
