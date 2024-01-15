@@ -1506,7 +1506,7 @@
         "description": "Background color for footer"
       },
       "1click": {
-        "value": "#FFF",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
