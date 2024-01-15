@@ -3209,6 +3209,11 @@
         "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
+      },
+      "bg": {
+        "value": "#DBE5F0",
+        "type": "color",
+        "description": "use for numbers gradient in conditions"
       }
     },
     "referral-number": {

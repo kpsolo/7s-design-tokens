@@ -1727,7 +1727,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba({bg.technical}, 0.00) 0%, rgba({bg.technical}, 62.72) 62.72%, {bg.technical} 100%)",
+        "value": "linear-gradient(0deg, rgba(23, 58, 134, 0.00) 0%, #14254A 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
@@ -1742,7 +1742,7 @@
         "description": "use for coin in lootboxes"
       },
       "5": {
-        "value": "linear-gradient(180deg, rgba({bg.secondary}, 0.00) 0%, {bg.secondary} 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
@@ -2315,7 +2315,6 @@
       "secondary": {
         "value": "#CAD5F4",
         "type": "color",
-        "$extensions": {},
         "description": "use in mob registation tabs"
       }
     },
@@ -3181,7 +3180,12 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
+        "value": "linear-gradient(153deg, #3FCF5F 34.75%, #0A5AC9 64.04%)",
+        "type": "color",
+        "description": "use for numbers gradient in conditions"
+      },
+      "bg": {
+        "value": "#F4F7FB",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       }

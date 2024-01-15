@@ -2476,7 +2476,8 @@
       "shadow.special-blocks.wheel.main": "S:0c9909da26e7eb349c622035cdb49d6ec8c407ad,",
       "shadow.special-blocks.card": "S:9209cf8423844b44c62e74461ef2fba973cd8533,",
       "shadow.special-blocks.referral": "S:f5c9b1868dbe36f7fc8383bbd469a82107757d3e,",
-      "shadow.special-blocks.banner-title": "S:205c7e68757ea71a0db562314b984891e6d61b26,"
+      "shadow.special-blocks.banner-title": "S:205c7e68757ea71a0db562314b984891e6d61b26,",
+      "special-blocks.referral.bg": "S:25496c8b5d70cf99442edb9fe5337841665204e0,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
