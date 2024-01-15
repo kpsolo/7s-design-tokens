@@ -1996,7 +1996,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(180deg, #39CC59 0%, #30AB4B 93.23%)",
+        "value": "#39CC59",
         "type": "color",
         "description": "Background for primary buttons"
       },
