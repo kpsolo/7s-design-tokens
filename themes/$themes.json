@@ -608,6 +608,7 @@
       "special-blocks.referral.accent": "021a8df42b1ea51c2e7f04ffa9ec1c856df736d8",
       "special-blocks.referral.bg-additional": "215f6520a301bde19aa59812127186f6c47083bf",
       "special-blocks.dropdown-content": "b9b0fc042f2359db1d2e17b5f8575254bf562a20",
+      "special-blocks.jackpot-sum": "dbc761602d85592edc605cad0089e4f32dde391d",
       "filed spacing.left": "99e7bd728b04ff7469fadf8451cd3f7798ad805e",
       "filed spacing.right": "823d4d7ecce5cbf60eef2c08c9bb08369f2f9ef7",
       "filed spacing.top-main": "cd5bff3913e08b96e97046391e3c745f44a734b5",
@@ -616,6 +617,7 @@
       "filed spacing.bottom-submain": "a6df6a35c140ad5a4b2546475c7d0aeb3303a5bc",
       "categories.bg.main": "56434751fdc4b4f8635b59bb631711b72133d409",
       "categories.bg.additional": "fb04a9d2ae04b00a580a1afd42bc801f26ac0a88",
+      "categories.bg.extra": "2fffc69bbc8bc1f74b6fdcf5c915e989cae2083d",
       "categories.accent": "a30d0845a19d50ad7a3af8e719122410c4f89203",
       "header.bg.top-desktop": "fe78685f2abfcd0cd5839a9c4c3571f7f19aad7f",
       "text.light": "72a23e3025781ae790cc9267ffe14e7792d6bb6b",
@@ -642,6 +644,7 @@
       "text.title.main": "fbd348b50f1329cea4022686927aaec196533a74",
       "text.title.accent": "052fd912c5589aac290e812f6751a486addde8bc",
       "text.title.title-winner": "0833765477206f1b0115d67936a576b453380e8b",
+      "text.title.accent-additional": "6a2b5e82ec71795193ad57b045cd628c03035137",
       "menu.bg.item-default": "401bdb085fb0ca01ef9da11e23a8fb313788ba0c",
       "menu.bg.item-hover": "25b9573b639106c5fd88cc2ff5bb19b4fc573274",
       "menu.bg.info": "61be6b2d3de9c8a7cd6e7627e377ca84372eca86",
@@ -690,9 +693,7 @@
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
       "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
-      "categories.bg.extra": "2fffc69bbc8bc1f74b6fdcf5c915e989cae2083d",
-      "special-blocks.jackpot-sum": "dbc761602d85592edc605cad0089e4f32dde391d",
-      "text.title.accent-additional": "6a2b5e82ec71795193ad57b045cd628c03035137"
+      "bg.additional-2": "c3700022191d5c8a383518d0cb824f62d9ea1101"
     }
   },
   {
@@ -1302,6 +1303,7 @@
       "special-blocks.referral.bg": "1fb38d55d673e88d29dd35fbadbcb517ac2dbf06",
       "special-blocks.referral.accent": "b55b5727875ac1d2bfa31bc20400b42b895eaa51",
       "special-blocks.referral.bg-additional": "7b68a07152db9928cec2da1f77222a26fdd8ad14",
+      "special-blocks.jackpot-sum": "040efe976a6d3b50edc51183dcad88876d74cbfe",
       "filed spacing.left": "d2d96ef29970defc04040d7dbbac239ad2a280d3",
       "filed spacing.right": "0e8c43d00dffb1638a09c995230c558d5567d39a",
       "filed spacing.top-main": "717c70ec2c05cf3c796ad7676b9f70233b4ce712",
@@ -1310,6 +1312,7 @@
       "filed spacing.bottom-submain": "1c2f70c62aa1fb085faab305f88dc7b625c01603",
       "categories.bg.main": "c9157917540592fe05e5d419da7b2c0ea454e979",
       "categories.bg.additional": "c98f7d80782a83e2c1a83b995140d81240ef2284",
+      "categories.bg.extra": "e2d1d3e0a1e6d8581e86d56d0f9197c11e9a63dd",
       "categories.border.main": "2723132ecb05ccf24b4d194b39707e65de96cb8f",
       "categories.accent": "61bd322fdd933c0d4df8cbad3524e61703452fae",
       "header.bg.balance": "4daff8187db8feb3782bc42c3073406a970eaad8",
@@ -1338,6 +1341,7 @@
       "text.title.main": "4063e07eadc5f9394eac9e30dc73637026b9f156",
       "text.title.accent": "4053fe66a6552a316d0496f8330188807e0f41a1",
       "text.title.title-winner": "0054ce31e3c85ecb696901ee9fed360ff8e127a2",
+      "text.title.accent-additional": "1cd63ca90dc2a8275797e7e39dd17ea7a2e33f58",
       "menu.bg.gradient": "2012b3eb1cb0658c067a091fee7531734b646a4b",
       "menu.bg.item-default": "5b9db4fc6ef0f75df4b6c67cef67513e5b04da0b",
       "menu.bg.item-hover": "ae78f4e64c399c84c2b97daa6e4a64944842bddd",
@@ -1399,9 +1403,7 @@
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
       "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
-      "categories.bg.extra": "e2d1d3e0a1e6d8581e86d56d0f9197c11e9a63dd",
-      "special-blocks.jackpot-sum": "040efe976a6d3b50edc51183dcad88876d74cbfe",
-      "text.title.accent-additional": "1cd63ca90dc2a8275797e7e39dd17ea7a2e33f58"
+      "bg.additional-2": "6a152062308363fcb830a9e57e4d4da7563b12e5"
     }
   },
   {
@@ -2022,6 +2024,7 @@
       "special-blocks.referral.accent": "f99b0aa21c819844bafdce1599e9fdc3c3d3bd1b",
       "special-blocks.referral.bg-additional": "b6e04a9f303856026120d84db549f1dd2c59c7d9",
       "special-blocks.dropdown-content": "c76cd0fd5cf768e0220a16bba1c638de93bf2a28",
+      "special-blocks.jackpot-sum": "50b4535deefc041be1ceb5dfabd4fb7dd17c0136",
       "filed spacing.left": "ba208a31b0beadc26e1c146c521fa65a4d72bbbf",
       "filed spacing.right": "5889b2531cea6aa95ff3b7c1b6d812d9673872d9",
       "filed spacing.top-main": "4bfa310afd37275ffbfd84446882d481b7142b06",
@@ -2030,6 +2033,7 @@
       "filed spacing.bottom-submain": "575d47e41185729c8e20e0cab429c94d416a58e3",
       "categories.bg.main": "8fa8470e8b96335febfe2954ced2a66e7de9a447",
       "categories.bg.additional": "e68b0977b4cd42c975f4cd9cf00971334a09d6a8",
+      "categories.bg.extra": "6dbad8d9673564208a1789e76cbfa65d6c42d53f",
       "categories.accent": "3943db73d9fb2bbb327c50f77d7e31266a589661",
       "header.bg.main": "132658502028471392c7f06123d81d2477db36a8",
       "header.bg.sticky": "04f1a0c62aa7e69593ca823e40675d7fee4957b1",
@@ -2057,6 +2061,7 @@
       "text.title.main": "5b0af432cd46d54aed268366a2e48a95b166e2f5",
       "text.title.accent": "812a13d969f3ed7f37fbb9b8a66d90acd62d1a1e",
       "text.title.title-winner": "c687d5d1adae9d731ace7e579e15fdc445175cfd",
+      "text.title.accent-additional": "587cc1775f63496efcbd877aae4e7beda9efe912",
       "menu.bg.item-default": "a44f7db0bcfc43caf828504f958648778dd28640",
       "menu.bg.item-hover": "0e719bbce6fa2db7086295b2400d68356cd32b61",
       "menu.bg.notification": "3da9494a81df08d19c7f56f9384d830de94f0cee",
@@ -2106,9 +2111,7 @@
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
       "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
-      "categories.bg.extra": "6dbad8d9673564208a1789e76cbfa65d6c42d53f",
-      "special-blocks.jackpot-sum": "50b4535deefc041be1ceb5dfabd4fb7dd17c0136",
-      "text.title.accent-additional": "587cc1775f63496efcbd877aae4e7beda9efe912"
+      "bg.additional-2": "371699a79cd4d728ee21976f24db2bf88a863a00"
     }
   },
   {
@@ -2574,6 +2577,7 @@
       "bg.other.strip-popup": "cb2219a05d17f6a6e6b02c9e0ed3c031a9c8475a",
       "bg.gradient": "06b61f96c076af321883cef23eb69e772b9a581c",
       "bg.additional": "0cf968a4c23284fed89a267ea08e337fd73df0bd",
+      "bg.additional-2": "220e6b345fc19b4e2baeb87483557a129e097329",
       "bg.top-surface": "d1afe228ca4ea27046a645442758ec9108584f42",
       "bg.popup": "10e587feb78715fac6a3b55ecfafb08e0ecb115f",
       "bg.technical": "580785851cb47556a30d65d76ff423b658019bbe",

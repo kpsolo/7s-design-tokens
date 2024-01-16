@@ -1863,6 +1863,11 @@
         }
       },
       "description": "use as bg for welcome bonus success item"
+    },
+    "additional-2": {
+      "value": "#0957C3",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
     }
   },
   "nav": {

@@ -1817,6 +1817,11 @@
       "value": "transparent",
       "type": "color",
       "description": "use for elipse bg on desktop homepage"
+    },
+    "additional-2": {
+      "value": "#0957C3",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
     }
   },
   "nav": {

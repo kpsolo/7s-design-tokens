@@ -1597,6 +1597,11 @@
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
+    "additional-2": {
+      "value": "#0957C3",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
+    },
     "top-surface": {
       "value": "{base.light}",
       "type": "color",
