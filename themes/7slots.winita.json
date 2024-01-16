@@ -1130,7 +1130,7 @@
     },
     "nav": {
       "value": {
-        "color": "rgba(255, 255, 255, 0.12)",
+        "color": "#E3F9FF",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -2114,13 +2114,31 @@
         "description": "Background for bottom part and button in pregame modal"
       },
       "app-hover": {
-        "value": "#f2fcff",
+        "value": "{button.bg.app-default}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for hovered button in pregame modal"
       },
       "app-pressed": {
-        "value": "#cde0e6",
+        "value": "{button.bg.app-default}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for pressed button in pregame modal"
       },
       "ghost": {
@@ -2730,18 +2748,18 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "rgba(255, 255, 255, 0.10)",
+        "value": "{input.border.default}",
         "type": "color",
-        "description": "Color border for disabled input",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.5",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "Color border for disabled input"
       },
       "error": {
         "value": "{base.error}",
@@ -2859,13 +2877,31 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "rgba(255, 255, 255, 0.60)",
+        "value": "{input.text.value-main}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for text in disabled field "
       },
       "disabled-label": {
-        "value": "{input.text.disabled-value}",
+        "value": "{input.text.label}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for text in confirmed field hint"
       }
     }
@@ -3433,7 +3469,17 @@
         "value": "#E3F9FF",
         "type": "color",
         "description": "use for game catwgories bg"
+      },
+      "additional": {
+        "value": "{bg.primary}",
+        "type": "color",
+        "description": "use for search bg in categories"
       }
+    },
+    "accent": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "use for game catwgories bg"
     },
     "border": {
       "main": {
@@ -3477,7 +3523,7 @@
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
     "accent-additional": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for accent text in welcome popup"
     },

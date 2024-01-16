@@ -3363,6 +3363,11 @@
         "value": "rgba(210, 229, 255, 0.20)",
         "type": "color",
         "description": "use for game catwgories bg"
+      },
+      "additional": {
+        "value": "{bg.primary}",
+        "type": "color",
+        "description": "use for search bg in categories"
       }
     },
     "border": {
@@ -3371,6 +3376,11 @@
         "type": "color",
         "description": "use for navbar border"
       }
+    },
+    "accent": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "use for game catwgories bg"
     }
   },
   "header": {
