@@ -3256,6 +3256,16 @@
         "value": "#DBE5F0",
         "type": "color",
         "description": "use for numbers gradient in conditions"
+      },
+      "accent": {
+        "value": "#F4F7FB",
+        "type": "color",
+        "description": "use for accent elements ( button, number)"
+      },
+      "bg-additional": {
+        "value": "#F4F7FB",
+        "type": "color",
+        "description": "use for numbers gradient in conditions"
       }
     },
     "dropdown-content": {

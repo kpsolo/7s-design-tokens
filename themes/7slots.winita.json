@@ -1802,7 +1802,7 @@
       "description": "use for elipse bg on desktop homepage"
     },
     "blur-achivments": {
-      "value": "0px",
+      "value": "6px",
       "type": "dimension",
       "description": "use for bottom block in profile "
     },
@@ -3293,9 +3293,34 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg": {
+        "value": "rgba(155, 187, 230, 0.30)",
+        "type": "color",
+        "description": "use for numbers gradient in conditions"
+      },
+      "bg-additional": {
         "value": "#F4F7FB",
         "type": "color",
         "description": "use for numbers gradient in conditions"
+      },
+      "accent-additional": {
+        "value": "#0053CF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for button hover state (desktop)\n"
+      },
+      "accent": {
+        "value": "#0053CF",
+        "type": "color",
+        "$extensions": {},
+        "description": "use for accent elemants on link widget\n"
       }
     },
     "dropdown-content": {
