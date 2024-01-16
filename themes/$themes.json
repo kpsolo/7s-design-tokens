@@ -599,6 +599,7 @@
       "height.logo-desktop": "887d3007457d5c4c510c30a2d5bd1515ae781de5",
       "min-height.game-item-block": "3668d70e3990eacd04d159b3100f9e4c320742fd",
       "paragraph-indent.first-stroke-default": "40f63dcefd1967a34d0314dd8c6ea7999cddaa3a",
+      "special-blocks.404": "99f15fa123589e1254e03f8e7bdb20330552ec97",
       "special-blocks.jackpot-border": "fb9c7561bfb6ffc697eade4fc833483f69b29aba",
       "special-blocks.jackpot-border-2": "53be7ae96603eeac38341519ac7890fd9d9464e2",
       "special-blocks.jackpot-line": "d2937452b96464812883b92ddd922b1d2c3b20e3",
@@ -688,8 +689,7 @@
       "wheel.picker.bg-main-2-additional": "59971d2ee0912483527748f7918c7f1cdf9d8d51",
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
-      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
-      "special-blocks.404": "99f15fa123589e1254e03f8e7bdb20330552ec97"
+      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c"
     }
   },
   {
@@ -1290,6 +1290,7 @@
       "height.logo-desktop": "a7b7a138c626277dc501bec6d76a1b12258af281",
       "min-height.game-item-block": "0ff72896eb6d8c4bb7cd26c84f755f5f9dfb9407",
       "paragraph-indent.first-stroke-default": "2c108e8d96fbe49eec5e61323de4b0e07a4b9c05",
+      "special-blocks.404": "75633f49e3fc6e139814a961e0685a8d8184b9a4",
       "special-blocks.dropdown-custom": "bd1a72cf89cbc3e7a63f7a31c9112840cc957244",
       "special-blocks.dropdown-content": "862fca726b375a3caf8ba41a67f47b68381d071e",
       "special-blocks.title-jackpot": "aa30930c37f136639e504141b774276a1b774052",
@@ -1394,8 +1395,7 @@
       "live-lottery.now-win-text": "694731ca12e9febe318df10cada87dea65bd1559",
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
-      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
-      "special-blocks.404": "75633f49e3fc6e139814a961e0685a8d8184b9a4"
+      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec"
     }
   },
   {
@@ -2007,6 +2007,7 @@
       "height.logo-desktop": "313e060495710116867c9882a09ecdd18ca31c8f",
       "min-height.game-item-block": "5e6e71ff83739f38f547765c16aed68351e9ef24",
       "paragraph-indent.first-stroke-default": "3b0e379ac327a7e4a7e67384272e9e548c0c4990",
+      "special-blocks.404": "f893060ea85fffd504abbc3ce54acdfe8da289cf",
       "special-blocks.jackpot-border": "2bc5e4c5b2c3f99ddc04db16fe1beb60917d7171",
       "special-blocks.jackpot-border-2": "55f895eb3505cedca23b8b65db11f745ac96b268",
       "special-blocks.jackpot-line": "cad31683d8eff66dc0ee48359e8e597d8a9654f5",
@@ -2098,8 +2099,7 @@
       "wheel.picker.bg-main-2-additional": "15adfce9bfa3d09fc5bed3f7d53459fe7cc87b0a",
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
-      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
-      "special-blocks.404": "f893060ea85fffd504abbc3ce54acdfe8da289cf"
+      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe"
     }
   },
   {
@@ -2745,8 +2745,8 @@
       "height.logo-desktop": "3dbccb1b82df5825a966b4dd3ec2ee4d5f2f4249",
       "min-height.game-item-block": "ecaaf7492b04fe8916a96146057d612ad53a41f1",
       "paragraph-indent.first-stroke-default": "39215fdab3d176ee84431abf632473df56676d8c",
-      "special-blocks.jackpot-border": "330869f41c1b042f00f14275ef460029e99be69a",
       "special-blocks.404": "653ff192e30428eb3e083db730accdc3aa83c779",
+      "special-blocks.jackpot-border": "330869f41c1b042f00f14275ef460029e99be69a",
       "special-blocks.jackpot-border-2": "7d7452a4256731e5990957cfb0ac69f5e66c1da0",
       "special-blocks.jackpot-widget-bg": "a895ad2ac7459b4a67ec3db40bb6c4dce0736a34",
       "special-blocks.jackpot-line": "3ca0132bd31831eaa49e88a524525b45312d0f4c",

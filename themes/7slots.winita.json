@@ -1455,7 +1455,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "linear-gradient(110deg, #517AB0 1.8%, #255480 98.04%)",
+        "value": "{bg.technical}",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -1620,17 +1620,9 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "{base.primary}",
+        "value": "rgba(25, 41, 71, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.10",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "social icons bg"
       },
       "3": {
@@ -1897,7 +1889,7 @@
       "description": "Color for winners lottery tickets"
     },
     "silver": {
-      "value": "#DADFEC",
+      "value": "#B9BCC2",
       "type": "color",
       "description": "Color for winners"
     },
