@@ -1204,6 +1204,15 @@
       },
       "type": "border",
       "description": "use for dropdown"
+    },
+    "nav-additional": {
+      "value": {
+        "color": "#CCCCCC",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for search in navigation"
     }
   },
   "base spacing": {
@@ -3259,6 +3268,11 @@
       },
       "type": "typography",
       "description": "for referral cards numbers"
+    },
+    "jackpot-sum": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "for jackpot sun in jackpot page"
     }
   },
   "filed spacing": {
@@ -3309,6 +3323,11 @@
       },
       "additional": {
         "value": "{bg.primary}",
+        "type": "color",
+        "description": "use for search bg in categories"
+      },
+      "extra": {
+        "value": "#CCCCCC",
         "type": "color",
         "description": "use for search bg in categories"
       }
@@ -3552,6 +3571,11 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Title for winner card on a main page"
+      },
+      "accent-additional": {
+        "value": "#FEFEFE",
+        "type": "color",
+        "description": "for winner name in winning now block"
       }
     }
   },

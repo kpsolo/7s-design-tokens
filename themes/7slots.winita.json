@@ -799,7 +799,7 @@
           {
             "x": "0",
             "y": "0",
-            "blur": "16",
+            "blur": "0",
             "spread": "0",
             "color": "transparent",
             "type": "dropShadow"
@@ -807,7 +807,7 @@
           {
             "x": "0",
             "y": "0",
-            "blur": "16",
+            "blur": "0",
             "spread": "0",
             "color": "transparent",
             "type": "dropShadow"
@@ -820,32 +820,32 @@
         "value": [
           {
             "x": "0",
-            "y": "4",
-            "blur": "18",
+            "y": "0",
+            "blur": "0",
             "spread": "",
             "color": "transparent",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "6",
-            "blur": "18",
+            "y": "0",
+            "blur": "0",
             "spread": "",
             "color": "transparent",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "6",
-            "blur": "18",
+            "y": "0",
+            "blur": "0",
             "spread": "",
             "color": "transparent",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "6",
-            "blur": "18",
+            "y": "0",
+            "blur": "0",
             "spread": "",
             "color": "transparent",
             "type": "dropShadow"
@@ -909,24 +909,24 @@
         "value": [
           {
             "x": "0",
-            "y": "-4",
-            "blur": "16",
+            "y": "0",
+            "blur": "0",
             "spread": "",
             "color": "transparent",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "-1",
-            "blur": "8",
+            "y": "0",
+            "blur": "0",
             "spread": "",
             "color": "transparent",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "-1",
-            "blur": "6",
+            "y": "0",
+            "blur": "0",
             "spread": "",
             "color": "transparent",
             "type": "dropShadow"
@@ -1137,6 +1137,15 @@
       "type": "border",
       "description": "border for show more wiget on main page"
     },
+    "nav-additional": {
+      "value": {
+        "color": "#CCCCCC",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for search in navigation"
+    },
     "right-menu": {
       "value": {
         "color": "rgba(0,0,0,0.6)",
@@ -1244,7 +1253,7 @@
     "special-blocks": {
       "jackpot-border": {
         "value": {
-          "color": "#D2E5FF",
+          "color": "transparent",
           "width": "2px",
           "style": "solid"
         },
@@ -1727,19 +1736,19 @@
     },
     "overlay-gradient": {
       "1": {
-        "value": "linear-gradient(0deg, rgba(37, 48, 64, 0.00) 0.39%, rgba(37, 45, 64, 0.56) 20.35%, rgba(37, 45, 64, 0.78) 39.31%, #252D40 99.61%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(0deg, rgba(23, 58, 134, 0.00) 0%, #14254A 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba({bg.primary}, 0.00) 0%, rgba({bg.primary}, 72.13) 72.13%, {bg.primary} 100%)",
+        "value": "transparent",
         "type": "color",
-        "description": "use under link in messages\n\n[based on primary bg]"
+        "description": "use in mob app over pic"
       },
       "4": {
         "value": "linear-gradient(180deg, #A58600 0%, #EEC101 73.50%)",
@@ -1919,12 +1928,12 @@
   },
   "live-lottery": {
     "live-tip": {
-      "value": "#cf3422",
+      "value": "#D12E2E",
       "type": "color",
       "description": "Bg for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(175deg, #345CA8 0.65%, #193D84 24.23%, #0B2853 77.42%, #11366F 96.99%)",
+      "value": "#4B28AC",
       "type": "color",
       "description": "Bg for card"
     },
@@ -2332,7 +2341,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "linear-gradient(180deg, #B03359 0%, #C0496D 100%)",
+        "value": "#5A32B0",
         "type": "color",
         "description": "Color for label thumb"
       },
@@ -3187,6 +3196,11 @@
       "type": "color",
       "description": "Border-color for jackpot widgets"
     },
+    "jackpot-sum": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "for jackpot sun in jackpot page"
+    },
     "jackpot-border-2": {
       "value": "transparent",
       "type": "color",
@@ -3328,7 +3342,7 @@
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -3477,6 +3491,11 @@
       },
       "additional": {
         "value": "{bg.primary}",
+        "type": "color",
+        "description": "use for search bg in categories"
+      },
+      "extra": {
+        "value": "#CCCCCC",
         "type": "color",
         "description": "use for search bg in categories"
       }
@@ -3706,6 +3725,11 @@
       "accent": {
         "value": "#3BEA62",
         "type": "color"
+      },
+      "accent-additional": {
+        "value": "#FEFEFE",
+        "type": "color",
+        "description": "for winner name in winning now block"
       },
       "title-winner": {
         "value": "{base.light}",

@@ -689,7 +689,9 @@
       "wheel.picker.bg-main-2-additional": "59971d2ee0912483527748f7918c7f1cdf9d8d51",
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
-      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c"
+      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
+      "categories.bg.extra": "2fffc69bbc8bc1f74b6fdcf5c915e989cae2083d",
+      "special-blocks.jackpot-sum": "dbc761602d85592edc605cad0089e4f32dde391d"
     }
   },
   {
@@ -1395,7 +1397,9 @@
       "live-lottery.now-win-text": "694731ca12e9febe318df10cada87dea65bd1559",
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
-      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec"
+      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
+      "categories.bg.extra": "e2d1d3e0a1e6d8581e86d56d0f9197c11e9a63dd",
+      "special-blocks.jackpot-sum": "040efe976a6d3b50edc51183dcad88876d74cbfe"
     }
   },
   {
@@ -2099,7 +2103,9 @@
       "wheel.picker.bg-main-2-additional": "15adfce9bfa3d09fc5bed3f7d53459fe7cc87b0a",
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
-      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe"
+      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
+      "categories.bg.extra": "6dbad8d9673564208a1789e76cbfa65d6c42d53f",
+      "special-blocks.jackpot-sum": "50b4535deefc041be1ceb5dfabd4fb7dd17c0136"
     }
   },
   {
@@ -2111,7 +2117,7 @@
       "bg.tertiary": "S:d37d7ea5d41c15ff56b4e309a752cebda6aad00a,",
       "bg.other.404": "S:0b3f591ca2d591e33a1050bbb0328d8a03661eb5,",
       "bg.other.status-bg": "S:0d8c59d582bf989adb4e20910d53ddda3426d6c5,",
-      "bg.other.cashbox-bonus": "S:088458d23007b3dcdd27257bfe238107cedef97d,",
+      "bg.other.cashbox-bonus": "S:0a3418e528753fb0c8a946b9649722d4f28153b6,",
       "bg.other.cashbox-bonus-content": "S:00e759ff0371c9bf51a6290533e58c01e5a6cf46,",
       "bg.other.cashbox-bonus-content-opacity": "S:ba9bb391afe748abe4307a167e7483f62f7d05a7,",
       "bg.other.promo": "S:29e325a571eed363de6a23542041e0264b83ba5b,",
@@ -2179,7 +2185,7 @@
       "base.surface": "S:1534c6fc4dab3994b9829a5df3557a42dc789a7f,",
       "base.error": "S:56532fe00e0d5d4d32ac4908801f6ecd193086b1,",
       "base.warning": "S:e9e6432f602a754d7b4462b751abbf52c8e7d7d2,",
-      "base.gold": "S:a994e4a5a1d3509f3d61c7a5ff1834fca1ff14d9,",
+      "base.gold": "S:0cbcc38590c60a004bd595a75ed2bec4ae06a8bd,",
       "base.silver": "S:f14b4a4d80b203ee745b9243a1c808c34063084b,",
       "base.bronze": "S:fa7b459f7c89877cd87df73f37e57812b5167246,",
       "base.primary": "S:1434111e6eb157f77fdf1d8f41e4ef0d97036326,",
@@ -2499,7 +2505,10 @@
       "special-blocks.referral.bg-additional": "S:aadb1069aa442e278fcb9cf65bf5bbeaf240a0d2,",
       "special-blocks.referral.accent-additional": "S:24c6c6d0f64c6a779f35394ff675ba897f2cae55,",
       "special-blocks.referral.accent": "S:3ccffc23854c410911d4819f6da15ceb7c533819,",
-      "bg.overlay.6": "S:fc50ce1acceec22d36f9e46aaacff523f1cc2fb0,"
+      "bg.overlay.6": "S:fc50ce1acceec22d36f9e46aaacff523f1cc2fb0,",
+      "special-blocks.404": "S:8f68d570fddf01364c996904a84379c36aed0150,",
+      "categories.bg.additional": "S:e7ab4cfc1c182bf139250772edce8f8f820669be,",
+      "categories.accent": "S:d482df38643c6ae402e071486c85e2741dc6fcb7,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -2578,6 +2587,9 @@
       "bg.overlay.light-1": "9b90a106f588a7b3a1fddec31c0475977fcd9855",
       "bg.overlay.light-2": "b07d77f5629ab0bdf99bbff796cb45becbc26af9",
       "bg.overlay.gamepage": "0bb6d3ca57b0c7f4c7a11cf9ee039752e76813af",
+      "bg.overlay-gradient.1": "97affeaf04cc76d576df675a48d35d2d86af87a2",
+      "bg.overlay-gradient.2": "001e521230f4a4474b5b6c0a5105eeac96f7ee2d",
+      "bg.overlay-gradient.3": "03985fb68ce74711daf5e7adfc31d60d101cdf26",
       "bg.overlay-gradient.5": "b80ed84062d4914c52e0ae951361a0c2f516db5a",
       "bg.blur": "ce88a73a7c41d7f8c1f121fd8488601469a5bf3c",
       "bg.info-blur": "263c8d58720c734b6ccd1c571d0142691e32fa5b",
@@ -2652,6 +2664,7 @@
       "button.text.tertiary-disabled": "0eeb568e213d11950ec94c64dd2409db2c6e946e",
       "button.text.ghost-disabled": "2204d949a85dd3b16cca346e7799513c32c586ed",
       "small-elements.game.label-thumb-new": "09093b5316ed837f7ed39a492eedd59273eb4ce8",
+      "small-elements.game.label-thumb-top": "005d40eda5a0770c031dd26829e449765608519e",
       "small-elements.game.counter-color": "7c76e2c298c4c07606f5693a084688e9328ac239",
       "small-elements.game.label-thumb-text": "76f427d6d8edaae2c5629de638b73a421e01ecc7",
       "small-elements.scrollbar.dark": "24a78d18aa99a32a6b15416960108e87c31c4508",
@@ -2748,10 +2761,12 @@
       "paragraph-indent.first-stroke-default": "39215fdab3d176ee84431abf632473df56676d8c",
       "special-blocks.404": "653ff192e30428eb3e083db730accdc3aa83c779",
       "special-blocks.jackpot-border": "330869f41c1b042f00f14275ef460029e99be69a",
+      "special-blocks.jackpot-sum": "9178c1e6735e20f2a4fa7bfd5ad3c8b0c5daeac0",
       "special-blocks.jackpot-border-2": "7d7452a4256731e5990957cfb0ac69f5e66c1da0",
       "special-blocks.jackpot-widget-bg": "a895ad2ac7459b4a67ec3db40bb6c4dce0736a34",
       "special-blocks.jackpot-line": "3ca0132bd31831eaa49e88a524525b45312d0f4c",
       "special-blocks.dropdown-custom": "4983e6f720f30868f33e3c9df44392ee337aa6af",
+      "special-blocks.dropdown-custom-fade": "9d1ba31502fb2927d64a9f9bae67768af99a841b",
       "special-blocks.referral.bg": "9a97ab45d3af870a0154c2aff70975bbef0c426b",
       "special-blocks.referral.bg-additional": "c68435b3c791b123cff1243ba38d3f28f0f39762",
       "special-blocks.referral.accent-additional": "4a9243b27a40e761357ffa025a2d86c2f404e260",
@@ -2767,6 +2782,7 @@
       "filed spacing.bottom-submain": "cad8214e6ea2d84f8c1931eb1ab157db567e9d56",
       "categories.bg.main": "467c1fbc932b46712e69bfcff14f14c51e0aae52",
       "categories.bg.additional": "e54ce001fe1b8694d94f3a4b5ad58112e60de810",
+      "categories.bg.extra": "b3fe56e1ded290f3f2cd422811d165ef94d49881",
       "categories.accent": "a6298b41ccba1eb72dff99f89e59ab85bb25c60a",
       "categories.border.main": "9de6995f1548171e024aebc39138e194212a5709",
       "header.bg.balance": "04b174665a532eebeee8d786916b7924dce33dde",
