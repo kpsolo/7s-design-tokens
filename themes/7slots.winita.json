@@ -1155,6 +1155,15 @@
       "type": "border",
       "description": "use for stroke for popup bg"
     },
+    "dropdown": {
+      "value": {
+        "color": "#DCE0EE",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for dropdown"
+    },
     "wheel-denomination": {
       "value": {
         "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
@@ -1622,7 +1631,6 @@
       "2": {
         "value": "rgba(25, 41, 71, 0.08)",
         "type": "color",
-        "$extensions": {},
         "description": "social icons bg"
       },
       "3": {
@@ -1831,7 +1839,7 @@
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#F2F3F5",
+        "value": "{nav.tab.start}",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
@@ -3840,7 +3848,7 @@
       "description": "bg all tabs\n[delete?]"
     },
     "bg all": {
-      "value": "{bg.tertiary}",
+      "value": "#E5E5E6",
       "type": "color"
     }
   },

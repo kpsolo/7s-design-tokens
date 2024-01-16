@@ -1195,6 +1195,15 @@
         "type": "border",
         "description": "lines inside referral link card "
       }
+    },
+    "dropdown": {
+      "value": {
+        "color": "#DCE0EE",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for dropdown"
     }
   },
   "base spacing": {
