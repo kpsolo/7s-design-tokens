@@ -1636,6 +1636,11 @@
         "type": "color",
         "description": "use for bg in cashbox transaction"
       },
+      "6": {
+        "value": "linear-gradient(180deg, rgba(23, 58, 134, 0.00) 0%, #173A86 100%)",
+        "type": "color",
+        "description": "use for bg under tournament/lottery tabs"
+      },
       "ghost-1": {
         "value": "#000",
         "type": "color",

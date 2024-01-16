@@ -632,7 +632,7 @@
         {
           "x": "0",
           "y": "0",
-          "blur": "4",
+          "blur": "0",
           "spread": "",
           "color": "transparent",
           "type": "dropShadow"
@@ -640,7 +640,7 @@
         {
           "x": "0",
           "y": "0",
-          "blur": "8",
+          "blur": "0",
           "spread": "",
           "color": "transparent",
           "type": "dropShadow"
@@ -1450,7 +1450,7 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "rgba(28, 33, 46, 0.40)",
+        "value": "#F4F7FB",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
@@ -1657,8 +1657,13 @@
         "type": "color",
         "description": "use for bg in cashbox transaction"
       },
+      "6": {
+        "value": "linear-gradient(180deg, rgba(23, 58, 134, 0.00) 0%, #173A86 100%)",
+        "type": "color",
+        "description": "use for bg under tournament/lottery tabs"
+      },
       "ghost-1": {
-        "value": "rgba(0, 0, 0, 0.20)",
+        "value": "rgba(8, 24, 60, 0.20)",
         "type": "color",
         "description": "use for results inner tournament card"
       },
@@ -2594,7 +2599,7 @@
     },
     "tournament": {
       "active-tab-content": {
-        "value": "{base.accent-primary}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "color of text and icon on active tab"
       }
@@ -3319,7 +3324,6 @@
       "accent": {
         "value": "#0053CF",
         "type": "color",
-        "$extensions": {},
         "description": "use for accent elemants on link widget\n"
       }
     },

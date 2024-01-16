@@ -2489,7 +2489,8 @@
       "special-blocks.referral.bg": "S:25496c8b5d70cf99442edb9fe5337841665204e0,",
       "special-blocks.referral.bg-additional": "S:aadb1069aa442e278fcb9cf65bf5bbeaf240a0d2,",
       "special-blocks.referral.accent-additional": "S:24c6c6d0f64c6a779f35394ff675ba897f2cae55,",
-      "special-blocks.referral.accent": "S:3ccffc23854c410911d4819f6da15ceb7c533819,"
+      "special-blocks.referral.accent": "S:3ccffc23854c410911d4819f6da15ceb7c533819,",
+      "bg.overlay.6": "S:fc50ce1acceec22d36f9e46aaacff523f1cc2fb0,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
