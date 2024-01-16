@@ -3101,6 +3101,11 @@
     }
   },
   "special-blocks": {
+    "404": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "for 404 numbers"
+    },
     "jackpot-border": {
       "value": "#D2E5FF",
       "type": "color",

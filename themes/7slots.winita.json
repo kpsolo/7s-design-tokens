@@ -1892,7 +1892,7 @@
       "description": "Indication of warning"
     },
     "gold": {
-      "value": "linear-gradient(99deg, #FFCE64 0%, #916206 100%)",
+      "value": "#FFC13B",
       "type": "color",
       "description": "Color for winners lottery tickets"
     },
@@ -2538,7 +2538,7 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#233147",
+        "value": "#C0C9D7",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
@@ -3177,6 +3177,11 @@
     }
   },
   "special-blocks": {
+    "404": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "for 404 numbers"
+    },
     "jackpot-border": {
       "value": "transparent",
       "type": "color",
@@ -3616,7 +3621,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.4",
               "space": "srgb"
             }
           }

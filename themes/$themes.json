@@ -604,6 +604,8 @@
       "special-blocks.jackpot-line": "d2937452b96464812883b92ddd922b1d2c3b20e3",
       "special-blocks.dropdown-custom": "1e1d27b14b819867ee525f784b04a7d870f8c5e8",
       "special-blocks.referral.bg": "bfb53736363e7c6aa9a5325c72b1654148d0eb37",
+      "special-blocks.referral.accent": "021a8df42b1ea51c2e7f04ffa9ec1c856df736d8",
+      "special-blocks.referral.bg-additional": "215f6520a301bde19aa59812127186f6c47083bf",
       "special-blocks.dropdown-content": "b9b0fc042f2359db1d2e17b5f8575254bf562a20",
       "filed spacing.left": "99e7bd728b04ff7469fadf8451cd3f7798ad805e",
       "filed spacing.right": "823d4d7ecce5cbf60eef2c08c9bb08369f2f9ef7",
@@ -612,6 +614,8 @@
       "filed spacing.bottom-main": "e96497e45fb6dd176b915a7684de42b01e03f157",
       "filed spacing.bottom-submain": "a6df6a35c140ad5a4b2546475c7d0aeb3303a5bc",
       "categories.bg.main": "56434751fdc4b4f8635b59bb631711b72133d409",
+      "categories.bg.additional": "fb04a9d2ae04b00a580a1afd42bc801f26ac0a88",
+      "categories.accent": "a30d0845a19d50ad7a3af8e719122410c4f89203",
       "header.bg.top-desktop": "fe78685f2abfcd0cd5839a9c4c3571f7f19aad7f",
       "text.light": "72a23e3025781ae790cc9267ffe14e7792d6bb6b",
       "text.accent-additional": "4a7a738199550083df28d76a31311a246fc76394",
@@ -685,8 +689,7 @@
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
       "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
-      "special-blocks.referral.accent": "021a8df42b1ea51c2e7f04ffa9ec1c856df736d8",
-      "special-blocks.referral.bg-additional": "215f6520a301bde19aa59812127186f6c47083bf"
+      "special-blocks.404": "99f15fa123589e1254e03f8e7bdb20330552ec97"
     }
   },
   {
@@ -1293,6 +1296,8 @@
       "special-blocks.amount-jackpot": "57dde41c110f742d2016f42eaa6a88f885c55e2a",
       "special-blocks.jackpot-border-2": "563bd3ed198f74bca72bba8e68c0f792d232acf8",
       "special-blocks.referral.bg": "1fb38d55d673e88d29dd35fbadbcb517ac2dbf06",
+      "special-blocks.referral.accent": "b55b5727875ac1d2bfa31bc20400b42b895eaa51",
+      "special-blocks.referral.bg-additional": "7b68a07152db9928cec2da1f77222a26fdd8ad14",
       "filed spacing.left": "d2d96ef29970defc04040d7dbbac239ad2a280d3",
       "filed spacing.right": "0e8c43d00dffb1638a09c995230c558d5567d39a",
       "filed spacing.top-main": "717c70ec2c05cf3c796ad7676b9f70233b4ce712",
@@ -1300,7 +1305,9 @@
       "filed spacing.bottom-main": "4d127703cdad3cc439ec4e4db7cd42b959af369c",
       "filed spacing.bottom-submain": "1c2f70c62aa1fb085faab305f88dc7b625c01603",
       "categories.bg.main": "c9157917540592fe05e5d419da7b2c0ea454e979",
+      "categories.bg.additional": "c98f7d80782a83e2c1a83b995140d81240ef2284",
       "categories.border.main": "2723132ecb05ccf24b4d194b39707e65de96cb8f",
+      "categories.accent": "61bd322fdd933c0d4df8cbad3524e61703452fae",
       "header.bg.balance": "4daff8187db8feb3782bc42c3073406a970eaad8",
       "header.bg.top-desktop": "8b0b0313d10b958c129a356486916449e8407376",
       "text.light": "a9dab6623230d65067b22071b9ad4c7cc6d35545",
@@ -1388,8 +1395,7 @@
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
       "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
-      "special-blocks.referral.accent": "b55b5727875ac1d2bfa31bc20400b42b895eaa51",
-      "special-blocks.referral.bg-additional": "7b68a07152db9928cec2da1f77222a26fdd8ad14"
+      "special-blocks.404": "75633f49e3fc6e139814a961e0685a8d8184b9a4"
     }
   },
   {
@@ -2006,6 +2012,8 @@
       "special-blocks.jackpot-line": "cad31683d8eff66dc0ee48359e8e597d8a9654f5",
       "special-blocks.dropdown-custom": "2bb4a692cf614330a53cd9a87f8fb17d3c2fb8d8",
       "special-blocks.referral.bg": "6a1025a7bb33864996b3def9e488a37bd1620c9c",
+      "special-blocks.referral.accent": "f99b0aa21c819844bafdce1599e9fdc3c3d3bd1b",
+      "special-blocks.referral.bg-additional": "b6e04a9f303856026120d84db549f1dd2c59c7d9",
       "special-blocks.dropdown-content": "c76cd0fd5cf768e0220a16bba1c638de93bf2a28",
       "filed spacing.left": "ba208a31b0beadc26e1c146c521fa65a4d72bbbf",
       "filed spacing.right": "5889b2531cea6aa95ff3b7c1b6d812d9673872d9",
@@ -2014,6 +2022,8 @@
       "filed spacing.bottom-main": "29f27b7e9db391863bf3144f6acbce61a9f8fd99",
       "filed spacing.bottom-submain": "575d47e41185729c8e20e0cab429c94d416a58e3",
       "categories.bg.main": "8fa8470e8b96335febfe2954ced2a66e7de9a447",
+      "categories.bg.additional": "e68b0977b4cd42c975f4cd9cf00971334a09d6a8",
+      "categories.accent": "3943db73d9fb2bbb327c50f77d7e31266a589661",
       "header.bg.main": "132658502028471392c7f06123d81d2477db36a8",
       "header.bg.sticky": "04f1a0c62aa7e69593ca823e40675d7fee4957b1",
       "header.bg.top-desktop": "470a5d5e1c143531e2bd8f393ab86131c5b105bc",
@@ -2089,8 +2099,7 @@
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
       "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
-      "special-blocks.referral.accent": "f99b0aa21c819844bafdce1599e9fdc3c3d3bd1b",
-      "special-blocks.referral.bg-additional": "b6e04a9f303856026120d84db549f1dd2c59c7d9"
+      "special-blocks.404": "f893060ea85fffd504abbc3ce54acdfe8da289cf"
     }
   },
   {
@@ -2588,6 +2597,7 @@
       "base.surface": "893f5cafd7b7c65fcccc3df093f594e47f0c79c1",
       "base.error": "160b731545c66b7db96bbdcee1f809b0460d12fa",
       "base.warning": "52fc56e9bae2caea44e6dc00801b9e249941be2f",
+      "base.gold": "25fa838dbf57d74ecbc1c525703e185323f9e99a",
       "base.silver": "42f30817ba8a35602e3109111a273706a453faaa",
       "base.bronze": "364481508464ef9b77617fd2bd63bccfc013e960",
       "base.primary": "7add5a0847307caf7587848e3f4aca166490f1d7",
@@ -2736,6 +2746,7 @@
       "min-height.game-item-block": "ecaaf7492b04fe8916a96146057d612ad53a41f1",
       "paragraph-indent.first-stroke-default": "39215fdab3d176ee84431abf632473df56676d8c",
       "special-blocks.jackpot-border": "330869f41c1b042f00f14275ef460029e99be69a",
+      "special-blocks.404": "653ff192e30428eb3e083db730accdc3aa83c779",
       "special-blocks.jackpot-border-2": "7d7452a4256731e5990957cfb0ac69f5e66c1da0",
       "special-blocks.jackpot-widget-bg": "a895ad2ac7459b4a67ec3db40bb6c4dce0736a34",
       "special-blocks.jackpot-line": "3ca0132bd31831eaa49e88a524525b45312d0f4c",
@@ -2754,6 +2765,8 @@
       "filed spacing.bottom-main": "cc8d1fe07a1ec2008dd82752ecf65920527810be",
       "filed spacing.bottom-submain": "cad8214e6ea2d84f8c1931eb1ab157db567e9d56",
       "categories.bg.main": "467c1fbc932b46712e69bfcff14f14c51e0aae52",
+      "categories.bg.additional": "e54ce001fe1b8694d94f3a4b5ad58112e60de810",
+      "categories.accent": "a6298b41ccba1eb72dff99f89e59ab85bb25c60a",
       "categories.border.main": "9de6995f1548171e024aebc39138e194212a5709",
       "header.bg.balance": "04b174665a532eebeee8d786916b7924dce33dde",
       "header.bg.main": "31aee2e2219d92dace9eaa0952d90f8ced43a34d",
@@ -2772,6 +2785,7 @@
       "text.error": "932c4aed919ce8196181b2075167264e912d4f95",
       "text.success": "0121cd9c03a21f2004561c2fc77f0123ece3394e",
       "text.warning": "f37ce53d49a882da4c7d1ce126bdfad25172d16c",
+      "text.prize.1": "a25f9be277b404c1fd485fe815bc80e06a769a29",
       "text.prize.2": "5218c350facf1fa27d5e3aa6005a3059fcfb47db",
       "text.prize.3": "90ab50a9623579dac7b3dc1cb40598ea79aac07f",
       "text.opacity.1": "e2bdfbc2a7534a0a3cd89431449b48212ae08915",
