@@ -1630,7 +1630,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.06",
+              "value": "0.04",
               "space": "srgb"
             }
           }
@@ -1667,7 +1667,7 @@
         "description": "use for bg in cashbox transaction"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(23, 58, 134, 0.00) 0%, #173A86 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
       },
@@ -1729,7 +1729,7 @@
         "description": "Background above game image"
       },
       "sidebar-gamepage": {
-        "value": "linear-gradient(180deg, rgba(22, 27, 38, 0.00) 0%, rgba(22, 27, 38, 0.95) 63.16%, #161B26 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
       }
@@ -1943,7 +1943,7 @@
       "description": "text for live icon"
     },
     "now-win-bg": {
-      "value": "#182141",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "bg for now-live sticker"
     },
@@ -1963,12 +1963,12 @@
       "description": "text for now-live sticker"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(108, 164, 216, 0.81) 0%, rgba(92, 141, 187, 0.78) 31.25%, rgba(68, 123, 174, 0.85) 63.54%, rgba(82, 122, 160, 0.63) 100%)",
+      "value": "rgba(122, 73, 255, 0.70)",
       "type": "color",
       "description": "bg for timer"
     },
     "empty-ball": {
-      "value": "linear-gradient(180deg, rgba(86, 116, 160, 0.40) 0%, rgba(122, 136, 186, 0.40) 57.33%, rgba(119, 139, 187, 0.34) 91.08%, rgba(116, 162, 206, 0.40) 100%)",
+      "value": "rgba(255, 255, 255, 0.10)",
       "type": "color",
       "description": "bg for empty ball"
     },
@@ -1978,7 +1978,7 @@
       "description": "text on place label"
     },
     "place-label-bg": {
-      "value": "linear-gradient(180deg, #FFD37D 0%, #FFDB59 41.67%, #E1BB33 100%)",
+      "value": "#FFC85E",
       "type": "color",
       "description": "bg on place label"
     }
@@ -2468,8 +2468,9 @@
       "type": "color"
     },
     "bullet": {
-      "value": "{base.primary}",
-      "type": "color"
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use in timer in live lottery"
     },
     "fade-tertiary": {
       "value": "transparent",
@@ -3348,7 +3349,7 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(153deg, #3FCF5F 34.75%, #0A5AC9 64.04%)",
+        "value": "#92AFD8",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
