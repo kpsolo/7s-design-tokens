@@ -1612,7 +1612,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.08",
+              "value": "0.06",
               "space": "srgb"
             }
           }
@@ -1640,7 +1640,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.12",
+              "value": "0.06",
               "space": "srgb"
             }
           }
@@ -1648,7 +1648,7 @@
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
-        "value": "rgba({base.dark}, 0.16)",
+        "value": "rgba({base.dark}, 0.10)",
         "type": "color",
         "description": "use for bg in cashbox transaction"
       },
