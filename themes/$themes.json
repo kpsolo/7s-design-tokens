@@ -693,7 +693,8 @@
       "wheel.picker.bg-main-2-additional": "59971d2ee0912483527748f7918c7f1cdf9d8d51",
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
-      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c"
+      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
+      "strip.bg-progress": "5243e31bf0c06dcae5e1e575d5b10a8661e6ac55"
     }
   },
   {
@@ -1403,7 +1404,8 @@
       "live-lottery.now-win-text": "694731ca12e9febe318df10cada87dea65bd1559",
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
-      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec"
+      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
+      "strip.bg-progress": "364845af500610f7c25c11e8e1594adfdafa832d"
     }
   },
   {
@@ -2111,7 +2113,8 @@
       "wheel.picker.bg-main-2-additional": "15adfce9bfa3d09fc5bed3f7d53459fe7cc87b0a",
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
-      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe"
+      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
+      "strip.bg-progress": "7d12260ef02ed725f4ccf0efe6ae88fd4b5a8374"
     }
   },
   {
@@ -2848,6 +2851,7 @@
       "max-width.tooltip": "01e7a2e8159b6eb720a995dff4187130308d5b9b",
       "betting.surface": "c296be3778c7ddbe9a6b623036c9c58ea5e0881b",
       "betting.card": "13ebb1c4f2992d3e7d67c10f69856e36ad956335",
+      "strip.bg-progress": "37b96bc640d19f6708c01255687ae15d7937b89f",
       "betting.green": "eb11892c99a3a478643dc788a7ee1ffefdd1fe47",
       "betting.red": "b982d6b8eb38fc1a55e8efb5024d57763aa1c2b4",
       "betting.temp": "a1be4fa9beea37500b41c9835179e80da2effa6c",

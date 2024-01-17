@@ -4100,5 +4100,17 @@
       "value": "0px",
       "type": "sizing"
     }
+  },
+  "strip": {
+    "bg-progress": {
+      "value": "#EEEEEE",
+      "type": "color",
+      "description": "bg in brogress bar "
+    },
+    "overlay": {
+      "value": "rgba(255, 255, 255, 0.62)",
+      "type": "color",
+      "description": "bg in brogress bar "
+    }
   }
 }
