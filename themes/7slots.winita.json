@@ -1137,6 +1137,15 @@
       "type": "border",
       "description": "border for show more wiget on main page"
     },
+    "strip-card": {
+      "value": {
+        "color": "#C0D2FA",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for show more wiget on main page"
+    },
     "nav-additional": {
       "value": {
         "color": "#CCCCCC",
@@ -1538,12 +1547,12 @@
         "description": "use for transaction with bg (detailed)"
       },
       "strip": {
-        "value": "rgba(210, 229, 255, 0.04)",
+        "value": "#E8F0FA",
         "type": "color",
         "description": "use for bg under girls"
       },
       "strip-bg": {
-        "value": "linear-gradient(0deg, #1c212e, rgba(18,72,72,0) 50%)",
+        "value": "{base.surface}",
         "type": "color",
         "description": "Global background for strip banners"
       },
@@ -1582,7 +1591,7 @@
         "description": "Baground foe categories on desktop"
       },
       "strip-popup": {
-        "value": "rgba(0,0,0, 0.5)",
+        "value": "{bg.popup}",
         "type": "color",
         "description": "Bg for background popup on strip desktop"
       }
@@ -3816,11 +3825,11 @@
   },
   "betting": {
     "surface": {
-      "value": "#0D1934",
+      "value": "#E7EDF5",
       "type": "color"
     },
     "card": {
-      "value": "#172648",
+      "value": "#F4F7FB",
       "type": "color"
     },
     "green": {
@@ -3845,7 +3854,7 @@
       "type": "color"
     },
     "separator primary": {
-      "value": "#3B4253",
+      "value": "#D6D7D9",
       "type": "color"
     },
     "secondary": {
@@ -3854,20 +3863,20 @@
       "description": "cashout bg/ "
     },
     "hover card": {
-      "value": "#1C2233",
+      "value": "{betting.card}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "lighten",
-            "value": "0.08",
+            "type": "darken",
+            "value": "0.1",
             "space": "srgb"
           }
         }
       }
     },
     "select card": {
-      "value": "#076DEA",
+      "value": "{base.accent-primary}",
       "type": "color"
     }
   },

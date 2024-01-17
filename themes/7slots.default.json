@@ -1294,6 +1294,15 @@
       },
       "type": "border",
       "description": "border for search in navigation"
+    },
+    "strip-card": {
+      "value": {
+        "color": "#E3F9FF",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for show more wiget on main page"
     }
   },
   "base spacing": {
