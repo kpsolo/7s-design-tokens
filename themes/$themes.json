@@ -466,6 +466,7 @@
       "bg.radial-additional": "621cf9b7d03074d69bc00124e272215873ba9d3a",
       "bg.blur-achivments": "50550d47199a94e2778a8508231281785ed5a2c4",
       "bg.widget-bonus-additional": "18ce7a04559e62d46ddb78f7df218bb3aa0753aa",
+      "bg.additional-2": "c3700022191d5c8a383518d0cb824f62d9ea1101",
       "nav.tab.start": "b557c72c8b82d5814e2854d31ca8a87891ead3b9",
       "nav.tab.stop": "2c9f0a143f89e7f64f0bfa7eb18043d7b1b59224",
       "base.light": "a75daf6873633b410c9a0fcbe4e3aa0198ad2073",
@@ -692,8 +693,7 @@
       "wheel.picker.bg-main-2-additional": "59971d2ee0912483527748f7918c7f1cdf9d8d51",
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
-      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
-      "bg.additional-2": "c3700022191d5c8a383518d0cb824f62d9ea1101"
+      "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c"
     }
   },
   {
@@ -1161,6 +1161,7 @@
       "bg.blur-achivments": "598aefa5a8b968ad78563989786f8c0e12a13d72",
       "bg.widget-bonus-additional": "d0c22ffe970f886cd3662429f6c6a2fbf0a3cb1c",
       "bg.radial-additional": "5eff48ccc60103eafb8df326eac56aa9bb856979",
+      "bg.additional-2": "6a152062308363fcb830a9e57e4d4da7563b12e5",
       "nav.tab.start": "4b1eb46566e478e8d4bbca705e215542c159556f",
       "nav.tab.stop": "30408c52a90fab511a33c60c69cf3e1276bb98f5",
       "base.light": "5f04d085d770291a63e13742c77a37a3aef8dd1c",
@@ -1402,8 +1403,7 @@
       "live-lottery.now-win-text": "694731ca12e9febe318df10cada87dea65bd1559",
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
-      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
-      "bg.additional-2": "6a152062308363fcb830a9e57e4d4da7563b12e5"
+      "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec"
     }
   },
   {
@@ -1881,6 +1881,7 @@
       "bg.radial-additional": "b17ca5fc29c0423fb16d6720ba4df086fe574fba",
       "bg.blur-achivments": "694ad6b07b83fe5c98aa9ec6b7f6a429f6bcff1e",
       "bg.widget-bonus-additional": "7060dc4daad085818a697e4d36bdada2d05cb0fb",
+      "bg.additional-2": "371699a79cd4d728ee21976f24db2bf88a863a00",
       "nav.tab.start": "c16c6ee1166fe9b7d1bcff10c4e1d0c260eecd37",
       "nav.tab.stop": "d10284132cd2cbcc0b50c65a83405fc319f3e8da",
       "base.light": "2d7f8648867129723d3d997258e78a8f7a7785b7",
@@ -2110,8 +2111,7 @@
       "wheel.picker.bg-main-2-additional": "15adfce9bfa3d09fc5bed3f7d53459fe7cc87b0a",
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
-      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
-      "bg.additional-2": "371699a79cd4d728ee21976f24db2bf88a863a00"
+      "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe"
     }
   },
   {
@@ -2197,16 +2197,16 @@
       "base.primary": "S:1434111e6eb157f77fdf1d8f41e4ef0d97036326,",
       "base.accent-light": "S:89861428fdc6fc4d93f0256af7b463943217b41d,",
       "live-lottery.live-tip": "S:8b05b21819e7eeb5525060e86e6aa5482ac64b98,",
-      "live-lottery.card-bg": "S:b0526ad92eda1bc49f77c1c0c42e172b11e070a6,",
+      "live-lottery.card-bg": "S:d20264d0817d043ad19b0a6e3b74ed9d63d88d99,",
       "live-lottery.live-tip-text": "S:fae98778a13c180e58217de2ef4bd636e3d20ee6,",
       "live-lottery.now-win-bg": "S:3f22feb3e77ba783b72a8dbd9cca272c5bb31c69,",
       "live-lottery.now-win-ticket": "S:194a9662382d8b1485e7292c6715d4a09ebf7747,",
       "live-lottery.now-win-ticket-text": "S:e3951e30dab750ac8cab97279d6675e8f914fbae,",
       "live-lottery.now-win-text": "S:04fa2a52260d10a059dc2f1c4cf4639caad76230,",
-      "live-lottery.timer-bg": "S:14c030b84fcdb251ce7565c779d8a21352e2f967,",
+      "live-lottery.timer-bg": "S:609b5b35bb6d7619b89b62e7eae8977ebfc0bf8c,",
       "live-lottery.empty-ball": "S:e88a1c4ebde0bc50c62ceeaf80ca2f47375a5bf1,",
       "live-lottery.place-label-text": "S:fede146b075656e1af1bd722c40e1c17cf615606,",
-      "live-lottery.place-label-bg": "S:6679512f2af187f6cf26ec88f417b0cccd18af45,",
+      "live-lottery.place-label-bg": "S:ba619c11c4aeed184f6dc2d7058077095b403c3c,",
       "navbar.bg.main": "S:6ff3500381cce8e7e4bc8dde7d3491865bad660a,",
       "navbar.bg.button": "S:6e827d0de9a164e49d28e0a55acec0e57e592fa6,",
       "navbar.bg.button-icon": "S:11665c0bf7562331a3e802458794d80512daeb1b,",
@@ -2250,7 +2250,7 @@
       "button.text.ghost-disabled": "S:71b458bb962cc418f0f6e5e8b9495e4bf37bfc34,",
       "small-elements.game.provider-logo-bg": "S:8205b9e2ce8976adc50546576e25e9765f2ff727,",
       "small-elements.game.label-thumb-new": "S:aeaadffcbc24852555c96460733f11fa84be5fa3,",
-      "small-elements.game.label-thumb-top": "S:9cbf5d5baa28c3e664de4abd19656b9d59cb6e6f,",
+      "small-elements.game.label-thumb-top": "S:7ece6351e08071921f59f847df53025fc995e253,",
       "small-elements.game.counter-color": "S:62fae12801043e14fcd81c5bc61ca87d7113ab8f,",
       "small-elements.game.label-thumb-text": "S:6e9801f3425fe3be1f37da5264418e973377c20a,",
       "small-elements.scrollbar.dark": "S:5a23e521d7eba14fd7d4e515cbe80d26ce223e53,",
@@ -2336,7 +2336,7 @@
       "special-blocks.jackpot-line": "S:d0ceab9d7af281f3b1f3798fded5900e5e664317,",
       "special-blocks.dropdown-custom": "S:c1b5636920ec0b74df6c6ab174f889eb0a235bb6,",
       "special-blocks.dropdown-custom-fade": "S:2fdd6d1449de917ceecb7a4394e19455ccc53a7b,",
-      "special-blocks.referral.number": "S:cb7b312ff9343285580398b1eb7ddcf34e069197,",
+      "special-blocks.referral.number": "S:de8d376f95410ed78c021bb2314de280f776a121,",
       "special-blocks.dropdown-content": "S:348cb24c08677957d139bcb2f60107b6c301c002,",
       "special-blocks.title-jackpot": "S:6892b6dbeb6e036637c115d3d9f29d4709a832f2,",
       "special-blocks.amount-jackpot": "S:b87eb0a0f7394388ac599baf2a4f98194da66cfe,",
@@ -2511,10 +2511,14 @@
       "special-blocks.referral.bg-additional": "S:aadb1069aa442e278fcb9cf65bf5bbeaf240a0d2,",
       "special-blocks.referral.accent-additional": "S:24c6c6d0f64c6a779f35394ff675ba897f2cae55,",
       "special-blocks.referral.accent": "S:3ccffc23854c410911d4819f6da15ceb7c533819,",
-      "bg.overlay.6": "S:fc50ce1acceec22d36f9e46aaacff523f1cc2fb0,",
+      "bg.overlay.6": "S:e331568df7e10e718f7d26b83431ee4f3eed6aef,",
       "special-blocks.404": "S:8f68d570fddf01364c996904a84379c36aed0150,",
       "categories.bg.additional": "S:e7ab4cfc1c182bf139250772edce8f8f820669be,",
-      "categories.accent": "S:d482df38643c6ae402e071486c85e2741dc6fcb7,"
+      "categories.accent": "S:d482df38643c6ae402e071486c85e2741dc6fcb7,",
+      "bg.additional-2": "S:ebcc0eeecd69ecb8aeea86391d8143a42e8018cc,",
+      "special-blocks.jackpot-sum": "S:58d11ddb1f85f9e32b26b8762552310d853be22f,",
+      "categories.bg.extra": "S:25ce0b894683c3ecc908f62d38e395acfc8401c2,",
+      "text.title.accent-additional": "S:86ddd5032a718b09591209720c42518355ee1a43,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

@@ -2473,7 +2473,7 @@
       "type": "color"
     },
     "bullet": {
-      "value": "{base.light}",
+      "value": "{text.opacity.2}",
       "type": "color",
       "description": "use in timer in live lottery"
     },
@@ -3646,7 +3646,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.8",
               "space": "srgb"
             }
           }
