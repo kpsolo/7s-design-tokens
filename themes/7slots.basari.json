@@ -1763,6 +1763,11 @@
         "type": "color",
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
+      "9": {
+        "value": "linear-gradient(180deg, rgba( {bg.primary} , 0.00) 0%, rgba( {bg.primary}, 0.76) 41.15%, {bg.primary} 100%)",
+        "type": "color",
+        "description": "use on message page under bottom link "
+      },
       "welcome": {
         "value": "linear-gradient(180deg, rgba(91,72,71,0) 0%, #5B4847 60.74%, #5B4847 100%)",
         "type": "color",

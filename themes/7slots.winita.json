@@ -857,7 +857,7 @@
         "value": {
           "x": "0",
           "y": "0",
-          "blur": "12",
+          "blur": "0",
           "spread": "0",
           "color": "transparent",
           "type": "dropShadow"
@@ -1049,7 +1049,7 @@
     },
     "chips-active": {
       "value": {
-        "color": "#43B183",
+        "color": "#4090FF",
         "width": "1",
         "style": "solid"
       },
@@ -1398,7 +1398,7 @@
       "description": "Radius for small elements and widgets, notification in menu item"
     },
     "large-tips": {
-      "value": "2px",
+      "value": "40px",
       "type": "borderRadius",
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
@@ -1513,7 +1513,7 @@
         "description": "Background color for outside 1click zone "
       },
       "accent-on-light": {
-        "value": "{base.accent-primary}",
+        "value": "#4090FF",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
@@ -1528,12 +1528,12 @@
         "description": "use for hover state in calendar, cashbox filter"
       },
       "cashbox": {
-        "value": "rgba(0, 0, 0, 0.16)",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "rgba(0, 0, 0, 0.32)",
+        "value": "#DCE0E8",
         "type": "color",
         "description": "use for transaction with bg (detailed)"
       },
@@ -1756,7 +1756,7 @@
         "description": "use in mob app over pic"
       },
       "4": {
-        "value": "linear-gradient(180deg, #A58600 0%, #EEC101 73.50%)",
+        "value": "#ccab10",
         "type": "color",
         "description": "use for coin in lootboxes"
       },
@@ -1780,13 +1780,18 @@
         "type": "color",
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
+      "9": {
+        "value": "linear-gradient(180deg, rgba( {bg.primary} , 0.00) 0%, rgba( {bg.primary}, 0.76) 41.15%, {bg.primary} 100%)",
+        "type": "color",
+        "description": "use on message page under bottom link "
+      },
       "welcome": {
         "value": "linear-gradient(180deg, rgba(99, 103, 161, 0.00) 0%, #6367A1 60.74%, #6367A1 100%)",
         "type": "color",
         "description": "use for overlay under button in welcome popup"
       },
       "footer": {
-        "value": "linear-gradient(90deg, rgba( {bg.other.footer} , 0.00) 0%, {bg.other.footer} 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as overlay on footer"
       },
@@ -2586,12 +2591,12 @@
     },
     "label": {
       "success": {
-        "value": "rgba(45, 216, 144, 0.4)",
+        "value": "#42CC60",
         "type": "color",
         "description": "use for success label in cashbox transactions"
       },
       "deny": {
-        "value": "rgba(182, 45, 62, 0.56)",
+        "value": "#F44C41",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
       }
@@ -3263,7 +3268,7 @@
       "description": "Amount of prize on jackpot widget"
     },
     "jackpot-line": {
-      "value": "#FFFFFF",
+      "value": "transparent",
       "type": "color",
       "description": "Color for jackpot widget separate line"
     },
