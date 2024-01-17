@@ -3292,6 +3292,11 @@
       "value": "{base.accent-secondary}",
       "type": "color",
       "description": "for jackpot sun in jackpot page"
+    },
+    "bg": {
+      "value": "rgba(106, 106, 106, 0.80)",
+      "type": "color",
+      "description": "use for bg search widget for providers popup"
     }
   },
   "filed spacing": {
@@ -4072,6 +4077,93 @@
       "value": "rgba(255, 255, 255, 0.62)",
       "type": "color",
       "description": "bg in brogress bar "
+    }
+  },
+  "gamepage": {
+    "bg": {
+      "primary": {
+        "value": "#EEEEEE",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#173881",
+        "type": "color"
+      },
+      "extra": {
+        "value": "#6880b4",
+        "type": "color",
+        "description": "bg under star"
+      },
+      "extra-additional": {
+        "value": "{gamepage.bg.extra}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg under star"
+      },
+      "tertiary": {
+        "value": "transparent",
+        "type": "color"
+      },
+      "additional": {
+        "value": "rgba(88, 122, 196, 0.20)",
+        "type": "color",
+        "$extensions": {},
+        "description": "bg for progressbar"
+      }
+    },
+    "content": {
+      "primary": {
+        "value": "#122D67",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "accent": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "$extensions": {}
+      },
+      "additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "use for game name"
+      },
+      "tertiary": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        }
+      }
+    },
+    "overlay": {
+      "value": "linear-gradient(180deg, rgba(23, 56, 129, 0.00) 0%, rgba(23, 56, 129, 0.68) 73.5%, #173881 100%)",
+      "type": "color"
     }
   }
 }

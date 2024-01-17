@@ -694,7 +694,19 @@
       "wheel.button.play": "73bac809e0082996acf6ffa1366c53cff2eab2df",
       "wheel.border.bottom": "a811485e41b23f0ab1f9b2a0fc8689cf3b75211b",
       "text-wrap.padding-fix": "5cfeb6d4b17d01adf9c0f9749f233c7e91a58b2c",
-      "strip.bg-progress": "5243e31bf0c06dcae5e1e575d5b10a8661e6ac55"
+      "strip.bg-progress": "5243e31bf0c06dcae5e1e575d5b10a8661e6ac55",
+      "strip.overlay": "9483825f90ac765804152a50c464101218a8b374",
+      "special-blocks.bg": "ef179674750b044441454383c65ba328f6bc7b94",
+      "gamepage.bg.primary": "680514e1eac2dd46e5b52b6708c24eb0bbf21cba",
+      "gamepage.bg.secondary": "dd55039832a8a6240c68ebc65d63aa521791e267",
+      "gamepage.content.primary": "405fc6739a8290801c63c7c566bbf6f7d07ad46a",
+      "gamepage.content.secondary": "d25e31c0c3aaf2666dac64254a2cdaf53b90bdac",
+      "gamepage.content.accent": "d3ec743b902de583b83ba6478f484b96f8b9f31c",
+      "gamepage.bg.extra": "e7e517565d09a28c57ce3338cff089a24199846a",
+      "gamepage.bg.extra-additional": "5022dbcb00bce1123bc5e9d9a35190b062a26a19",
+      "gamepage.bg.tertiary": "b22a70578746b7bda31698b77412fd9ca811a64c",
+      "gamepage.content.additional": "026595c7be83b0e69c0d8284654b308e6c957574",
+      "gamepage.content.tertiary": "bd1594c9a8e464474c4482d4c97c52883df64ca4"
     }
   },
   {
@@ -1405,7 +1417,19 @@
       "live-lottery.now-win-ticket": "0c7e5ff738ae95639db64ae4452d23ba5df68735",
       "live-lottery.now-win-ticket-text": "2b391de3bdf934b71f680342202607549221009e",
       "live-lottery.place-label-text": "9b4d41c296e97fe7fc401036de805b5a266875ec",
-      "strip.bg-progress": "364845af500610f7c25c11e8e1594adfdafa832d"
+      "strip.bg-progress": "364845af500610f7c25c11e8e1594adfdafa832d",
+      "strip.overlay": "7968c0eb801a577a3d6ce4b438a51c0e595a5aa1",
+      "special-blocks.bg": "b94e81fccf91c71fd3d576881d160334ef57f027",
+      "gamepage.bg.primary": "681d9607d96a665360ad74971c827246230f459e",
+      "gamepage.bg.secondary": "e2dc2e4632290c2a289a76dadbda47c72ba4d97c",
+      "gamepage.content.primary": "b3ba8a48cee5dee5b5a93da109333a42450d0a31",
+      "gamepage.content.secondary": "d5fcb9518b6b1593914f54d0ae3666064a629f28",
+      "gamepage.content.accent": "8e3eee62501e778b3271590123564121cb496bd7",
+      "gamepage.bg.extra": "634067c4210817f1e0ea0e4145c80eb229f18d66",
+      "gamepage.bg.extra-additional": "cacdb13915a2c5dd8d956bb60092f083ce2df2e8",
+      "gamepage.bg.tertiary": "915ab1b9fd008424f1fdebc5899926410aa12fd8",
+      "gamepage.content.additional": "451d4273a443556ad5606aa159a086e8141e5147",
+      "gamepage.content.tertiary": "a13acee8aae311bc0888770fc8c1fdd3e253d8ac"
     }
   },
   {
@@ -2114,7 +2138,19 @@
       "wheel.button.play": "bcfe7a08ac8a5662ec7e3fcd1c2d31ca3bd84b1b",
       "wheel.border.bottom": "11ae4be5eca27dc1aa175d318f499330e0dd1fa0",
       "text-wrap.padding-fix": "3b2cd4435c27dc73f062ee6ed672e89d9609a0fe",
-      "strip.bg-progress": "7d12260ef02ed725f4ccf0efe6ae88fd4b5a8374"
+      "strip.bg-progress": "7d12260ef02ed725f4ccf0efe6ae88fd4b5a8374",
+      "strip.overlay": "6babb89468b92c7a270954726a3ea7dc64f195db",
+      "special-blocks.bg": "8cdc12cc9d03dd4df3f701cbe9d4c4a8df429fb1",
+      "gamepage.bg.primary": "340dec421c0f90a9ecdd84e7ccf2cd2c2ef6fefc",
+      "gamepage.bg.secondary": "6811f8f19472f22c5c4a28ff762f5a240f595bb0",
+      "gamepage.content.primary": "503126f54df026d23a08a9c80dce1f60386e0cb5",
+      "gamepage.content.secondary": "c3af71db9bdd6040a0f92cafaa42dee979234f75",
+      "gamepage.content.accent": "a00622050ae30a728f894bf05f849aa70572c86c",
+      "gamepage.bg.extra": "f1fa5782f5bfbfe9694b9e9416ed449c38845cc4",
+      "gamepage.bg.extra-additional": "e763977b95a208784d68941b871e9391c42be079",
+      "gamepage.bg.tertiary": "b51c8f5b1b27f49966d44a9dc8a70979736842fc",
+      "gamepage.content.additional": "9b49769ebd5d02d6e0a5ce71f5d27bc5a42331d3",
+      "gamepage.content.tertiary": "1e285b5cc17122fbbdf669fa7792717b39cd2f59"
     }
   },
   {
@@ -2783,6 +2819,7 @@
       "min-height.game-item-block": "ecaaf7492b04fe8916a96146057d612ad53a41f1",
       "paragraph-indent.first-stroke-default": "39215fdab3d176ee84431abf632473df56676d8c",
       "special-blocks.404": "653ff192e30428eb3e083db730accdc3aa83c779",
+      "special-blocks.bg": "3e5ca2d1dbcae543ffc7a02dab1ea55278c25e92",
       "special-blocks.jackpot-border": "330869f41c1b042f00f14275ef460029e99be69a",
       "special-blocks.jackpot-sum": "9178c1e6735e20f2a4fa7bfd5ad3c8b0c5daeac0",
       "special-blocks.jackpot-border-2": "7d7452a4256731e5990957cfb0ac69f5e66c1da0",
@@ -2852,6 +2889,17 @@
       "betting.surface": "c296be3778c7ddbe9a6b623036c9c58ea5e0881b",
       "betting.card": "13ebb1c4f2992d3e7d67c10f69856e36ad956335",
       "strip.bg-progress": "37b96bc640d19f6708c01255687ae15d7937b89f",
+      "gamepage.bg.primary": "de1730df48277634285a6aa0eeb1aa5f2020d8dc",
+      "gamepage.content.primary": "834a072627cec76508292609b486169d741d2a37",
+      "gamepage.content.additional": "e204590bdbc76bfb57d7a17f7bc3d21f94ec3c65",
+      "gamepage.content.secondary": "c749882a12f7698dd539dfc92c816622fe85b561",
+      "gamepage.content.tertiary": "09bc182c8f01563e2ccc019078189fd2f3bc7b2c",
+      "gamepage.content.accent": "6debd1b36316beff3b92d1fde04e38db8f33fb1e",
+      "gamepage.bg.secondary": "f6c04b1108129e549f47b5de9c7060d1ab4c731e",
+      "gamepage.bg.tertiary": "26dcc8f0b9e8238cbe5e40497e2423308d59323f",
+      "gamepage.bg.extra": "f48ac02daac27113193c61ce8572b24d5d92cda8",
+      "gamepage.bg.extra-additional": "c3776723571874b8ad36aba4f6c31c49946a7cc9",
+      "strip.overlay": "e8cd04c35c00c23e3f9c4b07f892dda7c4758ab9",
       "betting.green": "eb11892c99a3a478643dc788a7ee1ffefdd1fe47",
       "betting.red": "b982d6b8eb38fc1a55e8efb5024d57763aa1c2b4",
       "betting.temp": "a1be4fa9beea37500b41c9835179e80da2effa6c",
