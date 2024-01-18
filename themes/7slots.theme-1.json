@@ -3393,6 +3393,21 @@
       "value": "rgba(106, 106, 106, 0.80)",
       "type": "color",
       "description": "use for bg search widget for providers popup"
+    },
+    "live-lottery-numbers": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "18px",
+        "fontSize": "18px",
+        "letterSpacing": "0",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography",
+      "description": "numbers in timer"
     }
   },
   "filed spacing": {
