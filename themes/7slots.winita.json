@@ -1693,7 +1693,6 @@
       "ghost-2": {
         "value": "rgba(0, 0, 0, 0.60)",
         "type": "color",
-        "$extensions": {},
         "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
       },
       "right-menu": {
@@ -1952,26 +1951,6 @@
       "value": "{base.light}",
       "type": "color",
       "description": "text for live icon"
-    },
-    "now-win-bg": {
-      "value": "{base.accent-secondary}",
-      "type": "color",
-      "description": "bg for now-live sticker"
-    },
-    "now-win-ticket": {
-      "value": "#A4BBC6",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
-    "now-win-ticket-text": {
-      "value": "#000",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
-    "now-win-text": {
-      "value": "{text.light}",
-      "type": "color",
-      "description": "text for now-live sticker"
     },
     "timer-bg": {
       "value": "rgba(122, 73, 255, 0.70)",
@@ -3925,7 +3904,6 @@
       "additional": {
         "value": "rgba(88, 122, 196, 0.20)",
         "type": "color",
-        "$extensions": {},
         "description": "bg for progressbar"
       }
     },
@@ -3971,8 +3949,7 @@
       },
       "accent": {
         "value": "{base.accent-secondary}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       }
     }
   },

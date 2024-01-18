@@ -4115,7 +4115,6 @@
       "additional": {
         "value": "rgba(88, 122, 196, 0.20)",
         "type": "color",
-        "$extensions": {},
         "description": "bg for progressbar"
       }
     },
@@ -4139,8 +4138,7 @@
       },
       "accent": {
         "value": "{base.accent-secondary}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "additional": {
         "value": "#FFFFFF",
