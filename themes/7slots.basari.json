@@ -3302,8 +3302,8 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "18px",
-        "fontSize": "18px",
+        "lineHeight": "20px",
+        "fontSize": "20px",
         "letterSpacing": "0",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
