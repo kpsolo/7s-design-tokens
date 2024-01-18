@@ -4021,26 +4021,6 @@
       "type": "color",
       "description": "text for live icon"
     },
-    "now-win-bg": {
-      "value": "#2b0804",
-      "type": "color",
-      "description": "bg for now-live sticker"
-    },
-    "now-win-text": {
-      "value": "{text.light}",
-      "type": "color",
-      "description": "text for now-live sticker"
-    },
-    "now-win-ticket": {
-      "value": "#fefefe",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
-    "now-win-ticket-text": {
-      "value": "#000",
-      "type": "color",
-      "description": "bg for now-live ticker"
-    },
     "card-bg": {
       "value": "linear-gradient(175deg, #841A1A 4.27%, #841919 37.94%, #53140B 75.41%, #6F1111 93.54%)",
       "type": "color",
