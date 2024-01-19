@@ -1622,7 +1622,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "#173A86",
+      "value": "#133a90",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -1707,7 +1707,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.1",
+              "value": "0.2",
               "space": "srgb"
             }
           }
@@ -2203,6 +2203,11 @@
         "type": "color",
         "description": "border color for buttons default"
       },
+      "tertiary-light": {
+        "value": "{button.text.primary}",
+        "type": "color",
+        "description": "border color for buttons default in cards"
+      },
       "tertiary-hover": {
         "value": "{button.border.tertiary}",
         "type": "color",
@@ -2211,6 +2216,20 @@
             "modify": {
               "type": "lighten",
               "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "border color for buttons hover"
+      },
+      "tertiary-light-hover": {
+        "value": "{button.border.tertiary-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
               "space": "srgb"
             }
           }
@@ -2231,6 +2250,20 @@
         },
         "description": "border color for buttons pressed"
       },
+      "tertiary-light-pressed": {
+        "value": "{button.text.tertiary-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "border color for buttons pressed"
+      },
       "tertiary-disabled": {
         "value": "{button.text.tertiary}",
         "type": "color",
@@ -2243,6 +2276,12 @@
             }
           }
         },
+        "description": "border color for buttons disabled"
+      },
+      "tertiary-light-disabled": {
+        "value": "{button.text.tertiary-light-disabled}",
+        "type": "color",
+        "$extensions": {},
         "description": "border color for buttons disabled"
       },
       "ghost": {
@@ -2282,6 +2321,11 @@
         "type": "color",
         "description": "color on tertiary buttons"
       },
+      "tertiary-light": {
+        "value": "{button.text.primary}",
+        "type": "color",
+        "description": "color on tertiary buttons on cards"
+      },
       "ghost": {
         "value": "#33B34F",
         "type": "color",
@@ -2299,6 +2343,20 @@
       },
       "tertiary-disabled": {
         "value": "{button.text.tertiary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "Text color on tertiary disabled button"
+      },
+      "tertiary-light-disabled": {
+        "value": "{button.text.tertiary-light}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2564,7 +2622,7 @@
         "description": "Color of counter for desktop tournament widget"
       },
       "tournament-counter-bg": {
-        "value": "{bg.tertiary}",
+        "value": "{base.primary}",
         "type": "color",
         "description": "bg for tournament counter on desktop widget"
       }
@@ -2579,6 +2637,11 @@
         "value": "#F44C41",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
+      },
+      "deny-text": {
+        "value": "#FFF",
+        "type": "color",
+        "description": "use for deny label text in cashbox transactions"
       }
     },
     "timer": {

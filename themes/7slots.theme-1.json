@@ -2205,6 +2205,45 @@
         "value": "#3EA379",
         "type": "color",
         "description": "border color for ghost buttons pressed state (use in menu)"
+      },
+      "tertiary-light": {
+        "value": "{button.text.primary}",
+        "type": "color",
+        "description": "border color for buttons default in cards"
+      },
+      "tertiary-light-hover": {
+        "value": "{button.border.tertiary-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "border color for buttons hover"
+      },
+      "tertiary-light-pressed": {
+        "value": "{button.text.tertiary-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "border color for buttons pressed"
+      },
+      "tertiary-light-disabled": {
+        "value": "{button.text.tertiary-light-disabled}",
+        "type": "color",
+        "$extensions": {},
+        "description": "border color for buttons disabled"
       }
     },
     "text": {
@@ -2252,6 +2291,25 @@
         "value": "rgba(255,255,255,0.4)",
         "type": "color",
         "description": "Text color on ghost disabled button"
+      },
+      "tertiary-light": {
+        "value": "{button.text.primary}",
+        "type": "color",
+        "description": "color on tertiary buttons on cards"
+      },
+      "tertiary-light-disabled": {
+        "value": "{button.text.tertiary-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.5",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "Text color on tertiary disabled button"
       }
     }
   },
@@ -2533,6 +2591,11 @@
         "value": "rgba(182, 45, 62, 0.56)",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
+      },
+      "deny-text": {
+        "value": "#FFF",
+        "type": "color",
+        "description": "use for deny label text in cashbox transactions"
       }
     },
     "timer": {
