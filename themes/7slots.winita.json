@@ -197,7 +197,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.xs}",
-        "fontSize": "16px",
+        "fontSize": "15px",
         "letterSpacing": "{letter-spacing.0,2}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -286,7 +286,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.s}",
-        "fontSize": "18px",
+        "fontSize": "17px",
         "letterSpacing": "{letter-spacing.0,5}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -1517,7 +1517,7 @@
         "description": "Background color for footer"
       },
       "1click": {
-        "value": "#FFF",
+        "value": "#F4F7FB",
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
@@ -3611,6 +3611,27 @@
         "value": "#173A86",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
+      }
+    },
+    "content": {
+      "primary": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "use for amounts (desktop)"
+      },
+      "secondary": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for  (desktop)"
       }
     }
   },

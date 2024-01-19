@@ -3481,6 +3481,27 @@
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
+    },
+    "content": {
+      "primary": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "use for amounts (desktop)"
+      },
+      "secondary": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for  (desktop)"
+      }
     }
   },
   "text": {
