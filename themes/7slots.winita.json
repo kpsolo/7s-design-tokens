@@ -3610,6 +3610,12 @@
       },
       "description": "use for links on lighter bg (notifications), game page"
     },
+    "link-additional": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "$extensions": {},
+      "description": "use for links on color bg (footer/profile/tournament cards)"
+    },
     "accent": {
       "value": "{base.accent-secondary}",
       "type": "color"
@@ -3736,6 +3742,11 @@
       "accent": {
         "value": "#3BEA62",
         "type": "color"
+      },
+      "additional": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use in shop cards"
       },
       "accent-additional": {
         "value": "#FEFEFE",

@@ -3693,7 +3693,18 @@
         "value": "#FEFEFE",
         "type": "color",
         "description": "for winner name in winning now block"
+      },
+      "additional": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use in shop cards"
       }
+    },
+    "link-additional": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "$extensions": {},
+      "description": "use for links on color bg (footer/profile/tournament cards)"
     }
   },
   "menu": {
