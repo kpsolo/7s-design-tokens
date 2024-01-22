@@ -1562,7 +1562,7 @@
         "description": "Bg for sidebar on gamepage (desktop)"
       },
       "welcome-3": {
-        "value": "#7B75BE",
+        "value": "{bg.other.welcome-2}",
         "type": "color"
       },
       "win-card-wrap": {
@@ -1571,13 +1571,22 @@
         "description": "bg for row of winners vidgets"
       },
       "welcome": {
-        "value": "linear-gradient(130deg, #6E73C7 1.73%, #60649A 48.39%, #52559E 100%)",
+        "value": "{bg.other.promo}",
         "type": "color",
         "description": "use as bg for welcome popup"
       },
       "welcome-2": {
-        "value": "#7B75BE",
+        "value": "{bg.other.welcome}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use as bg for welcome popup timer widget"
       },
       "lootboxes-cell-selected": {
@@ -1786,7 +1795,7 @@
         "description": "use on message page under bottom link "
       },
       "welcome": {
-        "value": "linear-gradient(180deg, rgba(99, 103, 161, 0.00) 0%, #6367A1 60.74%, #6367A1 100%)",
+        "value": "linear-gradient(180deg, rgba(23, 58, 134, 0.00) 0%, #173A86 60.74%, #173A86 100%)",
         "type": "color",
         "description": "use for overlay under button in welcome popup"
       },
@@ -2265,23 +2274,14 @@
         "description": "border color for buttons pressed"
       },
       "tertiary-disabled": {
-        "value": "{button.text.tertiary}",
+        "value": "#39cc5966",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "border color for buttons disabled"
       },
       "tertiary-light-disabled": {
         "value": "{button.text.tertiary-light-disabled}",
         "type": "color",
-        "$extensions": {},
         "description": "border color for buttons disabled"
       },
       "ghost": {
@@ -3642,7 +3642,7 @@
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
     "accent-additional": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "use for accent text in welcome popup"
     },
@@ -3697,7 +3697,6 @@
     "link-additional": {
       "value": "{base.accent-secondary}",
       "type": "color",
-      "$extensions": {},
       "description": "use for links on color bg (footer/profile/tournament cards)"
     },
     "accent": {
@@ -4155,7 +4154,7 @@
         "description": "use for sectors bg (type1) - start"
       },
       "sector-2-additional": {
-        "value": "#ffffff",
+        "value": "{wheel.bg.sector-2}",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
@@ -4170,17 +4169,17 @@
         "description": "use for sectors bg (type1) - start "
       },
       "sector-1-additional": {
-        "value": "#5CD995",
+        "value": "{wheel.bg.sector-1}",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
       "dots": {
-        "value": "#5AD4CD",
+        "value": "transparent",
         "type": "color",
         "description": "use for dots shine under wheel border"
       },
       "radial": {
-        "value": "radial-gradient(50% 50% at 50% 50%, rgba(141, 252, 253, 0.42) 0%, rgba(141, 252, 253, 0.00) 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for bg elipse on main bg under wheel"
       },
@@ -4190,12 +4189,12 @@
         "description": "use as bg on wheel popup"
       },
       "lines": {
-        "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.00) -0.98%, rgba(255, 255, 255, 0.20) 23.37%, rgba(255, 255, 255, 0.20) 74.78%, rgba(255, 255, 255, 0.00) 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg for lines under wheel"
       },
       "sector-3-additional": {
-        "value": "#8DFCFD",
+        "value": "{wheel.bg.sector-3}",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
@@ -4261,17 +4260,8 @@
     },
     "loader": {
       "shaddow": {
-        "value": "#000000",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "transparent",
+        "type": "color"
       }
     },
     "tip": {
@@ -4302,59 +4292,59 @@
     },
     "picker": {
       "bg-main": {
-        "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as main bg on picker"
       },
       "bg-main-2-additional": {
-        "value": "#000",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg for bigger circle"
       },
       "bg-shaddow": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for shaddow over picker"
       },
       "bg-main-2": {
-        "value": "linear-gradient(180deg, #C12323 0%, #B62D3E 45.62%, #8DFCFD 100%), linear-gradient(180deg, #5CD995 0%, #3A9B84 100%), linear-gradient(108deg, #116B21 20.07%, #60BD61 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg for circle"
       }
     },
     "button": {
       "bg-2": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for shaddow under play triangle"
       },
       "play": {
-        "value": "#ffffffe6",
+        "value": "transparent",
         "type": "color",
         "description": "play triangle"
       },
       "bg-1": {
-        "value": "linear-gradient(180deg, #8DFCFD 0%, #B62D3E 45.62%, #750000 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for bg on play button"
       },
       "bg-border-1": {
-        "value": "linear-gradient(180deg, #47515A 0%, #B6C6D4 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use as border for play button"
       }
     },
     "border": {
       "main": {
-        "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
+        "value": "transparent",
         "type": "color"
       },
       "main-additional": {
-        "value": "linear-gradient(180deg, #47515A 6.83%, #868E93 29.42%, #DCF7FD 49.75%, #868E93 71.21%, #47515A 92.67%)",
+        "value": "transparent",
         "type": "color"
       },
       "bottom": {
-        "value": "#8DFCFD",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg under wheel main border"
       }

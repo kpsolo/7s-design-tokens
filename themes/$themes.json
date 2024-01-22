@@ -729,7 +729,16 @@
       "gamepage.content.additional": "026595c7be83b0e69c0d8284654b308e6c957574",
       "gamepage.content.tertiary": "bd1594c9a8e464474c4482d4c97c52883df64ca4",
       "text.title.additional": "07dc6e6e2d4228b239a6f09ff8f2a6ac9bf8fc22",
-      "text.link-additional": "2d8a3440242e7b66dc02af1f60c06707df0d92ce"
+      "text.link-additional": "2d8a3440242e7b66dc02af1f60c06707df0d92ce",
+      "small-elements.label.deny-text": "f355576f8859c8a05f9fae539fd8cde1afb6daf1",
+      "button.border.tertiary-light": "13c3256b817864b2aea510bffdd1f99d7ebb2948",
+      "button.text.tertiary-light": "8895d28025d3d7db81d6bf8f4da0ac102e5df29d",
+      "button.text.tertiary-light-disabled": "333caa142c15d41ba2e9675e9b45172bf930f921",
+      "button.border.tertiary-light-hover": "2696ca4e9f9be3606d5dd19b4439fd6baa3102b6",
+      "button.border.tertiary-light-pressed": "5ebde6686f30f929858115f6eaa52014c909be42",
+      "button.border.tertiary-light-disabled": "92aafbdaffcffca683d07a8c7686dcbd1049a3c1",
+      "header.content.primary": "d8161f32e897378bf8725d0ee8219eb10cc99ca3",
+      "header.content.secondary": "41531ef971d8b55a2f0cf10f3e82f76084115ef2"
     }
   },
   {
@@ -1447,7 +1456,16 @@
       "gamepage.content.additional": "451d4273a443556ad5606aa159a086e8141e5147",
       "gamepage.content.tertiary": "a13acee8aae311bc0888770fc8c1fdd3e253d8ac",
       "text.title.additional": "c2a10cfb9e6cbc514bdf0bb28915709a33c04de1",
-      "text.link-additional": "3c83d6c84eb4f8b35f61edf26cf24f6e286ac79e"
+      "text.link-additional": "3c83d6c84eb4f8b35f61edf26cf24f6e286ac79e",
+      "small-elements.label.deny-text": "55db38d0b062ef2dfef36d4a26693fcee5c6b974",
+      "button.border.tertiary-light": "fc03af6acea0afdf33338f611f0681cb61b642f6",
+      "button.text.tertiary-light": "c7085c254d1732714d597f87f49fe2a32f10c130",
+      "button.text.tertiary-light-disabled": "5d3c0a191acafa8561f7704224018d680aa6b2ab",
+      "button.border.tertiary-light-hover": "15b7336db0f1dd979e0d0c19a92446f2fa53ac58",
+      "button.border.tertiary-light-pressed": "9e0667edcf8eb988a4895075e887f3bec3ece501",
+      "button.border.tertiary-light-disabled": "193f5f4b622d2322276f8ce3c8b36d94bff1ae53",
+      "header.content.primary": "aae172d89864e81a622b20e16558fb87984f328e",
+      "header.content.secondary": "829b695af3f1dbad49e0aa537f56fc74c28abba2"
     }
   },
   {
@@ -2171,7 +2189,16 @@
       "gamepage.content.additional": "9b49769ebd5d02d6e0a5ce71f5d27bc5a42331d3",
       "gamepage.content.tertiary": "1e285b5cc17122fbbdf669fa7792717b39cd2f59",
       "text.title.additional": "2672779910fa5cd701e5bd9328c38faaffd99b25",
-      "text.link-additional": "2aaef380a46c55f601af4843ff9370153e8b74c2"
+      "text.link-additional": "2aaef380a46c55f601af4843ff9370153e8b74c2",
+      "small-elements.label.deny-text": "758d4961ef7345488fda5ba0fd06b6d1c2ebba0e",
+      "button.border.tertiary-light": "e275cc401cee1112c9a8d631010f135f04db9040",
+      "button.text.tertiary-light": "294771e2e95786467f163954dc1cc469b4a321ce",
+      "button.text.tertiary-light-disabled": "d9b9006417aff6faec8cdc464a880a7825c51af6",
+      "button.border.tertiary-light-hover": "f25ee11361358acbd286970525754b51f450719c",
+      "button.border.tertiary-light-pressed": "0ec6f38d509b788d6063aa2dce8b2694377d0680",
+      "button.border.tertiary-light-disabled": "e24fb03edce601cd8108a026d5644edcb2bdf0b8",
+      "header.content.primary": "9aaa97c6cc89ae9c7f4d8f1ebae80794cecd6e27",
+      "header.content.secondary": "a05e653cabaa360676ee334dd4bd1418f0d3b3f8"
     }
   },
   {
@@ -2201,7 +2228,7 @@
       "bg.other.sidebar-game": "S:568497b755d9bf33895c55c29d4bf73400b87b74,",
       "bg.other.welcome-3": "S:97cd9c34fbcbab786ac41bb2ff2a8946e9fab237,",
       "bg.other.win-card-wrap": "S:3bceb5be604bbf114181647289583a41bc06af38,",
-      "bg.other.welcome": "S:4db1c8e424adc93906b17b0a4277551d6cba2f06,",
+      "bg.other.welcome": "S:b731ea76ab0356fdc3ee4565215b716af968ba95,",
       "bg.other.welcome-2": "S:ea799a6b7be184a66448972dce6520b09e70233c,",
       "bg.other.lootboxes-cell-selected": "S:57b0d7ca511fcff060dab16fe8ff1b63fea860c8,",
       "bg.other.categories-nav": "S:277f0d27de98423cc3b8e0b99df55d382d159f57,",
@@ -2600,7 +2627,9 @@
       "gamepage.content.secondary": "S:fbdf98174d707651df0017dabf0d0c47f4201d05,",
       "gamepage.content.tertiary": "S:15ab7cb91f6f3bbe6fbadd1fa240292f79bd6a9b,",
       "gamepage.content.accent": "S:087742854f027579b3c30da75a63b6e70da2d8f8,",
-      "special-blocks.live-lottery-numbers": "S:909edbc4361d1cf687f17e3f436a9657e21cf0ee,"
+      "special-blocks.live-lottery-numbers": "S:909edbc4361d1cf687f17e3f436a9657e21cf0ee,",
+      "header.content.primary": "S:7290e4467c62d9984ae315c9ceb815257107d05c,",
+      "header.content.secondary": "S:fdecb4552709379c438c58b5f1bb0690050c16ad,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -2658,6 +2687,7 @@
       "bg.other.sidebar-game": "343a0d8ac55816b9eaefac46e59ff9a8f9f6035c",
       "bg.other.welcome-3": "2b32aadfeef9c11b273a053e996eee9a9cb6deb0",
       "bg.other.win-card-wrap": "02980837edc4d8785b9e7cc6bfc0a1c70ec2fa22",
+      "bg.other.welcome": "46db127e03a99ff55a5c33034f0a11bb87b3a4cc",
       "bg.other.welcome-2": "ef8a9a7afab3b829f878359b6ce9ae4405f62ec2",
       "bg.other.lootboxes-cell-selected": "4c4f60018593294b99e0095d9f0ce10d291f942a",
       "bg.other.categories-nav": "1813b352d6663f701a12764afb43bbebfcf0b390",
@@ -2746,9 +2776,13 @@
       "button.icon.tertiary-disabled": "9590a29395f0ddf807838b33541ce465f718eba0",
       "button.icon.ghost-disabled": "993dc219eed3ee443f840170b665ec6daf25315a",
       "button.border.tertiary": "eee3c42c67eff80161703b235328c5cf9fa0c8b2",
+      "button.border.tertiary-light": "2f803ab43b64cdc50f8f95d28142c1ef18162d85",
       "button.border.tertiary-hover": "40ba2cc6180e7c5375f6ab6922c4a76c0589dea6",
+      "button.border.tertiary-light-hover": "b0fa01049bd8ea9eea4c1999ca443b995d1f2fc4",
       "button.border.tertiary-pressed": "299e91a758986a8903c01d838fa0644ac8c5f8eb",
+      "button.border.tertiary-light-pressed": "1f04f17f79ef0991e994b72a23686e6e309527fc",
       "button.border.tertiary-disabled": "4fd814236cf3c5d7b092b20f5968b613b5ce9473",
+      "button.border.tertiary-light-disabled": "dda1dc86c74fba039c6f963ab82b8b2a2492bc30",
       "button.border.ghost": "ff22c48ec3fec666cf484d5895ed07ba0a02c009",
       "button.border.ghost-hover": "80e3789d61de6226d509622c7d938a4d0f3dc0a4",
       "button.border.ghost-pressed": "d4c45dec69277eeef8d9988692a82c33261f78dc",
@@ -2756,10 +2790,12 @@
       "button.text.secondary": "a989e3bd71854b92711acfd62358da2811adcec8",
       "button.text.light-bg": "c9f9da933e848e9e69fac7e1ef92894dc7cbddd9",
       "button.text.tertiary": "8cd7a5c9e46e74d80b3d4f8184d8dfa7530dea0a",
+      "button.text.tertiary-light": "67a141e428f9668a3e5f5e9192ad7645d2c99716",
       "button.text.ghost": "fec4d134f79db775a7294c674c2704b262e8b83d",
       "button.text.primary-disabled": "7c5a3e76bcde78fa46739a1f5b628a054b15e8a5",
       "button.text.secondary-disabled": "cd9ee58a709012bb75fb1dfb765e3f315dfa731c",
       "button.text.tertiary-disabled": "0eeb568e213d11950ec94c64dd2409db2c6e946e",
+      "button.text.tertiary-light-disabled": "3372654ceb6add6e7ce1fee974d4616491f44ad4",
       "button.text.ghost-disabled": "2204d949a85dd3b16cca346e7799513c32c586ed",
       "small-elements.game.label-thumb-new": "09093b5316ed837f7ed39a492eedd59273eb4ce8",
       "small-elements.game.label-thumb-top": "005d40eda5a0770c031dd26829e449765608519e",
@@ -2795,6 +2831,7 @@
       "small-elements.desktop.tournament-counter-bg": "4644b6416a3e86227c7fe3b4523d9e13f81187c2",
       "small-elements.label.success": "67ca7157703b3e2155ca1fb8a11cf737ad1ebbfc",
       "small-elements.label.deny": "bbdd7b49a8fdb6ff0626d858872db81ea8427265",
+      "small-elements.label.deny-text": "817ce98026a4ac96796ead6616c4eb23649d80c7",
       "small-elements.up-button.accent": "2e8d6b52016ade710e3a81c2a2b3c9299811bd14",
       "small-elements.up-button.hover-bg": "b8fe90434d0207c6abde8633a1e241876c244bb4",
       "small-elements.up-button.bg": "97cce3ced817f893f03faa985ed1e585bc1eb517",
@@ -2887,6 +2924,8 @@
       "categories.border.main": "9de6995f1548171e024aebc39138e194212a5709",
       "header.bg.balance": "04b174665a532eebeee8d786916b7924dce33dde",
       "header.bg.main": "31aee2e2219d92dace9eaa0952d90f8ced43a34d",
+      "header.content.primary": "3f2be17dad36c462111a2f7b7e54258da8a031f2",
+      "header.content.secondary": "895f3d5ef081dbe1ada3e79bd6bcdee4d6e5f166",
       "header.bg.sticky": "a1b31251d8ed728af84e4e1f643c798e3ef3e39f",
       "header.bg.top-desktop": "ec32c828f49069860aff81c3c3daf32531065ced",
       "header.bg.bottom-desktop": "9f2d9246df22031bca3e6771ddeb7251a79a71a6",
@@ -2968,6 +3007,7 @@
       "wheel.bg.sector-1-additional": "921352231bf1617013836c24425e872a3b98be5f",
       "wheel.bg.dots": "bc1ec2547c53fa87c79fb16e59a364a2b03295c4",
       "wheel.bg.radial": "a88bb21dee9312ce05b64e79ab4b1438f7cb9e82",
+      "wheel.bg.lines": "2e44356447310262dd90ba9e2a33595dfab41420",
       "wheel.bg.sector-3-additional": "6fa70cf37030e307dd4503feb673840eb27b6f26",
       "wheel.bg.border-sector": "8593ef65c2fbf4ef589e4677e0bdb4fd3394893d",
       "wheel.switcher": "6dce6f76b8fca699e0472b4df7b9da401287b47f",
@@ -2977,8 +3017,16 @@
       "wheel.loader.shaddow": "a86b5a602bda2ada6b1b3ffe8a4cb5a5d5bf1023",
       "wheel.tip.hover": "4dfe72eb231d642db7128d10a040ff2d7ced8f05",
       "wheel.tip.inactive": "70625ef26c303edbf38c6b5e768651a3581235f4",
+      "wheel.picker.bg-main": "90abc2432615a26f865d8e168b736786f403e0b2",
       "wheel.picker.bg-main-2-additional": "90ff758266132fe73e8728a0f01016a2f9ddbbd5",
+      "wheel.picker.bg-shaddow": "0e50d513f1272ae98be06cfbcfdf8bfa0c4df24c",
+      "wheel.picker.bg-main-2": "7b531278cf90408ca3d522a1ae8d9b010129dea6",
+      "wheel.button.bg-2": "9d0fcaee533298268eb0c7d3400501c5e7331662",
       "wheel.button.play": "08a375dc1b92bc6453be9ea9502f9ac555395c5a",
+      "wheel.button.bg-1": "3b6c2032c0d0533b60099e2c67a86520d471dcea",
+      "wheel.button.bg-border-1": "95c56e6c5ba856bc18107d2cc2e6ca4913141b7f",
+      "wheel.border.main": "cab64e6eff65f7965bd47089941c65661fbef9e8",
+      "wheel.border.main-additional": "5848ded5b7e092805c622920b8bcd4f41b5a00f4",
       "wheel.border.bottom": "b3d7126051d08327e75b2f92495a69eb29c13226",
       "text-wrap.padding-fix": "6cb3c270acc4049aa240ad4a073b351bf12fb417"
     }

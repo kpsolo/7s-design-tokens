@@ -2139,7 +2139,6 @@
       "tertiary-light-disabled": {
         "value": "{button.text.tertiary-light-disabled}",
         "type": "color",
-        "$extensions": {},
         "description": "border color for buttons disabled"
       }
     },
@@ -3709,7 +3708,6 @@
     "link-additional": {
       "value": "{base.accent-secondary}",
       "type": "color",
-      "$extensions": {},
       "description": "use for links on color bg (footer/profile/tournament cards)"
     }
   },
