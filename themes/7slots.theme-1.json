@@ -3803,6 +3803,16 @@
       "value": "{base.accent-secondary}",
       "type": "color",
       "description": "use for links on color bg (footer/profile/tournament cards)"
+    },
+    "link-dektop": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for link on desktop popups (under popup frame)"
+    },
+    "link-text-dektop": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for link text on desktop popups (under popup frame)"
     }
   },
   "menu": {

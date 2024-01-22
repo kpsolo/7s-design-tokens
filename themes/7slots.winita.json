@@ -216,7 +216,7 @@
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
@@ -246,7 +246,7 @@
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
       "description": "Link text"
@@ -1700,9 +1700,9 @@
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "rgba(0, 0, 0, 0.60)",
+        "value": "rgba(45, 45, 45, 0.80)",
         "type": "color",
-        "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
+        "description": "Use for overlay no desktop poopups"
       },
       "right-menu": {
         "value": "rgba(0, 0, 0, 0.60)",
@@ -3656,6 +3656,16 @@
       "type": "color",
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
+    "link-dektop": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for link on desktop popups (under popup frame)"
+    },
+    "link-text-dektop": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for link text on desktop popups (under popup frame)"
+    },
     "accent-additional": {
       "value": "{base.accent-secondary}",
       "type": "color",
@@ -3693,20 +3703,12 @@
     "link": {
       "value": "{base.accent-primary}",
       "type": "color",
-      "description": "also use for win tickets in lottery results"
+      "description": "Use in content text zone (in primary bg) \nalso use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
+      "$extensions": {},
       "description": "use for links on lighter bg (notifications), game page"
     },
     "link-additional": {

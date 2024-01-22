@@ -738,7 +738,12 @@
       "button.border.tertiary-light-pressed": "5ebde6686f30f929858115f6eaa52014c909be42",
       "button.border.tertiary-light-disabled": "92aafbdaffcffca683d07a8c7686dcbd1049a3c1",
       "header.content.primary": "d8161f32e897378bf8725d0ee8219eb10cc99ca3",
-      "header.content.secondary": "41531ef971d8b55a2f0cf10f3e82f76084115ef2"
+      "header.content.secondary": "41531ef971d8b55a2f0cf10f3e82f76084115ef2",
+      "small-elements.timer.bg": "574a9b32bc3ecfee9c3fd919d1f961a31043683e",
+      "small-elements.timer.content": "0257f97bff50c62076fb8e93276435c372b2ebd3",
+      "header.content.tertiary": "2783d731e1053c5dc52cd4bdad4946c4e7ba9f94",
+      "text.link-dektop": "8cf32a3532896eafe660a254c6b6c2e5f7e1f872",
+      "text.link-text-dektop": "ad8ab45bba9fed769f61cdc83609f2bbef59482c"
     }
   },
   {
@@ -1465,7 +1470,12 @@
       "button.border.tertiary-light-pressed": "9e0667edcf8eb988a4895075e887f3bec3ece501",
       "button.border.tertiary-light-disabled": "193f5f4b622d2322276f8ce3c8b36d94bff1ae53",
       "header.content.primary": "aae172d89864e81a622b20e16558fb87984f328e",
-      "header.content.secondary": "829b695af3f1dbad49e0aa537f56fc74c28abba2"
+      "header.content.secondary": "829b695af3f1dbad49e0aa537f56fc74c28abba2",
+      "small-elements.timer.bg": "d0d004191872c7d58e510f03e3f5e460043ef10f",
+      "small-elements.timer.content": "8f22bbd62737daa2190804f9ff97a2be579b041a",
+      "header.content.tertiary": "e32b98579203811074fa1d0bfd514249cee620c0",
+      "text.link-dektop": "0a4117ad3eab36948cf7058cbf9eb9a91f02c6e3",
+      "text.link-text-dektop": "8f915d8524a8c2cca306b4a7a3d878353842b699"
     }
   },
   {
@@ -2198,7 +2208,12 @@
       "button.border.tertiary-light-pressed": "0ec6f38d509b788d6063aa2dce8b2694377d0680",
       "button.border.tertiary-light-disabled": "e24fb03edce601cd8108a026d5644edcb2bdf0b8",
       "header.content.primary": "9aaa97c6cc89ae9c7f4d8f1ebae80794cecd6e27",
-      "header.content.secondary": "a05e653cabaa360676ee334dd4bd1418f0d3b3f8"
+      "header.content.secondary": "a05e653cabaa360676ee334dd4bd1418f0d3b3f8",
+      "small-elements.timer.bg": "2aa91fe84ca3732afe5fc0ede8af47b52a84413b",
+      "small-elements.timer.content": "05ce53251a6d230f3745179582d0ec9befd24a6e",
+      "header.content.tertiary": "7a6193aa5c95a0d7978e0d5192eb650bce3b015d",
+      "text.link-dektop": "9fcd61c1c8ed8a8e1bf503eedee500678d302c69",
+      "text.link-text-dektop": "eb5e00f766a7458ed0e407db2c5cccd7f79c2bf6"
     }
   },
   {
@@ -2629,7 +2644,11 @@
       "gamepage.content.accent": "S:087742854f027579b3c30da75a63b6e70da2d8f8,",
       "special-blocks.live-lottery-numbers": "S:909edbc4361d1cf687f17e3f436a9657e21cf0ee,",
       "header.content.primary": "S:7290e4467c62d9984ae315c9ceb815257107d05c,",
-      "header.content.secondary": "S:fdecb4552709379c438c58b5f1bb0690050c16ad,"
+      "header.content.secondary": "S:fdecb4552709379c438c58b5f1bb0690050c16ad,",
+      "small-elements.timer.bg": "S:09941ce1827b911df4d293c57001e45327f3658e,",
+      "small-elements.timer.content": "S:151762654cf7bf622130a297cdd6f22c2f3038c7,",
+      "header.content.tertiary": "S:71b789430eb8fbb5a6d69b87aa57be2990c23753,",
+      "text.link-dektop": "S:35d2757f34ead29ddfe3c1f4a223decdb660688b,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -2832,6 +2851,9 @@
       "small-elements.label.success": "67ca7157703b3e2155ca1fb8a11cf737ad1ebbfc",
       "small-elements.label.deny": "bbdd7b49a8fdb6ff0626d858872db81ea8427265",
       "small-elements.label.deny-text": "817ce98026a4ac96796ead6616c4eb23649d80c7",
+      "small-elements.timer.top": "22b3852b5a4fed164e7ba5951ce831aea8387a9a",
+      "small-elements.timer.bg": "fe4e7b073f5be7ef827247981b042adb012d6e5b",
+      "small-elements.timer.content": "43817480101bc0a40e8644d68f1e89ba3a29603d",
       "small-elements.up-button.accent": "2e8d6b52016ade710e3a81c2a2b3c9299811bd14",
       "small-elements.up-button.hover-bg": "b8fe90434d0207c6abde8633a1e241876c244bb4",
       "small-elements.up-button.bg": "97cce3ced817f893f03faa985ed1e585bc1eb517",
@@ -2926,10 +2948,13 @@
       "header.bg.main": "31aee2e2219d92dace9eaa0952d90f8ced43a34d",
       "header.content.primary": "3f2be17dad36c462111a2f7b7e54258da8a031f2",
       "header.content.secondary": "895f3d5ef081dbe1ada3e79bd6bcdee4d6e5f166",
+      "header.content.tertiary": "9d084d3f2780a247bd861db1112f6c32f46f1dea",
       "header.bg.sticky": "a1b31251d8ed728af84e4e1f643c798e3ef3e39f",
       "header.bg.top-desktop": "ec32c828f49069860aff81c3c3daf32531065ced",
       "header.bg.bottom-desktop": "9f2d9246df22031bca3e6771ddeb7251a79a71a6",
       "text.light": "78927fe1d4229581555cf9df9313504be068c0bd",
+      "text.link-dektop": "2e5baf70752572b61b9a5f9ff684419d64c0146c",
+      "text.link-text-dektop": "3f995a4ef67425ecb1d48238a03c1c0c2e7a267a",
       "text.accent-additional": "0b4e3d7b1ab2e5798b7be1663b0b2168902d1fb4",
       "text.primary": "ca53111a57761ee75e1a2ec384f0ab14177f7cb2",
       "text.secondary": "a6f5fcc79e359dffa195a278126425afd2efead8",
