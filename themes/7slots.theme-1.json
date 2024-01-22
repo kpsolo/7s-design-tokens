@@ -2602,6 +2602,16 @@
         "value": "linear-gradient(180deg, #FFF 0%, #000 100%)",
         "type": "color",
         "description": "use for timer bg top part"
+      },
+      "bg": {
+        "value": "#F6F6F8",
+        "type": "color",
+        "description": "use for timer bg"
+      },
+      "content": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "use for numbers on timer"
       }
     },
     "up-button": {
@@ -3577,6 +3587,12 @@
             }
           }
         },
+        "description": "use for  (desktop)"
+      },
+      "tertiary": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {},
         "description": "use for  (desktop)"
       }
     }

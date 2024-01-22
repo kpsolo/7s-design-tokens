@@ -1597,7 +1597,7 @@
       "categories-nav": {
         "value": "#173A86",
         "type": "color",
-        "description": "Baground foe categories on desktop"
+        "description": "Background for categories on desktop"
       },
       "strip-popup": {
         "value": "{bg.popup}",
@@ -2276,7 +2276,6 @@
       "tertiary-disabled": {
         "value": "#39cc5966",
         "type": "color",
-        "$extensions": {},
         "description": "border color for buttons disabled"
       },
       "tertiary-light-disabled": {
@@ -2646,9 +2645,19 @@
     },
     "timer": {
       "top": {
-        "value": "linear-gradient(180deg, #FFF 0%, #000 100%)",
+        "value": "transparent",
         "type": "color",
         "description": "use for timer bg top part"
+      },
+      "bg": {
+        "value": "#F6F6F8",
+        "type": "color",
+        "description": "use for timer bg"
+      },
+      "content": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "use for numbers on timer"
       }
     },
     "up-button": {
@@ -3608,7 +3617,7 @@
         "description": "bg header on top for desktop"
       },
       "bottom-desktop": {
-        "value": "#173A86",
+        "value": "transparent",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
@@ -3631,6 +3640,12 @@
             }
           }
         },
+        "description": "use for  (desktop)"
+      },
+      "tertiary": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {},
         "description": "use for  (desktop)"
       }
     }
