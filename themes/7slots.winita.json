@@ -1653,7 +1653,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.04",
+              "value": "0.10",
               "space": "srgb"
             }
           }
@@ -2653,12 +2653,12 @@
     },
     "up-button": {
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{button.bg.secondary}",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
       "hover-bg": {
-        "value": "{base.accent-primary}",
+        "value": "{button.bg.secondary}",
         "type": "color",
         "description": "Bg on hover on floating button"
       },
@@ -2668,8 +2668,17 @@
         "description": "Bg on default on floating button"
       },
       "border": {
-        "value": "rgba(45, 216, 144, 0.16)",
+        "value": "{button.bg.secondary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border on default on floating button"
       },
       "hover-icon": {
@@ -3129,7 +3138,7 @@
   },
   "font-size": {
     "0": {
-      "value": "8",
+      "value": "9",
       "type": "fontSizes"
     },
     "1": {
@@ -3175,7 +3184,7 @@
       "description": "for main page titles (mob)"
     },
     "extra-2": {
-      "value": "20",
+      "value": "24",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     }
@@ -3704,7 +3713,7 @@
       "description": "use for links on lighter bg (notifications), game page"
     },
     "link-additional": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.light}",
       "type": "color",
       "description": "use for links on color bg (footer/profile/tournament cards)"
     },
