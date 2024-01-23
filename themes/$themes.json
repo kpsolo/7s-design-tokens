@@ -2648,7 +2648,10 @@
       "small-elements.timer.bg": "S:09941ce1827b911df4d293c57001e45327f3658e,",
       "small-elements.timer.content": "S:151762654cf7bf622130a297cdd6f22c2f3038c7,",
       "header.content.tertiary": "S:71b789430eb8fbb5a6d69b87aa57be2990c23753,",
-      "text.link-dektop": "S:35d2757f34ead29ddfe3c1f4a223decdb660688b,"
+      "text.link-dektop": "S:35d2757f34ead29ddfe3c1f4a223decdb660688b,",
+      "header.content.accent": "S:6e5521da147c605b09095f8918ad3c3b37e48141,",
+      "header.content.accent-alternative": "S:794095df4ca364158622fde22b87c798da7ac047,",
+      "text.link-text-dektop": "S:4e7e726644c49534a0bdb5ea2ee8eeca124510b4,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

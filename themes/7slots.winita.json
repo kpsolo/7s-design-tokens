@@ -1712,7 +1712,6 @@
       "light-1": {
         "value": "rgba(210, 229, 255, 0.10)",
         "type": "color",
-        "$extensions": {},
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
@@ -3134,11 +3133,11 @@
       "type": "fontSizes"
     },
     "1": {
-      "value": "9",
+      "value": "11",
       "type": "fontSizes"
     },
     "2": {
-      "value": "10",
+      "value": "12",
       "type": "fontSizes"
     },
     "3": {
@@ -3158,7 +3157,7 @@
       "type": "fontSizes"
     },
     "7": {
-      "value": "20",
+      "value": "22",
       "type": "fontSizes"
     },
     "8": {
@@ -3625,7 +3624,6 @@
       "secondary": {
         "value": "#525252",
         "type": "color",
-        "$extensions": {},
         "description": "use for header items names (desktop)"
       },
       "tertiary": {
