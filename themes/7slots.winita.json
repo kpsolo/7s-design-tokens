@@ -1712,15 +1712,7 @@
       "light-1": {
         "value": "rgba(210, 229, 255, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
@@ -3612,7 +3604,7 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#173A86",
+        "value": "{header.bg.main}",
         "type": "color",
         "description": "bg header on top for desktop"
       },
@@ -3624,29 +3616,25 @@
     },
     "content": {
       "primary": {
-        "value": "#FFFFFF",
+        "value": "#525252",
         "type": "color",
         "description": "use for amounts (desktop)"
       },
       "secondary": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for  (desktop)"
-      },
-      "tertiary": {
-        "value": "{base.primary}",
+        "value": "#525252",
         "type": "color",
         "$extensions": {},
-        "description": "use for  (desktop)"
+        "description": "use for header items names (desktop)"
+      },
+      "tertiary": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use for bottom menu categories (desktop)"
+      },
+      "accent": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for bottom menu categories active state (desktop)"
       }
     }
   },
@@ -3708,7 +3696,6 @@
     "link-alternative": {
       "value": "{base.accent-primary}",
       "type": "color",
-      "$extensions": {},
       "description": "use for links on lighter bg (notifications), game page"
     },
     "link-additional": {

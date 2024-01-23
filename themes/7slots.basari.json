@@ -3514,8 +3514,12 @@
       "tertiary": {
         "value": "{base.primary}",
         "type": "color",
-        "$extensions": {},
         "description": "use for  (desktop)"
+      },
+      "accent": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for bottom menu categories active state (desktop)"
       }
     }
   },
