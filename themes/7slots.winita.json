@@ -3593,15 +3593,17 @@
       "balance": {
         "value": "transparent",
         "type": "color",
-        "description": "use for bg under balance amount"
+        "description": "use for bg under mob balance amount"
       },
       "main": {
         "value": "#FFFFFF",
-        "type": "color"
+        "type": "color",
+        "description": "mob header bg"
       },
       "sticky": {
         "value": "#FFFFFF",
-        "type": "color"
+        "type": "color",
+        "description": "mob sticky header bg"
       },
       "top-desktop": {
         "value": "{header.bg.main}",
@@ -3633,6 +3635,11 @@
       },
       "accent": {
         "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for bottom menu categories active state (desktop)"
+      },
+      "accent-alternative": {
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "use for bottom menu categories active state (desktop)"
       }

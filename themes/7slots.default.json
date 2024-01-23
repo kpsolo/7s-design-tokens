@@ -3562,6 +3562,11 @@
         "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for bottom menu categories active state (desktop)"
+      },
+      "accent-alternative": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "use for bottom menu categories active state (desktop)"
       }
     }
   },
