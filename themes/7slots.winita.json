@@ -2653,12 +2653,12 @@
     },
     "up-button": {
       "accent": {
-        "value": "{button.bg.secondary}",
+        "value": "{bg.other.accent-on-light}",
         "type": "color",
         "description": "Accent icon and border on floating button"
       },
       "hover-bg": {
-        "value": "{button.bg.secondary}",
+        "value": "{bg.other.accent-on-light}",
         "type": "color",
         "description": "Bg on hover on floating button"
       },
@@ -2668,7 +2668,7 @@
         "description": "Bg on default on floating button"
       },
       "border": {
-        "value": "{button.bg.secondary}",
+        "value": "{small-elements.up-button.accent}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -3047,6 +3047,11 @@
       "value": "48",
       "type": "sizing",
       "description": "use for top navbar items"
+    },
+    "footer": {
+      "value": "0",
+      "type": "sizing",
+      "description": "use for logo zone in footer "
     },
     "logo-mobile": {
       "value": "32",
@@ -4202,7 +4207,7 @@
         "description": "use for bg elipse on main bg under wheel"
       },
       "main": {
-        "value": "linear-gradient(180deg, #3C5B6A 0%, #252D40 100%)",
+        "value": "#133A90",
         "type": "color",
         "description": "use as bg on wheel popup"
       },

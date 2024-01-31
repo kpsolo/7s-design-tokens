@@ -2915,6 +2915,11 @@
       "value": "32",
       "type": "sizing",
       "description": "use for desktop logo height "
+    },
+    "footer": {
+      "value": "0",
+      "type": "sizing",
+      "description": "use for logo zone in footer "
     }
   },
   "min-height": {

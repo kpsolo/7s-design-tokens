@@ -654,6 +654,8 @@
       "header.content.primary": "d8161f32e897378bf8725d0ee8219eb10cc99ca3",
       "header.content.secondary": "41531ef971d8b55a2f0cf10f3e82f76084115ef2",
       "header.content.tertiary": "2783d731e1053c5dc52cd4bdad4946c4e7ba9f94",
+      "header.content.accent": "5815f5ed9153d3368a9ab90090546b05fcc40a8c",
+      "header.content.accent-alternative": "becf14c5e4962b1838062acd4bc2ae941443f4f9",
       "text.light": "72a23e3025781ae790cc9267ffe14e7792d6bb6b",
       "text.accent-additional": "4a7a738199550083df28d76a31311a246fc76394",
       "text.primary": "48d670e72f0575d47e93b64fdb16946b4adffcea",
@@ -743,7 +745,8 @@
       "gamepage.content.secondary": "d25e31c0c3aaf2666dac64254a2cdaf53b90bdac",
       "gamepage.content.accent": "d3ec743b902de583b83ba6478f484b96f8b9f31c",
       "gamepage.content.additional": "026595c7be83b0e69c0d8284654b308e6c957574",
-      "gamepage.content.tertiary": "bd1594c9a8e464474c4482d4c97c52883df64ca4"
+      "gamepage.content.tertiary": "bd1594c9a8e464474c4482d4c97c52883df64ca4",
+      "height.footer": "a5e7aded2a28e8012ae9367948dd49c64572a013"
     }
   },
   {
@@ -1377,6 +1380,8 @@
       "header.content.primary": "aae172d89864e81a622b20e16558fb87984f328e",
       "header.content.secondary": "829b695af3f1dbad49e0aa537f56fc74c28abba2",
       "header.content.tertiary": "e32b98579203811074fa1d0bfd514249cee620c0",
+      "header.content.accent": "373ce6aea2151344b6feb7e1ef4dfd7599623125",
+      "header.content.accent-alternative": "3f1bef729d3d3e375ae862136ba279e216cb5e3d",
       "text.light": "a9dab6623230d65067b22071b9ad4c7cc6d35545",
       "text.accent-additional": "0b659170957876214babb88ea9e5fb0fae44fd74",
       "text.primary": "1ca36cbf10a48d3b2f23785b383906a034e18a72",
@@ -1475,7 +1480,8 @@
       "gamepage.content.secondary": "d5fcb9518b6b1593914f54d0ae3666064a629f28",
       "gamepage.content.accent": "8e3eee62501e778b3271590123564121cb496bd7",
       "gamepage.content.additional": "451d4273a443556ad5606aa159a086e8141e5147",
-      "gamepage.content.tertiary": "a13acee8aae311bc0888770fc8c1fdd3e253d8ac"
+      "gamepage.content.tertiary": "a13acee8aae311bc0888770fc8c1fdd3e253d8ac",
+      "height.footer": "6a0a07a4feb2482ccede2ee33c7928c31d79af70"
     }
   },
   {
@@ -2124,6 +2130,8 @@
       "header.content.primary": "9aaa97c6cc89ae9c7f4d8f1ebae80794cecd6e27",
       "header.content.secondary": "a05e653cabaa360676ee334dd4bd1418f0d3b3f8",
       "header.content.tertiary": "7a6193aa5c95a0d7978e0d5192eb650bce3b015d",
+      "header.content.accent": "c921378c02af4c68ffb4208b746722d0d3e04605",
+      "header.content.accent-alternative": "a93ac7222f0dd0b701ab2d6620d15fe7bc71f2d6",
       "text.light": "c8caf46da85dcbb0ed3d53af4d88c8bedbd1c380",
       "text.accent-additional": "08cc01431990a0caba72d177308044e339e820f7",
       "text.primary": "c3c727a9adb622dcd9ab203adf6ce9b6cfe9faa5",
@@ -2213,7 +2221,8 @@
       "gamepage.content.secondary": "c3af71db9bdd6040a0f92cafaa42dee979234f75",
       "gamepage.content.accent": "a00622050ae30a728f894bf05f849aa70572c86c",
       "gamepage.content.additional": "9b49769ebd5d02d6e0a5ce71f5d27bc5a42331d3",
-      "gamepage.content.tertiary": "1e285b5cc17122fbbdf669fa7792717b39cd2f59"
+      "gamepage.content.tertiary": "1e285b5cc17122fbbdf669fa7792717b39cd2f59",
+      "height.footer": "9e8ea4e6197d8a6d349e2f5e3005650f63b6805a"
     }
   },
   {
@@ -2915,6 +2924,7 @@
       "width.logo-desktop": "43e4814514b674f4566332d297205b02abfb04e6",
       "height.tap-button-copy": "0d34263232682bae6e2abffa4f4a7b27f99c22d7",
       "height.nav": "d35389130c7c83a53eb80d981299367b1c08b626",
+      "height.footer": "7c251c2cb8c1f805a73487e183d8b437d14269ff",
       "height.logo-mobile": "4e5afb291822eba4bf809439605aec08dd45182b",
       "height.logo-desktop": "3dbccb1b82df5825a966b4dd3ec2ee4d5f2f4249",
       "min-height.game-item-block": "ecaaf7492b04fe8916a96146057d612ad53a41f1",
@@ -2955,6 +2965,8 @@
       "header.content.primary": "3f2be17dad36c462111a2f7b7e54258da8a031f2",
       "header.content.secondary": "895f3d5ef081dbe1ada3e79bd6bcdee4d6e5f166",
       "header.content.tertiary": "9d084d3f2780a247bd861db1112f6c32f46f1dea",
+      "header.content.accent": "80c19d59274cee3852e1d9741a523b89506eb83d",
+      "header.content.accent-alternative": "dd2610df114c5ca92d4345ead0bb1567bdeb07de",
       "text.light": "78927fe1d4229581555cf9df9313504be068c0bd",
       "text.link-dektop": "2e5baf70752572b61b9a5f9ff684419d64c0146c",
       "text.link-text-dektop": "3f995a4ef67425ecb1d48238a03c1c0c2e7a267a",
@@ -3035,6 +3047,7 @@
       "wheel.bg.sector-1-additional": "921352231bf1617013836c24425e872a3b98be5f",
       "wheel.bg.dots": "bc1ec2547c53fa87c79fb16e59a364a2b03295c4",
       "wheel.bg.radial": "a88bb21dee9312ce05b64e79ab4b1438f7cb9e82",
+      "wheel.bg.main": "066ee40b90c90913957e676a96739a977e24de9f",
       "wheel.bg.lines": "2e44356447310262dd90ba9e2a33595dfab41420",
       "wheel.bg.sector-3-additional": "6fa70cf37030e307dd4503feb673840eb27b6f26",
       "wheel.bg.border-sector": "8593ef65c2fbf4ef589e4677e0bdb4fd3394893d",
