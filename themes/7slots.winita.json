@@ -1465,6 +1465,21 @@
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
+    "gradient": {
+      "value": "transparent",
+      "type": "color",
+      "description": "Gradient for bg"
+    },
+    "additional": {
+      "value": "#F4F7FB",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
+    },
+    "additional-2": {
+      "value": "#0957C3",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
+    },
     "tertiary": {
       "value": "#D9E4FF",
       "type": "color",
@@ -1604,21 +1619,6 @@
         "type": "color",
         "description": "Bg for background popup on strip desktop"
       }
-    },
-    "gradient": {
-      "value": "transparent",
-      "type": "color",
-      "description": "Gradient for bg"
-    },
-    "additional": {
-      "value": "#F4F7FB",
-      "type": "color",
-      "description": "use for messages, shop, faq cards"
-    },
-    "additional-2": {
-      "value": "#0957C3",
-      "type": "color",
-      "description": "use for messages, shop, faq cards"
     },
     "top-surface": {
       "value": "{base.light}",
@@ -3171,7 +3171,7 @@
       "type": "fontSizes"
     },
     "7": {
-      "value": "22",
+      "value": "24",
       "type": "fontSizes"
     },
     "8": {
