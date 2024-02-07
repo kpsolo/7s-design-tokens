@@ -3102,19 +3102,19 @@
       "type": "lineHeights"
     },
     "sm": {
-      "value": "16px",
+      "value": "18px",
       "type": "lineHeights"
     },
     "xs": {
-      "value": "12px",
-      "type": "lineHeights"
-    },
-    "s": {
       "value": "14px",
       "type": "lineHeights"
     },
+    "s": {
+      "value": "16px",
+      "type": "lineHeights"
+    },
     "m": {
-      "value": "18px",
+      "value": "20px",
       "type": "lineHeights"
     }
   },
@@ -3143,19 +3143,19 @@
   },
   "font-size": {
     "0": {
-      "value": "9",
+      "value": "10",
       "type": "fontSizes"
     },
     "1": {
-      "value": "11",
-      "type": "fontSizes"
-    },
-    "2": {
       "value": "12",
       "type": "fontSizes"
     },
-    "3": {
+    "2": {
       "value": "13",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "14",
       "type": "fontSizes"
     },
     "4": {
@@ -3184,7 +3184,7 @@
       "description": "For small captions on desktop"
     },
     "extra": {
-      "value": "18",
+      "value": "20",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     },
