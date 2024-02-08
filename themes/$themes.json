@@ -415,7 +415,27 @@
       "gamepage.content.additional": "S:30eb8885623656d6517fc83c7bb5cfc4e4cba208,",
       "gamepage.content.tertiary": "S:a076da3a9a248e0dcc0f1644cde55b4b6f5ac5c1,",
       "gamepage.overlay": "S:92f091f0683f65735f088d35a7bdb8098575d357,",
-      "special-blocks.live-lottery-numbers": "S:2052b78ecec7b955ec69a574abe9263b9391b8e0,"
+      "special-blocks.live-lottery-numbers": "S:2052b78ecec7b955ec69a574abe9263b9391b8e0,",
+      "bg.popup-additional": "S:2dc37bee13144aad6e26688223c597021803a276,",
+      "button.border.tertiary-light": "S:e6b40b84e84f2f19c0fd37e9ce5a0b84ca78cea6,",
+      "button.border.tertiary-light-hover": "S:b646a104f3a75fb7d31beed42af215ccbe80f1d6,",
+      "button.border.tertiary-light-pressed": "S:6ed6c64282d6b00375b4b9ea2c205fd1a6f12141,",
+      "button.border.tertiary-light-disabled": "S:d157a8d6e82a5f4963f0806b3f45146bf18c4cef,",
+      "button.text.tertiary-light": "S:60c17c6eff671b0396d2f1baa679d84c7e9ffce5,",
+      "button.text.tertiary-light-disabled": "S:1d093c54c9cb8bb4faaf5af52321d2aaf6d8a203,",
+      "small-elements.label.deny-text": "S:d83d621262eb15b55e8184c6510a1ebd604cb78a,",
+      "small-elements.timer.bg": "S:adf2465925d260f2e5739c5fcced4bb627d0a877,",
+      "small-elements.timer.content": "S:14fabd66656d183d57863d0739ea41d296142d60,",
+      "header.content.primary": "S:2a593aed59d3679e15463299e17a5e06e0ded898,",
+      "header.content.secondary": "S:15c14733c866290e08345a73cd6c029c367f034e,",
+      "header.content.tertiary": "S:89b3b507f5c1dbcb4add916ef9ab59f502b8d709,",
+      "header.content.accent": "S:98f1daf0f82f91deb74ef13069472acf81be5a3a,",
+      "header.content.accent-alternative": "S:f9db4142abf2a74ca9c8d1a7bc3ef06035b6a3d7,",
+      "text.title.additional": "S:47bcd762525b62fef82990beed00fcd5f31ea05b,",
+      "text.link-additional": "S:856ff48230fc49734ac1820d04f9387ec050ec8a,",
+      "text.link-dektop": "S:1fd3473d9996196c100cac1a56c885d68e9baefb,",
+      "text.link-text-dektop": "S:e59006a578ebdd640bfa8aa9abbfc86c0ae7d11a,",
+      "special-blocks.secret_mirror-title": "S:39b7b39eb61ca57ab43ced1e49a46621eea6a1ea,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

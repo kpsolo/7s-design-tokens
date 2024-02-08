@@ -1382,6 +1382,11 @@
       "value": "10px",
       "type": "borderRadius"
     },
+    "popup-additional": {
+      "value": "11px",
+      "type": "borderRadius",
+      "description": "for secret mirror bg border radius"
+    },
     "tooltips-notifications": {
       "value": "10px",
       "type": "borderRadius",
@@ -1631,6 +1636,11 @@
       "value": "#252D40",
       "type": "color",
       "description": "use for popups bg"
+    },
+    "popup-additional": {
+      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
+      "type": "color",
+      "description": "use for secret mirror popups bg gradient"
     },
     "technical": {
       "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
@@ -3213,6 +3223,21 @@
       },
       "type": "typography",
       "description": "Title for jackpot widget"
+    },
+    "secret_mirror-title": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "32px",
+        "fontSize": "26px",
+        "letterSpacing": "auto",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for secret mirror popup"
     },
     "live-lottery-numbers": {
       "value": {

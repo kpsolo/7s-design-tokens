@@ -1357,6 +1357,11 @@
       "value": "10px",
       "type": "borderRadius",
       "description": "use for small tips on final lottery "
+    },
+    "popup-additional": {
+      "value": "11px",
+      "type": "borderRadius",
+      "description": "for secret mirror bg border radius"
     }
   },
   "opacity": {
@@ -1836,6 +1841,11 @@
       "value": "#0957C3",
       "type": "color",
       "description": "use for messages, shop, faq cards"
+    },
+    "popup-additional": {
+      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
+      "type": "color",
+      "description": "use for popups bg"
     }
   },
   "nav": {
@@ -3389,6 +3399,21 @@
       },
       "type": "typography",
       "description": "numbers in timer"
+    },
+    "secret_mirror-title": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "32px",
+        "fontSize": "26px",
+        "letterSpacing": "auto",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for secret mirror popup"
     }
   },
   "filed spacing": {
