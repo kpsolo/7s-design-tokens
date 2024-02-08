@@ -3409,6 +3409,11 @@
       "value": "linear-gradient(180deg, #BCDAF6 0%, #FFF 100%)",
       "type": "color"
     },
+    "secret-mirror-title": {
+      "value": "{text.title.main}",
+      "type": "color",
+      "description": "for secret mirror popup title"
+    },
     "verification-title": {
       "value": {
         "fontFamily": "{font-family.main}",

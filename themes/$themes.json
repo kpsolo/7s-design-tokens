@@ -435,7 +435,8 @@
       "text.link-additional": "S:856ff48230fc49734ac1820d04f9387ec050ec8a,",
       "text.link-dektop": "S:1fd3473d9996196c100cac1a56c885d68e9baefb,",
       "text.link-text-dektop": "S:e59006a578ebdd640bfa8aa9abbfc86c0ae7d11a,",
-      "special-blocks.secret_mirror-title": "S:39b7b39eb61ca57ab43ced1e49a46621eea6a1ea,"
+      "special-blocks.secret_mirror-title": "S:39b7b39eb61ca57ab43ced1e49a46621eea6a1ea,",
+      "special-blocks.secret-mirror-title": "S:1942231740f41b4388eabaaacd709271a0355f54,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

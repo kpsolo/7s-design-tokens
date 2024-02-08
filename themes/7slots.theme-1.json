@@ -3510,6 +3510,11 @@
       },
       "type": "typography",
       "description": "Title for secret mirror popup"
+    },
+    "secret-mirror-title": {
+      "value": "{text.title.main}",
+      "type": "color",
+      "description": "for secret mirror popup title"
     }
   },
   "filed spacing": {
