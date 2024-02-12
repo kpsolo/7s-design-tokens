@@ -3092,11 +3092,11 @@
   },
   "line-height": {
     "1": {
-      "value": "22px",
+      "value": "24px",
       "type": "lineHeights"
     },
     "2": {
-      "value": "24px",
+      "value": "26px",
       "type": "lineHeights"
     },
     "3": {
@@ -3108,7 +3108,7 @@
       "type": "lineHeights"
     },
     "5": {
-      "value": "24px",
+      "value": "32px",
       "type": "lineHeights"
     },
     "sm": {
@@ -3124,7 +3124,7 @@
       "type": "lineHeights"
     },
     "m": {
-      "value": "20px",
+      "value": "22px",
       "type": "lineHeights"
     }
   },
@@ -3169,11 +3169,11 @@
       "type": "fontSizes"
     },
     "4": {
-      "value": "15",
+      "value": "16",
       "type": "fontSizes"
     },
     "5": {
-      "value": "16",
+      "value": "18",
       "type": "fontSizes"
     },
     "6": {
@@ -3181,7 +3181,7 @@
       "type": "fontSizes"
     },
     "7": {
-      "value": "24",
+      "value": "28",
       "type": "fontSizes"
     },
     "8": {
@@ -3194,7 +3194,7 @@
       "description": "For small captions on desktop"
     },
     "extra": {
-      "value": "20",
+      "value": "22",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     },
