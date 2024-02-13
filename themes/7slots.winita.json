@@ -379,7 +379,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
@@ -394,7 +394,7 @@
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
