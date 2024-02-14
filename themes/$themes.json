@@ -773,7 +773,17 @@
       "gamepage.content.tertiary": "9da383671550bcbd88cb9c727a76c0268b3e2ca2",
       "bg.other.footer-app": "725ed3f2f81ae0649a26daf327ff58a67bb2bd8f",
       "bg.other.sidebar-game-additional": "9172914d73b3f8fc56a80cd6fa47f95d926297c0",
-      "gamepage.bg.logo": "3c03be7ba74c2f3c258a07daa4e1b2e2f2eabbe5"
+      "gamepage.bg.logo": "3c03be7ba74c2f3c258a07daa4e1b2e2f2eabbe5",
+      "gamepage.content.extra": "941942f8d2bdc340f11176277a050f6b8f7420c4",
+      "height.search": "2c850d0d3048db8109c26a360f33e00045bbf712",
+      "bg.other.search": "04aaeb40579f29f685b5d4186a2d4a8c88b90664",
+      "height.categories-desktop": "8367a8ad016d17306bf1312812720c4d8d4072eb",
+      "height.gamezone": "174e3eab70676a9b1784f2409805fb5f096e32ab",
+      "icon.ghost-4": "c33165d4097143f9a6c270e0c0ac0c8bbc77f64b",
+      "categories.item": "a70ea29795c3500b8758554bbfd5cca56347ffdf",
+      "categories.item-active": "6d0e14f289b5a3a38ee4010f5df41da78051dd92",
+      "wheel.icons.border": "780eb8367b1ab6a47c833a669dd530a13685c8e4",
+      "wheel.icons.border-2": "d5c11352e4628e17aa69a5a161cebb5ea54f26ca"
     }
   },
   {
@@ -1514,7 +1524,17 @@
       "gamepage.content.tertiary": "e207ad74bdeb8e0ece9bfadc2f0f91727aa6ea25",
       "bg.other.footer-app": "0024b8a5c887ffc4f99d0e6e2a9742494801a317",
       "bg.other.sidebar-game-additional": "be8cae781ceecef63448766b033827beb5db1ac7",
-      "gamepage.bg.logo": "af79ca2c7455964b83c204c0fb2a889cdb18c5d2"
+      "gamepage.bg.logo": "af79ca2c7455964b83c204c0fb2a889cdb18c5d2",
+      "gamepage.content.extra": "4e6206c1db649ba6ce2e9030422f5d369e6f4d58",
+      "height.search": "ac9dd9bd15e72fdfbea0a64b36e7cd22317ea763",
+      "bg.other.search": "a208dfbc6cb6552d8a518abe2f984a07bbd8ce79",
+      "height.categories-desktop": "3bd91b76010906eb2334a7177eaf0c30d9fd8152",
+      "height.gamezone": "ab97c3b43ea2427ce6998ae83331e587ae8c2a37",
+      "icon.ghost-4": "27386b3fae760ef1f7b5615270102b014c990558",
+      "categories.item": "c74642641919f138cac294ae26a13b914544b72c",
+      "categories.item-active": "12132f0175930b7bef8b03570caa9b193766b0a0",
+      "wheel.icons.border": "8ace23ab270b132fe151a9c143b0b72524cb5b4d",
+      "wheel.icons.border-2": "b33ed6837128f88d94c31ad145fe90535a0a4125"
     }
   },
   {
@@ -2261,7 +2281,17 @@
       "gamepage.content.tertiary": "ff553a35411380e9ec17691844950180ba0139f8",
       "bg.other.footer-app": "40e8836ab01383ad93dcd912bd19e7e8073265ee",
       "bg.other.sidebar-game-additional": "e75e2057154b9dd15c9841f87dc4bedb74df06c6",
-      "gamepage.bg.logo": "eaf39abc7c7092a0e5965dea6fedfd5bdc362773"
+      "gamepage.bg.logo": "eaf39abc7c7092a0e5965dea6fedfd5bdc362773",
+      "gamepage.content.extra": "79a6e70a97544cf919a384de8e98b9f79d92ce8f",
+      "height.search": "fc16dade82671589d870c8e27c2667c7c7a47871",
+      "bg.other.search": "eca1afd385e1f25cd108a16c86620077689e760f",
+      "height.categories-desktop": "1ffe317019913d15b8fc945ee3c0a7cd9d6cd09c",
+      "height.gamezone": "eaa93fe6539b6276366d100dfce5712015e611b8",
+      "icon.ghost-4": "59eb9abc312aa5a54d07c176d2e2e4dab9fca765",
+      "categories.item": "6504d0ea47e52e3cd610b5e4ce2e684d2e2bc161",
+      "categories.item-active": "820e71433a5a512dfde6a02854aa1a4458c920b6",
+      "wheel.icons.border": "2cd8a7d1c8148cffc3b58cbb8cbae7e9482e6560",
+      "wheel.icons.border-2": "410b803ed603dc0966412a31d0c4fe1a97dd4dc0"
     }
   },
   {
@@ -2706,7 +2736,13 @@
       "small-elements.progress-bar-deals": "S:a620dd6ae151f7fe68a122075cd36a89d4d52a76,",
       "bg.other.footer-app": "S:30fdc25c74cb50dbeed33f6cd894d8fb0221841b,",
       "bg.other.sidebar-game-additional": "S:55b713f048e069bf5de2ebb02f079da0e7d5873e,",
-      "gamepage.bg.logo": "S:0c0f19a2c8a5d7b0225af290734dd5a658ca7141,"
+      "gamepage.bg.logo": "S:0c0f19a2c8a5d7b0225af290734dd5a658ca7141,",
+      "gamepage.content.extra": "S:855e1e4ace4f04dda2ef72dc16fd622fe973055d,",
+      "bg.other.search": "S:d0c4fd3c71dc022823e832e3f1b8e5be78f4da32,",
+      "icon.ghost-4": "S:37d71bbfea1273b6177215bedacd191994147f7a,",
+      "categories.item": "S:c9f0ac662d1137975ebc955af354ff71168f3756,",
+      "categories.item-active": "S:fc295b7201d21ce6b8fd5125b5b771b1c25cc64d,",
+      "typography.banner": "S:f181208713bfd9e9d40730dbe2c0c3f270c4e1ba,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -2758,6 +2794,7 @@
       "bg.other.tooltip": "5805925f4a53c53546072c3a473ab1a72eab7bd4",
       "bg.other.footer": "02b5d394959ede831a9420fd330d81af856b6f8c",
       "bg.other.1click": "2ead1a5bbdad95c64b967d1528dc3ef619665718",
+      "bg.other.search": "fe18d2c679c9afa668921b131f7b91b1939e283f",
       "bg.other.accent-on-light": "44ac0136259a0ec5f96a0afdebcf6a7d1e9f4b67",
       "bg.other.sidebar-desktop": "45e2e53fde8cfdcfeef809971557207b7879a879",
       "bg.other.hover-on-light": "bb595781c2bc1b60a1f2f2f167bd7a4d34d663ef",
@@ -2936,6 +2973,7 @@
       "icon.ghost-3": "9ee7e9807dabc89b6c9318718dd9d8fb5d512a94",
       "icon.ghost-1": "692713698ffaa809ea21c82d64595edc7ea6272b",
       "icon.ghost-2": "b27f08d75fa790fe06bada451a1cea89d939a075",
+      "icon.ghost-4": "a23e4278460d8d108186b9d51671efce21e6fb1b",
       "icon.prize.1": "eff02d4d45da9f1fbd02c202a9c49b10b062f9f7",
       "icon.prize.2": "606d51635b18ea4c7309688ba7acd961cdc8f6d0",
       "icon.prize.3": "4e3a184d670756ec968409bb1390f0a0c6213df8",
@@ -2974,6 +3012,9 @@
       "width.logo-desktop": "97c65c896e708e55065cd43d1189502147d85acf",
       "height.tap-button-copy": "32835788053ae48f69eab27e0a1517e65c8a02c9",
       "height.nav": "2263149e742d90d2f3b02bfe8affdaf892b1c188",
+      "height.gamezone": "0eb68806f6c2f8907cb46253dd1af326bd35412d",
+      "height.categories-desktop": "4c7a4abd4383c695c9c301299468847aa9bdf490",
+      "height.search": "553a4a1068cf29669c7432a9e2cbecb2646aaea4",
       "height.footer": "7cda6d43f3d7d1df3e5a7b617df5e6c20e20f2c9",
       "height.logo-mobile": "ef3268d6b07e09b9102021749936311b5b1d4d20",
       "height.logo-desktop": "576e717b5e3716559d1978a0858f64e8508a5d52",
@@ -3007,6 +3048,8 @@
       "categories.bg.additional": "54763d2a9ada80a4b14d8c974c11b5f0fd106703",
       "categories.bg.extra": "5e427a55274d3083f719e344469d4b15219f9f62",
       "categories.accent": "c52982690f5eba06414f642179d343d04ebfc1c8",
+      "categories.item": "d030fdbcc6b0e9798746ce0fcd4a7047225a02f9",
+      "categories.item-active": "183db123f198cf2dd31a20bebb465f41d596d0fa",
       "categories.border.main": "cf6496856b000b528b7703295594e29661c7eabb",
       "header.bg.balance": "837d5867c4696a4e66c473333c93ac06b084097c",
       "header.bg.main": "c371b3512f96d34244cb286db992e56529c9cfda",
@@ -3076,9 +3119,10 @@
       "gamepage.bg.extra-additional": "0c151b913107f48b6b0fd92ed21b863d90688cea",
       "gamepage.bg.additional": "3744be9cb5501fc7164ed504af7a6e52c46f6add",
       "gamepage.content.primary": "8b407171690b5f786794c4c9cc9954f7cfcceb3a",
-      "gamepage.content.additional": "d8fce185d43580c623c5f4e4f7b93b8bafa4491e",
       "gamepage.content.secondary": "ae37abce7886d1a2c91da4423b623a5aedec04b4",
       "gamepage.content.tertiary": "ca7c2943e3ec45fb159a09f353d802ba8a67a474",
+      "gamepage.content.additional": "d8fce185d43580c623c5f4e4f7b93b8bafa4491e",
+      "gamepage.content.extra": "db88b34e20b854df68187897db1742e768af2236",
       "gamepage.content.accent": "f3633bc68a09638fcca4ec7e6ca9bc65de1986f8",
       "tab.active tab": "f42a059a217c5b008d36872bff018a17e5b8ff87",
       "tab.bg": "f8480e67c9a4b5510bfb735dc006bb67ff9f10c3",
@@ -3105,6 +3149,8 @@
       "wheel.bg.border-sector": "aec1d09e00db007141513c9c6473827af11c6a50",
       "wheel.switcher": "047945e7bbcc149d43e8d628ee4b4ecb9d20a3a6",
       "wheel.icons.0": "fa6d472f685a67f8955c6dd8b327553870017a67",
+      "wheel.icons.border": "ee1d196a538e13fce664f187bb09c3e422b3afdd",
+      "wheel.icons.border-2": "852791fbcd080882261469a3bbd3a9f37ea34809",
       "wheel.icons.2": "470928c886c1b22536377efa9655aaaddd5f0e51",
       "wheel.icons.2-additional": "1c98cb748ffcde03dc88b07c15af7ba5677c9c34",
       "wheel.loader.shaddow": "bc4722c50ff24e87fa46f8fe7b0dc1c068d1c1fe",

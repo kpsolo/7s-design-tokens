@@ -449,8 +449,8 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.8}",
+        "lineHeight": "36",
+        "fontSize": "34",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -458,7 +458,22 @@
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
-      "description": "Email header"
+      "description": "Desktop banner header"
+    },
+    "banner": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "fontSize": "22",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}",
+        "lineHeight": "26"
+      },
+      "type": "typography",
+      "description": "Desktop banner header"
     },
     "title-2": {
       "value": {
@@ -667,16 +682,22 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
-          "color": "transparent",
+          "spread": "0",
+          "color": "#3B81E3",
           "type": "dropShadow"
-        },
+        }
+      ],
+      "type": "boxShadow",
+      "description": "accent blur menu items desktop"
+    },
+    "accent-additional": {
+      "value": [
         {
           "x": "0",
           "y": "0",
-          "blur": "8",
-          "spread": "",
-          "color": "transparent",
+          "blur": "4",
+          "spread": "0",
+          "color": "#29E95A",
           "type": "dropShadow"
         }
       ],
@@ -1137,6 +1158,15 @@
       "type": "border",
       "description": "border for show more wiget on main page"
     },
+    "search": {
+      "value": {
+        "color": "#cccccc",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for search in desktop homepage"
+    },
     "strip-card": {
       "value": {
         "color": "#C0D2FA",
@@ -1176,6 +1206,15 @@
     "dropdown": {
       "value": {
         "color": "#DCE0EE",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for dropdown"
+    },
+    "1click": {
+      "value": {
+        "color": "rgba(25, 41, 71, 0.10)",
         "width": "1",
         "style": "solid"
       },
@@ -1541,6 +1580,11 @@
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
+      "search": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "Background for search in desktop"
+      },
       "accent-on-light": {
         "value": "#4090FF",
         "type": "color",
@@ -1625,7 +1669,7 @@
         "description": "bg for app button in footer"
       },
       "categories-nav": {
-        "value": "#173A86",
+        "value": "transparent",
         "type": "color",
         "description": "Background for categories on desktop"
       },
@@ -1725,7 +1769,7 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "rgba(210, 229, 255, 0.10)",
+        "value": "#E1E9F5",
         "type": "color",
         "description": "use for bg under status in menu top part"
       },
@@ -2508,7 +2552,7 @@
       }
     },
     "progress-large": {
-      "value": "#4B9DE8",
+      "value": "#88C3F9",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -2790,6 +2834,11 @@
       "type": "color",
       "description": "use for icon button on navbar"
     },
+    "ghost-4": {
+      "value": "#fff",
+      "type": "color",
+      "description": "use for message icon in desktop header"
+    },
     "prize": {
       "1": {
         "value": "#D2C25A",
@@ -3048,7 +3097,7 @@
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "140",
+      "value": "146",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
@@ -3064,6 +3113,21 @@
       "type": "sizing",
       "description": "use for top navbar items"
     },
+    "gamezone": {
+      "value": "0",
+      "type": "sizing",
+      "description": "use for bottom padding in game zone on desktop homepage"
+    },
+    "categories-desktop": {
+      "value": "64",
+      "type": "sizing",
+      "description": "use for categories in desktop"
+    },
+    "search": {
+      "value": "48",
+      "type": "sizing",
+      "description": "use for desktop search height"
+    },
     "footer": {
       "value": "0",
       "type": "sizing",
@@ -3075,7 +3139,7 @@
       "description": "use for mobile logo height "
     },
     "logo-desktop": {
-      "value": "64",
+      "value": "42",
       "type": "sizing",
       "description": "use for desktop logo height "
     }
@@ -3629,6 +3693,16 @@
       "type": "color",
       "description": "use for game catwgories bg"
     },
+    "item": {
+      "value": "#525252",
+      "type": "color",
+      "description": "use for desktop categories"
+    },
+    "item-active": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "use for active desktop categories items"
+    },
     "border": {
       "main": {
         "value": "rgba(0, 0, 0, 0.20)",
@@ -3682,9 +3756,9 @@
         "description": "use for bottom menu categories (desktop)"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#38D660",
         "type": "color",
-        "description": "use for bottom menu categories active state (desktop)"
+        "description": "use for menu items active state (desktop)"
       },
       "accent-alternative": {
         "value": "{base.accent-secondary}",
@@ -4311,6 +4385,86 @@
         "value": "#B51A1A",
         "type": "color",
         "description": "use for present icon in popup"
+      },
+      "border": {
+        "1": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color"
+        },
+        "value": "#192947",
+        "type": "color",
+        "popup-respin": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color",
+          "description": "use for icon color for respin popup"
+        },
+        "popup-more": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color",
+          "description": "use as color for arrow icon in popup"
+        },
+        "poup-more": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color"
+        },
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for wheel icon in desktop header"
+      },
+      "border-2": {
+        "1": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color"
+        },
+        "value": "#525252",
+        "type": "color",
+        "popup-respin": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color",
+          "description": "use for icon color for respin popup"
+        },
+        "popup-more": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color",
+          "description": "use as color for arrow icon in popup"
+        },
+        "poup-more": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color"
+        },
+        "$extensions": {},
+        "description": "use for wheel icon in desktop header"
+      },
+      "border-3": {
+        "1": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color"
+        },
+        "value": "#E5E5E5",
+        "type": "color",
+        "popup-respin": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color",
+          "description": "use for icon color for respin popup"
+        },
+        "popup-more": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color",
+          "description": "use as color for arrow icon in popup"
+        },
+        "poup-more": {
+          "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
+          "type": "color"
+        },
+        "$extensions": {},
+        "description": "use for wheel icon in desktop header"
       },
       "2-additional": {
         "value": "#C22222",

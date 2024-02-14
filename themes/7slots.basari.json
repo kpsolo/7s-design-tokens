@@ -935,6 +935,20 @@
       },
       "type": "boxShadow",
       "description": "Shadow for header desktop"
+    },
+    "accent-additional": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0",
+          "color": "#29E95A",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "accent blur menu items desktop"
     }
   },
   "border": {
@@ -1222,6 +1236,24 @@
       },
       "type": "border",
       "description": "border for show more wiget on main page"
+    },
+    "1click": {
+      "value": {
+        "color": "rgba(25, 41, 71, 0.10)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for dropdown"
+    },
+    "search": {
+      "value": {
+        "color": "#cccccc",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for search in desktop homepage"
     }
   },
   "base spacing": {
@@ -1589,6 +1621,11 @@
         "value": "#FFFFFF",
         "type": "color",
         "description": "Bg for right sidebar on gamepage (desktop)"
+      },
+      "search": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "Background for search in desktop"
       }
     },
     "gradient": {
@@ -2688,6 +2725,11 @@
         "type": "color",
         "description": "[delete?]"
       }
+    },
+    "ghost-4": {
+      "value": "#fff",
+      "type": "color",
+      "description": "use for message icon in desktop header"
     }
   },
   "input": {
@@ -2945,6 +2987,21 @@
       "value": "0",
       "type": "sizing",
       "description": "use for logo zone in footer "
+    },
+    "search": {
+      "value": "48",
+      "type": "sizing",
+      "description": "use for desktop search height"
+    },
+    "categories-desktop": {
+      "value": "64",
+      "type": "sizing",
+      "description": "use for categories in desktop"
+    },
+    "gamezone": {
+      "value": "0",
+      "type": "sizing",
+      "description": "use for bottom padding in game zone on desktop homepage"
     }
   },
   "min-height": {
@@ -3504,6 +3561,16 @@
       "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for game catwgories bg"
+    },
+    "item": {
+      "value": "{text.content}",
+      "type": "color",
+      "description": "use for desktop categories"
+    },
+    "item-active": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "use for active desktop categories items"
     }
   },
   "header": {
@@ -4094,6 +4161,23 @@
         "value": "#C22222",
         "type": "color",
         "description": "use for present icon in popup"
+      },
+      "border": {
+        "value": "#192947",
+        "type": "color",
+        "description": "use for wheel icon in desktop header"
+      },
+      "border-2": {
+        "value": "#525252",
+        "type": "color",
+        "$extensions": {},
+        "description": "use for wheel icon in desktop header"
+      },
+      "border-3": {
+        "value": "#E5E5E5",
+        "type": "color",
+        "$extensions": {},
+        "description": "use for wheel icon in desktop header"
       }
     },
     "loader": {
