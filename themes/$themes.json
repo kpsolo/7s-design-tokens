@@ -2742,7 +2742,11 @@
       "icon.ghost-4": "S:37d71bbfea1273b6177215bedacd191994147f7a,",
       "categories.item": "S:c9f0ac662d1137975ebc955af354ff71168f3756,",
       "categories.item-active": "S:fc295b7201d21ce6b8fd5125b5b771b1c25cc64d,",
-      "typography.banner": "S:f181208713bfd9e9d40730dbe2c0c3f270c4e1ba,"
+      "typography.banner": "S:f181208713bfd9e9d40730dbe2c0c3f270c4e1ba,",
+      "wheel.icons.border": "S:8d29b59be98801df039caa7bb5b8c79fa3eeea2d,",
+      "wheel.icons.border-2": "S:5bd7ec1ed62d96407240bb9b9c0d624133c50211,",
+      "wheel.icons.border-3": "S:bed91c35169f393a285db2a1d33e7237579681ab,",
+      "shadow.accent-additional": "S:dc15d557cecb52fc5523eba841573ae649889313,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

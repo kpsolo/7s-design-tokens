@@ -1167,10 +1167,19 @@
       "type": "border",
       "description": "border for search in desktop homepage"
     },
+    "tooltip": {
+      "value": {
+        "color": "#cccccc",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for tooltips"
+    },
     "strip-card": {
       "value": {
-        "color": "#C0D2FA",
-        "width": "{border-width.nav}",
+        "color": "#84B0EC",
+        "width": "1px",
         "style": "solid"
       },
       "type": "border",
@@ -1566,7 +1575,7 @@
         "description": "Background color for card winners now"
       },
       "tooltip": {
-        "value": "#E5ECFF",
+        "value": "#FFFFFF",
         "type": "color",
         "description": "Use for tooltip background"
       },
@@ -1611,8 +1620,9 @@
         "description": "use for transaction with bg (detailed)"
       },
       "strip": {
-        "value": "#E8F0FA",
+        "value": "#C8DFFF",
         "type": "color",
+        "$extensions": {},
         "description": "use for bg under girls"
       },
       "strip-bg": {
@@ -3264,7 +3274,7 @@
       "description": "For small captions on desktop"
     },
     "extra": {
-      "value": "22",
+      "value": "20",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     },
@@ -4108,6 +4118,14 @@
       "value": "rgba(255, 255, 255, 0.62)",
       "type": "color",
       "description": "bg in brogress bar "
+    },
+    "content": {
+      "accent": {
+        "value": "{icon.accent-additional}",
+        "type": "color",
+        "$extensions": {},
+        "description": "use for accent elements"
+      }
     }
   },
   "gamepage": {

@@ -1335,6 +1335,15 @@
       },
       "type": "border",
       "description": "border for search in desktop homepage"
+    },
+    "tooltip": {
+      "value": {
+        "color": "#cccccc",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for tooltips"
     }
   },
   "base spacing": {
@@ -4348,6 +4357,14 @@
       "value": "rgba(255, 255, 255, 0.62)",
       "type": "color",
       "description": "bg in brogress bar "
+    },
+    "content": {
+      "accent": {
+        "value": "{icon.accent-additional}",
+        "type": "color",
+        "$extensions": {},
+        "description": "use for accent elements"
+      }
     }
   },
   "gamepage": {
