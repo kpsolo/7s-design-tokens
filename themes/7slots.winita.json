@@ -1614,6 +1614,11 @@
         "type": "color",
         "description": "bg.other.lootboxes-cof-selected"
       },
+      "footer-app": {
+        "value": "#000000",
+        "type": "color",
+        "description": "bg for app button in footer"
+      },
       "categories-nav": {
         "value": "#173A86",
         "type": "color",
@@ -1666,7 +1671,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "rgba(25, 41, 71, 0.08)",
+        "value": "rgba(255, 255, 255, 0.06)",
         "type": "color",
         "description": "social icons bg"
       },

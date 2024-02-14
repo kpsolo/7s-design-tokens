@@ -1579,6 +1579,11 @@
         "value": "#1C212E",
         "type": "color",
         "description": "Background color for outside 1click zone "
+      },
+      "footer-app": {
+        "value": "#000000",
+        "type": "color",
+        "description": "bg for app button in footer"
       }
     },
     "gradient": {

@@ -1615,6 +1615,11 @@
         "value": "rgba(0,0,0, 0.5)",
         "type": "color",
         "description": "Bg for background popup on strip desktop"
+      },
+      "footer-app": {
+        "value": "#000000",
+        "type": "color",
+        "description": "bg for app button in footer"
       }
     },
     "gradient": {

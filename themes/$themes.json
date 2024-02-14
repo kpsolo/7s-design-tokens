@@ -2694,7 +2694,8 @@
       "special-blocks.secret-mirror-title": "S:557b85cba953f0cf325203563889d8bc424b32b6,",
       "special-blocks.secret_mirror-title": "S:b33cf261aed72cc8eab8053316db830707637744,",
       "small-elements.progress-bar": "S:146dfdfca3db04e5c96c919940730cc54c36d575,",
-      "small-elements.progress-bar-deals": "S:a620dd6ae151f7fe68a122075cd36a89d4d52a76,"
+      "small-elements.progress-bar-deals": "S:a620dd6ae151f7fe68a122075cd36a89d4d52a76,",
+      "bg.other.footer-app": "S:30fdc25c74cb50dbeed33f6cd894d8fb0221841b,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
