@@ -4349,6 +4349,11 @@
             }
           }
         }
+      },
+      "extra": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for lines in right sidebar"
       }
     },
     "overlay": {

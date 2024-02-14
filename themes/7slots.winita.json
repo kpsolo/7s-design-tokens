@@ -1737,7 +1737,6 @@
       "gamepage": {
         "value": "rgba(255, 255, 255, 0.40)",
         "type": "color",
-        "$extensions": {},
         "description": "Background above game image"
       },
       "sidebar-gamepage": {
@@ -4090,15 +4089,9 @@
         "value": "#FFFFFF",
         "type": "color"
       },
-      "additional": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "description": "use for game name"
-      },
       "secondary": {
         "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "tertiary": {
         "value": "{text.primary}",
@@ -4112,6 +4105,16 @@
             }
           }
         }
+      },
+      "additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "use for game name"
+      },
+      "extra": {
+        "value": "#E2E2E2",
+        "type": "color",
+        "description": "use for lines in right sidebar"
       },
       "accent": {
         "value": "{base.accent-primary}",
