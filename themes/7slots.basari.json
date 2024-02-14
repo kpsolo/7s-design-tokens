@@ -4179,13 +4179,11 @@
       "border-2": {
         "value": "#525252",
         "type": "color",
-        "$extensions": {},
         "description": "use for wheel icon in desktop header"
       },
       "border-3": {
         "value": "#E5E5E5",
         "type": "color",
-        "$extensions": {},
         "description": "use for wheel icon in desktop header"
       }
     },
@@ -4348,7 +4346,6 @@
       "accent": {
         "value": "{icon.accent-additional}",
         "type": "color",
-        "$extensions": {},
         "description": "use for accent elements"
       }
     }

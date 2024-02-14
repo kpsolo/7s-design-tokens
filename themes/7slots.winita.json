@@ -1622,7 +1622,6 @@
       "strip": {
         "value": "#C8DFFF",
         "type": "color",
-        "$extensions": {},
         "description": "use for bg under girls"
       },
       "strip-bg": {
@@ -4123,7 +4122,6 @@
       "accent": {
         "value": "{icon.accent-additional}",
         "type": "color",
-        "$extensions": {},
         "description": "use for accent elements"
       }
     }
@@ -4457,7 +4455,6 @@
           "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
           "type": "color"
         },
-        "$extensions": {},
         "description": "use for wheel icon in desktop header"
       },
       "border-3": {
@@ -4481,7 +4478,6 @@
           "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%);",
           "type": "color"
         },
-        "$extensions": {},
         "description": "use for wheel icon in desktop header"
       },
       "2-additional": {
