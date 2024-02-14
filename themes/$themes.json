@@ -769,7 +769,8 @@
       "gamepage.content.secondary": "2c85031d6826c396cecbfd65f64e481ca268f0fd",
       "gamepage.content.accent": "3589c1ed854474c9ff2c1e731d0d080ff13d59f5",
       "gamepage.content.additional": "704b70e3ff88c273ced984f2e7807c62e910217e",
-      "gamepage.content.tertiary": "9da383671550bcbd88cb9c727a76c0268b3e2ca2"
+      "gamepage.content.tertiary": "9da383671550bcbd88cb9c727a76c0268b3e2ca2",
+      "small-elements.proggress-bar-deals": "ee8285e35bbee431ddcdcf9188a131e35be82f73"
     }
   },
   {
@@ -1506,7 +1507,8 @@
       "gamepage.content.secondary": "b5d1857f9184ffbd80046e6b9e34232c00e6dd32",
       "gamepage.content.accent": "aa1ae8ed3d6870fb258f202eb5b0e59f23114737",
       "gamepage.content.additional": "b1a4e1f4e9160d3f0156eb29bf78e161a0c00fe1",
-      "gamepage.content.tertiary": "e207ad74bdeb8e0ece9bfadc2f0f91727aa6ea25"
+      "gamepage.content.tertiary": "e207ad74bdeb8e0ece9bfadc2f0f91727aa6ea25",
+      "small-elements.proggress-bar-deals": "128cf7dea85306a2a7d51185c414bac156a3289b"
     }
   },
   {
@@ -2249,7 +2251,8 @@
       "gamepage.content.secondary": "673d2b55d508d0217edc327455df290cb4f8f442",
       "gamepage.content.accent": "9dd46e9893ac33baf5c2834ce6eb93e257d2602c",
       "gamepage.content.additional": "ed18c31d847aff7b71907b16951b4eb27ab95d95",
-      "gamepage.content.tertiary": "ff553a35411380e9ec17691844950180ba0139f8"
+      "gamepage.content.tertiary": "ff553a35411380e9ec17691844950180ba0139f8",
+      "small-elements.proggress-bar-deals": "011946cbddad636a1d69b75f939feebb4b531b95"
     }
   },
   {
@@ -2872,6 +2875,8 @@
       "small-elements.separator.tertiary": "ac17088f1394d91432cce59121603de570d254ce",
       "small-elements.separator.secondary": "ae618a20a1ff8b1559a29f01e3bcfd5104be2759",
       "small-elements.progress-large": "36b1054570dae212bac5391751a71f43ef338b14",
+      "small-elements.progress-bar": "a639db0f60e29d78a3d0ae9d54dd2b63103e8fcc",
+      "small-elements.progress-bar-deals": "fa8fe30b70566b2efd319b3f5ad6aa056111e569",
       "small-elements.bullet": "56f640ac7fbcee5b94c648db7aa078b70d350fae",
       "small-elements.fade-tertiary": "4bfe422c72dde538d9bfcfc2314f73925653b078",
       "small-elements.sign": "cd65131d92e33f5dc8bdea62d4fe00bdffc33264",
@@ -3101,8 +3106,7 @@
       "wheel.border.main": "d031b11c3b4c2821b80c8f7e6ed5d4cf9b0b80a9",
       "wheel.border.main-additional": "201e87aa3b8a94f73a4d87d50b19669e0ef6908c",
       "wheel.border.bottom": "6ce715dc547e867bb3c125caf1da7e06ed10f370",
-      "text-wrap.padding-fix": "86ac6c6ba82f6c6b14c334aaa23451e399f3a20c",
-      "small-elements.progress-bar": "a639db0f60e29d78a3d0ae9d54dd2b63103e8fcc"
+      "text-wrap.padding-fix": "86ac6c6ba82f6c6b14c334aaa23451e399f3a20c"
     }
   },
   {
