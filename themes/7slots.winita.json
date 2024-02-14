@@ -2511,9 +2511,14 @@
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
-    "proggress-bar": {
+    "progress-bar": {
       "value": "#4B9DE8",
       "type": "color"
+    },
+    "progress-bar-deals": {
+      "value": "#36579F",
+      "type": "color",
+      "description": "use in cards in deals page for bg and stroke"
     },
     "bullet": {
       "value": "{text.opacity.2}",
@@ -3124,7 +3129,7 @@
       "type": "lineHeights"
     },
     "m": {
-      "value": "22px",
+      "value": "20px",
       "type": "lineHeights"
     }
   },

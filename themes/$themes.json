@@ -126,7 +126,6 @@
       "small-elements.separator.item": "S:2389d878139cde4e28136cfeeca383db4c82dd4f,",
       "small-elements.separator.secondary": "S:24dcfaaed69f636ca9d6b30d4b60cc80fe458b4e,",
       "small-elements.progress-large": "S:e8dd1a68f317d617e3e88dd69ced21a1c0237366,",
-      "small-elements.proggress-bar": "S:ecf418c27a0d11ab78eab650831d250e9b4edeb2,",
       "small-elements.bullet": "S:81f22900cd79bd4d6c2cd03fe7c3b6440a90cc97,",
       "small-elements.fade-tertiary": "S:8f5c3dacf1ee9eb2ab19c48f5a13a8d83029c59b,",
       "small-elements.sign": "S:e63c60675d928f4801039d4cbf15aecfe8c795ad,",
@@ -436,7 +435,8 @@
       "text.link-dektop": "S:1fd3473d9996196c100cac1a56c885d68e9baefb,",
       "text.link-text-dektop": "S:e59006a578ebdd640bfa8aa9abbfc86c0ae7d11a,",
       "special-blocks.secret_mirror-title": "S:39b7b39eb61ca57ab43ced1e49a46621eea6a1ea,",
-      "special-blocks.secret-mirror-title": "S:1942231740f41b4388eabaaacd709271a0355f54,"
+      "special-blocks.secret-mirror-title": "S:1942231740f41b4388eabaaacd709271a0355f54,",
+      "small-elements.progress-bar": "S:ecf418c27a0d11ab78eab650831d250e9b4edeb2,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -872,7 +872,6 @@
       "small-elements.separator.item": "S:5d21fd68846db04acf5c47e8759e720048e4fd09,",
       "small-elements.separator.secondary": "S:55fc95801b0406948e385208f2e03db20e7409e9,",
       "small-elements.progress-large": "S:ad8b950c7dcfd72e8d823920589b6c1f44365594,",
-      "small-elements.proggress-bar": "S:187ac1a10ff649dbd3646334759d725f4fa323fe,",
       "small-elements.bullet": "S:872a0a2caaba400aba133611937092f6942e50e1,",
       "small-elements.fade-tertiary": "S:f83be62334fa6ae4ec55a73d8300c73da5ca70c1,",
       "small-elements.sign": "S:0806bd224934398f633184b84857113952b6e095,",
@@ -1161,7 +1160,8 @@
       "button.border.ghost": "S:2159cc89d1ce172ed368c24c9e76fbeaa18cdff8,",
       "button.border.ghost-hover": "S:6c943b7a5b0f5dae740a989033be434d6728d3cc,",
       "button.border.ghost-pressed": "S:200b5ee6c89f3034135957e11576bd88bd143cb6,",
-      "typography.title-1-stronger": "S:9e8a0417a0aa66a581184da923efd636d7c2aa75,"
+      "typography.title-1-stronger": "S:9e8a0417a0aa66a581184da923efd636d7c2aa75,",
+      "small-elements.progress-bar": "S:187ac1a10ff649dbd3646334759d725f4fa323fe,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -1665,7 +1665,6 @@
       "small-elements.separator.tertiary": "S:ed8de0e61f8724b047e43ebf23cac69cc910d6d7,",
       "small-elements.separator.secondary": "S:267fb14b20f1bec5ec0ade9ac66255b40ddecb2b,",
       "small-elements.progress-large": "S:f0a067697a6fe7ef6ae872dcd0eeddce8e5558d7,",
-      "small-elements.proggress-bar": "S:708c1692bc830e4274cca0979d1c0e9b60c6289c,",
       "small-elements.bullet": "S:19b2e64d27c22279bf12461541271ffaa370b231,",
       "small-elements.fade-tertiary": "S:d6349a5363c4eac4e713a1175277c68148377876,",
       "small-elements.sign": "S:76c7cb75f89dcb766bc20b6638394e50254d2561,",
@@ -1908,7 +1907,8 @@
       "shadow.special-blocks.jackpot-title-additional": "S:9a9dec900db87b21a8b02cd8eaaeaa122c7e7d2e,",
       "shadow.special-blocks.wheel.main": "S:037d3722803881648c3c2a77b3b0046ead5183a7,",
       "shadow.special-blocks.card": "S:fd6ba9a49d9f38749572787ae68f45b1fb7d8111,",
-      "shadow.special-blocks.referral": "S:8adf38504745a5f4ca52a609c2522b535bcc8334,"
+      "shadow.special-blocks.referral": "S:8adf38504745a5f4ca52a609c2522b535bcc8334,",
+      "small-elements.progress-bar": "S:708c1692bc830e4274cca0979d1c0e9b60c6289c,"
     },
     "selectedTokenSets": {
       "7slots.theme-1": "enabled"
@@ -2395,7 +2395,6 @@
       "small-elements.separator.tertiary": "S:b369a6e1860152282df91ff1039c21434cbdd80a,",
       "small-elements.separator.secondary": "S:540db06c00c814d23892c32d6dd7e1d8e2f6cc46,",
       "small-elements.progress-large": "S:e17edaece7276e35973b52ca6b38e74908689f56,",
-      "small-elements.proggress-bar": "S:146dfdfca3db04e5c96c919940730cc54c36d575,",
       "small-elements.bullet": "S:af89b25f670a1a7ea977db21716c94426031a692,",
       "small-elements.fade-tertiary": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,",
       "small-elements.sign": "S:c3ec32d494fcbeec09ae4364717bf6ebd5239a27,",
@@ -2690,7 +2689,9 @@
       "text.link-text-dektop": "S:4e7e726644c49534a0bdb5ea2ee8eeca124510b4,",
       "bg.popup-additional": "S:809e88a8b821bb343e03b7f97a5d1e55ea26e505,",
       "special-blocks.secret-mirror-title": "S:557b85cba953f0cf325203563889d8bc424b32b6,",
-      "special-blocks.secret_mirror-title": "S:b33cf261aed72cc8eab8053316db830707637744,"
+      "special-blocks.secret_mirror-title": "S:b33cf261aed72cc8eab8053316db830707637744,",
+      "small-elements.progress-bar": "S:146dfdfca3db04e5c96c919940730cc54c36d575,",
+      "small-elements.progress-bar-deals": "S:a620dd6ae151f7fe68a122075cd36a89d4d52a76,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -2871,7 +2872,6 @@
       "small-elements.separator.tertiary": "ac17088f1394d91432cce59121603de570d254ce",
       "small-elements.separator.secondary": "ae618a20a1ff8b1559a29f01e3bcfd5104be2759",
       "small-elements.progress-large": "36b1054570dae212bac5391751a71f43ef338b14",
-      "small-elements.proggress-bar": "a639db0f60e29d78a3d0ae9d54dd2b63103e8fcc",
       "small-elements.bullet": "56f640ac7fbcee5b94c648db7aa078b70d350fae",
       "small-elements.fade-tertiary": "4bfe422c72dde538d9bfcfc2314f73925653b078",
       "small-elements.sign": "cd65131d92e33f5dc8bdea62d4fe00bdffc33264",
@@ -3101,7 +3101,8 @@
       "wheel.border.main": "d031b11c3b4c2821b80c8f7e6ed5d4cf9b0b80a9",
       "wheel.border.main-additional": "201e87aa3b8a94f73a4d87d50b19669e0ef6908c",
       "wheel.border.bottom": "6ce715dc547e867bb3c125caf1da7e06ed10f370",
-      "text-wrap.padding-fix": "86ac6c6ba82f6c6b14c334aaa23451e399f3a20c"
+      "text-wrap.padding-fix": "86ac6c6ba82f6c6b14c334aaa23451e399f3a20c",
+      "small-elements.progress-bar": "a639db0f60e29d78a3d0ae9d54dd2b63103e8fcc"
     }
   },
   {
@@ -3247,7 +3248,6 @@
       "small-elements.separator.item": "S:00fd50849d770d6353f80efda2e102f9d34a1255,",
       "small-elements.separator.secondary": "S:fa989a0601139b6e72fb9172af45dc14ce690587,",
       "small-elements.progress-large": "S:92e11b66a1515144497a7c7e899704d826cefa06,",
-      "small-elements.proggress-bar": "S:941e3203d644c9c96be12c8c819a142fd67e6a9b,",
       "small-elements.bullet": "S:62b698aa409ced29271528ab5ea114862cde6bfe,",
       "small-elements.fade-tertiary": "S:4b17489ae62d16cd826fe003eaeb430231645435,",
       "small-elements.sign": "S:9c0f78bc6315ae39d53f0fcb41ad7a387dd27c27,",
@@ -3425,7 +3425,8 @@
       "wheel.tip.hover": "S:e2aa90c8e20158d73ca73fce9f2093c565d412ca,",
       "wheel.tip.active": "S:769068d6693a036a68794e90409374c58e18283e,",
       "wheel.icons.0": "S:20104541ab8c61a1a65421d36f0cb52985ccf64a,",
-      "bg.overlay-gradient.welcome": "S:a24d6e22e03e11e710b4da35bed17b26cc8a10b5,"
+      "bg.overlay-gradient.welcome": "S:a24d6e22e03e11e710b4da35bed17b26cc8a10b5,",
+      "small-elements.progress-bar": "S:941e3203d644c9c96be12c8c819a142fd67e6a9b,"
     },
     "$figmaVariableReferences": {},
     "$figmaCollectionId": "VariableCollectionId:21307:192574",

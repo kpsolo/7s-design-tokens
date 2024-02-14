@@ -2570,6 +2570,11 @@
       "value": "#FB3C3C",
       "type": "color",
       "description": "use for slider curret in mob main page"
+    },
+    "proggress-bar-deals": {
+      "value": "#36579F",
+      "type": "color",
+      "description": "use in cards in deals page for bg and stroke"
     }
   },
   "icon": {
