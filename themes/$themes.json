@@ -599,6 +599,7 @@
       "small-elements.tournament.active-tab-content": "c01bef247c68570d6c1dafe62bb0db27e828c860",
       "small-elements.slider": "65d0810fb0d111891b1c0a5407b0ee5cc6c4da53",
       "small-elements.slider-curret": "273b07e3d93d42d9c41c4499e9338338b395b45d",
+      "small-elements.proggress-bar-deals": "ee8285e35bbee431ddcdcf9188a131e35be82f73",
       "icon.secondary": "e81fc948542a928c81e5e8888bcf0400b4d58496",
       "icon.primary": "9931b31dbec5f970f06ffa821bd780f27553ccb7",
       "icon.tertiary": "9b10a2b2d49ff0b5fb4e77a07b58a4272499c607",
@@ -770,7 +771,9 @@
       "gamepage.content.accent": "3589c1ed854474c9ff2c1e731d0d080ff13d59f5",
       "gamepage.content.additional": "704b70e3ff88c273ced984f2e7807c62e910217e",
       "gamepage.content.tertiary": "9da383671550bcbd88cb9c727a76c0268b3e2ca2",
-      "small-elements.proggress-bar-deals": "ee8285e35bbee431ddcdcf9188a131e35be82f73"
+      "bg.other.footer-app": "725ed3f2f81ae0649a26daf327ff58a67bb2bd8f",
+      "bg.other.sidebar-game-additional": "9172914d73b3f8fc56a80cd6fa47f95d926297c0",
+      "gamepage.bg.logo": "3c03be7ba74c2f3c258a07daa4e1b2e2f2eabbe5"
     }
   },
   {
@@ -1323,6 +1326,7 @@
       "small-elements.up-button.hover-icon": "977a1f92a5247dc78e2cf35d2c4e312c03c37828",
       "small-elements.tournament.active-tab-content": "cd694529a879bb6ff54b6fc4f2074103382aecac",
       "small-elements.slider-curret": "87df3b12a1a0b0541aba9c8f3b2d31cd4a5ba5f5",
+      "small-elements.proggress-bar-deals": "128cf7dea85306a2a7d51185c414bac156a3289b",
       "icon.secondary": "5620104187e4c6a36f0ab0d451a4f53cf3db1b92",
       "icon.primary": "e71425e18bb2dd6fdce57d6c1af2376248239ecb",
       "icon.tertiary": "3c78bb2118687a97b23e2e3b3df1efb33cb2c13a",
@@ -1508,7 +1512,9 @@
       "gamepage.content.accent": "aa1ae8ed3d6870fb258f202eb5b0e59f23114737",
       "gamepage.content.additional": "b1a4e1f4e9160d3f0156eb29bf78e161a0c00fe1",
       "gamepage.content.tertiary": "e207ad74bdeb8e0ece9bfadc2f0f91727aa6ea25",
-      "small-elements.proggress-bar-deals": "128cf7dea85306a2a7d51185c414bac156a3289b"
+      "bg.other.footer-app": "0024b8a5c887ffc4f99d0e6e2a9742494801a317",
+      "bg.other.sidebar-game-additional": "be8cae781ceecef63448766b033827beb5db1ac7",
+      "gamepage.bg.logo": "af79ca2c7455964b83c204c0fb2a889cdb18c5d2"
     }
   },
   {
@@ -2079,6 +2085,7 @@
       "small-elements.tournament.active-tab-content": "7b2b0c539f6e39962c09c694bb6f12988b18af5e",
       "small-elements.slider": "f2914b52d5a1e09dd69df62e81f3d399f6b55e96",
       "small-elements.slider-curret": "610471f966bfb21139d5d93dadefd22f2e31c718",
+      "small-elements.proggress-bar-deals": "011946cbddad636a1d69b75f939feebb4b531b95",
       "icon.secondary": "4b55d855260ab8b99888434d12bc04837f5abcf8",
       "icon.primary": "0834a6396091f91e131e05476669cf1fec8bb9a2",
       "icon.tertiary": "006f83ae9d2ff4cb362f7adf443f27058dfcbc27",
@@ -2252,7 +2259,9 @@
       "gamepage.content.accent": "9dd46e9893ac33baf5c2834ce6eb93e257d2602c",
       "gamepage.content.additional": "ed18c31d847aff7b71907b16951b4eb27ab95d95",
       "gamepage.content.tertiary": "ff553a35411380e9ec17691844950180ba0139f8",
-      "small-elements.proggress-bar-deals": "011946cbddad636a1d69b75f939feebb4b531b95"
+      "bg.other.footer-app": "40e8836ab01383ad93dcd912bd19e7e8073265ee",
+      "bg.other.sidebar-game-additional": "e75e2057154b9dd15c9841f87dc4bedb74df06c6",
+      "gamepage.bg.logo": "eaf39abc7c7092a0e5965dea6fedfd5bdc362773"
     }
   },
   {
@@ -2695,7 +2704,9 @@
       "special-blocks.secret_mirror-title": "S:b33cf261aed72cc8eab8053316db830707637744,",
       "small-elements.progress-bar": "S:146dfdfca3db04e5c96c919940730cc54c36d575,",
       "small-elements.progress-bar-deals": "S:a620dd6ae151f7fe68a122075cd36a89d4d52a76,",
-      "bg.other.footer-app": "S:30fdc25c74cb50dbeed33f6cd894d8fb0221841b,"
+      "bg.other.footer-app": "S:30fdc25c74cb50dbeed33f6cd894d8fb0221841b,",
+      "bg.other.sidebar-game-additional": "S:55b713f048e069bf5de2ebb02f079da0e7d5873e,",
+      "gamepage.bg.logo": "S:0c0f19a2c8a5d7b0225af290734dd5a658ca7141,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -2755,11 +2766,13 @@
       "bg.other.strip": "d593f74190adf94e63efad439f600466c4971cb9",
       "bg.other.strip-bg": "c9e105c7a1ce175e1be79986d1ce48f103e5e0f5",
       "bg.other.sidebar-game": "e640488a339590db2382ded5d2559314c7078c47",
+      "bg.other.sidebar-game-additional": "aa988bffe50a38615bca62ea216da18fd14416e2",
       "bg.other.welcome-3": "e4c94a48ad523e4201c9c853d445c8a0b6f226da",
       "bg.other.win-card-wrap": "604f4e8ba0ce194e21075bac242063a2af2f64cc",
       "bg.other.welcome": "ecf074845ae2eac41f7c62c22fb7fd523edffe31",
       "bg.other.welcome-2": "c5797d7cc1207965b313b137a33233a057413b4e",
       "bg.other.lootboxes-cell-selected": "94a24540d41df9b6c9905b80598f1fe30e2a097d",
+      "bg.other.footer-app": "cd78d0fd426445277f8491ed4137106545f6dd98",
       "bg.other.categories-nav": "1b8b450402f3ff8234500886f98c2d70768f3670",
       "bg.other.strip-popup": "2a4a76b165fef44b448b0a465dc080388d672ba7",
       "bg.top-surface": "569edac19f210b5209914546db06c0bd9d5f48e4",
@@ -3058,6 +3071,7 @@
       "gamepage.bg.primary": "e9864528f8c75105b94d0b15d48b3862ba58c69d",
       "gamepage.bg.secondary": "f6ef52825d39a200acbc9ada46bfa1d3c2f1d37c",
       "gamepage.bg.tertiary": "baaf21e7bd66d5a9ba2685d5c0f7384131137662",
+      "gamepage.bg.logo": "6eac0879911ef2392db6cefa50305c67928327e3",
       "gamepage.bg.extra": "445bc38aaaedf0f9d3802f179d3faa3e541e449c",
       "gamepage.bg.extra-additional": "0c151b913107f48b6b0fd92ed21b863d90688cea",
       "gamepage.bg.additional": "3744be9cb5501fc7164ed504af7a6e52c46f6add",

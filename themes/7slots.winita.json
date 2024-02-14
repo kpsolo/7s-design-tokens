@@ -1157,7 +1157,7 @@
     },
     "right-menu": {
       "value": {
-        "color": "rgba(0,0,0,0.6)",
+        "color": "#E2EAFF",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -1577,9 +1577,14 @@
         "description": "Global background for strip banners"
       },
       "sidebar-game": {
-        "value": "rgba(0, 0, 0, 0.40)",
+        "value": "#1A3271",
         "type": "color",
         "description": "Bg for sidebar on gamepage (desktop)"
+      },
+      "sidebar-game-additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "Bg for right sidebar on gamepage (desktop)"
       },
       "welcome-3": {
         "value": "{bg.other.welcome-2}",
@@ -1671,7 +1676,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "rgba(255, 255, 255, 0.06)",
+        "value": "#F4F4F4",
         "type": "color",
         "description": "social icons bg"
       },
@@ -1715,7 +1720,7 @@
         "description": "Use for overlay no desktop poopups"
       },
       "right-menu": {
-        "value": "rgba(0, 0, 0, 0.60)",
+        "value": "{bg.other.sidebar-game}",
         "type": "color",
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
@@ -1730,17 +1735,9 @@
         "description": "use for progress bar bg "
       },
       "gamepage": {
-        "value": "rgba(0, 0, 0, 0.90)",
+        "value": "rgba(255, 255, 255, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Background above game image"
       },
       "sidebar-gamepage": {
@@ -4054,6 +4051,11 @@
         "value": "transparent",
         "type": "color"
       },
+      "logo": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "bg under logo zone in left bar"
+      },
       "extra": {
         "value": "rgba(176, 182, 195, 0.40)",
         "type": "color",
@@ -4094,33 +4096,25 @@
         "description": "use for game name"
       },
       "secondary": {
-        "value": "#FFFFFF",
+        "value": "{text.primary}",
+        "type": "color",
+        "$extensions": {}
+      },
+      "tertiary": {
+        "value": "{text.primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "tertiary": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
+              "space": "lch"
             }
           }
         }
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       }
     }

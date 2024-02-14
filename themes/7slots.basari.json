@@ -1584,6 +1584,11 @@
         "value": "#000000",
         "type": "color",
         "description": "bg for app button in footer"
+      },
+      "sidebar-game-additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "Bg for right sidebar on gamepage (desktop)"
       }
     },
     "gradient": {
@@ -4284,6 +4289,11 @@
         "value": "rgba(88, 122, 196, 0.20)",
         "type": "color",
         "description": "bg for progressbar"
+      },
+      "logo": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "bg under logo zone in left bar"
       }
     },
     "content": {
