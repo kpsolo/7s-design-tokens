@@ -1196,7 +1196,7 @@
     },
     "right-menu": {
       "value": {
-        "color": "#E2EAFF",
+        "color": "transparent",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -1703,6 +1703,11 @@
       "type": "color",
       "description": "use for popups bg"
     },
+    "popup-2": {
+      "value": "#F2F3F5",
+      "type": "color",
+      "description": "use for popups bg"
+    },
     "technical": {
       "value": "#133a90",
       "type": "color",
@@ -1773,7 +1778,7 @@
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "rgba(45, 45, 45, 0.80)",
+        "value": "rgba(19, 19, 28, 0.80)",
         "type": "color",
         "description": "Use for overlay no desktop poopups"
       },
@@ -1793,7 +1798,7 @@
         "description": "use for progress bar bg "
       },
       "gamepage": {
-        "value": "rgba(255, 255, 255, 0.40)",
+        "value": "rgba(255, 255, 255, 0.20)",
         "type": "color",
         "description": "Background above game image"
       },
@@ -2532,17 +2537,8 @@
         "description": "border color for separating groups of table rows/colums,footer "
       },
       "item": {
-        "value": "{base.dark}",
+        "value": "rgba(25, 41, 71, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.05",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for line separator in dropdown/menu"
       },
       "tertiary": {
@@ -3287,7 +3283,7 @@
       "description": "For small captions on desktop"
     },
     "extra": {
-      "value": "20",
+      "value": "22",
       "type": "fontSizes",
       "description": "for main page titles (mob)"
     },
@@ -3964,7 +3960,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.9",
               "space": "srgb"
             }
           }
@@ -4161,7 +4157,7 @@
         "description": "bg under logo zone in left bar"
       },
       "extra": {
-        "value": "rgba(176, 182, 195, 0.40)",
+        "value": "rgba(108,113,122,0.4)",
         "type": "color",
         "description": "bg under star"
       },
@@ -4180,7 +4176,7 @@
         "description": "bg under star"
       },
       "additional": {
-        "value": "rgba(88, 122, 196, 0.20)",
+        "value": "rgba(88, 122, 196, 0.30)",
         "type": "color",
         "description": "bg for progressbar"
       },
@@ -4198,6 +4194,25 @@
       "primary": {
         "value": "#FFFFFF",
         "type": "color"
+      },
+      "inactive": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for inactive items in right sidebar"
+      },
+      "hover": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "for icon hover state"
       },
       "secondary": {
         "value": "{text.primary}",
@@ -4228,6 +4243,10 @@
       },
       "accent": {
         "value": "{base.accent-primary}",
+        "type": "color"
+      },
+      "accent-addional": {
+        "value": "{base.accent-secondary}",
         "type": "color"
       }
     }

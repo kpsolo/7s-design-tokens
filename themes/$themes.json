@@ -787,7 +787,10 @@
       "gamepage.content.extra": "941942f8d2bdc340f11176277a050f6b8f7420c4",
       "text-wrap.gamepage": "3b433a1018e7eb598422ddddae375da8f4bf1559",
       "radius.item": "b68e5d6ba23750cb02e7b177394269d3f2a8a947",
-      "gamepage.bg.additional-2": "eddba8e259958f6024d5a2810008fdeb177b468d"
+      "gamepage.bg.additional-2": "eddba8e259958f6024d5a2810008fdeb177b468d",
+      "gamepage.content.accent-addional": "6751410887162235a0da6a1ddade13ef8c0faefc",
+      "gamepage.content.hover": "97ca1d80f36be10e40a99dfbebc0a1ce6aa27b02",
+      "gamepage.content.inactive": "3a929790900301003fac951a4f5e25ef3c3cc366"
     }
   },
   {
@@ -1543,7 +1546,10 @@
       "gamepage.content.extra": "4e6206c1db649ba6ce2e9030422f5d369e6f4d58",
       "text-wrap.gamepage": "2f3afb0d23941dfe05cd180cfa46a8997338fa3b",
       "radius.item": "01f3fcaa1a92a1dd6b29fb90357a98369829d0d8",
-      "gamepage.bg.additional-2": "440732bb0161a89168cfd8172197e843b0d56888"
+      "gamepage.bg.additional-2": "440732bb0161a89168cfd8172197e843b0d56888",
+      "gamepage.content.accent-addional": "d92d33308635520f824f85ad2afd86c0f3a0f837",
+      "gamepage.content.hover": "4a60aa414129582bdef92ac9d275c4d4f1154c6a",
+      "gamepage.content.inactive": "7f7719416a8a230d64d6254574d480c3ec4ab2ea"
     }
   },
   {
@@ -2304,7 +2310,10 @@
       "gamepage.content.extra": "79a6e70a97544cf919a384de8e98b9f79d92ce8f",
       "text-wrap.gamepage": "9022d1da82444d7cb49fcab7cf7fc1eff28a6552",
       "radius.item": "ec3d4481c906a0366c8ba2cebc74a3ec01e95571",
-      "gamepage.bg.additional-2": "53782619669c3fa30b0bfd2ce83837732a5f5f45"
+      "gamepage.bg.additional-2": "53782619669c3fa30b0bfd2ce83837732a5f5f45",
+      "gamepage.content.accent-addional": "a4afeb057f99349ed219cb91d292f1334a0e0e53",
+      "gamepage.content.hover": "bf164ea1a2cbd828c5bc69571e50b2f9ddb721ca",
+      "gamepage.content.inactive": "285d8e74815ab937402a367781c818c551d4b024"
     }
   },
   {
@@ -2760,7 +2769,11 @@
       "wheel.icons.border-2": "S:5bd7ec1ed62d96407240bb9b9c0d624133c50211,",
       "wheel.icons.border-3": "S:bed91c35169f393a285db2a1d33e7237579681ab,",
       "shadow.accent-additional": "S:dc15d557cecb52fc5523eba841573ae649889313,",
-      "strip.content.accent": "S:20c0cb56e1356fcb6128341316a15d4d7aac6c27,"
+      "strip.content.accent": "S:20c0cb56e1356fcb6128341316a15d4d7aac6c27,",
+      "gamepage.bg.additional-2": "S:2aaa610fabf45592714ed8f8f898f53db2348904,",
+      "gamepage.content.inactive": "S:928d941651a247a303e8340605711594a9fc2515,",
+      "gamepage.content.hover": "S:b207c8362de3673b4f50e5d67640df2cb9856184,",
+      "gamepage.content.accent-addional": "S:6d444c788cea5f0e822172b1eb361b0c7e7a9b86,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -3140,11 +3153,14 @@
       "gamepage.bg.additional": "3744be9cb5501fc7164ed504af7a6e52c46f6add",
       "gamepage.bg.additional-2": "748beaec35b943a18ae056386f0dd5d48213300a",
       "gamepage.content.primary": "8b407171690b5f786794c4c9cc9954f7cfcceb3a",
+      "gamepage.content.inactive": "b17407f02764920fb8a0a5d2e576a5c960251d45",
+      "gamepage.content.hover": "e5f434368446aad92d089834fcfe149086f554c8",
       "gamepage.content.secondary": "ae37abce7886d1a2c91da4423b623a5aedec04b4",
       "gamepage.content.tertiary": "ca7c2943e3ec45fb159a09f353d802ba8a67a474",
       "gamepage.content.additional": "d8fce185d43580c623c5f4e4f7b93b8bafa4491e",
       "gamepage.content.extra": "db88b34e20b854df68187897db1742e768af2236",
       "gamepage.content.accent": "f3633bc68a09638fcca4ec7e6ca9bc65de1986f8",
+      "gamepage.content.accent-addional": "6bc62d2d92e2169d9224dadd5207e48797e99003",
       "tab.active tab": "f42a059a217c5b008d36872bff018a17e5b8ff87",
       "tab.bg": "f8480e67c9a4b5510bfb735dc006bb67ff9f10c3",
       "tab.bg all": "4768ff13a6298cccbdb968091ece3c13f1905d7e",

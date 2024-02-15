@@ -1907,6 +1907,11 @@
       "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
       "type": "color",
       "description": "use for popups bg"
+    },
+    "popup-2": {
+      "value": "#F2F3F5",
+      "type": "color",
+      "description": "use for popups bg"
     }
   },
   "nav": {
@@ -4453,6 +4458,29 @@
         "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for lines in right sidebar"
+      },
+      "accent-addional": {
+        "value": "{base.accent-secondary}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "for icon hover state"
+      },
+      "inactive": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for inactive items in right sidebar"
       }
     },
     "overlay": {
