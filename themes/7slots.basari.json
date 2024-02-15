@@ -4402,6 +4402,11 @@
         "value": "#FFFFFF",
         "type": "color",
         "description": "bg under logo zone in left bar"
+      },
+      "additional-2": {
+        "value": "#7899E1",
+        "type": "color",
+        "description": "bg for progressbar cursore"
       }
     },
     "content": {

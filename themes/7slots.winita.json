@@ -2660,7 +2660,7 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#C0C9D7",
+        "value": "#E6F0FF",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
@@ -2769,7 +2769,7 @@
       }
     },
     "slider": {
-      "value": "rgba(66, 114, 183, 0.40)",
+      "value": "rgba(114,164,233,0.4)",
       "type": "color"
     },
     "slider-curret": {
@@ -2787,6 +2787,15 @@
     "primary": {
       "value": "{base.primary}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.9",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "use for categories"
     },
     "tertiary": {
@@ -3096,7 +3105,7 @@
   },
   "width": {
     "nav": {
-      "value": "48",
+      "value": "52px",
       "type": "sizing",
       "description": "use for top navbar items"
     },
@@ -4174,6 +4183,11 @@
         "value": "rgba(88, 122, 196, 0.20)",
         "type": "color",
         "description": "bg for progressbar"
+      },
+      "additional-2": {
+        "value": "#7899E1",
+        "type": "color",
+        "description": "bg for progressbar cursore"
       }
     },
     "overlay": {
