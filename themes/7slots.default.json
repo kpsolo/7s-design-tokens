@@ -1484,6 +1484,11 @@
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
+    },
+    "item": {
+      "value": "{radius.button}",
+      "type": "borderRadius",
+      "description": "use for hightlight player in gamepage/tournament "
     }
   },
   "opacity": {
@@ -4343,6 +4348,11 @@
     "padding-fix": {
       "value": "0px",
       "type": "sizing"
+    },
+    "gamepage": {
+      "value": "8px",
+      "type": "sizing",
+      "description": "for hightlight user in rightsidebar tournament"
     }
   },
   "strip": {

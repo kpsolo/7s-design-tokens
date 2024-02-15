@@ -1424,6 +1424,11 @@
       "type": "borderRadius",
       "description": "use for player status item in tournament page"
     },
+    "item": {
+      "value": "{radius.button}",
+      "type": "borderRadius",
+      "description": "use for hightlight player in gamepage/tournament "
+    },
     "no-radius": {
       "value": "0",
       "type": "borderRadius",
@@ -1644,7 +1649,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "#D9E4FF",
+        "value": "#EBF1FF",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
@@ -3965,8 +3970,9 @@
         "description": "for main headers"
       },
       "accent": {
-        "value": "#3BEA62",
-        "type": "color"
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use in welcome popup timer"
       },
       "additional": {
         "value": "{base.accent-primary}",
@@ -4582,6 +4588,11 @@
     "padding-fix": {
       "value": "0px",
       "type": "sizing"
+    },
+    "gamepage": {
+      "value": "8px",
+      "type": "sizing",
+      "description": "for hightlight user in rightsidebar tournament"
     }
   }
 }

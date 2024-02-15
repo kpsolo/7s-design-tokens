@@ -1403,6 +1403,11 @@
       "value": "11px",
       "type": "borderRadius",
       "description": "for secret mirror bg border radius"
+    },
+    "item": {
+      "value": "{radius.button}",
+      "type": "borderRadius",
+      "description": "use for hightlight player in gamepage/tournament "
     }
   },
   "opacity": {
@@ -4292,6 +4297,11 @@
     "padding-fix": {
       "value": "2px",
       "type": "sizing"
+    },
+    "gamepage": {
+      "value": "8px",
+      "type": "sizing",
+      "description": "for hightlight user in rightsidebar tournament"
     }
   },
   "live-lottery": {
