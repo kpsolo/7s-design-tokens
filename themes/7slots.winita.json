@@ -4636,5 +4636,13 @@
       "type": "sizing",
       "description": "for hightlight user in rightsidebar tournament"
     }
+  },
+  "spacing": {
+    "pregame": {
+      "main": {
+        "value": "24px",
+        "type": "dimension"
+      }
+    }
   }
 }
