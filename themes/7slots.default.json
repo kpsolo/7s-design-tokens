@@ -4501,5 +4501,13 @@
       "value": "linear-gradient(180deg, rgba(23, 56, 129, 0.00) 0%, rgba(23, 56, 129, 0.68) 73.5%, #173881 100%)",
       "type": "color"
     }
+  },
+  "spacing": {
+    "gamepage": {
+      "player": {
+        "value": "6px",
+        "type": "dimension"
+      }
+    }
   }
 }
