@@ -2586,7 +2586,7 @@
       "description": "Fade on tertiary backgrounds"
     },
     "sign": {
-      "value": "#39CC59",
+      "value": "#16DA41",
       "type": "color",
       "description": "star on game thumb"
     },
@@ -4157,8 +4157,17 @@
         "description": "bg under logo zone in left bar"
       },
       "extra": {
-        "value": "rgba(108,113,122,0.4)",
+        "value": "#123061",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "bg under star"
       },
       "extra-additional": {
