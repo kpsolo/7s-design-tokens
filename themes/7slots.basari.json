@@ -1400,7 +1400,7 @@
       "description": "use for small tips on final lottery "
     },
     "popup-additional": {
-      "value": "11px",
+      "value": "9px",
       "type": "borderRadius",
       "description": "for secret mirror bg border radius"
     },
@@ -1904,9 +1904,9 @@
       "description": "use for messages, shop, faq cards"
     },
     "popup-additional": {
-      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
+      "value": "linear-gradient(180deg, #FFE1A6 0%, #A55D35 100%)",
       "type": "color",
-      "description": "use for popups bg"
+      "description": "use for popups bg ( secret mirror border)"
     },
     "popup-2": {
       "value": "#F2F3F5",
@@ -3494,20 +3494,20 @@
     "secret_mirror-title": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "32px",
-        "fontSize": "26px",
-        "letterSpacing": "auto",
+        "fontWeight": "{font-weight.4}",
+        "lineHeight": "68px",
+        "fontSize": "48px",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.uppercase}",
+        "letterSpacing": "1.92px"
       },
       "type": "typography",
       "description": "Title for secret mirror popup"
     },
     "secret-mirror-title": {
-      "value": "{text.title.main}",
+      "value": "linear-gradient(2deg, #A04C1C 16.58%, #F4CC8D 27.91%, #FFDD9C 29.4%, #FFE1BE 46.17%, #FFE2BB 60.04%, #FFD296 71.36%)",
       "type": "color",
       "description": "for secret mirror popup title"
     }
