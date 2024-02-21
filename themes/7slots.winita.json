@@ -1878,7 +1878,7 @@
         "description": "use for overlay under button in welcome popup"
       },
       "footer": {
-        "value": "transparent",
+        "value": "linear-gradient(270deg, #1A3271 1.16%, rgba(26, 50, 113, 0.08) 68.83%, rgba(0, 0, 0, 0.00) 94.91%, rgba(26, 50, 113, 0.00) 94.91%)",
         "type": "color",
         "description": "use as overlay on footer"
       },
@@ -1912,7 +1912,7 @@
       "type": "color",
       "description": "use for elipse bg on desktop homepage"
     },
-    "blur-achivments": {
+    "blur-achivements": {
       "value": "6px",
       "type": "dimension",
       "description": "use for bottom block in profile "
@@ -3134,7 +3134,7 @@
       "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
-      "value": "124",
+      "value": "110",
       "type": "sizing",
       "description": "use for mobile logo width "
     },

@@ -1934,7 +1934,7 @@
       "type": "color",
       "description": "use for elipse bg on desktop homepage"
     },
-    "blur-achivments": {
+    "blur-achivements": {
       "value": "18px",
       "type": "dimension",
       "description": "use for bottom block in profile "

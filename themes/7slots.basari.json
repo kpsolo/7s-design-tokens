@@ -1887,7 +1887,7 @@
       "value": "transparent",
       "type": "color"
     },
-    "blur-achivments": {
+    "blur-achivements": {
       "value": "18px",
       "type": "dimension",
       "description": "use for bottom block in profile "
