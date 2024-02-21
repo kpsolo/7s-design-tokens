@@ -1790,6 +1790,15 @@
       "light-1": {
         "value": "#E1E9F5",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
@@ -2566,6 +2575,11 @@
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
+    "progress-large-bg": {
+      "value": "#E1E9F5",
+      "type": "color",
+      "description": "Color of progress for strip, gamepage(desktop)"
+    },
     "progress-bar": {
       "value": "#4B9DE8",
       "type": "color"
@@ -3132,11 +3146,6 @@
       "type": "sizing",
       "description": "use for top navbar items"
     },
-    "gamezone": {
-      "value": "0",
-      "type": "sizing",
-      "description": "use for bottom padding in game zone on desktop homepage"
-    },
     "categories-desktop": {
       "value": "64",
       "type": "sizing",
@@ -3146,11 +3155,6 @@
       "value": "48",
       "type": "sizing",
       "description": "use for desktop search height"
-    },
-    "footer": {
-      "value": "0",
-      "type": "sizing",
-      "description": "use for logo zone in footer "
     },
     "logo-mobile": {
       "value": "32",
@@ -3975,14 +3979,19 @@
         "description": "for main headers"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "{base.accent-secondary}",
         "type": "color",
-        "description": "use in welcome popup timer"
+        "description": "use in tournament/lottery cards - amounts, welcome popup timer?"
       },
       "additional": {
         "value": "{base.accent-primary}",
         "type": "color",
         "description": "use in shop cards"
+      },
+      "extra": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "usewelcom popup up timer"
       },
       "accent-additional": {
         "value": "#FEFEFE",
@@ -4251,10 +4260,10 @@
         "description": "use for lines in right sidebar"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "{base.accent-secondary}",
         "type": "color"
       },
-      "accent-addional": {
+      "accent-additional": {
         "value": "{base.accent-secondary}",
         "type": "color"
       }

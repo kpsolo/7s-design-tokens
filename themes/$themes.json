@@ -789,10 +789,10 @@
       "gamepage.content.additional": "e39808bc1db4d100621465df196cf75db421330f",
       "gamepage.content.tertiary": "1c7a395c76660dccbf2c9120c581378b07784c7f",
       "gamepage.content.extra": "d3d3b2118ac881b3a4a869baf4616524d2d1d31a",
-      "gamepage.content.accent-addional": "7b270154c8fb390fbcba316946b1423872a8f710",
       "gamepage.content.hover": "be6d6da38a7f91dd9ebbf27d5c73698bc39d34ab",
       "gamepage.content.inactive": "05211d74171d0dfe8f074404c53991d0a00dd535",
-      "spacing.gamepage.player": "bf9749bdea30d830ed97260a913703b45c01996c"
+      "spacing.gamepage.player": "bf9749bdea30d830ed97260a913703b45c01996c",
+      "gamepage.content.accent-additional": "7b270154c8fb390fbcba316946b1423872a8f710"
     }
   },
   {
@@ -1248,7 +1248,6 @@
       "gamepage.content.additional": "S:5e938d8abdced8588f22f389853d1fc92877b7d0,",
       "gamepage.content.tertiary": "S:4d8792d15f819a71cf7ea1c572ca900f36cc6f46,",
       "gamepage.content.extra": "S:9543c0ff5f9d0e75ff1a14747eaee4f79634e5ef,",
-      "gamepage.content.accent-addional": "S:c7b50ce2d0944b64480a2a6ac711dda87fa2eb80,",
       "gamepage.content.hover": "S:d5b86fa21e0d0eb3d5afa37473b6474f6b994533,",
       "gamepage.content.inactive": "S:2e0dfcb53d680195ce1b7cc33887974e1403c428,",
       "gamepage.overlay": "S:67db2f26071418ca8c76f8e58bfbc46858a10758,",
@@ -1256,7 +1255,8 @@
       "special-blocks.live-lottery-numbers": "S:db9b5ef81b676f7d8cdf4df903347746ed9dc8b9,",
       "special-blocks.secret_mirror-title": "S:26b26b1a16c41a00dd510acc2f8de1e9e7f38330,",
       "shadow.special-blocks.banner-title": "S:7bebc2510d35854172f60e081a9c6b629c5e020b,",
-      "shadow.accent-additional": "S:230f96056a3de10cae4aac5935de7316a212fa65,"
+      "shadow.accent-additional": "S:230f96056a3de10cae4aac5935de7316a212fa65,",
+      "gamepage.content.accent-additional": "S:c7b50ce2d0944b64480a2a6ac711dda87fa2eb80,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -1621,10 +1621,10 @@
       "gamepage.content.additional": "3866b5fb44ce0889a590846252234d2fe243827a",
       "gamepage.content.tertiary": "d591ca2e632544e279cead23abb914648b1563a6",
       "gamepage.content.extra": "9212d45847d2feb1436aaa42d4f1b2fb15529768",
-      "gamepage.content.accent-addional": "c7beffbe5364f654777cbde986169a8528c7e44b",
       "gamepage.content.hover": "9c1f271850ba811dac582f2ae95191242ddddc19",
       "gamepage.content.inactive": "cc10b683167ac5a2d5994c55b4634ffdc2cc2bdb",
-      "spacing.gamepage.player": "ba29290b08a820fd037596c945065402391e2cf6"
+      "spacing.gamepage.player": "ba29290b08a820fd037596c945065402391e2cf6",
+      "gamepage.content.accent-additional": "c7beffbe5364f654777cbde986169a8528c7e44b"
     }
   },
   {
@@ -2387,10 +2387,10 @@
       "gamepage.content.additional": "dd466884d866743ba75eeefc4d75441dfef7bdd4",
       "gamepage.content.tertiary": "b45ab05d79f2cc4b873a8d7de0bc43b3f30d97e0",
       "gamepage.content.extra": "78c5407074b5698f190079dc1a476c6c1751a388",
-      "gamepage.content.accent-addional": "6913cc67095414fa967d2f9bfa524557c8f05e03",
       "gamepage.content.hover": "dcd4cfa939e2694fc4cfe7616ef7dc7d91a39f75",
       "gamepage.content.inactive": "fe8cbb77830acb08178b7100838146437d14f5d2",
-      "spacing.gamepage.player": "e3accf37f9620c506836b248f7f512f81c78f9e4"
+      "spacing.gamepage.player": "e3accf37f9620c506836b248f7f512f81c78f9e4",
+      "gamepage.content.accent-additional": "6913cc67095414fa967d2f9bfa524557c8f05e03"
     }
   },
   {
@@ -2850,7 +2850,10 @@
       "gamepage.bg.additional-2": "S:2aaa610fabf45592714ed8f8f898f53db2348904,",
       "gamepage.content.inactive": "S:928d941651a247a303e8340605711594a9fc2515,",
       "gamepage.content.hover": "S:b207c8362de3673b4f50e5d67640df2cb9856184,",
-      "gamepage.content.accent-addional": "S:6d444c788cea5f0e822172b1eb361b0c7e7a9b86,"
+      "bg.popup-2": "S:b0f9e4abbfb88a2adb66a4ca9bcf2a8833cad8a4,",
+      "gamepage.content.accent-additional": "S:6d444c788cea5f0e822172b1eb361b0c7e7a9b86,",
+      "text.title.extra": "S:636ee2b0dc7e60d998abd3dc011107b69e7e3451,",
+      "small-elements.progress-large-bg": "S:2247d05737469338796c7328ff243ac424109dbc,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -3111,10 +3114,8 @@
       "width.logo-desktop": "9dd11fa273e340a35a605ae2817f214805353503",
       "height.tap-button-copy": "930deff436f260ef648e7ddba0c84cfcffb9069a",
       "height.nav": "82012bce7c6416027f39629641389272214dafe9",
-      "height.gamezone": "88118e81bad2aaf4b274c9e37e2fae74a537801f",
       "height.categories-desktop": "4030e3f7fd32ea308adff3545d6e2f766d9c527b",
       "height.search": "96841b8e1c68c266deb888fb8ed23dc20485268b",
-      "height.footer": "883c83d11a6fbb2d0cc67c16bb7842f806d0cfc0",
       "height.logo-mobile": "3b8763660e6cc47fa37fc7fc3969b35b2fb49608",
       "height.logo-desktop": "a13be2e7cda25d128340b01caec542d9eb4ae9b2",
       "min-height.game-item-block": "f6653d497b846ba82df3d9289c0419643feb6db0",
@@ -3227,7 +3228,6 @@
       "gamepage.content.additional": "702420ffe47b8f3917df5b87f8926331359646e2",
       "gamepage.content.extra": "1d9f6bf6f36647e0b19933ab29184cc9c03171ef",
       "gamepage.content.accent": "333eed265d0d1932f1de181d244130663257d7f9",
-      "gamepage.content.accent-addional": "6eb0ae494088d3c0b5822b6cde14b54aa8eae822",
       "tab.active tab": "dd799e0acb5a214aed234159cd1c0b003acb591a",
       "tab.bg": "d81b26436ac2fa0ac802e1f577612f9fe17a2cc7",
       "tab.bg all": "8b1567b6af7d0174fb68eb77d54dafed3560cebb",
@@ -3275,7 +3275,8 @@
       "text-wrap.padding-fix": "6ead2e69625069fe028383f2790d31e25ee31a9b",
       "text-wrap.gamepage": "fe0cf0a986be3bf80deb3a81637b63aca33bdc55",
       "spacing.pregame.main": "0a4eae3891cc4c106feed5cadd4d07b2e2c51f90",
-      "spacing.gamepage.player": "8a69ca46a08f8495207985fce3d08716a4e8b322"
+      "spacing.gamepage.player": "8a69ca46a08f8495207985fce3d08716a4e8b322",
+      "gamepage.content.accent-additional": "6eb0ae494088d3c0b5822b6cde14b54aa8eae822"
     }
   },
   {

@@ -2737,6 +2737,11 @@
       "value": "#36579F",
       "type": "color",
       "description": "use in cards in deals page for bg and stroke"
+    },
+    "progress-large-bg": {
+      "value": "#E1E9F5",
+      "type": "color",
+      "description": "Color of progress for strip, gamepage(desktop)"
     }
   },
   "icon": {
@@ -3942,6 +3947,11 @@
         "value": "{base.accent-primary}",
         "type": "color",
         "description": "use in shop cards"
+      },
+      "extra": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "usewelcom popup up timer"
       }
     },
     "link-additional": {
@@ -4518,7 +4528,7 @@
         "type": "color",
         "description": "use for lines in right sidebar"
       },
-      "accent-addional": {
+      "accent-additional": {
         "value": "{base.accent-secondary}",
         "type": "color"
       },
