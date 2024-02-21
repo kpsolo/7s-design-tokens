@@ -313,7 +313,7 @@
     "title-small-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.extra}",
         "letterSpacing": "{letter-spacing.0}",
