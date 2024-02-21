@@ -4653,11 +4653,6 @@
     "padding-fix": {
       "value": "0px",
       "type": "sizing"
-    },
-    "gamepage": {
-      "value": "8px",
-      "type": "sizing",
-      "description": "for hightlight user in rightsidebar tournament"
     }
   },
   "spacing": {
@@ -4669,7 +4664,7 @@
     },
     "gamepage": {
       "player": {
-        "value": "6px",
+        "value": "4px",
         "type": "dimension"
       }
     }
