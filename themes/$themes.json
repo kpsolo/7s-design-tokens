@@ -794,7 +794,8 @@
       "gamepage.content.inactive": "3a929790900301003fac951a4f5e25ef3c3cc366",
       "spacing.gamepage.player": "7144bf2e453ef70606e222ba61fb5b9b3d369f71",
       "text.title.extra": "ec6bdc56886b9938c5c58fb0f7e1baf57e04675c",
-      "small-elements.progress-large-bg": "2a5fd95ee1be4ae2964bc06cde8009dd4554e229"
+      "small-elements.progress-large-bg": "2a5fd95ee1be4ae2964bc06cde8009dd4554e229",
+      "gamepage.overlay-additional": "e914e71d8f5a085c2f6b3603d8bc267867fb4c88"
     }
   },
   {
@@ -1628,7 +1629,8 @@
       "gamepage.content.inactive": "7f7719416a8a230d64d6254574d480c3ec4ab2ea",
       "spacing.gamepage.player": "f36d4af5af2536ad683519194977aff89ad976d0",
       "text.title.extra": "27ac5ccd76b5d9865cf9ee37411d131a573f5025",
-      "small-elements.progress-large-bg": "98a2b9f05dff7f082c0dd14e6f6c7fdad91cc015"
+      "small-elements.progress-large-bg": "98a2b9f05dff7f082c0dd14e6f6c7fdad91cc015",
+      "gamepage.overlay-additional": "0855c0860a1ad83eb2a1c3810dc01c5df0550cd1"
     }
   },
   {
@@ -2396,7 +2398,8 @@
       "gamepage.content.inactive": "285d8e74815ab937402a367781c818c551d4b024",
       "spacing.gamepage.player": "fea15fc65d46fd419390de7fd0577e950269206d",
       "text.title.extra": "bbce283376c01b52842fda6b677c969978ee35fd",
-      "small-elements.progress-large-bg": "8ecae7593f8c38050664414a4d9e21147770de0b"
+      "small-elements.progress-large-bg": "8ecae7593f8c38050664414a4d9e21147770de0b",
+      "gamepage.overlay-additional": "7b25d21b2d09e8fb01294594858fe08b9918bc31"
     }
   },
   {
@@ -2859,7 +2862,8 @@
       "bg.popup-2": "S:b0f9e4abbfb88a2adb66a4ca9bcf2a8833cad8a4,",
       "gamepage.content.accent-additional": "S:6d444c788cea5f0e822172b1eb361b0c7e7a9b86,",
       "text.title.extra": "S:636ee2b0dc7e60d998abd3dc011107b69e7e3451,",
-      "small-elements.progress-large-bg": "S:2247d05737469338796c7328ff243ac424109dbc,"
+      "small-elements.progress-large-bg": "S:2247d05737469338796c7328ff243ac424109dbc,",
+      "gamepage.overlay-additional": "S:f00e085bbc9e70e0dee2f46c8b3f753e98acfca3,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -3238,6 +3242,7 @@
       "gamepage.bg.extra-additional": "0c151b913107f48b6b0fd92ed21b863d90688cea",
       "gamepage.bg.additional": "3744be9cb5501fc7164ed504af7a6e52c46f6add",
       "gamepage.bg.additional-2": "748beaec35b943a18ae056386f0dd5d48213300a",
+      "gamepage.overlay-additional": "8eae8ece40180778f803c76ec8244fb4155ef143",
       "gamepage.content.primary": "8b407171690b5f786794c4c9cc9954f7cfcceb3a",
       "gamepage.content.inactive": "b17407f02764920fb8a0a5d2e576a5c960251d45",
       "gamepage.content.hover": "e5f434368446aad92d089834fcfe149086f554c8",

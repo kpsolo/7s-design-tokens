@@ -4217,6 +4217,11 @@
       "value": "linear-gradient(180deg, rgba(23, 56, 129, 0.00) 0%, rgba(23, 56, 129, 0.68) 73.5%, #173881 100%)",
       "type": "color"
     },
+    "overlay-additional": {
+      "value": "rgba(0, 0, 0, 0.40)",
+      "type": "color",
+      "description": "overlay for game thumb hover state / desktop"
+    },
     "content": {
       "primary": {
         "value": "#FFFFFF",
