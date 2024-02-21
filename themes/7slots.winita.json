@@ -313,7 +313,7 @@
     "title-small-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.2}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.extra}",
         "letterSpacing": "{letter-spacing.0}",
@@ -2594,7 +2594,7 @@
       "type": "color"
     },
     "progress-bar-deals": {
-      "value": "#36579F",
+      "value": "rgba(255, 255, 255, 0.30)",
       "type": "color",
       "description": "use in cards in deals page for bg and stroke"
     },
@@ -4218,7 +4218,7 @@
       "type": "color"
     },
     "overlay-additional": {
-      "value": "rgba(0, 0, 0, 0.40)",
+      "value": "rgba(17, 47, 110, 0.80)",
       "type": "color",
       "description": "overlay for game thumb hover state / desktop"
     },
