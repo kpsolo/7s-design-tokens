@@ -3097,11 +3097,6 @@
       "value": "64",
       "type": "sizing",
       "description": "use for categories in desktop"
-    },
-    "gamezone": {
-      "value": "0",
-      "type": "sizing",
-      "description": "use for bottom padding in game zone on desktop homepage"
     }
   },
   "min-height": {
@@ -4372,11 +4367,6 @@
     "padding-fix": {
       "value": "0px",
       "type": "sizing"
-    },
-    "gamepage": {
-      "value": "8px",
-      "type": "sizing",
-      "description": "for hightlight user in rightsidebar tournament"
     }
   },
   "strip": {
