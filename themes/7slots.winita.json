@@ -523,7 +523,7 @@
     "title-block": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.2}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.extra-2}",
         "letterSpacing": "{letter-spacing.0}",
