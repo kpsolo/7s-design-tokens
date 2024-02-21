@@ -1263,6 +1263,15 @@
       },
       "type": "border",
       "description": "border for tooltips"
+    },
+    "dropdown-additional": {
+      "value": {
+        "color": "#DCE0EE",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for language dropdown (in footer/menu)"
     }
   },
   "base spacing": {

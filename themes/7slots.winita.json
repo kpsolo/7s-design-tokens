@@ -1221,6 +1221,15 @@
       "type": "border",
       "description": "use for dropdown"
     },
+    "dropdown-additional": {
+      "value": {
+        "color": "#DCE0EE",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for language dropdown (in footer/menu)"
+    },
     "1click": {
       "value": {
         "color": "rgba(25, 41, 71, 0.10)",
