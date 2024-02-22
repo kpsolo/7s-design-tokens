@@ -2883,7 +2883,7 @@
     },
     "prize": {
       "1": {
-        "value": "#D2C25A",
+        "value": "#FFC13B",
         "type": "color",
         "description": "[delete?]"
       },
@@ -4158,7 +4158,7 @@
   "gamepage": {
     "bg": {
       "primary": {
-        "value": "#122D67",
+        "value": "#071127",
         "type": "color"
       },
       "secondary": {
