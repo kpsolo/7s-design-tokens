@@ -2200,7 +2200,7 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "{base.accent-light}",
+        "value": "#DAE5FF",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
@@ -2590,7 +2590,7 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bar": {
-      "value": "#4B9DE8",
+      "value": "#40A0F7",
       "type": "color"
     },
     "progress-bar-deals": {
@@ -4008,7 +4008,7 @@
   "menu": {
     "bg": {
       "gradient": {
-        "value": "#0957C3",
+        "value": "#0848A1",
         "type": "color"
       },
       "item-default": {
@@ -4149,7 +4149,7 @@
   "gamepage": {
     "bg": {
       "primary": {
-        "value": "#071127",
+        "value": "#000000",
         "type": "color"
       },
       "secondary": {
