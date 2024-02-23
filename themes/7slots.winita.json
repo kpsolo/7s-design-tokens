@@ -323,14 +323,14 @@
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
-      "description": "Small titles"
+      "description": "Small titles\nRegistration/login tabs"
     },
     "title-tab": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.2}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.5}",
+        "fontSize": "{font-size.6}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -1545,7 +1545,7 @@
     "additional-2": {
       "value": "#0957C3",
       "type": "color",
-      "description": "use for messages, shop, faq cards"
+      "description": "use for mob profile bg\n"
     },
     "tertiary": {
       "value": "#D9E4FF",
@@ -1945,12 +1945,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#F2F3F5",
+        "value": "{bg.popup}",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "{nav.tab.start}",
+        "value": "{bg.popup}",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
@@ -4295,7 +4295,7 @@
       "description": "bg all tabs\n[delete?]"
     },
     "bg all": {
-      "value": "#E5E5E6",
+      "value": "#F2F3F5",
       "type": "color"
     }
   },
