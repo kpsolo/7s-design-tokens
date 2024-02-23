@@ -2023,7 +2023,7 @@
       "description": "for text,icons"
     },
     "accent-light": {
-      "value": "#E2F1FF",
+      "value": "{bg.other.win-card-wrap}",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
     }
@@ -3267,7 +3267,7 @@
       "type": "fontSizes"
     },
     "3": {
-      "value": "14",
+      "value": "13",
       "type": "fontSizes"
     },
     "4": {
