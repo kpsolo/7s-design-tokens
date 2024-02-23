@@ -1734,17 +1734,9 @@
     },
     "overlay": {
       "1": {
-        "value": "{text.content}",
+        "value": "{bg.additional}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.10",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "for static table headet"
       },
       "2": {
@@ -1978,7 +1970,7 @@
       "description": "Background for tertiary elements"
     },
     "dark": {
-      "value": "#192947",
+      "value": "#14213a",
       "type": "color",
       "description": "Darkest (black)"
     },
@@ -2805,8 +2797,7 @@
     },
     "primary": {
       "value": "{text.opacity.2}",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     },
     "tertiary": {
       "value": "{base.dark}",
@@ -3373,7 +3364,7 @@
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-sum": {
-      "value": "{base.accent-secondary}",
+      "value": "#FFFFFF",
       "type": "color",
       "description": "for jackpot sun in jackpot page"
     },
