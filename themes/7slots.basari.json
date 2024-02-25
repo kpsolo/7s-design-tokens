@@ -534,6 +534,21 @@
       },
       "type": "typography",
       "description": "main banner mob title"
+    },
+    "title-extrasmall": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}",
+        "fontSize": "14"
+      },
+      "type": "typography",
+      "description": "Provider on thumbs"
     }
   },
   "shadow": {
