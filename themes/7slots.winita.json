@@ -1839,7 +1839,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "transparent",
+        "value": "linear-gradient(180deg, #0B245C 0%, rgba(11, 36, 92, 0.64) 66.39%, rgba(11, 36, 92, 0.00) 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
@@ -2838,7 +2838,7 @@
       "description": "use for icons in categories mob\n"
     },
     "alternative": {
-      "value": "{base.accent-secondary}",
+      "value": "{button.text.tertiary}",
       "type": "color",
       "description": "use for icons in lists (different from accent icons)"
     },
@@ -3826,9 +3826,9 @@
       "description": "use for link text on desktop popups (under popup frame)"
     },
     "accent-additional": {
-      "value": "{base.accent-secondary}",
+      "value": "{button.text.tertiary}",
       "type": "color",
-      "description": "use for accent text in welcome popup"
+      "description": "accent on primary bg"
     },
     "primary": {
       "value": "{base.primary}",
@@ -3875,7 +3875,7 @@
       "description": "use for links on color bg (footer/profile/tournament cards)"
     },
     "accent": {
-      "value": "{base.accent-secondary}",
+      "value": "#33B34F",
       "type": "color"
     },
     "error": {
