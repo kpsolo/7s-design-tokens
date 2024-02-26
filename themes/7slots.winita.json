@@ -1788,7 +1788,7 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "ghost-1": {
-        "value": "rgba(8, 24, 60, 0.20)",
+        "value": "rgba(96, 131, 213, 0.20)",
         "type": "color",
         "description": "use for results inner tournament card"
       },
@@ -1974,7 +1974,7 @@
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#38D660",
+      "value": "#3BEA62",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -2014,7 +2014,7 @@
       "description": "Color for winners lottery tickets"
     },
     "silver": {
-      "value": "#B9BCC2",
+      "value": "#8A8F98",
       "type": "color",
       "description": "Color for winners"
     },
@@ -2420,7 +2420,7 @@
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "rgba(255,255,255,0.8)",
+        "value": "rgba(255,255,255,0.6)",
         "type": "color",
         "description": "Text color on primary disabled button"
       },
@@ -2788,7 +2788,7 @@
     },
     "tournament": {
       "active-tab-content": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "color of text and icon on active tab"
       }
@@ -3979,7 +3979,7 @@
     },
     "title": {
       "main": {
-        "value": "#323743",
+        "value": "#313644",
         "type": "color",
         "description": "for main headers (old #52596C)"
       },
