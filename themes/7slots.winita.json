@@ -3010,7 +3010,7 @@
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.1",
+              "value": "0.06",
               "space": "srgb"
             }
           }
