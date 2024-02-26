@@ -4,7 +4,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
+        "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
@@ -19,7 +19,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.sm}",
+        "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
@@ -34,7 +34,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.sm}",
+        "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
@@ -4185,17 +4185,9 @@
         "description": "bg under logo zone in left bar"
       },
       "extra": {
-        "value": "#123061",
+        "value": "rgba(63, 89, 131, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "bg under star"
       },
       "extra-additional": {
