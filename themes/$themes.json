@@ -2860,7 +2860,8 @@
       "text.title.extra": "S:636ee2b0dc7e60d998abd3dc011107b69e7e3451,",
       "small-elements.progress-large-bg": "S:2247d05737469338796c7328ff243ac424109dbc,",
       "gamepage.overlay-additional": "S:f00e085bbc9e70e0dee2f46c8b3f753e98acfca3,",
-      "typography.title-extrasmall": "S:e5848edb785475db168bc3ed9495e8c67929b6d1,"
+      "typography.title-extrasmall": "S:e5848edb785475db168bc3ed9495e8c67929b6d1,",
+      "icon.alternative-disabled": "S:684e41fe3ad7374a3188e27eb72406e09428b443,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

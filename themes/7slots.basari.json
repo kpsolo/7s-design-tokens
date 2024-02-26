@@ -2792,6 +2792,11 @@
       "value": "#fff",
       "type": "color",
       "description": "use for message icon in desktop header"
+    },
+    "alternative-disabled": {
+      "value": "{text.primary}",
+      "type": "color",
+      "description": "use for disabled icons in lists (loyalty)"
     }
   },
   "input": {

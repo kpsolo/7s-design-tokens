@@ -2842,6 +2842,20 @@
       "type": "color",
       "description": "use for icons in lists (different from accent icons)"
     },
+    "alternative-disabled": {
+      "value": "{text.primary}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.6",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "use for disabled icons in lists (loyalty)"
+    },
     "success": {
       "value": "{base.success}",
       "type": "color",
