@@ -2266,7 +2266,7 @@
         "description": "Icon color on a ghost button"
       },
       "primary-disabled": {
-        "value": "#ffffff66",
+        "value": "rgba(255,255,255,0.6)",
         "type": "color",
         "description": "Icon color on a primary disabled button"
       },
