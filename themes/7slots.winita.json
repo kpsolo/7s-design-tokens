@@ -2969,7 +2969,7 @@
         "description": "Backgrounds for disabled inputs"
       },
       "confirmed": {
-        "value": "transparent",
+        "value": "rgba(0,0,0,0.02)",
         "type": "color",
         "description": "Backgrounds for confirmed inputs"
       },
@@ -3058,7 +3058,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.5",
+              "value": "0.65",
               "space": "srgb"
             }
           }
