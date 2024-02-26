@@ -1574,7 +1574,7 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#F4F7FB",
+        "value": "#E4F0FF",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
@@ -1817,7 +1817,7 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "#fff",
+        "value": "#E0EDFF",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -4058,7 +4058,7 @@
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "{base.accent-secondary}",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "description": "use for special notification in menu items"
       },
@@ -4069,7 +4069,7 @@
       }
     },
     "item-active-content": {
-      "value": "{base.accent-secondary}",
+      "value": "{button.text.tertiary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     }
