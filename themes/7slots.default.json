@@ -1742,7 +1742,7 @@
       "description": "use for secret mirror popups bg gradient"
     },
     "technical": {
-      "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
+      "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
