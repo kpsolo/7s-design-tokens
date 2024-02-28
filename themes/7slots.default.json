@@ -4020,6 +4020,11 @@
       "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
+    },
+    "accent": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "Color of icon and text inside active item menu"
     }
   },
   "max-width": {
@@ -4555,6 +4560,42 @@
       "player": {
         "value": "6px",
         "type": "dimension"
+      }
+    }
+  },
+  "lootboxes": {
+    "bg": {
+      "primary": {
+        "value": "linear-gradient(99deg, #1147BD 0.86%, #083AA8 90.94%)",
+        "type": "color",
+        "description": "use for cards bg"
+      },
+      "overlay": {
+        "value": "rgba(255, 255, 255, 0.16)",
+        "type": "color",
+        "description": "use for bullets bg"
+      },
+      "additioinal": {
+        "value": "#ffff",
+        "type": "color",
+        "description": "use for dropdown"
+      },
+      "overlay-additional": {
+        "value": "rgba(255, 255, 255, 0.16)",
+        "type": "color",
+        "description": "use for bg under prizes"
+      },
+      "overlay-gradient": {
+        "value": "linear-gradient(180deg, rgba(7, 22, 54, 0.00) 0%, rgba(7, 22, 54, 0.74) 64%, #071636 100%)",
+        "type": "color",
+        "description": "use as overlay under tabs"
+      }
+    },
+    "content": {
+      "accent": {
+        "value": "#3BEA62",
+        "type": "color",
+        "description": "use for accent text on card"
       }
     }
   }

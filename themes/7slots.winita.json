@@ -1579,7 +1579,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "{bg.technical}",
+        "value": "linear-gradient(99deg, #1147BD 0.86%, #083AA8 90.94%)",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
@@ -1589,7 +1589,7 @@
         "description": "for cashbox bonus popup content"
       },
       "cashbox-bonus-content-opacity": {
-        "value": "rgba(255, 255, 255, 0.60)",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
         "description": "for cashbox bonus popup content"
       },
@@ -3969,7 +3969,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.7",
               "space": "srgb"
             }
           }
@@ -4000,7 +4000,7 @@
       "accent": {
         "value": "{base.accent-secondary}",
         "type": "color",
-        "description": "use in tournament/lottery cards - amounts, welcome popup timer?"
+        "description": "use in tournament/lottery/lootbox cards - amounts, welcome popup timer?"
       },
       "additional": {
         "value": "{base.accent-primary}",
@@ -4070,6 +4070,11 @@
     },
     "item-active-content": {
       "value": "{button.text.tertiary}",
+      "type": "color",
+      "description": "Color of icon and text inside active item menu"
+    },
+    "accent": {
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     }
@@ -4284,6 +4289,42 @@
       }
     }
   },
+  "lootboxes": {
+    "bg": {
+      "primary": {
+        "value": "linear-gradient(99deg, #1147BD 0.86%, #083AA8 90.94%)",
+        "type": "color",
+        "description": "use for cards bg"
+      },
+      "overlay": {
+        "value": "rgba(255, 255, 255, 0.16)",
+        "type": "color",
+        "description": "use for bullets bg"
+      },
+      "overlay-additional": {
+        "value": "rgba(6, 13, 29, 0.30)",
+        "type": "color",
+        "description": "use for bg under prizes"
+      },
+      "overlay-gradient": {
+        "value": "linear-gradient(180deg, rgba(7, 22, 54, 0.00) 0%, rgba(7, 22, 54, 0.74) 64%, #071636 100%)",
+        "type": "color",
+        "description": "use as overlay under tabs"
+      },
+      "additioinal": {
+        "value": "#ffff",
+        "type": "color",
+        "description": "use for dropdown"
+      }
+    },
+    "content": {
+      "accent": {
+        "value": "#3BEA62",
+        "type": "color",
+        "description": "use for accent text on card"
+      }
+    }
+  },
   "tab": {
     "active tab": {
       "value": "{radius.button}",
@@ -4327,7 +4368,7 @@
         "type": "color"
       },
       "sector-2": {
-        "value": "#171819",
+        "value": "#243156",
         "type": "color"
       }
     },
@@ -4366,7 +4407,7 @@
         "description": "use for switcher default bg"
       },
       "4": {
-        "value": "#357B2F",
+        "value": "#01DE67",
         "type": "color",
         "description": "use for switcher active bg"
       },

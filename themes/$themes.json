@@ -820,7 +820,9 @@
       "gamepage.content.hover": "97ca1d80f36be10e40a99dfbebc0a1ce6aa27b02",
       "gamepage.content.inactive": "3a929790900301003fac951a4f5e25ef3c3cc366",
       "gamepage.overlay-additional": "e914e71d8f5a085c2f6b3603d8bc267867fb4c88",
-      "spacing.gamepage.player": "7144bf2e453ef70606e222ba61fb5b9b3d369f71"
+      "spacing.gamepage.player": "7144bf2e453ef70606e222ba61fb5b9b3d369f71",
+      "menu.accent": "e941f39b8102bf9f57daf5c9aebbf7acb42517a6",
+      "lootboxes.content.accent": "c428b4ccf47f5a36c94cafe2032ac461e74e6db4"
     }
   },
   {
@@ -1654,7 +1656,9 @@
       "gamepage.content.hover": "4a60aa414129582bdef92ac9d275c4d4f1154c6a",
       "gamepage.content.inactive": "7f7719416a8a230d64d6254574d480c3ec4ab2ea",
       "gamepage.overlay-additional": "0855c0860a1ad83eb2a1c3810dc01c5df0550cd1",
-      "spacing.gamepage.player": "f36d4af5af2536ad683519194977aff89ad976d0"
+      "spacing.gamepage.player": "f36d4af5af2536ad683519194977aff89ad976d0",
+      "menu.accent": "50c0376dc743b4be11513f1f42e6fd3f12f094f8",
+      "lootboxes.content.accent": "a972337488b7aeaaed93a197e4ddd933f39a16ab"
     }
   },
   {
@@ -2424,7 +2428,9 @@
       "gamepage.content.hover": "bf164ea1a2cbd828c5bc69571e50b2f9ddb721ca",
       "gamepage.content.inactive": "285d8e74815ab937402a367781c818c551d4b024",
       "gamepage.overlay-additional": "7b25d21b2d09e8fb01294594858fe08b9918bc31",
-      "spacing.gamepage.player": "fea15fc65d46fd419390de7fd0577e950269206d"
+      "spacing.gamepage.player": "fea15fc65d46fd419390de7fd0577e950269206d",
+      "menu.accent": "a03908ff1ab5b10ef9952ae0b12e578a10dd4457",
+      "lootboxes.content.accent": "cf7c196ffa92741274cc854b2fa6fd948d01dfb2"
     }
   },
   {
@@ -2890,7 +2896,14 @@
       "small-elements.progress-large-bg": "S:2247d05737469338796c7328ff243ac424109dbc,",
       "gamepage.overlay-additional": "S:f00e085bbc9e70e0dee2f46c8b3f753e98acfca3,",
       "typography.title-extrasmall": "S:e5848edb785475db168bc3ed9495e8c67929b6d1,",
-      "icon.alternative-disabled": "S:684e41fe3ad7374a3188e27eb72406e09428b443,"
+      "icon.alternative-disabled": "S:684e41fe3ad7374a3188e27eb72406e09428b443,",
+      "menu.accent": "S:19ffe341cbdf5308b67ed8b3360921ea48b7205b,",
+      "lootboxes.bg.primary": "S:bd4e1c061b11cab1f552fb8a91f87596b18b1972,",
+      "lootboxes.bg.overlay": "S:5e086ff9aeaca118bda6b846c4f80d61c475ae27,",
+      "lootboxes.content.accent": "S:09542581108b0a28029b52494667bcec2a18b1d6,",
+      "lootboxes.bg.additioinal": "S:0e8d8721ed43b70639c76ae28371d33a40e0359e,",
+      "lootboxes.bg.overlay-additional": "S:51bd2009f9afbd2766e1ac1f2a376f2474d1dbfa,",
+      "lootboxes.bg.overlay-gradient": "S:7bf4a9e743660a39313bae4b8f38b92a174c3346,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
@@ -2935,7 +2948,6 @@
       "bg.tertiary": "a655ce114f7d01dbcbd1745a70fd78dc3904c520",
       "bg.other.404": "bb630151c89eab95ab938d0e8726959496d60133",
       "bg.other.status-bg": "57cbfba542cf09499006777906702398757d64e4",
-      "bg.other.cashbox-bonus": "609e09f7e6e8f6f55364d1d17ec3628f9ebb10bc",
       "bg.other.cashbox-bonus-content": "5603a055868179956e917a306be1ace5c3b19ac9",
       "bg.other.cashbox-bonus-content-opacity": "93d6bc91535bb97f75c5311af6b4f44621bfc618",
       "bg.other.promo": "53923cf09fe89c4109640d30081f5ca134711914",
@@ -3246,6 +3258,7 @@
       "menu.bg.notification": "c6fd7b8233dabe85e909fb379694e5f6687d28be",
       "menu.bg.info": "c69b5d4bdf112e52c60415b6373e1b4c966b1f3e",
       "menu.item-active-content": "d2891431ff5186fa930f62b355211ffe556240b5",
+      "menu.accent": "bdfe64518554240b5bb6d8f30e2baf7b14f0c645",
       "max-width.288": "1d3a1f9d48c44413a54b1fcfd6f33bdcf04ef323",
       "max-width.368": "7566352c3cfede76fc03148f84c7f18088f9221e",
       "max-width.tooltip": "71db594cf4019290410f38f63fb457e76a0bd69a",
@@ -3263,6 +3276,7 @@
       "strip.content.accent": "1375d9ee9cfff324b21438fd95a79b9bedeeaa89",
       "gamepage.bg.primary": "e9864528f8c75105b94d0b15d48b3862ba58c69d",
       "gamepage.bg.secondary": "f6ef52825d39a200acbc9ada46bfa1d3c2f1d37c",
+      "lootboxes.content.accent": "1f6ced73b1f6aff15876fc92b912ad69cc7b4c9b",
       "gamepage.bg.tertiary": "baaf21e7bd66d5a9ba2685d5c0f7384131137662",
       "gamepage.bg.logo": "6eac0879911ef2392db6cefa50305c67928327e3",
       "gamepage.bg.extra": "445bc38aaaedf0f9d3802f179d3faa3e541e449c",
