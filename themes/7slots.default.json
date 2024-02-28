@@ -4655,11 +4655,6 @@
         "type": "dimension",
         "description": "use for large button horizontal padding - for buttons with icon"
       },
-      "large-horizontal-extra": {
-        "value": "12px",
-        "type": "dimension",
-        "description": "use for large button horizontal padding - for buttons with icon - left"
-      },
       "small-horizontal-additional": {
         "value": "12px",
         "type": "dimension",
@@ -4675,11 +4670,6 @@
         "type": "dimension",
         "description": "use for small button vertical padding"
       }
-    },
-    "blur-achivements": {
-      "value": "6px",
-      "type": "dimension",
-      "description": "use for bottom block in profile "
     }
   }
 }
