@@ -2903,7 +2903,8 @@
       "lootboxes.content.accent": "S:09542581108b0a28029b52494667bcec2a18b1d6,",
       "lootboxes.bg.additioinal": "S:0e8d8721ed43b70639c76ae28371d33a40e0359e,",
       "lootboxes.bg.overlay-additional": "S:51bd2009f9afbd2766e1ac1f2a376f2474d1dbfa,",
-      "lootboxes.bg.overlay-gradient": "S:7bf4a9e743660a39313bae4b8f38b92a174c3346,"
+      "lootboxes.bg.overlay-gradient": "S:7bf4a9e743660a39313bae4b8f38b92a174c3346,",
+      "lootboxes.border.item": "S:2d7ee71e8cf32f05b4aba34ac767c15b2a1c7ab1,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

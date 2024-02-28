@@ -4583,6 +4583,13 @@
         "type": "color",
         "description": "use for accent text on card"
       }
+    },
+    "border": {
+      "item": {
+        "value": "#cccc",
+        "type": "color",
+        "description": "use as stroke for dropdown"
+      }
     }
   }
 }
