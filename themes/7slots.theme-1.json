@@ -1527,6 +1527,11 @@
       "value": "{radius.button}",
       "type": "borderRadius",
       "description": "use for hightlight player in gamepage/tournament "
+    },
+    "card-additional": {
+      "value": "12px",
+      "type": "borderRadius",
+      "description": "Radius for cards amd widgets"
     }
   },
   "opacity": {
@@ -1996,6 +2001,11 @@
       "value": "#F2F3F5",
       "type": "color",
       "description": "use for popups bg"
+    },
+    "gradient-additional": {
+      "value": "linear-gradient(151deg, #F9E6B5 4.14%, #DBFEFF 95.17%)",
+      "type": "color",
+      "description": "Gradient for bg in bonus card in cashbox"
     }
   },
   "nav": {
@@ -4659,6 +4669,57 @@
         "type": "color",
         "description": "use as stroke for dropdown"
       }
+    }
+  },
+  "Padding": {
+    "pregame": {
+      "main": {
+        "value": "24px",
+        "type": "dimension"
+      }
+    },
+    "gamepage": {
+      "player": {
+        "value": "4px",
+        "type": "dimension"
+      }
+    },
+    "blur": {
+      "value": "0px",
+      "type": "dimension",
+      "description": "use for bg blue in categories/ strip service"
+    },
+    "info-blur": {
+      "value": "0px",
+      "type": "dimension",
+      "description": "use for bg under small information (tournament/lotteries)"
+    },
+    "button": {
+      "large-horizontal": {
+        "value": "0px",
+        "type": "dimension",
+        "description": "use for circle elements on primary bg"
+      },
+      "small-horizontal": {
+        "value": "4px",
+        "type": "dimension",
+        "description": "use for small button horizontal padding"
+      },
+      "large-horizontal-additional": {
+        "value": "16px",
+        "type": "dimension",
+        "description": "use for large button horizontal padding - for buttons with icon"
+      },
+      "large-horizontal-extra": {
+        "value": "12px",
+        "type": "dimension",
+        "description": "use for large button horizontal padding - for buttons with icon - left"
+      }
+    },
+    "blur-achivements": {
+      "value": "6px",
+      "type": "dimension",
+      "description": "use for bottom block in profile "
     }
   }
 }

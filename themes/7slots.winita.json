@@ -1409,6 +1409,11 @@
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
+    "card-additional": {
+      "value": "12px",
+      "type": "borderRadius",
+      "description": "Radius for bonus cards in cashbox"
+    },
     "game-item": {
       "value": "2px",
       "type": "borderRadius",
@@ -1547,10 +1552,20 @@
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
+    "tertiary": {
+      "value": "#D9E4FF",
+      "type": "color",
+      "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
+    },
     "gradient": {
       "value": "transparent",
       "type": "color",
       "description": "Gradient for bg"
+    },
+    "gradient-additional": {
+      "value": "linear-gradient(151deg, #F9E6B5 4.14%, #DBFEFF 95.17%)",
+      "type": "color",
+      "description": "Gradient for bg in bonus card in cashbox"
     },
     "additional": {
       "value": "#F4F7FB",
@@ -1561,11 +1576,6 @@
       "value": "#294CAA",
       "type": "color",
       "description": "use for mob profile bg\n"
-    },
-    "tertiary": {
-      "value": "#D9E4FF",
-      "type": "color",
-      "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
     "other": {
       "404": {
@@ -1839,7 +1849,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(180deg, #0A2256 0%, rgba(12, 41, 103, 0.64) 49.5%, rgba(12, 45, 116, 0.00) 100%)",
+        "value": "linear-gradient(180deg, rgba(10, 34, 86, 0.79) 0%, rgba(12, 41, 103, 0.64) 49.5%, rgba(12, 45, 116, 0.00) 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
@@ -4715,6 +4725,25 @@
       "player": {
         "value": "4px",
         "type": "dimension"
+      }
+    }
+  },
+  "Padding": {
+    "button": {
+      "large-horizontal": {
+        "value": "16px",
+        "type": "dimension",
+        "description": "use for large button horizontal padding"
+      },
+      "large-horizontal-additional": {
+        "value": "12px",
+        "type": "dimension",
+        "description": "use for large button horizontal padding - for buttons with icon "
+      },
+      "small-horizontal": {
+        "value": "16px",
+        "type": "dimension",
+        "description": "use for small button horizontal padding"
       }
     }
   }
