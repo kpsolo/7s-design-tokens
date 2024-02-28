@@ -4735,6 +4735,11 @@
         "type": "dimension",
         "description": "use for large button horizontal padding"
       },
+      "large-vertical": {
+        "value": "10px",
+        "type": "dimension",
+        "description": "use for large button vertical padding"
+      },
       "large-horizontal-additional": {
         "value": "12px",
         "type": "dimension",
@@ -4744,6 +4749,16 @@
         "value": "16px",
         "type": "dimension",
         "description": "use for small button horizontal padding"
+      },
+      "small-vertical": {
+        "value": "4px",
+        "type": "dimension",
+        "description": "use for small button vertical padding"
+      },
+      "small-horizontal-additional": {
+        "value": "12px",
+        "type": "dimension",
+        "description": "use for small button horizontal padding - with icons - left padding"
       }
     }
   }
