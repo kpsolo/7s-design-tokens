@@ -1844,7 +1844,7 @@
     },
     "overlay-gradient": {
       "1": {
-        "value": "transparent",
+        "value": "linear-gradient(180deg, rgba(10, 34, 86, 0.79) 0%, rgba(12, 41, 103, 0.64) 49.5%, rgba(12, 45, 116, 0.00) 100%)",
         "type": "color",
         "description": "use for menu banner overlay gradient under title"
       },
@@ -1864,7 +1864,7 @@
         "description": "use for coin in lootboxes"
       },
       "5": {
-        "value": "transparent",
+        "value": "linear-gradient(180deg, rgba(12, 45, 116, 0.00) 0%, rgba(12, 41, 103, 0.64) 63%, rgba(10, 34, 86, 0.79) 100%)",
         "type": "color",
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
@@ -2695,7 +2695,7 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#E6F0FF",
+        "value": "#B9D5FF",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
@@ -3885,8 +3885,9 @@
       "description": "use for links on color bg (footer/profile/tournament cards)"
     },
     "accent": {
-      "value": "#33B34F",
-      "type": "color"
+      "value": "#3BEA62",
+      "type": "color",
+      "description": "use as acceny on profile mob"
     },
     "error": {
       "value": "{base.error}",
