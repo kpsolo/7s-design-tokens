@@ -4430,6 +4430,11 @@
         "type": "color",
         "description": "use for accent elements"
       }
+    },
+    "overlay-additional": {
+      "value": "rgba(2, 54, 127, 0.60)",
+      "type": "color",
+      "description": "overlay on cards"
     }
   },
   "gamepage": {

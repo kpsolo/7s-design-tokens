@@ -1202,7 +1202,7 @@
     },
     "strip-card": {
       "value": {
-        "color": "#84B0EC",
+        "color": "rgba(112, 153, 210, 0.40)",
         "width": "1px",
         "style": "solid"
       },
@@ -1668,12 +1668,12 @@
         "description": "use for transaction with bg (detailed)"
       },
       "strip": {
-        "value": "#C8DFFF",
+        "value": "#114FA5",
         "type": "color",
         "description": "use for bg under girls"
       },
       "strip-bg": {
-        "value": "{base.surface}",
+        "value": "#03449F",
         "type": "color",
         "description": "Global background for strip banners"
       },
@@ -1731,7 +1731,7 @@
         "description": "Background for categories on desktop"
       },
       "strip-popup": {
-        "value": "{bg.popup}",
+        "value": "#03449F",
         "type": "color",
         "description": "Bg for background popup on strip desktop"
       }
@@ -2591,12 +2591,12 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.08",
               "space": "srgb"
             }
           }
         },
-        "description": "separator for dark bg (mob dropdown providers)"
+        "description": "separator for colorful bg (tabs line in strip)"
       },
       "secondary": {
         "value": "#CAD5F4",
@@ -2605,7 +2605,7 @@
       }
     },
     "progress-large": {
-      "value": "#88C3F9",
+      "value": "#4AA8FF",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -3896,7 +3896,7 @@
     "accent": {
       "value": "#3BEA62",
       "type": "color",
-      "description": "use as acceny on profile mob"
+      "description": "use as acceny on profile mob/ colorful cards"
     },
     "error": {
       "value": "{base.error}",
@@ -4173,18 +4173,23 @@
   },
   "strip": {
     "bg-progress": {
-      "value": "#EEEEEE",
+      "value": "rgba(238, 238, 238, 0.16)",
       "type": "color",
       "description": "bg in brogress bar "
     },
     "overlay": {
-      "value": "rgba(255, 255, 255, 0.62)",
+      "value": "rgba(255, 255, 255, 0.08)",
       "type": "color",
-      "description": "bg in brogress bar "
+      "description": "bg in controls under icons"
+    },
+    "overlay-additional": {
+      "value": "rgba(2, 54, 127, 0.60)",
+      "type": "color",
+      "description": "overlay on cards"
     },
     "content": {
       "accent": {
-        "value": "{icon.accent-additional}",
+        "value": "{text.accent}",
         "type": "color",
         "description": "use for accent elements"
       }
