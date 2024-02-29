@@ -1301,6 +1301,15 @@
       },
       "type": "border",
       "description": "use for language dropdown (in footer/menu)"
+    },
+    "empty-item": {
+      "value": {
+        "color": "rgba(19, 58, 144, 0.40)",
+        "width": "1",
+        "style": "dash"
+      },
+      "type": "border",
+      "description": "use for empty widget in bonus/achievements/verification"
     }
   },
   "base spacing": {
