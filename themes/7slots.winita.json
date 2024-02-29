@@ -2596,7 +2596,7 @@
             }
           }
         },
-        "description": "separator for colorful bg (tabs line in strip)"
+        "description": "separator for dark bg (mob dropdown providers)"
       },
       "secondary": {
         "value": "#CAD5F4",
@@ -4183,7 +4183,7 @@
       "description": "bg in controls under icons"
     },
     "overlay-additional": {
-      "value": "rgba(2, 54, 127, 0.60)",
+      "value": "rgba(0, 37, 89, 0.80)",
       "type": "color",
       "description": "overlay on cards"
     },
@@ -4192,6 +4192,11 @@
         "value": "{text.accent}",
         "type": "color",
         "description": "use for accent elements"
+      },
+      "accent-additional": {
+        "value": "{text.accent}",
+        "type": "color",
+        "description": "use for accent elements (dots)"
       }
     }
   },

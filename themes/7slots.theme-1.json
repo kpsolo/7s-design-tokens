@@ -4498,6 +4498,11 @@
         "value": "{icon.accent-additional}",
         "type": "color",
         "description": "use for accent elements"
+      },
+      "accent-additional": {
+        "value": "{text.accent}",
+        "type": "color",
+        "description": "use for accent elements (dots)"
       }
     },
     "overlay-additional": {
