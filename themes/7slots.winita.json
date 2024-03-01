@@ -1265,7 +1265,7 @@
     },
     "wheel-denomination": {
       "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%)",
         "width": "1",
         "style": "solid"
       },
@@ -4429,17 +4429,9 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "linear-gradient(180deg, rgba(76, 121, 133, 0.90) 0%, rgba(74, 162, 186, 0.42) 52.99%, rgba(76, 121, 133, 0.67) 100%)",
+        "value": "rgba(200, 219, 224, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for denomination widget bg"
       },
       "3": {
@@ -4462,7 +4454,7 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "#9BA1B1",
+        "value": "#FFFFFF",
         "type": "color",
         "description": "use for sectors bg (type1) - start"
       },
@@ -4477,7 +4469,7 @@
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-1": {
-        "value": "#3A9B84",
+        "value": "#00D562",
         "type": "color",
         "description": "use for sectors bg (type1) - start "
       },
@@ -4663,7 +4655,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0.4",
               "space": "srgb"
             }
           }
@@ -4671,7 +4663,7 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "linear-gradient(180deg, #6EC6C7 0%, #B1FEFF 100%)",
+        "value": "#E2F6F6",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       },

@@ -2954,7 +2954,8 @@
       "lootboxes.border.item": "S:2d7ee71e8cf32f05b4aba34ac767c15b2a1c7ab1,",
       "bg.gradient-additional": "S:3c98920b509ae1ae9560ddebfba922e279f304b5,",
       "strip.overlay-additional": "S:6d4039e5992734f2c96a3a46a9740b2b1eea1387,",
-      "strip.content.accent-additional": "S:31901aecbfbf1bd71a2e1cbaaf772c18b02ccdf2,"
+      "strip.content.accent-additional": "S:31901aecbfbf1bd71a2e1cbaaf772c18b02ccdf2,",
+      "gamepage.content.icon": "S:6fd9e1348487db22146ddc48246fe5f640c01508,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
