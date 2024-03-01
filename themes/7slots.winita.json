@@ -4431,7 +4431,6 @@
       "2": {
         "value": "rgba(200, 219, 224, 0.20)",
         "type": "color",
-        "$extensions": {},
         "description": "use for denomination widget bg"
       },
       "3": {
