@@ -1551,6 +1551,16 @@
     }
   },
   "bg": {
+    "popup-additional": {
+      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
+      "type": "color",
+      "description": "use for popups bg"
+    },
+    "widget-bonus": {
+      "value": "#264BAC",
+      "type": "color",
+      "description": "use as bg for welcome bonus"
+    },
     "primary": {
       "value": "{base.surface}",
       "type": "color",
@@ -1580,6 +1590,29 @@
       "value": "#F4F7FB",
       "type": "color",
       "description": "use for messages, shop, faq cards"
+    },
+    "radial": {
+      "value": "transparent",
+      "type": "color"
+    },
+    "radial-additional": {
+      "value": "transparent",
+      "type": "color",
+      "description": "use for elipse bg on desktop homepage"
+    },
+    "widget-bonus-additional": {
+      "value": "#000000",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.08",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "use as bg for welcome bonus success item"
     },
     "additional-2": {
       "value": "#294CAA",
@@ -1928,43 +1961,10 @@
       "type": "dimension",
       "description": "use for circle elements on primary bg"
     },
-    "radial": {
-      "value": "transparent",
-      "type": "color"
-    },
-    "radial-additional": {
-      "value": "transparent",
-      "type": "color",
-      "description": "use for elipse bg on desktop homepage"
-    },
     "blur-achivements": {
       "value": "6px",
       "type": "dimension",
       "description": "use for bottom block in profile "
-    },
-    "widget-bonus": {
-      "value": "#264BAC",
-      "type": "color",
-      "description": "use as bg for welcome bonus"
-    },
-    "widget-bonus-additional": {
-      "value": "#000000",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.08",
-            "space": "srgb"
-          }
-        }
-      },
-      "description": "use as bg for welcome bonus success item"
-    },
-    "popup-additional": {
-      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
-      "type": "color",
-      "description": "use for popups bg"
     }
   },
   "nav": {
@@ -3183,6 +3183,11 @@
       "value": "48",
       "type": "sizing",
       "description": "use for top navbar items"
+    },
+    "tabs-strip": {
+      "value": "64",
+      "type": "sizing",
+      "description": "use tabs on strip page"
     },
     "categories-desktop": {
       "value": "64",

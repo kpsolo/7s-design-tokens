@@ -3175,6 +3175,11 @@
       "value": "0",
       "type": "sizing",
       "description": "use for bottom padding in game zone on desktop homepage"
+    },
+    "tabs-strip": {
+      "value": "64",
+      "type": "sizing",
+      "description": "use tabs on strip page"
     }
   },
   "min-height": {

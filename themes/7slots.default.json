@@ -3150,6 +3150,11 @@
       "value": "64",
       "type": "sizing",
       "description": "use for categories in desktop"
+    },
+    "tabs-strip": {
+      "value": "64",
+      "type": "sizing",
+      "description": "use tabs on strip page"
     }
   },
   "min-height": {
