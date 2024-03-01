@@ -4284,7 +4284,13 @@
       },
       "secondary": {
         "value": "{text.primary}",
-        "type": "color"
+        "type": "color",
+        "description": "use for main text in tournament widget"
+      },
+      "icon": {
+        "value": "#5476B6",
+        "type": "color",
+        "description": "use for close icon in right sidebar"
       },
       "tertiary": {
         "value": "{text.primary}",
@@ -4297,7 +4303,8 @@
               "space": "lch"
             }
           }
-        }
+        },
+        "description": "use for headers in tournament widget"
       },
       "additional": {
         "value": "#FFFFFF",
@@ -4310,8 +4317,9 @@
         "description": "use for lines in right sidebar"
       },
       "accent": {
-        "value": "{base.accent-secondary}",
-        "type": "color"
+        "value": "{button.border.ghost}",
+        "type": "color",
+        "description": "use for accent in light bg"
       },
       "accent-additional": {
         "value": "{base.accent-secondary}",

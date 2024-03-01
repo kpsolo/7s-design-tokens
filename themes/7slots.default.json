@@ -4572,6 +4572,11 @@
           }
         },
         "description": "use for inactive items in right sidebar"
+      },
+      "icon": {
+        "value": "#5476B6",
+        "type": "color",
+        "description": "use for close icon in right sidebar"
       }
     },
     "overlay": {
