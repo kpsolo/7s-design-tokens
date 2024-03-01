@@ -2955,7 +2955,8 @@
       "bg.gradient-additional": "S:3c98920b509ae1ae9560ddebfba922e279f304b5,",
       "strip.overlay-additional": "S:6d4039e5992734f2c96a3a46a9740b2b1eea1387,",
       "strip.content.accent-additional": "S:31901aecbfbf1bd71a2e1cbaaf772c18b02ccdf2,",
-      "gamepage.content.icon": "S:6fd9e1348487db22146ddc48246fe5f640c01508,"
+      "gamepage.content.icon": "S:6fd9e1348487db22146ddc48246fe5f640c01508,",
+      "strip.bg.additional": "S:2313736565594f52fccd6dcc8585275ccc188d26,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

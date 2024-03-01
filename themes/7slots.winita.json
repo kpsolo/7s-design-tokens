@@ -1078,7 +1078,7 @@
       "value": {
         "color": "rgba(19, 58, 144, 0.40)",
         "width": "1",
-        "style": "dash"
+        "style": "dashed"
       },
       "type": "border",
       "description": "use for empty widget in bonus/achievements/verification"
@@ -4202,6 +4202,13 @@
         "value": "{text.accent}",
         "type": "color",
         "description": "use for accent elements (dots)"
+      }
+    },
+    "bg": {
+      "additional": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use as bg in gamepage widget"
       }
     }
   },

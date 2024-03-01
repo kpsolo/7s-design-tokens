@@ -4459,6 +4459,13 @@
       "value": "rgba(2, 54, 127, 0.60)",
       "type": "color",
       "description": "overlay on cards"
+    },
+    "bg": {
+      "additional": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use as bg in gamepage widget"
+      }
     }
   },
   "gamepage": {
