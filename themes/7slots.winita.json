@@ -299,7 +299,7 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.1}",
+        "lineHeight": "25",
         "fontSize": "{font-size.extra}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
