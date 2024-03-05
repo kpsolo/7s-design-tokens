@@ -3678,6 +3678,53 @@
       "value": "{text.title.main}",
       "type": "color",
       "description": "for secret mirror popup title"
+    },
+    "achivements": {
+      "border-1": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "border for activity card"
+      },
+      "element": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "fill for line in first screen"
+      },
+      "gradient": {
+        "value": "linear-gradient(89deg, rgba(23, 33, 87, 0.70) 1.23%, rgba(23, 33, 87, 0.00) 98.88%)",
+        "type": "color",
+        "description": "for empty cards zone"
+      },
+      "gradient-1": {
+        "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
+        "type": "color",
+        "description": "for empty cards zone / desktop"
+      },
+      "border-2": {
+        "value": "#1F3189",
+        "type": "color",
+        "description": "border for win card"
+      },
+      "card-1": {
+        "value": "#1F3189",
+        "type": "color",
+        "description": "card in progress bg in main screen"
+      },
+      "card-2": {
+        "value": "#1F3189",
+        "type": "color",
+        "description": "card last bg in main screen"
+      },
+      "card-3": {
+        "value": "#1F3189",
+        "type": "color",
+        "description": "card first deposit bg in main screen"
+      },
+      "card-4": {
+        "value": "#1F3189",
+        "type": "color",
+        "description": "achivements card"
+      }
     }
   },
   "filed spacing": {
