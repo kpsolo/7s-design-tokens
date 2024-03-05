@@ -4262,8 +4262,9 @@
       }
     },
     "overlay": {
-      "value": "linear-gradient(180deg, rgba(23, 56, 129, 0.00) 0%, rgba(23, 56, 129, 0.68) 73.5%, #173881 100%)",
-      "type": "color"
+      "value": "linear-gradient(180deg, rgba(14, 41, 101, 0.00) 0%, rgba(10, 30, 72, 0.88) 59.5%, #173881 100%)",
+      "type": "color",
+      "description": "overlay for links of messages"
     },
     "overlay-additional": {
       "value": "rgba(17, 47, 110, 0.80)",
