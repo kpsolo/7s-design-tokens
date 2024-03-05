@@ -626,10 +626,10 @@
       "value": [
         {
           "x": "0",
-          "y": "4",
-          "blur": "8",
+          "y": "2",
+          "blur": "4",
           "spread": "0",
-          "color": "rgba(13, 22, 46, 0.40)",
+          "color": "rgba(13, 22, 46, 0.08)",
           "type": "dropShadow"
         },
         {
@@ -3675,7 +3675,7 @@
         "description": "border for activity card"
       },
       "element": {
-        "value": "{base.accent-primary}",
+        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.16) 50.78%, rgba(255, 255, 255, 0.00) 100%)",
         "type": "color",
         "description": "fill for line in first screen"
       },
@@ -3695,12 +3695,12 @@
         "description": "border for win card"
       },
       "card-1": {
-        "value": "#1F3189",
+        "value": "rgba(87, 71, 181, 0.20)",
         "type": "color",
         "description": "card in progress bg in main screen"
       },
       "card-2": {
-        "value": "#1F3189",
+        "value": "rgba(87, 71, 181, 0.16)",
         "type": "color",
         "description": "card last bg in main screen"
       },
