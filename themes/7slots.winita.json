@@ -1721,12 +1721,12 @@
         "description": "use for hover state in calendar, cashbox filter"
       },
       "cashbox": {
-        "value": "{bg.additional}",
+        "value": "#DFE7FA",
         "type": "color",
         "description": "use for transaction with bg"
       },
       "cashbox-additional": {
-        "value": "{bg.other.cashbox}",
+        "value": "#EBF1FF",
         "type": "color",
         "description": "use for transaction with bg (detailed)"
       },
@@ -2773,6 +2773,11 @@
       },
       "deny": {
         "value": "#F44C41",
+        "type": "color",
+        "description": "use for deny label in cashbox transactions"
+      },
+      "additional": {
+        "value": "#Ffff",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
       },
@@ -4202,7 +4207,7 @@
       "type": "color"
     },
     "card": {
-      "value": "#F4F7FB",
+      "value": "#F1F7FF",
       "type": "color"
     },
     "green": {
@@ -4292,7 +4297,7 @@
   "gamepage": {
     "bg": {
       "primary": {
-        "value": "#000000",
+        "value": "#030C1F",
         "type": "color"
       },
       "secondary": {
@@ -4430,7 +4435,7 @@
         "description": "use for bullets bg"
       },
       "overlay-additional": {
-        "value": "rgba(6, 13, 29, 0.30)",
+        "value": "rgba(17, 41, 96, 0.50)",
         "type": "color",
         "description": "use for bg under prizes"
       },
@@ -4747,7 +4752,7 @@
         "description": "use as bg for denominations bet item hover state"
       },
       "active": {
-        "value": "#E2F6F6",
+        "value": "#FFFFFF",
         "type": "color",
         "description": "use as bg for denominations bet item active state"
       },

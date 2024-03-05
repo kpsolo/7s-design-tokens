@@ -2989,7 +2989,8 @@
       "special-blocks.achievements.card-2": "S:c3c53752ef2c72f7e0620b90878ff1a47a32af84,",
       "special-blocks.achievements.card-3": "S:839cb86ca485f264a44799aa27f4a9744198c128,",
       "special-blocks.achievements.card-4": "S:e4058f25639e2335291f6f3fd16433e6f3b287ba,",
-      "shadow.card-additional-3": "S:b92715538df7783ccf4890400a51b97f8b91b94d,"
+      "shadow.card-additional-3": "S:b92715538df7783ccf4890400a51b97f8b91b94d,",
+      "small-elements.label.additional": "S:a13cf980cba93251eb8abc10b0584ce926fede3b,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

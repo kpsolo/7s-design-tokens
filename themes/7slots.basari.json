@@ -2657,6 +2657,11 @@
         "value": "#FFF",
         "type": "color",
         "description": "use for deny label text in cashbox transactions"
+      },
+      "additional": {
+        "value": "#Ffff",
+        "type": "color",
+        "description": "use for deny label in cashbox transactions"
       }
     },
     "timer": {
