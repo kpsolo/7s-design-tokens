@@ -3672,7 +3672,6 @@
       "border-1": {
         "value": "linear-gradient(158deg, #475471 6.71%, #7E5796 88.69%)",
         "type": "color",
-        "$extensions": {},
         "description": "border for activity card"
       },
       "element": {
@@ -3681,7 +3680,7 @@
         "description": "fill for line in first screen"
       },
       "gradient": {
-        "value": "linear-gradient(89deg, rgba(23, 33, 87, 0.70) 1.23%, rgba(23, 33, 87, 0.00) 98.88%)",
+        "value": "linear-gradient(90deg, rgba(70, 95, 138, 0.15) 0.11%, rgba(70, 95, 138, 0.00) 99.89%)",
         "type": "color",
         "description": "for empty cards zone"
       },
