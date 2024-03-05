@@ -3670,8 +3670,9 @@
     },
     "achievements": {
       "border-1": {
-        "value": "{base.accent-primary}",
+        "value": "linear-gradient(158deg, #475471 6.71%, #7E5796 88.69%)",
         "type": "color",
+        "$extensions": {},
         "description": "border for activity card"
       },
       "element": {
@@ -3690,12 +3691,12 @@
         "description": "for empty cards zone / desktop"
       },
       "border-2": {
-        "value": "#1F3189",
+        "value": "linear-gradient(163deg, #475471 6.71%, #465B53 78.79%)",
         "type": "color",
         "description": "border for win card"
       },
       "card-1": {
-        "value": "rgba(87, 71, 181, 0.20)",
+        "value": "rgba(71, 118, 181, 0.20)",
         "type": "color",
         "description": "card in progress bg in main screen"
       },
