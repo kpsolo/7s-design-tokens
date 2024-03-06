@@ -4677,6 +4677,11 @@
         "value": "#5476B6",
         "type": "color",
         "description": "use for close icon in right sidebar"
+      },
+      "accent-extra": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "use for tournament results in right sidebar"
       }
     },
     "overlay": {

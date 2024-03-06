@@ -2995,7 +2995,12 @@
       "special-blocks.achievements.card-3": "S:839cb86ca485f264a44799aa27f4a9744198c128,",
       "special-blocks.achievements.card-4": "S:e4058f25639e2335291f6f3fd16433e6f3b287ba,",
       "shadow.card-additional-3": "S:b92715538df7783ccf4890400a51b97f8b91b94d,",
-      "small-elements.label.additional": "S:a13cf980cba93251eb8abc10b0584ce926fede3b,"
+      "small-elements.label.additional": "S:a13cf980cba93251eb8abc10b0584ce926fede3b,",
+      "special-blocks.achievements.bg-progressbar": "S:8624105d0b81d49a860a2cdbdfa13a053f0da873,",
+      "special-blocks.achievements.bg-main": "S:b004917b7c1c4db669521c5abd5bac0aa2493bb7,",
+      "special-blocks.achievements.overlay": "S:85dc6c3e3c4734a17014cad2e429c0f73bf649ee,",
+      "special-blocks.achievements.stroke": "S:3d11c9acd29ab3581bea472c15aa15742c59e140,",
+      "gamepage.content.accent-extra": "S:188cfe4a99e02c4e9f79285de5304c94495c346a,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"

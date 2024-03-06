@@ -4436,6 +4436,11 @@
         "type": "color",
         "description": "use for accent in light bg"
       },
+      "accent-extra": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "use for tournament results in right sidebar"
+      },
       "accent-additional": {
         "value": "{base.accent-secondary}",
         "type": "color"
