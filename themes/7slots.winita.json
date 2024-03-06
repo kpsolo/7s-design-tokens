@@ -327,7 +327,7 @@
     },
     "title-small-strong": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "25",
         "fontSize": "19",
