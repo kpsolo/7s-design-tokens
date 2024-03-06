@@ -1349,6 +1349,15 @@
       },
       "type": "border",
       "description": "use for stoke for betting cards"
+    },
+    "popup-additional": {
+      "value": {
+        "color": "#DCE0EE",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for stroke for profile desktop popup stroke"
     }
   },
   "base spacing": {

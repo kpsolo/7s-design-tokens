@@ -1275,6 +1275,15 @@
       "type": "border",
       "description": "use for stroke for popup bg"
     },
+    "popup-additional": {
+      "value": {
+        "color": "#DCE0EE",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for stroke for profile desktop popup stroke"
+    },
     "dropdown": {
       "value": {
         "color": "#DCE0EE",
