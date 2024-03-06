@@ -3717,7 +3717,12 @@
       "card-4": {
         "value": "rgba(90, 144, 218, 0.10)",
         "type": "color",
-        "description": "achivements card"
+        "description": "bg for achievements cards"
+      },
+      "bg-progressbar": {
+        "value": "rgba(255, 255, 255, 0.20)",
+        "type": "color",
+        "description": "for progrees bar bg"
       }
     }
   },

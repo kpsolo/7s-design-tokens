@@ -3658,6 +3658,11 @@
         "value": "#1F3189",
         "type": "color",
         "description": "achivements card"
+      },
+      "bg-progressbar": {
+        "value": "rgba(255, 255, 255, 0.20)",
+        "type": "color",
+        "description": "achivements card"
       }
     }
   },
