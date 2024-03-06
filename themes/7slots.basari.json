@@ -3663,6 +3663,11 @@
         "value": "rgba(255, 255, 255, 0.20)",
         "type": "color",
         "description": "achivements card"
+      },
+      "bg-main": {
+        "value": "linear-gradient(180deg, rgba(40, 81, 136, 0.20) 1%, rgba(40, 81, 136, 0.00) 99.79%)",
+        "type": "color",
+        "description": "for first deposit screen"
       }
     }
   },

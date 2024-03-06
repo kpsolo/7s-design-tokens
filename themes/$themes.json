@@ -485,7 +485,10 @@
       "lootboxes.bg.overlay-gradient": "S:ce325499c8b7d8daf83db2b2fd1f2c59b5920964,",
       "lootboxes.content.accent": "S:3402a38e6dfde5499ba311e4c5ada5ac30e8f590,",
       "lootboxes.border.item": "S:a3ed00f1a28404094af563967aead777ebaa1331,",
-      "shadow.card-additional-3": "S:6446255f051f57392a55470f92fae93422c34002,"
+      "shadow.card-additional-3": "S:6446255f051f57392a55470f92fae93422c34002,",
+      "small-elements.label.additional": "S:e38880307ca3d7f00cc82b2b7f1669066edf3167,",
+      "special-blocks.achievements.bg-progressbar": "S:40e827821933057c727d4cc78cb3cddf2c0ff335,",
+      "special-blocks.achievements.bg-main": "S:2c90a0422833e9fbcdbcb43e9d5bd846290c2787,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
