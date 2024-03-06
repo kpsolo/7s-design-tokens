@@ -1340,6 +1340,15 @@
       },
       "type": "border",
       "description": "use for empty widget in bonus/achievements/verification"
+    },
+    "betting": {
+      "value": {
+        "color": "#CAD5F4",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for stoke for betting cards"
     }
   },
   "base spacing": {

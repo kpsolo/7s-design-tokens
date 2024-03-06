@@ -1212,6 +1212,15 @@
       "type": "border",
       "description": "border for show more wiget on main page"
     },
+    "betting": {
+      "value": {
+        "color": "#CAD5F4",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for stoke for betting cards"
+    },
     "search": {
       "value": {
         "color": "#cccccc",
