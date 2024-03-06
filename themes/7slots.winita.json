@@ -1840,7 +1840,7 @@
     },
     "overlay": {
       "1": {
-        "value": "{bg.additional}",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "for static table headet"
       },
@@ -1930,7 +1930,7 @@
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(180deg, rgba(10, 34, 86, 0.79) 0%, rgba(12, 41, 103, 0.64) 49.5%, rgba(12, 45, 116, 0.00) 100%)",
+        "value": "linear-gradient(180deg, rgba(14, 47, 119, 0.79) 0%, rgba(14, 48, 120, 0.64) 49.5%, rgba(12, 45, 116, 0.00) 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
@@ -4050,13 +4050,13 @@
     },
     "opacity": {
       "1": {
-        "value": "{text.primary}",
+        "value": "{base.dark}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.9",
               "space": "srgb"
             }
           }
