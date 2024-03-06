@@ -2657,6 +2657,11 @@
       "value": "#62B4FF",
       "type": "color"
     },
+    "progress-bg": {
+      "value": "#E1E9F5",
+      "type": "color",
+      "description": "bg for progressbar in loyalty"
+    },
     "progress-bar-deals": {
       "value": "rgba(255, 255, 255, 0.30)",
       "type": "color",

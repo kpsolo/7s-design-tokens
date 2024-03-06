@@ -2843,6 +2843,11 @@
       "value": "#E1E9F5",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
+    },
+    "progress-bg": {
+      "value": "#E1E9F5",
+      "type": "color",
+      "description": "bg for progressbar in loyalty"
     }
   },
   "icon": {
