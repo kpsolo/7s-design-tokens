@@ -488,7 +488,9 @@
       "shadow.card-additional-3": "S:6446255f051f57392a55470f92fae93422c34002,",
       "small-elements.label.additional": "S:e38880307ca3d7f00cc82b2b7f1669066edf3167,",
       "special-blocks.achievements.bg-progressbar": "S:40e827821933057c727d4cc78cb3cddf2c0ff335,",
-      "special-blocks.achievements.bg-main": "S:2c90a0422833e9fbcdbcb43e9d5bd846290c2787,"
+      "special-blocks.achievements.bg-main": "S:2c90a0422833e9fbcdbcb43e9d5bd846290c2787,",
+      "special-blocks.achievements.overlay": "S:a2010c8a3e07bc321259ea7984a1e9020df92b9f,",
+      "special-blocks.achievements.stroke": "S:ea45b27eb1d51fedb0cc830df93b99a08d193fd6,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

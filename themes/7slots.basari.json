@@ -3668,6 +3668,16 @@
         "value": "linear-gradient(180deg, rgba(40, 81, 136, 0.20) 1%, rgba(40, 81, 136, 0.00) 99.79%)",
         "type": "color",
         "description": "for first deposit screen"
+      },
+      "overlay": {
+        "value": "rgba(151, 159, 215, 0.10)",
+        "type": "color",
+        "description": "for bg under icons in achievement info block"
+      },
+      "stroke": {
+        "value": "linear-gradient(163deg, rgba(255, 255, 255, 0.35) 3.28%, rgba(71, 255, 185, 0.35) 84.38%)",
+        "type": "color",
+        "description": "use as stroke in last/progress achievements cards and info card"
       }
     }
   },

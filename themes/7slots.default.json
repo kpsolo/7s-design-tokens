@@ -3724,10 +3724,20 @@
         "type": "color",
         "description": "for progrees bar bg"
       },
+      "overlay": {
+        "value": "rgba(151, 159, 215, 0.10)",
+        "type": "color",
+        "description": "for bg under icons in achievement info block"
+      },
       "bg-main": {
         "value": "linear-gradient(180deg, rgba(40, 81, 136, 0.20) 1%, rgba(40, 81, 136, 0.00) 99.79%)",
         "type": "color",
         "description": "for first deposit screen"
+      },
+      "stroke": {
+        "value": "linear-gradient(180deg, #4B537F 0%, #305269 100%)",
+        "type": "color",
+        "description": "use as stroke in last/progress achievements cards and info card"
       }
     }
   },
