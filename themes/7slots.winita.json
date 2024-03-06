@@ -1879,7 +1879,7 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "ghost-1": {
-        "value": "rgba(1, 24, 77, 0.50)",
+        "value": "rgba(14, 52, 140, 0.50)",
         "type": "color",
         "description": "use for results inner tournament card"
       },
@@ -2595,7 +2595,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0.4",
               "space": "srgb"
             }
           }
