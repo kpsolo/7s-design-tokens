@@ -1731,6 +1731,11 @@
         "value": "#FFFFFF",
         "type": "color",
         "description": "Background for search in desktop"
+      },
+      "bonus": {
+        "value": "#114FA5",
+        "type": "color",
+        "description": "use in registration bonus cards"
       }
     },
     "gradient": {

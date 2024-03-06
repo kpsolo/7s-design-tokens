@@ -3053,7 +3053,8 @@
       "special-blocks.achievements.stroke": "S:3d11c9acd29ab3581bea472c15aa15742c59e140,",
       "gamepage.content.accent-extra": "S:188cfe4a99e02c4e9f79285de5304c94495c346a,",
       "menu.content": "S:c75b76c0e697cafb501dffe5312dca32d110dbe2,",
-      "small-elements.progress-bg": "S:3b6e8ed7bc716dd6dad48460b828733be086d517,"
+      "small-elements.progress-bg": "S:3b6e8ed7bc716dd6dad48460b828733be086d517,",
+      "bg.other.bonus": "S:f040306b1b39d0ed9eb1f8efa01a920e0eec7952,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
