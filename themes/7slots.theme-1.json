@@ -4203,6 +4203,11 @@
       "value": "{base.accent-secondary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
+    },
+    "content": {
+      "value": "{text.light}",
+      "type": "color",
+      "description": "Color for status and %"
     }
   },
   "max-width": {

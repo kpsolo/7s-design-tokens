@@ -1879,7 +1879,7 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "ghost-1": {
-        "value": "rgba(96, 131, 213, 0.20)",
+        "value": "rgba(1, 24, 77, 0.50)",
         "type": "color",
         "description": "use for results inner tournament card"
       },
@@ -2654,7 +2654,7 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bar": {
-      "value": "#40A0F7",
+      "value": "#62B4FF",
       "type": "color"
     },
     "progress-bar-deals": {
@@ -4213,6 +4213,11 @@
       "value": "{base.accent-secondary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
+    },
+    "content": {
+      "value": "{text.light}",
+      "type": "color",
+      "description": "Color for status and %"
     }
   },
   "max-width": {
