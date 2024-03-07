@@ -1635,7 +1635,7 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "additional": {
-      "value": "#F4F7FB",
+      "value": "#ECF4FF",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -1854,7 +1854,7 @@
     },
     "overlay": {
       "1": {
-        "value": "{bg.tertiary}",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "for static table headet"
       },
