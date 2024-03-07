@@ -1893,7 +1893,7 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "ghost-1": {
-        "value": "rgba(14, 52, 140, 0.50)",
+        "value": "rgba(255, 255, 255, 0.20)",
         "type": "color",
         "description": "use for results inner tournament card"
       },
@@ -4318,7 +4318,7 @@
       "description": "bg in brogress bar "
     },
     "bg-progress-additional": {
-      "value": "rgba(146, 146, 146, 0.16)",
+      "value": "{small-elements.progress-bg}",
       "type": "color",
       "description": "bg in brogress bar ingamepage widget"
     },
@@ -4532,7 +4532,7 @@
         "description": "use for bullets bg"
       },
       "overlay-additional": {
-        "value": "rgba(17, 41, 96, 0.50)",
+        "value": "{bg.overlay.ghost-1}",
         "type": "color",
         "description": "use for bg under prizes"
       },
