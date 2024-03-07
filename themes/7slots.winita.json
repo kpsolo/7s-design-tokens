@@ -4504,7 +4504,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent": {
-        "value": "{button.border.ghost}",
+        "value": "#3BEA62",
         "type": "color",
         "description": "use for accent in light bg"
       },
@@ -4514,7 +4514,7 @@
         "description": "use for tournament results in right sidebar"
       },
       "accent-additional": {
-        "value": "{base.accent-secondary}",
+        "value": "{button.border.ghost}",
         "type": "color"
       }
     }
