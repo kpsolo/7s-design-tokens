@@ -4574,6 +4574,35 @@
         "value": "{text.accent}",
         "type": "color",
         "description": "use for accent elements (dots)"
+      },
+      "additional": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "use for content on widget fo gamepage"
+      },
+      "accent-extra": {
+        "value": "{text.accent-additional}",
+        "type": "color",
+        "description": "use for accent on pamepage widget"
+      },
+      "icon-additional": {
+        "value": "{text.title.extra}",
+        "type": "color",
+        "description": "use for icons in gamepage widget"
+      },
+      "additional-opacity": {
+        "value": "{base.dark}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for content on widget fo gamepage"
       }
     },
     "overlay-additional": {
@@ -4587,6 +4616,16 @@
         "type": "color",
         "description": "use as bg in gamepage widget"
       }
+    },
+    "icon-border": {
+      "value": "#96C2FF",
+      "type": "color",
+      "description": "use for icons border on gamepage widget"
+    },
+    "bg-progress-additional": {
+      "value": "rgba(146, 146, 146, 0.16)",
+      "type": "color",
+      "description": "bg in brogress bar ingamepage widget"
     }
   },
   "gamepage": {

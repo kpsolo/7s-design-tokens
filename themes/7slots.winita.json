@@ -4317,10 +4317,20 @@
       "type": "color",
       "description": "bg in brogress bar "
     },
+    "bg-progress-additional": {
+      "value": "rgba(146, 146, 146, 0.16)",
+      "type": "color",
+      "description": "bg in brogress bar ingamepage widget"
+    },
     "overlay": {
       "value": "rgba(255, 255, 255, 0.08)",
       "type": "color",
       "description": "bg in controls under icons"
+    },
+    "icon-border": {
+      "value": "#96C2FF",
+      "type": "color",
+      "description": "use for icons border on gamepage widget"
     },
     "overlay-additional": {
       "value": "rgba(0, 37, 89, 0.80)",
@@ -4333,10 +4343,39 @@
         "type": "color",
         "description": "use for accent elements"
       },
+      "additional": {
+        "value": "{base.dark}",
+        "type": "color",
+        "description": "use for content on widget fo gamepage"
+      },
+      "additional-opacity": {
+        "value": "{base.dark}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for content on widget fo gamepage"
+      },
       "accent-additional": {
         "value": "{text.accent}",
         "type": "color",
         "description": "use for accent elements (dots)"
+      },
+      "accent-extra": {
+        "value": "{text.title.extra}",
+        "type": "color",
+        "description": "use for accent on pamepage widget"
+      },
+      "icon-additional": {
+        "value": "{text.title.extra}",
+        "type": "color",
+        "description": "use for icons in gamepage widget"
       }
     },
     "bg": {
