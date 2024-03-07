@@ -2151,7 +2151,7 @@
         "description": "Use for tapbar on mainpage, strip"
       },
       "button": {
-        "value": "#1CB13D",
+        "value": "{button.bg.primary}",
         "type": "color",
         "description": "use for buttton color on main tapbar"
       },

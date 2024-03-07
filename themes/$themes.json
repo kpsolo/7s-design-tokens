@@ -3059,7 +3059,8 @@
       "strip.content.accent-extra": "S:a8cfba1352c26317c6c90af1e5b8f6690668a2d7,",
       "strip.icon-border": "S:70160eb9ea81cb6d01bbc3409391f0c0cd664da0,",
       "strip.content.additional-opacity": "S:2b3e55c813e0ed761ae834687e936abd80f33932,",
-      "strip.content.icon-additional": "S:d2e115a9bda80e2a866c9b4dedd601c68c58a15b,"
+      "strip.content.icon-additional": "S:d2e115a9bda80e2a866c9b4dedd601c68c58a15b,",
+      "strip.bg-progress-additional": "S:5d2facc40e402be92eeed0b9ba9591f2f5f5db43,"
     },
     "selectedTokenSets": {
       "7slots.winita": "enabled"
