@@ -2076,7 +2076,7 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#E4CE09",
+      "value": "#FFCB11",
       "type": "color",
       "description": "Indication of warning"
     },
@@ -3982,7 +3982,7 @@
     "accent-additional": {
       "value": "{button.text.tertiary}",
       "type": "color",
-      "description": "accent on primary bg"
+      "description": "accent ocolor on primary bg/popups"
     },
     "primary": {
       "value": "{base.primary}",
