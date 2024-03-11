@@ -2061,7 +2061,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#39CC59",
+      "value": "#0BB12F",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -2762,7 +2762,7 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#B9D5FF",
+        "value": "#D3E5FF",
         "type": "color",
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
