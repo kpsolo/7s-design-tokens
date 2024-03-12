@@ -4690,7 +4690,7 @@
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "border-sector": {
-        "value": "#8DFCFD",
+        "value": "transparet",
         "type": "color",
         "description": "use for borders in sectors"
       }
