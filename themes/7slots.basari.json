@@ -1358,6 +1358,15 @@
       },
       "type": "border",
       "description": "use for stroke for profile desktop popup stroke"
+    },
+    "notification": {
+      "value": {
+        "color": "#0CC434",
+        "width": "1,1,1,8",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for notifications"
     }
   },
   "base spacing": {
@@ -2022,6 +2031,11 @@
       "value": "linear-gradient(151deg, #F9E6B5 4.14%, #DBFEFF 95.17%)",
       "type": "color",
       "description": "Gradient for bg in bonus card in cashbox"
+    },
+    "top-surface-additional": {
+      "value": "#EBF1FF",
+      "type": "color",
+      "description": "bg for notifications"
     }
   },
   "nav": {

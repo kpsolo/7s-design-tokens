@@ -1293,6 +1293,15 @@
       "type": "border",
       "description": "use for dropdown"
     },
+    "notification": {
+      "value": {
+        "color": "#0CC434",
+        "width": "1px,1px,1px,8px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for notifications"
+    },
     "dropdown-additional": {
       "value": {
         "color": "#DCE0EE",
@@ -1826,6 +1835,11 @@
       "value": "{base.light}",
       "type": "color",
       "description": "bg for menu, bottom sheets,dropdown"
+    },
+    "top-surface-additional": {
+      "value": "#EBF1FF",
+      "type": "color",
+      "description": "bg for notifications"
     },
     "popup": {
       "value": "#FFF",

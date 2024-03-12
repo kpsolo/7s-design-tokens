@@ -3081,7 +3081,8 @@
       "strip.content.additional-opacity": "S:2b3e55c813e0ed761ae834687e936abd80f33932,",
       "strip.content.icon-additional": "S:d2e115a9bda80e2a866c9b4dedd601c68c58a15b,",
       "strip.bg-progress-additional": "S:5d2facc40e402be92eeed0b9ba9591f2f5f5db43,",
-      "special-blocks.secret-mirrors-title": "S:b33cf261aed72cc8eab8053316db830707637744,"
+      "special-blocks.secret-mirrors-title": "S:b33cf261aed72cc8eab8053316db830707637744,",
+      "bg.top-surface-additional": "S:d719f9ee7fc86c2e85d0e5b7717f891efb8bd128,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
