@@ -3621,7 +3621,7 @@
       "type": "typography",
       "description": "numbers in timer"
     },
-    "secret_mirror-title": {
+    "secret-mirrors-title": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.4}",
