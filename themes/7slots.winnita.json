@@ -1293,10 +1293,19 @@
       "type": "border",
       "description": "use for dropdown"
     },
+    "notification-additional": {
+      "value": {
+        "color": "#0CC434",
+        "width": "8",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for notifications"
+    },
     "notification": {
       "value": {
         "color": "#0CC434",
-        "width": "1px,1px,1px,8px",
+        "width": "1",
         "style": "solid"
       },
       "type": "border",
