@@ -4907,6 +4907,11 @@
         "value": "transparent",
         "type": "color",
         "description": "use as bg for circle"
+      },
+      "bg-main-2-extra": {
+        "value": "#8D0606",
+        "type": "color",
+        "description": "use as bg for picker in wheel icon in menu"
       }
     },
     "button": {
@@ -4944,6 +4949,16 @@
         "value": "transparent",
         "type": "color",
         "description": "use as bg under wheel main border"
+      },
+      "main-extra": {
+        "value": "#C78A2B",
+        "type": "color",
+        "description": "use for wheel border(inside) in menu wheel icon"
+      },
+      "main-additional-extra": {
+        "value": "#DFA03C",
+        "type": "color",
+        "description": "use for wheel border (outside) in wheel icon in menu"
       }
     }
   },

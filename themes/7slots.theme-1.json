@@ -4601,6 +4601,11 @@
         "value": "linear-gradient(180deg, #C12323 0%, #B62D3E 45.62%, #8DFCFD 100%), linear-gradient(180deg, #5CD995 0%, #3A9B84 100%), linear-gradient(108deg, #116B21 20.07%, #60BD61 100%)",
         "type": "color",
         "description": "use as bg for circle"
+      },
+      "bg-main-2-extra": {
+        "value": "#8D0606",
+        "type": "color",
+        "description": "use as bg for picker in wheel icon in menu"
       }
     },
     "button": {
@@ -4638,6 +4643,16 @@
         "value": "#8DFCFD",
         "type": "color",
         "description": "use as bg under wheel main border"
+      },
+      "main-extra": {
+        "value": "#C78A2B",
+        "type": "color",
+        "description": "use for wheel border(inside) in menu wheel icon"
+      },
+      "main-additional-extra": {
+        "value": "#DFA03C",
+        "type": "color",
+        "description": "use for wheel border (outside) in wheel icon in menu"
       }
     }
   },

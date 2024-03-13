@@ -4495,9 +4495,14 @@
         "description": "use for shaddow over picker"
       },
       "bg-main-2": {
-        "value": "linear-gradient(153deg, #AA0606 15.39%, #7D0505 84.61%)",
+        "value": "linear-gradient(153deg, #AA0606 21.12%, #7D0505 78.88%)",
         "type": "color",
-        "description": "use as bg for circle"
+        "description": "use as bg for picker in wheel "
+      },
+      "bg-main-2-extra": {
+        "value": "#8D0606",
+        "type": "color",
+        "description": "use as bg for picker in wheel icon in menu"
       }
     },
     "button": {
@@ -4527,9 +4532,19 @@
         "value": "linear-gradient(59deg, #a76f18 15.01%, #c08a31 36.89%, #c78724 56.58%, #f0b24d 84.9%)",
         "type": "color"
       },
+      "main-extra": {
+        "value": "#C78A2B",
+        "type": "color",
+        "description": "use for wheel border(inside) in menu wheel icon"
+      },
       "main-additional": {
         "value": "linear-gradient(180deg, #AB741D 0%, #DA9425 30.02%, #BD852D 70.42%, #DC9D39 100%)",
         "type": "color"
+      },
+      "main-additional-extra": {
+        "value": "#DFA03C",
+        "type": "color",
+        "description": "use for wheel border (outside) in wheel icon in menu"
       },
       "bottom": {
         "value": "transparent",

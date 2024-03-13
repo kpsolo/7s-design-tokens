@@ -275,7 +275,6 @@
       "wheel.picker.bg-main": "S:9d9112386823ddd29f9d2f8269bff0e1b7798a5a,",
       "wheel.picker.bg-main-2-additional": "S:fb2a61364cf24742441f702040d65c4e2b0e45dd,",
       "wheel.picker.bg-shaddow": "S:454cf79a76134f6b16e13ecf366b71314be71ea0,",
-      "wheel.picker.bg-main-2": "S:29ea250ec34bcc46a7b93f6fe68a5519da945391,",
       "wheel.button.bg-2": "S:662c0a00e5462d9587d308c264bdc525b71a8f12,",
       "wheel.button.play": "S:9badab12798df3f8d3cf60bad4c04bed283cfe7a,",
       "wheel.button.bg-1": "S:aa1856004dc6cc9184ddc6711bd03306547475c7,",
@@ -490,7 +489,8 @@
       "special-blocks.achievements.bg-main": "S:2c90a0422833e9fbcdbcb43e9d5bd846290c2787,",
       "special-blocks.achievements.overlay": "S:a2010c8a3e07bc321259ea7984a1e9020df92b9f,",
       "special-blocks.achievements.stroke": "S:ea45b27eb1d51fedb0cc830df93b99a08d193fd6,",
-      "special-blocks.secret-mirrors-title": "S:39b7b39eb61ca57ab43ced1e49a46621eea6a1ea,"
+      "special-blocks.secret-mirrors-title": "S:39b7b39eb61ca57ab43ced1e49a46621eea6a1ea,",
+      "wheel.picker.bg-main-2": "S:29ea250ec34bcc46a7b93f6fe68a5519da945391,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1111,7 +1111,6 @@
       "wheel.icon.popup-more": "S:72e49101c0fc103980e9c96ddafd64fca0f26da0,",
       "wheel.icon.poup-more": "S:fc4b4d69de00cf2558fa9dae96a74651d3f57956,",
       "wheel.picker.bg-shaddow": "S:f77dd32b964e31768f2ad9a0d9f9b07a8e23d144,",
-      "wheel.picker.bg-main-2": "S:f8bda6b25850b1b25b14e6a583ea8631da900f54,",
       "wheel.button.bg-2": "S:a5798274a4d0e147012df984d30835cc835a4a24,",
       "wheel.button.play": "S:7ee74d654b3bebaef725e96c2bf9170aa5b0d7ea,",
       "wheel.button.bg-1": "S:e55507df1833f9189f83b3b5ed03fdea7f4bbf9d,",
@@ -1351,7 +1350,56 @@
       "shadow.special-blocks.banner-title": "S:7bebc2510d35854172f60e081a9c6b629c5e020b,",
       "shadow.accent-additional": "S:230f96056a3de10cae4aac5935de7316a212fa65,",
       "gamepage.content.accent-additional": "S:c7b50ce2d0944b64480a2a6ac711dda87fa2eb80,",
-      "special-blocks.secret-mirrors-title": "S:26b26b1a16c41a00dd510acc2f8de1e9e7f38330,"
+      "special-blocks.secret-mirrors-title": "S:26b26b1a16c41a00dd510acc2f8de1e9e7f38330,",
+      "wheel.picker.bg-main-2": "S:f8bda6b25850b1b25b14e6a583ea8631da900f54,",
+      "bg.other.bonus": "S:c91bcc9c27b97525333978e490a202db54b15719,",
+      "bg.gradient-additional": "S:815ba72b2dfd5be95f2d955637393e298e35a12b,",
+      "bg.top-surface-additional": "S:306763a434c4a5811462d50f11e0bdf89e37bbfd,",
+      "small-elements.label.additional": "S:b222e758c336844203accad6c5a15c3f3cf300d2,",
+      "small-elements.progress-large-bg": "S:636efbfb2503bed4f47378dbcc9cce481432f499,",
+      "small-elements.progress-bg": "S:1ba82524661b307a5ab4a8cc821c3f653bbfdaca,",
+      "icon.alternative-disabled": "S:e02a64268aa146a7d44f7084b2803f28d0e158fb,",
+      "special-blocks.achievements.border-1": "S:6c5f4c0a20b0ebb5df7c131115dc3c4304661bd7,",
+      "special-blocks.achievements.element": "S:e5cde9a3900cda6bd6ef968a779493355821e03b,",
+      "special-blocks.achievements.gradient": "S:8d8222820aaf561c0b4a5befd55a3077b2857b12,",
+      "special-blocks.achievements.gradient-1": "S:ba4fe5ef1596343ba0e877ffd88219f3aa93d157,",
+      "special-blocks.achievements.border-2": "S:f0e768fad62ca5f28ccf24e1be2343be629195fd,",
+      "special-blocks.achievements.card-1": "S:dde5c14ba5f643a24455024882911c3d5353f08f,",
+      "special-blocks.achievements.card-2": "S:f32e619eb5b59a4369392a13e388b11f7df49cbc,",
+      "special-blocks.achievements.card-3": "S:b3b9b72fe518fc048f236acc8038910314588fc2,",
+      "special-blocks.achievements.card-4": "S:800106a3806457c9697073c1b3b6f475da72b9da,",
+      "special-blocks.achievements.bg-progressbar": "S:a0523e7c5e72154c560867c7fbcd506a733b0087,",
+      "special-blocks.achievements.bg-main": "S:c7e1fc388e7e6b2594380676ed9229efc64f8163,",
+      "special-blocks.achievements.overlay": "S:8efe9198da476fa070323ee1937498ed3ccbb1be,",
+      "special-blocks.achievements.stroke": "S:b0ee312f90a041315ad8b1f04e5d93272efa525e,",
+      "text.title.extra": "S:020e14a13441d3173ec789df237d9427412cab0e,",
+      "menu.accent": "S:20c55e98c2d71fb18d05cbe17acc3742b76fea48,",
+      "menu.content": "S:de625f93b0edfbb5164676c4b215a28c566f8453,",
+      "wheel.picker.bg-main-2-extra": "S:469a166a220735b4681a1d046b093acec8f95fc3,",
+      "strip.content.accent-additional": "S:bea60b820ffbfb26af9ee0e63bbfeea6a55dff64,",
+      "strip.content.additional": "S:15adbe2b71353b986fc520e50e56acf89a0705cb,",
+      "strip.content.accent-extra": "S:78a198ef5603473569f62c5e96f8ddd59ae424ff,",
+      "strip.content.icon-additional": "S:30cdebe34f1af02f6cfb0b9099edb212de9a1322,",
+      "strip.content.additional-opacity": "S:2fd41c829c603cefc780f16cb034103ad02514fe,",
+      "strip.overlay-additional": "S:cc780b8f8ca7a91f4bad4c6cda555cbe05ac6c4a,",
+      "strip.bg.additional": "S:6386d21ff0f741920f84efcbc0ac1201ad638057,",
+      "strip.icon-border": "S:d1976f28d47ef3f5aaeb3d91b0ffce5767d76c45,",
+      "strip.bg-progress-additional": "S:8c996a76bd0a9339f3f3761f2d11eb993923063e,",
+      "gamepage.content.icon": "S:316d4f84f6d6bed6657595b89a0c1f135b829913,",
+      "gamepage.content.accent-extra": "S:6df9258648971a9a00af9a97c4602d27280e5d1e,",
+      "gamepage.overlay-additional": "S:0d31769232d2f4f196d37b809dc163a3a41547d1,",
+      "lootboxes.bg.primary": "S:d1a33a465317d52a1254dfdbe07378754c34f06f,",
+      "lootboxes.bg.overlay": "S:4812b332630a00e81fe912931e34bd84ae249760,",
+      "lootboxes.bg.additioinal": "S:2a84454d5ad8048144ddb47d195f012e30d160c0,",
+      "lootboxes.bg.overlay-additional": "S:7d4e88ded9ebd8d3a2ff1b5b8f60db50810c3568,",
+      "lootboxes.bg.overlay-gradient": "S:57c3661fdeddefd5ef420a79869ae7edad54ce80,",
+      "lootboxes.content.accent": "S:83bc92321fb8ba91c8a10f82499eabbd6f2681b3,",
+      "lootboxes.border.item": "S:92e49e63a8fa13fbbbe925b49da7fc03d2441097,",
+      "typography.title-extrasmall": "S:e6a2e6911da5637641e871075cccc6a30972187d,",
+      "shadow.accent-extra": "S:c33b24fa2f84b0b0ea04d3eb10121a46af60e5f4,",
+      "shadow.card-additional-3": "S:cb7145542b4106683866799c0d26fbf728cdb21a,",
+      "wheel.border.main-extra": "S:4b1785909eb8c574789e8916a800f30fbe45b13b,",
+      "wheel.border.main-additional-extra": "S:e2a4133e9342ac496815605387630281b1995032,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -2081,7 +2129,6 @@
       "wheel.picker.bg-main": "S:b38700687bd899809f39ffc38d140c9194676cf8,",
       "wheel.picker.bg-main-2-additional": "S:e62c26c8c0dc39d5a2fa885fce05e73173ba1d38,",
       "wheel.picker.bg-shaddow": "S:0e3b51c27c897c8e28fb194e71a049fe03816921,",
-      "wheel.picker.bg-main-2": "S:193140957f550ecd93385b4e4488a1a6dee2cf31,",
       "wheel.button.bg-2": "S:4ec52988d0b7cae374490d60e3c6cf341d30c683,",
       "wheel.button.play": "S:0bfc674e2ee7bef1c0a9bf8ce21cfe5afdc2789d,",
       "wheel.button.bg-1": "S:355c9da0ab5fca3a80d4f76e65bba272f150cea7,",
@@ -2165,7 +2212,8 @@
       "shadow.special-blocks.wheel.main": "S:037d3722803881648c3c2a77b3b0046ead5183a7,",
       "shadow.special-blocks.card": "S:fd6ba9a49d9f38749572787ae68f45b1fb7d8111,",
       "shadow.special-blocks.referral": "S:8adf38504745a5f4ca52a609c2522b535bcc8334,",
-      "small-elements.progress-bar": "S:708c1692bc830e4274cca0979d1c0e9b60c6289c,"
+      "small-elements.progress-bar": "S:708c1692bc830e4274cca0979d1c0e9b60c6289c,",
+      "wheel.picker.bg-main-2": "S:193140957f550ecd93385b4e4488a1a6dee2cf31,"
     },
     "selectedTokenSets": {
       "7slots.theme-1": "enabled"
@@ -2883,7 +2931,6 @@
       "wheel.picker.bg-main": "S:a08a648d09feb01e2464675e9a9c56b80b1b417e,",
       "wheel.picker.bg-main-2-additional": "S:38dbfc8e6733f56059417b07cb7a3c6922201c43,",
       "wheel.picker.bg-shaddow": "S:00e70732e18661f4f556726de8465b87f60016dd,",
-      "wheel.picker.bg-main-2": "S:63bde5f4d657dcd3a24bc20d35b07ce3ccab40d1,",
       "wheel.button.bg-2": "S:cc6df75114840beaac6e19c5d298bcb4d1ae6fec,",
       "wheel.button.play": "S:ed52608927791c2d29970e7acd33bf68b9b6d3e6,",
       "wheel.button.bg-1": "S:fde603a67c25be0104060854fe38a4b754c398d6,",
@@ -3082,7 +3129,8 @@
       "strip.content.icon-additional": "S:d2e115a9bda80e2a866c9b4dedd601c68c58a15b,",
       "strip.bg-progress-additional": "S:5d2facc40e402be92eeed0b9ba9591f2f5f5db43,",
       "special-blocks.secret-mirrors-title": "S:b33cf261aed72cc8eab8053316db830707637744,",
-      "bg.top-surface-additional": "S:d719f9ee7fc86c2e85d0e5b7717f891efb8bd128,"
+      "bg.top-surface-additional": "S:d719f9ee7fc86c2e85d0e5b7717f891efb8bd128,",
+      "wheel.picker.bg-main-2": "S:63bde5f4d657dcd3a24bc20d35b07ce3ccab40d1,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -3537,7 +3585,6 @@
       "wheel.picker.bg-main": "e739a7c869bb8fb115908ef44752858586005eae",
       "wheel.picker.bg-main-2-additional": "ccdea6b81022ea613aa780c137fef6761486c87d",
       "wheel.picker.bg-shaddow": "d1967d89cb0144f2ef180d08aeadb8772b39d310",
-      "wheel.picker.bg-main-2": "974bb06513c3662796a2cac824c23543d3624ee9",
       "wheel.button.bg-2": "11ae5b94ce9b3512ce8a985a96b6cc9a90c64458",
       "wheel.button.play": "caa77edbde53612db6dfc3dd2168e7689677658e",
       "wheel.button.bg-1": "19bb9d8a535ee714385dc6ca4949706265789b59",
@@ -3553,7 +3600,8 @@
       "Padding.button.large-horizontal-additional": "7e72300be94577ce7e9fbe65198616fc0806237b",
       "Padding.button.small-horizontal": "e7a44cf57668cd6218060df85b99377494fc6b4e",
       "Padding.button.small-vertical": "7965e38bfbd5dc5c0de55e5cf8df5c97fbf907ea",
-      "Padding.button.small-horizontal-additional": "d6b2112b2376f19cf843717364b15abf6374a689"
+      "Padding.button.small-horizontal-additional": "d6b2112b2376f19cf843717364b15abf6374a689",
+      "wheel.picker.bg-main-2": "974bb06513c3662796a2cac824c23543d3624ee9"
     }
   },
   {
