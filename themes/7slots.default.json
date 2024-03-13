@@ -4551,7 +4551,7 @@
         "description": "use as bg for circle"
       },
       "bg-main-2-extra": {
-        "value": "#8D0606",
+        "value": "#B62D3E",
         "type": "color",
         "description": "use as bg for picker in wheel icon in menu"
       }
@@ -4568,7 +4568,7 @@
         "description": "play triangle"
       },
       "bg-1": {
-        "value": "linear-gradient(180deg, #8DFCFD 0%, #B62D3E 45.62%, #750000 100%)",
+        "value": "#B6C6D4",
         "type": "color",
         "description": "use for bg on play button"
       },
@@ -4593,12 +4593,12 @@
         "description": "use as bg under wheel main border"
       },
       "main-extra": {
-        "value": "#C78A2B",
+        "value": "#7E898D",
         "type": "color",
         "description": "use for wheel border(inside) in menu wheel icon"
       },
       "main-additional-extra": {
-        "value": "#DFA03C",
+        "value": "#929EA3",
         "type": "color",
         "description": "use for wheel border (outside) in wheel icon in menu"
       }

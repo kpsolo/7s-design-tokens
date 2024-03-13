@@ -490,7 +490,21 @@
       "special-blocks.achievements.overlay": "S:a2010c8a3e07bc321259ea7984a1e9020df92b9f,",
       "special-blocks.achievements.stroke": "S:ea45b27eb1d51fedb0cc830df93b99a08d193fd6,",
       "special-blocks.secret-mirrors-title": "S:39b7b39eb61ca57ab43ced1e49a46621eea6a1ea,",
-      "wheel.picker.bg-main-2": "S:29ea250ec34bcc46a7b93f6fe68a5519da945391,"
+      "wheel.picker.bg-main-2": "S:29ea250ec34bcc46a7b93f6fe68a5519da945391,",
+      "bg.other.bonus": "S:fc6e19d1559455f9054b50febc4ac59f605e227c,",
+      "bg.top-surface-additional": "S:5cf99b91d09d5ad757739590bd57abf65dd85aad,",
+      "small-elements.progress-bg": "S:2264c133b225730ef2aa8fbae37d92a73e172252,",
+      "menu.content": "S:19ec94e4eca6e49ecdde00abedf5097504cbee74,",
+      "wheel.picker.bg-main-2-extra": "S:4244bf025ef0e953f7c8546a7fabac903f212da6,",
+      "wheel.border.main-extra": "S:c4fc98ff1e6f9298f1e850b79d2da8cfb295a87d,",
+      "wheel.border.main-additional-extra": "S:fd3fa87daa32ba3013dd400e20895596de53ba88,",
+      "strip.content.additional": "S:c7db5f097776a0bb76d1168eae86e085384b2268,",
+      "strip.content.accent-extra": "S:5989574a031a8f2b5a74229264a759963f814203,",
+      "strip.content.icon-additional": "S:f99ef82612ec286f3028bb61be932a445d9b57ae,",
+      "strip.content.additional-opacity": "S:ed03dd1cb5b45109ca7e3a38ce95e273cc92ec19,",
+      "strip.icon-border": "S:3173aa153e256573c8a35ff0b8296422d24170e9,",
+      "strip.bg-progress-additional": "S:3e0361e3c35bcdc13d0a423bc2fa35588c626dcd,",
+      "gamepage.content.accent-extra": "S:7d0a4afcc48cee91a10e52b11c5f7be744bd7e69,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
