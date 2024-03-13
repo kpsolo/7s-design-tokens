@@ -4519,7 +4519,7 @@
       "bg-1": {
         "value": "#170101",
         "type": "color",
-        "description": "use for bg on play button"
+        "description": "use for bg on play button on wheel icon in menu"
       },
       "bg-border-1": {
         "value": "linear-gradient(-17deg, #a46c15 3.09%, #f3b755 86.84%)",
