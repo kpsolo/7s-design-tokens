@@ -329,13 +329,13 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "25",
+        "lineHeight": "25px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.none}",
-        "fontSize": "22"
+        "fontSize": "22px"
       },
       "type": "typography",
       "description": "Small titles\nRegistration/login tabs"
