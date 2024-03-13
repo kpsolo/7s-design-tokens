@@ -3182,6 +3182,11 @@
       "value": "1px",
       "type": "borderWidth",
       "description": "Border width for lines"
+    },
+    "wheel-separator": {
+      "value": "1px",
+      "type": "borderWidth",
+      "description": "separator width in border sectors "
     }
   },
   "min-width": {
