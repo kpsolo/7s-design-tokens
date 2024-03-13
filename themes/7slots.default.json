@@ -3164,7 +3164,7 @@
       "description": "Border width for lines"
     },
     "wheel-separator": {
-      "value": "1px",
+      "value": "2px",
       "type": "borderWidth",
       "description": "separator width in border sectors "
     }
