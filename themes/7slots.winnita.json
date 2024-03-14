@@ -1884,7 +1884,16 @@
       "2": {
         "value": "#F4F4F4",
         "type": "color",
-        "description": "social icons bg"
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for status stiker for lottery/tournament desktop"
       },
       "3": {
         "value": "{text.content}",
