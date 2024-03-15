@@ -3044,32 +3044,24 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "#DCDDE0",
+        "value": "#2DD890",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
-              "value": "0.8",
-              "space": "srgb"
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
             }
           }
         },
-        "description": "Accent background for input"
+        "description": "bg for selected item in dropdown (currency registration)"
       },
       "hover": {
-        "value": "{base.light}",
+        "value": "#F3F3F3",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "Hover background for input"
+        "$extensions": {},
+        "description": "background for hover state in dropdown items (currency)"
       }
     },
     "text": {
