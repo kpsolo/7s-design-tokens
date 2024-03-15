@@ -3060,7 +3060,6 @@
       "hover": {
         "value": "#F3F3F3",
         "type": "color",
-        "$extensions": {},
         "description": "background for hover state in dropdown items (currency)"
       }
     },

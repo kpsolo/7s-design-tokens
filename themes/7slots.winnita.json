@@ -3102,31 +3102,15 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "#DCDDE0",
+        "value": "{bg.other.win-card-wrap}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Accent background for input"
       },
       "hover": {
-        "value": "{base.light}",
+        "value": "#F8F8F9",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Hover background for input"
       }
     },

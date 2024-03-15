@@ -3144,7 +3144,10 @@
       "strip.bg-progress-additional": "S:5d2facc40e402be92eeed0b9ba9591f2f5f5db43,",
       "special-blocks.secret-mirrors-title": "S:b33cf261aed72cc8eab8053316db830707637744,",
       "bg.top-surface-additional": "S:d719f9ee7fc86c2e85d0e5b7717f891efb8bd128,",
-      "wheel.picker.bg-main-2": "S:63bde5f4d657dcd3a24bc20d35b07ce3ccab40d1,"
+      "wheel.picker.bg-main-2": "S:63bde5f4d657dcd3a24bc20d35b07ce3ccab40d1,",
+      "wheel.picker.bg-main-2-extra": "S:b519eb3df43c85343c7c13acee780ffe44fbcd64,",
+      "wheel.border.main-extra": "S:9999466b9fbb2963db49b2e3fdba5fdd768386f1,",
+      "wheel.border.main-additional-extra": "S:6bbe9eba76368f1cdde239795e5c542e85d57dcd,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
