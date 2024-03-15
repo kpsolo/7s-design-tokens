@@ -3104,13 +3104,11 @@
       "accent": {
         "value": "{bg.other.win-card-wrap}",
         "type": "color",
-        "$extensions": {},
         "description": "Accent background for input"
       },
       "hover": {
         "value": "#F8F8F9",
         "type": "color",
-        "$extensions": {},
         "description": "Hover background for input"
       }
     },
