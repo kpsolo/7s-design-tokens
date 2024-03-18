@@ -2708,6 +2708,11 @@
       "type": "color",
       "description": "bg for progressbar in loyalty"
     },
+    "progress-bg-additional": {
+      "value": "transparent",
+      "type": "color",
+      "description": "border for progressbar in profile"
+    },
     "progress-bar-deals": {
       "value": "rgba(255, 255, 255, 0.30)",
       "type": "color",

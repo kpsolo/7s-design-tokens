@@ -2885,6 +2885,11 @@
       "value": "#E1E9F5",
       "type": "color",
       "description": "bg for progressbar in loyalty"
+    },
+    "progress-bg-additional": {
+      "value": "transparent",
+      "type": "color",
+      "description": "border for progressbar in profile"
     }
   },
   "icon": {
