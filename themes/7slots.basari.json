@@ -2561,7 +2561,7 @@
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
-    "proggress-bar": {
+    "progress-bar": {
       "value": "linear-gradient(180deg, #EC8E00 6.25%, #CD7B01 100%)",
       "type": "color"
     },
