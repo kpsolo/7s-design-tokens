@@ -434,7 +434,7 @@
       "text.link-dektop": "S:1fd3473d9996196c100cac1a56c885d68e9baefb,",
       "text.link-text-dektop": "S:e59006a578ebdd640bfa8aa9abbfc86c0ae7d11a,",
       "special-blocks.secret-mirror-title": "S:1942231740f41b4388eabaaacd709271a0355f54,",
-      "small-elements.progress-bar": "S:ecf418c27a0d11ab78eab650831d250e9b4edeb2,",
+      "small-elements.progress-bar": "S:641158dc05e0df0aa0b91abc709467fcb0907552,",
       "bg.other.footer-app": "S:0185d80997e72bd97ed3f726f5f73cda9a524423,",
       "bg.other.sidebar-game-additional": "S:bddac8a806aae6153e961a463d5480e3772c3c0b,",
       "bg.other.search": "S:d9706a732100877dc7027c7333eb44003781a36a,",
@@ -503,7 +503,8 @@
       "strip.content.additional-opacity": "S:ed03dd1cb5b45109ca7e3a38ce95e273cc92ec19,",
       "strip.icon-border": "S:3173aa153e256573c8a35ff0b8296422d24170e9,",
       "strip.bg-progress-additional": "S:3e0361e3c35bcdc13d0a423bc2fa35588c626dcd,",
-      "gamepage.content.accent-extra": "S:7d0a4afcc48cee91a10e52b11c5f7be744bd7e69,"
+      "gamepage.content.accent-extra": "S:7d0a4afcc48cee91a10e52b11c5f7be744bd7e69,",
+      "small-elements.progress-bg-additional": "S:def2a934906af569fd8caa5de943bb5048498db5,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
