@@ -2644,9 +2644,24 @@
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
+    "progress-large-bg": {
+      "value": "#E1E9F5",
+      "type": "color",
+      "description": "Color of progress for strip, gamepage(desktop)"
+    },
+    "progress-bg-additional": {
+      "value": "transparent",
+      "type": "color",
+      "description": "border for progressbar in profile"
+    },
     "progress-bar": {
       "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
       "type": "color"
+    },
+    "progress-bg": {
+      "value": "#E1E9F5",
+      "type": "color",
+      "description": "bg for progressbar in loyalty"
     },
     "bullet": {
       "value": "{base.primary}",
@@ -2656,6 +2671,35 @@
       "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
       "type": "color",
       "description": "Fade on tertiary backgrounds"
+    },
+    "label-new-1-text": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for text of label new in menu item"
+    },
+    "label-new-2": {
+      "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%)",
+      "type": "color",
+      "description": "use for label new in menu item"
+    },
+    "progress-bar-deals": {
+      "value": "#36579F",
+      "type": "color",
+      "description": "use in cards in deals page for bg and stroke"
+    },
+    "slider-curret": {
+      "value": "#4B9DE8",
+      "type": "color",
+      "description": "use for slider curret in mob main page"
+    },
+    "label-new-1": {
+      "value": "linear-gradient(180deg, #C26BA5 0%, #A05487 100%)",
+      "type": "color",
+      "description": "use for label new in menu item"
+    },
+    "slider": {
+      "value": "rgba(66, 114, 183, 0.40)",
+      "type": "color"
     },
     "sign": {
       "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
@@ -2714,21 +2758,6 @@
           }
         }
       }
-    },
-    "label-new-1": {
-      "value": "linear-gradient(180deg, #C26BA5 0%, #A05487 100%)",
-      "type": "color",
-      "description": "use for label new in menu item"
-    },
-    "label-new-1-text": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "use for text of label new in menu item"
-    },
-    "label-new-2": {
-      "value": "linear-gradient(342deg, #5A5A5A 0%, #FFF 100%)",
-      "type": "color",
-      "description": "use for label new in menu item"
     },
     "check-box": {
       "accent": {
@@ -2840,38 +2869,19 @@
         "type": "color",
         "description": "color of text and icon on active tab"
       }
-    },
-    "slider": {
-      "value": "rgba(66, 114, 183, 0.40)",
-      "type": "color"
-    },
-    "slider-curret": {
-      "value": "#4B9DE8",
-      "type": "color",
-      "description": "use for slider curret in mob main page"
-    },
-    "proggress-bar-deals": {
-      "value": "#36579F",
-      "type": "color",
-      "description": "use in cards in deals page for bg and stroke"
-    },
-    "progress-large-bg": {
-      "value": "#E1E9F5",
-      "type": "color",
-      "description": "Color of progress for strip, gamepage(desktop)"
-    },
-    "progress-bg": {
-      "value": "#E1E9F5",
-      "type": "color",
-      "description": "bg for progressbar in loyalty"
-    },
-    "progress-bg-additional": {
-      "value": "transparent",
-      "type": "color",
-      "description": "border for progressbar in profile"
     }
   },
   "icon": {
+    "alternative-disabled": {
+      "value": "{text.primary}",
+      "type": "color",
+      "description": "use for disabled icons in lists (loyalty)"
+    },
+    "ghost-4": {
+      "value": "#fff",
+      "type": "color",
+      "description": "use for message icon in desktop header"
+    },
     "secondary": {
       "value": "{base.dark}",
       "type": "color",
@@ -2972,16 +2982,6 @@
         "type": "color",
         "description": "[delete?]"
       }
-    },
-    "ghost-4": {
-      "value": "#fff",
-      "type": "color",
-      "description": "use for message icon in desktop header"
-    },
-    "alternative-disabled": {
-      "value": "{text.primary}",
-      "type": "color",
-      "description": "use for disabled icons in lists (loyalty)"
     }
   },
   "input": {
@@ -3447,6 +3447,29 @@
       "type": "color",
       "description": "for 404 numbers"
     },
+    "title-jackpot": {
+      "value": "linear-gradient(11deg, #63D086 27.69%, #B2FFAD 67.32%)",
+      "type": "color"
+    },
+    "amount-jackpot": {
+      "value": "linear-gradient(180deg, #BCDAF6 0%, #FFF 100%)",
+      "type": "color"
+    },
+    "secret-mirror-title": {
+      "value": "{text.title.main}",
+      "type": "color",
+      "description": "for secret mirror popup title"
+    },
+    "bg": {
+      "value": "rgba(106, 106, 106, 0.80)",
+      "type": "color",
+      "description": "use for bg search widget for providers popup"
+    },
+    "dropdown-content": {
+      "value": "{text.light}",
+      "type": "color",
+      "description": "Color of text and icons for custom dropdown"
+    },
     "jackpot-border": {
       "value": "#D2E5FF",
       "type": "color",
@@ -3622,6 +3645,11 @@
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
+    "jackpot-sum": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "for jackpot sun in jackpot page"
+    },
     "dropdown-custom-fade": {
       "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
       "type": "color",
@@ -3648,24 +3676,6 @@
         "type": "color",
         "description": "use for numbers gradient in conditions"
       }
-    },
-    "dropdown-content": {
-      "value": "{text.light}",
-      "type": "color",
-      "description": "Color of text and icons for custom dropdown"
-    },
-    "title-jackpot": {
-      "value": "linear-gradient(11deg, #63D086 27.69%, #B2FFAD 67.32%)",
-      "type": "color"
-    },
-    "amount-jackpot": {
-      "value": "linear-gradient(180deg, #BCDAF6 0%, #FFF 100%)",
-      "type": "color"
-    },
-    "secret-mirror-title": {
-      "value": "{text.title.main}",
-      "type": "color",
-      "description": "for secret mirror popup title"
     },
     "verification-title": {
       "value": {
@@ -3722,16 +3732,6 @@
         "paragraphIndent": "{paragraph-indent.first-stroke-default}"
       },
       "type": "typography"
-    },
-    "jackpot-sum": {
-      "value": "{base.accent-secondary}",
-      "type": "color",
-      "description": "for jackpot sun in jackpot page"
-    },
-    "bg": {
-      "value": "rgba(106, 106, 106, 0.80)",
-      "type": "color",
-      "description": "use for bg search widget for providers popup"
     },
     "achievements": {
       "border-1": {
@@ -3856,15 +3856,15 @@
         "description": "use for navbar border"
       }
     },
-    "accent": {
-      "value": "{base.accent-primary}",
-      "type": "color",
-      "description": "use for game catwgories bg"
-    },
     "item": {
       "value": "{text.content}",
       "type": "color",
       "description": "use for desktop categories"
+    },
+    "accent": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "use for game catwgories bg"
     },
     "item-active": {
       "value": "{base.accent-primary}",
@@ -4615,6 +4615,21 @@
     }
   },
   "strip": {
+    "overlay-additional": {
+      "value": "rgba(2, 54, 127, 0.60)",
+      "type": "color",
+      "description": "overlay on cards"
+    },
+    "bg-progress-additional": {
+      "value": "rgba(146, 146, 146, 0.16)",
+      "type": "color",
+      "description": "bg in brogress bar ingamepage widget"
+    },
+    "icon-border": {
+      "value": "#96C2FF",
+      "type": "color",
+      "description": "use for icons border on gamepage widget"
+    },
     "bg-progress": {
       "value": "#EEEEEE",
       "type": "color",
@@ -4666,27 +4681,12 @@
         "description": "use for content on widget fo gamepage"
       }
     },
-    "overlay-additional": {
-      "value": "rgba(2, 54, 127, 0.60)",
-      "type": "color",
-      "description": "overlay on cards"
-    },
     "bg": {
       "additional": {
         "value": "{base.light}",
         "type": "color",
         "description": "use as bg in gamepage widget"
       }
-    },
-    "icon-border": {
-      "value": "#96C2FF",
-      "type": "color",
-      "description": "use for icons border on gamepage widget"
-    },
-    "bg-progress-additional": {
-      "value": "rgba(146, 146, 146, 0.16)",
-      "type": "color",
-      "description": "bg in brogress bar ingamepage widget"
     }
   },
   "gamepage": {
