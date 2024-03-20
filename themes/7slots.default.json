@@ -2650,9 +2650,9 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bg-additional": {
-      "value": "transparent",
+      "value": "{bg.overlay.light-2}",
       "type": "color",
-      "description": "border for progressbar in profile"
+      "description": "border for progressbar in profile/menu mobile"
     },
     "progress-bar": {
       "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
