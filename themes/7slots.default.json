@@ -4143,7 +4143,7 @@
       }
     },
     "link-additional": {
-      "value": "{base.accent-secondary}",
+      "value": "{text.link}",
       "type": "color",
       "description": "use for links on color bg (footer/profile/tournament cards)"
     },
