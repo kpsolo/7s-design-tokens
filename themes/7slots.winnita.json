@@ -3240,12 +3240,12 @@
   },
   "width": {
     "nav": {
-      "value": "52px",
+      "value": "48px",
       "type": "sizing",
       "description": "use for top navbar items"
     },
     "tap-button": {
-      "value": "48",
+      "value": "52px",
       "type": "sizing",
       "description": "use for bottom tapbar main button"
     },
@@ -3261,8 +3261,8 @@
     }
   },
   "height": {
-    "tap-button-copy": {
-      "value": "48",
+    "tap-button": {
+      "value": "52px",
       "type": "sizing",
       "description": "use for bottom tapbar main button"
     },

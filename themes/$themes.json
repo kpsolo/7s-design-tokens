@@ -725,7 +725,6 @@
       "width.tap-button": "be917dd0f47daf769e6dccc9c8cb6d799c71db0f",
       "width.logo-mobile": "d4be989cb6a64ebf14aa15a05125a759e19f8610",
       "width.logo-desktop": "2c23a209d7987d64cf0c58979bfa0ee6180ceb91",
-      "height.tap-button-copy": "d650ccd1e5755670f72120da53a1c3cb3651f220",
       "height.nav": "7c16d0e4c9480dbd0bb5d9f58ce054876b1e8f2f",
       "height.logo-mobile": "c9fac6b96dc06a599da6a82bc0a0a64aa1ecd2ab",
       "height.logo-desktop": "5a40911f5b66c66c05c95850f6a066e85bf7a528",
@@ -901,7 +900,8 @@
       "strip.icon-border": "e4f48cdd175c0dd30ea49d82d6cc4ab2693a47d8",
       "strip.content.additional-opacity": "c6065571be7c9cf0ac387b33cb78bcb3e15567a8",
       "strip.bg-progress-additional": "277c5c24b2a724e22e9436c879521a4949eadf29",
-      "small-elements.progress-bar-deals": "ee8285e35bbee431ddcdcf9188a131e35be82f73"
+      "small-elements.progress-bar-deals": "ee8285e35bbee431ddcdcf9188a131e35be82f73",
+      "height.tap-button": "d650ccd1e5755670f72120da53a1c3cb3651f220"
     }
   },
   {
@@ -1635,7 +1635,6 @@
       "width.tap-button": "a1d1abb4128b2ad1fea9f9de2558fbb5732804c0",
       "width.logo-mobile": "3ac222ac8eebb822d269509ee16e6acf80576801",
       "width.logo-desktop": "7df9554a01d4df9eb13c5fb46c5d9e872d4ec8eb",
-      "height.tap-button-copy": "78e45d18421d13ae9c3728d0f9e66ff1cce2bbca",
       "height.nav": "2045d30909bc1c77364eefb5de4c27d414488d68",
       "height.logo-mobile": "14c1434495242e51550f123382430218ec3f1053",
       "height.logo-desktop": "0b194280a663e78409c6028e7f2a21efe5342a62",
@@ -1825,7 +1824,8 @@
       "strip.icon-border": "aaaabecce8ed9fbb01882a128170eae8f1b4a8b5",
       "strip.content.additional-opacity": "b52516583151ecc8d996d553cb0fad45ce47d1d8",
       "strip.bg-progress-additional": "448fabc3fb0e0068a0c28ca56678436e947282e9",
-      "small-elements.progress-bar-deals": "128cf7dea85306a2a7d51185c414bac156a3289b"
+      "small-elements.progress-bar-deals": "128cf7dea85306a2a7d51185c414bac156a3289b",
+      "height.tap-button": "78e45d18421d13ae9c3728d0f9e66ff1cce2bbca"
     }
   },
   {
@@ -2454,7 +2454,6 @@
       "width.tap-button": "b042637476fa99dcfab60f0c85cedd3535d1b1ad",
       "width.logo-mobile": "0c0c9d70083c7c57c1a621606e0fbfdfe27bac71",
       "width.logo-desktop": "456f1ec0440d3143cb5b4694e4be3a2aa7a89f33",
-      "height.tap-button-copy": "ea1933e7dab26a8f3ebb9461e3e0eddde91479f8",
       "height.nav": "17390ed4b54d6cc928e1997c772762ae3e02b8e2",
       "height.logo-mobile": "e0f7183d0a30290befd276f150c7802d9086e2e2",
       "height.logo-desktop": "2d210775059124f7eb44a2e8948f4e4ee6b8f3d4",
@@ -2639,7 +2638,8 @@
       "strip.icon-border": "3849f835f2195cd57ace8f1a26e4eb6263e93f80",
       "strip.content.additional-opacity": "e9c9fbb3ec4a21c7cc0d649f638c94f0ff24a470",
       "strip.bg-progress-additional": "4472f72297bb5ef693d8c9a79382a0b4015b88c6",
-      "small-elements.progress-bar-deals": "011946cbddad636a1d69b75f939feebb4b531b95"
+      "small-elements.progress-bar-deals": "011946cbddad636a1d69b75f939feebb4b531b95",
+      "height.tap-button": "ea1933e7dab26a8f3ebb9461e3e0eddde91479f8"
     }
   },
   {
@@ -3418,7 +3418,6 @@
       "width.tap-button": "c4c0053680020c5115b41cd6da7c2302054f8a21",
       "width.logo-mobile": "1b93854b09ce73b11e3712c45f3163b358910609",
       "width.logo-desktop": "97c65c896e708e55065cd43d1189502147d85acf",
-      "height.tap-button-copy": "32835788053ae48f69eab27e0a1517e65c8a02c9",
       "height.nav": "2263149e742d90d2f3b02bfe8affdaf892b1c188",
       "height.tabs-strip": "ebfcdf3ebc963c9886fa9295f126c10751b9239f",
       "height.categories-desktop": "4c7a4abd4383c695c9c301299468847aa9bdf490",
@@ -3618,7 +3617,8 @@
       "Padding.button.small-horizontal": "e7a44cf57668cd6218060df85b99377494fc6b4e",
       "Padding.button.small-vertical": "7965e38bfbd5dc5c0de55e5cf8df5c97fbf907ea",
       "Padding.button.small-horizontal-additional": "d6b2112b2376f19cf843717364b15abf6374a689",
-      "wheel.picker.bg-main-2": "974bb06513c3662796a2cac824c23543d3624ee9"
+      "wheel.picker.bg-main-2": "974bb06513c3662796a2cac824c23543d3624ee9",
+      "height.tap-button": "32835788053ae48f69eab27e0a1517e65c8a02c9"
     }
   },
   {

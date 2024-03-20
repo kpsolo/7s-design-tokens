@@ -3232,7 +3232,7 @@
     }
   },
   "height": {
-    "tap-button-copy": {
+    "tap-button": {
       "value": "48",
       "type": "sizing",
       "description": "use for bottom tapbar main button"
