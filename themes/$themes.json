@@ -3147,7 +3147,8 @@
       "wheel.picker.bg-main-2": "S:63bde5f4d657dcd3a24bc20d35b07ce3ccab40d1,",
       "wheel.picker.bg-main-2-extra": "S:b519eb3df43c85343c7c13acee780ffe44fbcd64,",
       "wheel.border.main-extra": "S:9999466b9fbb2963db49b2e3fdba5fdd768386f1,",
-      "wheel.border.main-additional-extra": "S:6bbe9eba76368f1cdde239795e5c542e85d57dcd,"
+      "wheel.border.main-additional-extra": "S:6bbe9eba76368f1cdde239795e5c542e85d57dcd,",
+      "small-elements.progress-bg-additional": "S:6f2bef45d4b65e43ec7bdf2cef2f0c3f0931abb2,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
