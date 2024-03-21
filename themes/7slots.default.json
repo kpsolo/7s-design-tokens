@@ -1819,6 +1819,11 @@
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
+    "social-icons": {
+      "value": "rgba(65, 109, 175, 0.10)",
+      "type": "color",
+      "description": "use for bg under social icons in mob menu"
+    },
     "top-surface": {
       "value": "{base.light}",
       "type": "color",
