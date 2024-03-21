@@ -4688,7 +4688,7 @@
         "type": "color"
       },
       "secondary": {
-        "value": "#173881",
+        "value": "{base.dark}",
         "type": "color"
       },
       "extra": {
