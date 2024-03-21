@@ -2705,7 +2705,7 @@
         "description": "use for deny label in cashbox transactions"
       },
       "deny-text": {
-        "value": "#FFF",
+        "value": "{base.dark}",
         "type": "color",
         "description": "use for deny label text in cashbox transactions"
       },
