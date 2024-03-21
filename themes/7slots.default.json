@@ -2776,14 +2776,14 @@
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
-        "value": "{base.light}",
+        "value": "{small-elements.check-box.accent}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
+              "value": "0.4",
+              "space": "lch"
             }
           }
         },
