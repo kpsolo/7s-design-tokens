@@ -2047,7 +2047,7 @@
       "description": "bg for notifications"
     },
     "social-icons": {
-      "value": "rgba(65, 109, 175, 0.10)",
+      "value": "rgba(69, 69, 69, 0.10)",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     }

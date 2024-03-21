@@ -1414,7 +1414,8 @@
       "wheel.border.main-extra": "S:4b1785909eb8c574789e8916a800f30fbe45b13b,",
       "wheel.border.main-additional-extra": "S:e2a4133e9342ac496815605387630281b1995032,",
       "small-elements.progress-bar-deals": "S:756ed6957c2dc83e88095a1f22ad4b976d56c0a2,",
-      "small-elements.progress-bg-additional": "S:06e9f4c7657f1075042d5e9e3021e34dbe50bab1,"
+      "small-elements.progress-bg-additional": "S:06e9f4c7657f1075042d5e9e3021e34dbe50bab1,",
+      "bg.social-icons": "S:d8282efc757b71be03035a4b3e9e31fca73c5eab,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
