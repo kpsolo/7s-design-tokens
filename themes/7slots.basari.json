@@ -1745,7 +1745,7 @@
         "description": "Background color for outside 1click zone "
       },
       "footer-app": {
-        "value": "#000000",
+        "value": "{bg.overlay.ghost-2}",
         "type": "color",
         "description": "bg for app button in footer"
       },
