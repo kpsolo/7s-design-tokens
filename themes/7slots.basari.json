@@ -2791,8 +2791,17 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bg": {
-      "value": "#E1E9F5",
+      "value": "{base.accent-light}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.1",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "bg for progressbar in loyalty"
     },
     "progress-bg-additional": {
