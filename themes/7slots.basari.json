@@ -3745,6 +3745,36 @@
         "type": "color",
         "description": "use as stroke in last/progress achievements cards and info card"
       }
+    },
+    "jackpot-title-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "36px",
+        "fontSize": "32px",
+        "letterSpacing": "-1%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget"
+    },
+    "jackpot-amount-additional": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "36px",
+        "fontSize": "34px",
+        "letterSpacing": "-1%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography",
+      "description": "Amount of prize on jackpot page"
     }
   },
   "filed spacing": {

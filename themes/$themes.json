@@ -505,7 +505,9 @@
       "gamepage.content.accent-extra": "S:7d0a4afcc48cee91a10e52b11c5f7be744bd7e69,",
       "small-elements.progress-bg-additional": "S:def2a934906af569fd8caa5de943bb5048498db5,",
       "small-elements.progress-bar-deals": "S:0e8e130c8dd94bc413650f32dad6fa38d36dce71,",
-      "bg.social-icons": "S:7351895a33273d3758da08cba7bd977c8e00b2e8,"
+      "bg.social-icons": "S:7351895a33273d3758da08cba7bd977c8e00b2e8,",
+      "special-blocks.jackpot-title-additional": "S:093084195ca92ed4785a7a74e97379165b97f465,",
+      "special-blocks.jackpot-amount-additional": "S:af50e114f3dda9859277cb262962a248dacba746,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
