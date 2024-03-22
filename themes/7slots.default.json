@@ -1789,7 +1789,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "footer-app": {
-        "value": "#000000",
+        "value": "{bg.overlay.ghost-2}",
         "type": "color",
         "description": "bg for app button in footer"
       },
