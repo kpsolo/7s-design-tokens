@@ -2664,7 +2664,7 @@
       "type": "color"
     },
     "progress-bg": {
-      "value": "#E1E9F5",
+      "value": "rgba(186, 188, 194, 0.10)",
       "type": "color",
       "description": "bg for progressbar in loyalty"
     },
