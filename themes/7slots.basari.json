@@ -1343,7 +1343,7 @@
     },
     "betting": {
       "value": {
-        "color": "#CAD5F4",
+        "color": "transparent",
         "width": "1px",
         "style": "solid"
       },
