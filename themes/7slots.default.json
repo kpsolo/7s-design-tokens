@@ -3681,7 +3681,7 @@
       "description": "For bg on filter dropdown and language dropdown"
     },
     "jackpot-sum": {
-      "value": "{base.accent-secondary}",
+      "value": "{text.accent-additional}",
       "type": "color",
       "description": "for jackpot sun in jackpot page"
     },
