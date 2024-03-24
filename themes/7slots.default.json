@@ -1450,8 +1450,8 @@
     },
     "notification-additional": {
       "value": {
-        "color": "#0CC434",
-        "width": "1,1,1,8",
+        "color": "transparent",
+        "width": "0",
         "style": "solid"
       },
       "type": "border",
@@ -1459,8 +1459,8 @@
     },
     "notification": {
       "value": {
-        "color": "#0CC434",
-        "width": "1",
+        "color": "transparent",
+        "width": "0",
         "style": "solid"
       },
       "type": "border",
@@ -2101,7 +2101,7 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "top-surface-additional": {
-      "value": "#EBF1FF",
+      "value": "{base.light}",
       "type": "color",
       "description": "bg for notifications"
     }
