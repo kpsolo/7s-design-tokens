@@ -4007,7 +4007,7 @@
       "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color"
     },
     "error": {
