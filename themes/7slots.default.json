@@ -2017,7 +2017,7 @@
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
       "9": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary} , 0.00) 0%, rgba( {bg.primary}, 0.76) 41.15%, {bg.primary} 100%)",
+        "value": "{bg.overlay-gradient.3}",
         "type": "color",
         "description": "use on message page under bottom link "
       },
