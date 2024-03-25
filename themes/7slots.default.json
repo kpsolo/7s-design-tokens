@@ -4252,7 +4252,7 @@
       "description": "Color of icon and text inside active item menu"
     },
     "accent": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
