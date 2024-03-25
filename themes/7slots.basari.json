@@ -1760,7 +1760,7 @@
         "description": "Background for search in desktop"
       },
       "bonus": {
-        "value": "#114FA5",
+        "value": "{bg.overlay.2}",
         "type": "color",
         "description": "use in registration bonus cards"
       }
