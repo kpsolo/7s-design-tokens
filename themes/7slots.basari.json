@@ -1344,7 +1344,7 @@
     "betting": {
       "value": {
         "color": "transparent",
-        "width": "1px",
+        "width": "0px",
         "style": "solid"
       },
       "type": "border",
