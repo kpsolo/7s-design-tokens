@@ -1325,8 +1325,8 @@
     },
     "dropdown-additional": {
       "value": {
-        "color": "#DCE0EE",
-        "width": "1",
+        "color": "transparent",
+        "width": "0px",
         "style": "solid"
       },
       "type": "border",
