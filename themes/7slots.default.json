@@ -4181,7 +4181,7 @@
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "{base.accent-primary}",
+        "value": "{text.title.accent}",
         "type": "color",
         "description": "usewelcom popup up timer"
       }
