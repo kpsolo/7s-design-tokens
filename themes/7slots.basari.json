@@ -3842,7 +3842,7 @@
         }
       },
       "additional": {
-        "value": "{bg.primary}",
+        "value": "{categories.bg.main}",
         "type": "color",
         "description": "use for search bg in categories"
       },
