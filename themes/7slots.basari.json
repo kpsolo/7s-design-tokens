@@ -2022,7 +2022,7 @@
       "description": "use for elipse bg on desktop homepage"
     },
     "additional-2": {
-      "value": "#0957C3",
+      "value": "{bg.additional}",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
