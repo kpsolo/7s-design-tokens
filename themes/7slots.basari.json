@@ -3635,6 +3635,11 @@
         "value": "#F4F7FB",
         "type": "color",
         "description": "use for numbers gradient in conditions"
+      },
+      "accent-additional": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for accent elements ( button, number)"
       }
     },
     "referral-number": {

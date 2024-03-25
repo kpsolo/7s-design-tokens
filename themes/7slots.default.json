@@ -3706,18 +3706,41 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg": {
-        "value": "#DBE5F0",
+        "value": "{bg.secondary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for numbers gradient in conditions"
       },
       "accent": {
-        "value": "#F4F7FB",
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "description": "use for accent elements ( button, number)"
+      },
+      "accent-additional": {
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent elements ( button, number)"
       },
       "bg-additional": {
         "value": "#F4F7FB",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for numbers gradient in conditions"
       }
     },
