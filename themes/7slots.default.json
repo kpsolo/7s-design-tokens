@@ -4176,7 +4176,7 @@
         "description": "for winner name in winning now block"
       },
       "additional": {
-        "value": "{base.accent-primary}",
+        "value": "{text.title.accent}",
         "type": "color",
         "description": "use in shop cards"
       },
