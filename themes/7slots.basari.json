@@ -4227,6 +4227,15 @@
     "content": {
       "value": "{text.light}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "Color for status and %"
     }
   },
