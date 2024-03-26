@@ -1774,7 +1774,7 @@
         "description": "use as bg for welcome popup timer widget"
       },
       "lootboxes-cell-selected": {
-        "value": "linear-gradient(180deg, rgba(248, 0, 24, 0.00) 53.95%, rgba(248, 0, 24, 0.20) 68.4%, rgba(248, 0, 24, 0.40) 81.71%, #F80018 100%), {bg.secondary}",
+        "value": "linear-gradient(180deg, rgba(45, 216, 144, 0.00) 53.95%, rgba(45, 216, 144, 0.20) 68.4%, rgba(45, 216, 144, 0.40) 81.71%, #2DD890 100%)",
         "type": "color",
         "description": "bg.other.lootboxes-cof-selected"
       },
@@ -4923,27 +4923,27 @@
   "lootboxes": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(99deg, #1147BD 0.86%, #083AA8 90.94%)",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "use for cards bg"
       },
       "overlay": {
-        "value": "rgba(255, 255, 255, 0.16)",
+        "value": "{bg.overlay.2}",
         "type": "color",
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "#ffff",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "rgba(255, 255, 255, 0.16)",
+        "value": "linear-gradient(180deg, rgba(37, 45, 64, 0.00) 0%, #252D40 72.13%, #252D40 100%)",
         "type": "color",
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "linear-gradient(180deg, rgba(7, 22, 54, 0.00) 0%, rgba(7, 22, 54, 0.74) 64%, #071636 100%)",
+        "value": "{bg.overlay-gradient.3}",
         "type": "color",
         "description": "use as overlay under tabs"
       }
@@ -4957,7 +4957,7 @@
     },
     "border": {
       "item": {
-        "value": "#cccc",
+        "value": "transparent",
         "type": "color",
         "description": "use as stroke for dropdown"
       }
