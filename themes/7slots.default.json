@@ -1423,8 +1423,8 @@
     },
     "empty-item": {
       "value": {
-        "color": "rgba(19, 58, 144, 0.40)",
-        "width": "1",
+        "color": "transaparent",
+        "width": "0px",
         "style": "dash"
       },
       "type": "border",
