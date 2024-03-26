@@ -1405,8 +1405,8 @@
     },
     "tooltip": {
       "value": {
-        "color": "#cccccc",
-        "width": "1px",
+        "color": "transparent",
+        "width": "0px",
         "style": "solid"
       },
       "type": "border",
