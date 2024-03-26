@@ -5017,6 +5017,17 @@
         "type": "dimension",
         "description": "use for small button vertical padding"
       }
+    },
+    "gamehall": {
+      "value": "0px",
+      "type": "dimension",
+      "description": "use for small button horizontal padding - with icons - left padding"
+    }
+  },
+  "padding": {
+    "game-hall": {
+      "value": "0px",
+      "type": "sizing"
     }
   }
 }

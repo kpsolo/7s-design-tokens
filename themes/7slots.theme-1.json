@@ -5040,6 +5040,17 @@
       "value": "6px",
       "type": "dimension",
       "description": "use for bottom block in profile "
+    },
+    "gamehall": {
+      "value": "0px",
+      "type": "dimension",
+      "description": "use for small button horizontal padding - with icons - left padding"
+    }
+  },
+  "padding": {
+    "game-hall": {
+      "value": "0px",
+      "type": "sizing"
     }
   }
 }
