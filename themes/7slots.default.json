@@ -5019,15 +5019,9 @@
       }
     },
     "gamehall": {
-      "value": "0px",
+      "value": "24px",
       "type": "dimension",
-      "description": "use for small button horizontal padding - with icons - left padding"
-    }
-  },
-  "padding": {
-    "game-hall": {
-      "value": "0px",
-      "type": "sizing"
+      "description": "use in homegage games hall"
     }
   }
 }
