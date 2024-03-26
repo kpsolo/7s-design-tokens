@@ -4812,7 +4812,7 @@
     },
     "content": {
       "primary": {
-        "value": "#122D67",
+        "value": "{text.primary}",
         "type": "color"
       },
       "secondary": {
@@ -4829,7 +4829,7 @@
         }
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "additional": {
@@ -4856,7 +4856,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{base.accent-secondary}",
+        "value": "{text.link}",
         "type": "color"
       },
       "hover": {
