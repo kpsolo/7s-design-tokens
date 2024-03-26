@@ -4910,7 +4910,7 @@
   "lootboxes": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(99deg, #1147BD 0.86%, #083AA8 90.94%)",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "use for cards bg"
       },
@@ -4920,31 +4920,31 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "#ffff",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "rgba(255, 255, 255, 0.16)",
+        "value": "{bg.overlay-gradient.3}",
         "type": "color",
         "description": "use for bg under prizes"
       },
       "overlay-gradient": {
-        "value": "linear-gradient(180deg, rgba(7, 22, 54, 0.00) 0%, rgba(7, 22, 54, 0.74) 64%, #071636 100%)",
+        "value": "{bg.overlay-gradient.3}",
         "type": "color",
         "description": "use as overlay under tabs"
       }
     },
     "content": {
       "accent": {
-        "value": "#3BEA62",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "use for accent text on card"
       }
     },
     "border": {
       "item": {
-        "value": "#cccc",
+        "value": "transparent",
         "type": "color",
         "description": "use as stroke for dropdown"
       }
