@@ -617,6 +617,14 @@
           "spread": "0",
           "color": "rgba(25, 30, 45, 0.60)",
           "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "rgba(255,255,255,0.08)",
+          "type": "innerShadow"
         }
       ],
       "type": "boxShadow",
@@ -1441,8 +1449,8 @@
     },
     "popup-additional": {
       "value": {
-        "color": "#DCE0EE",
-        "width": "1",
+        "color": "transparent",
+        "width": "1px",
         "style": "solid"
       },
       "type": "border",
@@ -1614,7 +1622,7 @@
     "card-additional": {
       "value": "12px",
       "type": "borderRadius",
-      "description": "Radius for cards amd widgets"
+      "description": "Radius for bonus cards in cashbox"
     }
   },
   "opacity": {
@@ -2819,7 +2827,7 @@
         "description": "use for deny label text in cashbox transactions"
       },
       "additional": {
-        "value": "#Ffff",
+        "value": "{bg.overlay.1}",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
       }
@@ -2831,7 +2839,7 @@
         "description": "use for timer bg top part"
       },
       "bg": {
-        "value": "#F6F6F8",
+        "value": "rgba(0, 0, 0, 0.32)",
         "type": "color",
         "description": "use for timer bg"
       },
@@ -4215,12 +4223,12 @@
       "description": "use for links on color bg (footer/profile/tournament cards)"
     },
     "link-dektop": {
-      "value": "{base.light}",
+      "value": "{text.link}",
       "type": "color",
       "description": "use for link on desktop popups (under popup frame)"
     },
     "link-text-dektop": {
-      "value": "{base.light}",
+      "value": "{text.content}",
       "type": "color",
       "description": "use for link text on desktop popups (under popup frame)"
     }
