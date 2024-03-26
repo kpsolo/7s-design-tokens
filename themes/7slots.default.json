@@ -2688,7 +2688,7 @@
       "description": "use for label new in menu item"
     },
     "progress-bar-deals": {
-      "value": "#36579F",
+      "value": "rgba(255, 255, 255, 0.30)",
       "type": "color",
       "description": "use in cards in deals page for bg and stroke"
     },
