@@ -5049,7 +5049,7 @@
     "gamehall": {
       "value": "0px",
       "type": "dimension",
-      "description": "use for small button horizontal padding - with icons - left padding"
+      "description": "use for top padding in homepage"
     }
   }
 }
