@@ -2781,8 +2781,17 @@
       "description": "use for slider curret in mob main page"
     },
     "progress-bar-deals": {
-      "value": "#36579F",
+      "value": "#FFF",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.15",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "use in cards in deals page for bg and stroke"
     },
     "progress-large-bg": {
