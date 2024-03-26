@@ -464,8 +464,8 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "36",
-        "fontSize": "34",
+        "lineHeight": "36px",
+        "fontSize": "34px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
