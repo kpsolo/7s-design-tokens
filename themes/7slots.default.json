@@ -4989,7 +4989,7 @@
   "Padding": {
     "pregame": {
       "main": {
-        "value": "24px",
+        "value": "0px",
         "type": "dimension"
       }
     },
