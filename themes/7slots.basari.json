@@ -609,6 +609,14 @@
           "spread": "0",
           "color": "rgba(39,39,39,0.2)",
           "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "rgba(255,255,255,0.08)",
+          "type": "innerShadow"
         }
       ],
       "type": "boxShadow",
@@ -1352,8 +1360,8 @@
     },
     "popup-additional": {
       "value": {
-        "color": "#DCE0EE",
-        "width": "1",
+        "color": "transparent",
+        "width": "0px",
         "style": "solid"
       },
       "type": "border",
@@ -2705,12 +2713,12 @@
         "description": "use for deny label in cashbox transactions"
       },
       "deny-text": {
-        "value": "{base.dark}",
+        "value": "{text.opacity.1}",
         "type": "color",
         "description": "use for deny label text in cashbox transactions"
       },
       "additional": {
-        "value": "#Ffff",
+        "value": "{bg.overlay.1}",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
       }
@@ -2722,7 +2730,7 @@
         "description": "use for timer bg top part"
       },
       "bg": {
-        "value": "#F6F6F8",
+        "value": "rgba(0, 0, 0, 0.32)",
         "type": "color",
         "description": "use for timer bg"
       },
@@ -4174,7 +4182,7 @@
       "description": "use for links on color bg (footer/profile/tournament cards, welcom popup mob)"
     },
     "link-dektop": {
-      "value": "{base.light}",
+      "value": "{text.link}",
       "type": "color",
       "description": "use for link on desktop popups (under popup frame)"
     },
