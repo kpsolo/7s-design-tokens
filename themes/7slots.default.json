@@ -3284,7 +3284,7 @@
       "description": "use for categories in desktop"
     },
     "tabs-strip": {
-      "value": "64",
+      "value": "42px",
       "type": "sizing",
       "description": "use tabs on strip page"
     }
