@@ -4836,7 +4836,7 @@
         "description": "bg for progressbar"
       },
       "logo": {
-        "value": "#FFFFFF",
+        "value": "transparent",
         "type": "color",
         "description": "bg under logo zone in left bar"
       },
