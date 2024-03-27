@@ -430,6 +430,21 @@
       "type": "typography",
       "description": "Email header"
     },
+    "banner": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.3}",
+        "fontSize": "{font-size.7}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Homepage banner subtitle"
+    },
     "menu-desktop": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -1395,17 +1410,17 @@
     },
     "1click": {
       "value": {
-        "color": "rgba(25, 41, 71, 0.10)",
-        "width": "1",
+        "color": "transparent",
+        "width": "0px",
         "style": "solid"
       },
       "type": "border",
-      "description": "use for dropdown"
+      "description": "use for 1click border"
     },
     "search": {
       "value": {
-        "color": "#cccccc",
-        "width": "1px",
+        "color": "transparent",
+        "width": "0px",
         "style": "solid"
       },
       "type": "border",
@@ -1807,7 +1822,7 @@
         "description": "Bg for right sidebar on gamepage (desktop)"
       },
       "search": {
-        "value": "#FFFFFF",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "Background for search in desktop"
       },
@@ -2658,7 +2673,7 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-large-bg": {
-      "value": "#E1E9F5",
+      "value": "{bg.overlay.light-1}",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -2900,7 +2915,7 @@
       "description": "use for disabled icons in lists (loyalty)"
     },
     "ghost-4": {
-      "value": "#fff",
+      "value": "#000",
       "type": "color",
       "description": "use for message icon in desktop header"
     },
@@ -3259,7 +3274,7 @@
       "description": "use for logo zone in footer "
     },
     "search": {
-      "value": "48",
+      "value": "80",
       "type": "sizing",
       "description": "use for desktop search height"
     },
@@ -3483,7 +3498,7 @@
       "description": "for secret mirror popup title"
     },
     "bg": {
-      "value": "rgba(106, 106, 106, 0.80)",
+      "value": "{bg.tertiary}",
       "type": "color",
       "description": "use for bg search widget for providers popup"
     },
@@ -3932,7 +3947,7 @@
       }
     },
     "item": {
-      "value": "{text.content}",
+      "value": "{text.primary}",
       "type": "color",
       "description": "use for desktop categories"
     },
@@ -4561,17 +4576,17 @@
         "description": "use for present icon in popup"
       },
       "border": {
-        "value": "#192947",
+        "value": "{base.primary}",
         "type": "color",
         "description": "use for wheel icon in desktop header"
       },
       "border-2": {
-        "value": "#525252",
+        "value": "{icon.secondary}",
         "type": "color",
         "description": "use for wheel icon in desktop header"
       },
       "border-3": {
-        "value": "#E5E5E5",
+        "value": "{icon.secondary}",
         "type": "color",
         "description": "use for wheel icon in desktop header"
       }
@@ -4915,7 +4930,7 @@
       "type": "color"
     },
     "overlay-additional": {
-      "value": "rgba(0, 0, 0, 0.80)",
+      "value": "{bg.overlay.gamepage}",
       "type": "color",
       "description": "overlay for game thumb hover state / desktop"
     }
