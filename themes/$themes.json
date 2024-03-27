@@ -1422,7 +1422,8 @@
       "bg.social-icons": "S:d8282efc757b71be03035a4b3e9e31fca73c5eab,",
       "special-blocks.jackpot-title-additional": "S:db6efa5b1052e92717f680a34fc81fd81da2b2d8,",
       "special-blocks.jackpot-amount-additional": "S:eac5c682b1e3c82f2c9a1a1f1d6800aed3c5022d,",
-      "special-blocks.referral.accent-additional": "S:c8d3cf535ac52bdfb6b2f9755dcb2c300bd310e7,"
+      "special-blocks.referral.accent-additional": "S:c8d3cf535ac52bdfb6b2f9755dcb2c300bd310e7,",
+      "typography.banner": "S:1be71a5ef44cfb6240c892fc4a0d37b68d16f118,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
