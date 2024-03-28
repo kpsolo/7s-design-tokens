@@ -1904,7 +1904,7 @@
             }
           }
         },
-        "description": "social icons bg"
+        "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
         "value": "{text.content}",
@@ -4848,17 +4848,17 @@
     },
     "content": {
       "primary": {
-        "value": "#FFF",
+        "value": "{text.light}",
         "type": "color"
       },
       "secondary": {
-        "value": "#FFFFFF",
+        "value": "{base.light}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.9",
+              "value": "0.8",
               "space": "srgb"
             }
           }
@@ -4869,7 +4869,7 @@
         "type": "color"
       },
       "additional": {
-        "value": "#FFFFFF",
+        "value": "{text.primary}",
         "type": "color",
         "description": "use for game name"
       },
@@ -4887,12 +4887,12 @@
         }
       },
       "extra": {
-        "value": "{base.accent-primary}",
+        "value": "{gamepage.content.inactive}",
         "type": "color",
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{text.link}",
+        "value": "{text.title.accent}",
         "type": "color"
       },
       "hover": {
