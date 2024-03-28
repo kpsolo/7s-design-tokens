@@ -1630,7 +1630,7 @@
       }
     },
     "item": {
-      "value": "{radius.button}",
+      "value": "2px",
       "type": "borderRadius",
       "description": "use for hightlight player in gamepage/tournament "
     },
@@ -4995,7 +4995,7 @@
     },
     "gamepage": {
       "player": {
-        "value": "16px",
+        "value": "4px",
         "type": "dimension"
       }
     },
