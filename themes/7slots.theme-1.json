@@ -4928,6 +4928,19 @@
         "value": "{base.dark}",
         "type": "color",
         "description": "use for tournament results in right sidebar"
+      },
+      "primary-additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        }
       }
     },
     "overlay": {

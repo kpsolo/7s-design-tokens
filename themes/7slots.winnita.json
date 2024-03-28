@@ -4509,6 +4509,19 @@
         "value": "#FFFFFF",
         "type": "color"
       },
+      "primary-additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        }
+      },
       "inactive": {
         "value": "#FFFFFF",
         "type": "color",
