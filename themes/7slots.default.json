@@ -4824,7 +4824,7 @@
             }
           }
         },
-        "description": "bg under star"
+        "description": "bg under star in gamepage top pannel"
       },
       "tertiary": {
         "value": "{bg.additional}",
