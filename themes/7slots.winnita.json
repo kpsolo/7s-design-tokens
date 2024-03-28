@@ -4470,7 +4470,7 @@
         "description": "bg under star"
       },
       "extra-additional": {
-        "value": "{gamepage.bg.extra}",
+        "value": "{gamepage.content.additional}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -4481,7 +4481,7 @@
             }
           }
         },
-        "description": "bg under star"
+        "description": "bg under star in gamepage "
       },
       "additional": {
         "value": "rgba(88, 122, 196, 0.30)",
