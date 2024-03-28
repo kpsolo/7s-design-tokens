@@ -4791,11 +4791,11 @@
   "gamepage": {
     "bg": {
       "primary": {
-        "value": "#EEEEEE",
+        "value": "{bg.tertiary}",
         "type": "color"
       },
       "secondary": {
-        "value": "{base.dark}",
+        "value": "{bg.primary}",
         "type": "color"
       },
       "extra": {
@@ -4827,7 +4827,7 @@
         "description": "bg under star"
       },
       "tertiary": {
-        "value": "transparent",
+        "value": "{bg.additional}",
         "type": "color"
       },
       "additional": {
