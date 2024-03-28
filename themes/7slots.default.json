@@ -1979,13 +1979,13 @@
         "description": "use for progress bar bg "
       },
       "gamepage": {
-        "value": "rgba(0, 0, 0, 0.90)",
+        "value": "#000",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.6",
               "space": "srgb"
             }
           }
@@ -4851,6 +4851,19 @@
         "value": "{text.light}",
         "type": "color"
       },
+      "primary-additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        }
+      },
       "secondary": {
         "value": "{base.light}",
         "type": "color",
@@ -4864,15 +4877,6 @@
           }
         }
       },
-      "accent": {
-        "value": "{icon.accent}",
-        "type": "color"
-      },
-      "additional": {
-        "value": "{text.primary}",
-        "type": "color",
-        "description": "use for game name"
-      },
       "tertiary": {
         "value": "#FFFFFF",
         "type": "color",
@@ -4885,6 +4889,15 @@
             }
           }
         }
+      },
+      "accent": {
+        "value": "{icon.accent}",
+        "type": "color"
+      },
+      "additional": {
+        "value": "{text.primary}",
+        "type": "color",
+        "description": "use for game name"
       },
       "extra": {
         "value": "{gamepage.content.inactive}",
@@ -4923,19 +4936,6 @@
         "value": "{base.dark}",
         "type": "color",
         "description": "use for tournament results in right sidebar"
-      },
-      "primary-additional": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        }
       }
     },
     "overlay": {
