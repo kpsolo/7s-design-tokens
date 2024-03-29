@@ -4472,7 +4472,6 @@
       "extra-additional": {
         "value": "#5A5A5A",
         "type": "color",
-        "$extensions": {},
         "description": "bg under star in gamepage "
       },
       "additional": {
