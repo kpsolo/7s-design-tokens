@@ -1401,7 +1401,7 @@
     },
     "strip-card": {
       "value": {
-        "color": "#E3F9FF",
+        "color": "{navbar.bg.main}",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -1768,7 +1768,7 @@
         "description": "use for bg under girls"
       },
       "strip-bg": {
-        "value": "linear-gradient(0deg, #1c212e, rgba(18,72,72,0) 50%)",
+        "value": "transparent",
         "type": "color",
         "description": "Global background for strip banners"
       },
@@ -4715,12 +4715,12 @@
   },
   "strip": {
     "overlay-additional": {
-      "value": "rgba(2, 54, 127, 0.60)",
+      "value": "{bg.overlay.5}",
       "type": "color",
-      "description": "overlay on cards"
+      "description": "overlay on locked cards"
     },
     "bg-progress-additional": {
-      "value": "rgba(146, 146, 146, 0.16)",
+      "value": "{strip.bg-progress}",
       "type": "color",
       "description": "bg in brogress bar ingamepage widget"
     },
@@ -4730,28 +4730,37 @@
       "description": "use for icons border on gamepage widget"
     },
     "bg-progress": {
-      "value": "#EEEEEE",
+      "value": "{bg.secondary}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "bg in brogress bar "
     },
     "overlay": {
-      "value": "rgba(255, 255, 255, 0.62)",
+      "value": "{bg.overlay.1}",
       "type": "color",
-      "description": "bg in brogress bar "
+      "description": "bg in controls "
     },
     "content": {
       "accent": {
-        "value": "{icon.accent-additional}",
+        "value": "{base.accent-primary}",
         "type": "color",
-        "description": "use for accent elements"
+        "description": "use for accent elements - border on cards"
       },
       "accent-additional": {
-        "value": "{text.accent}",
+        "value": "{button.bg.secondary}",
         "type": "color",
         "description": "use for accent elements (dots)"
       },
       "additional": {
-        "value": "{base.dark}",
+        "value": "{text.light}",
         "type": "color",
         "description": "use for content on widget fo gamepage"
       },
@@ -4766,23 +4775,15 @@
         "description": "use for icons in gamepage widget"
       },
       "additional-opacity": {
-        "value": "{base.dark}",
+        "value": "{text.opacity.light-2}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for content on widget fo gamepage"
       }
     },
     "bg": {
       "additional": {
-        "value": "{base.light}",
+        "value": "transparent",
         "type": "color",
         "description": "use as bg in gamepage widget"
       }
