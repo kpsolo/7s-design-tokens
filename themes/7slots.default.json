@@ -4777,7 +4777,6 @@
       "additional-opacity": {
         "value": "{text.opacity.light-2}",
         "type": "color",
-        "$extensions": {},
         "description": "use for content on widget fo gamepage"
       }
     },
