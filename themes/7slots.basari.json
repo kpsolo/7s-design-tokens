@@ -4714,7 +4714,7 @@
     },
     "content": {
       "accent": {
-        "value": "{icon.accent-additional}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent elements"
       },
