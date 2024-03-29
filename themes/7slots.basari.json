@@ -1849,7 +1849,8 @@
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
         "value": "{base.primary}",
@@ -4838,6 +4839,24 @@
         "value": "{text.primary}",
         "type": "color"
       },
+      "primary-additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        }
+      },
+      "additional": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "use for game name"
+      },
       "secondary": {
         "value": "#FFFFFF",
         "type": "color",
@@ -4855,11 +4874,6 @@
         "value": "{base.accent-secondary}",
         "type": "color"
       },
-      "additional": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "description": "use for game name"
-      },
       "tertiary": {
         "value": "#FFFFFF",
         "type": "color",
@@ -4867,19 +4881,19 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.8",
               "space": "srgb"
             }
           }
         }
       },
       "extra": {
-        "value": "{base.accent-primary}",
+        "value": "{gamepage.content.tertiary}",
         "type": "color",
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{text.link}",
+        "value": "{base.accent-secondary}",
         "type": "color"
       },
       "hover": {
@@ -4902,7 +4916,7 @@
         "description": "use for inactive items in right sidebar"
       },
       "icon": {
-        "value": "#5476B6",
+        "value": "{text.light}",
         "type": "color",
         "description": "use for close icon in right sidebar"
       },
@@ -4910,19 +4924,6 @@
         "value": "{base.dark}",
         "type": "color",
         "description": "use for tournament results in right sidebar"
-      },
-      "primary-additional": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        }
       }
     },
     "overlay": {
