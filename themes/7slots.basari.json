@@ -1312,7 +1312,7 @@
     },
     "strip-card": {
       "value": {
-        "color": "#E3F9FF",
+        "color": "{navbar.bg.main}",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -1551,7 +1551,7 @@
       "description": "Radius for cards amd widgets"
     },
     "tab": {
-      "value": "1px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     }
@@ -4708,28 +4708,28 @@
   },
   "strip": {
     "bg-progress": {
-      "value": "#EEEEEE",
+      "value": "{bg.secondary}",
       "type": "color",
       "description": "bg in brogress bar "
     },
     "overlay": {
-      "value": "rgba(255, 255, 255, 0.62)",
+      "value": "{bg.overlay.1}",
       "type": "color",
       "description": "bg in brogress bar "
     },
     "content": {
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "use for accent elements"
       },
       "accent-additional": {
-        "value": "{text.accent}",
+        "value": "{base.light}",
         "type": "color",
         "description": "use for accent elements (dots)"
       },
       "additional": {
-        "value": "{base.dark}",
+        "value": "{text.opacity.light-2}",
         "type": "color",
         "description": "use for content on widget fo gamepage"
       },
@@ -4744,7 +4744,7 @@
         "description": "use for icons in gamepage widget"
       },
       "additional-opacity": {
-        "value": "{base.dark}",
+        "value": "{text.opacity.light-2}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -4759,7 +4759,7 @@
       }
     },
     "overlay-additional": {
-      "value": "rgba(2, 54, 127, 0.60)",
+      "value": "{bg.overlay.5}",
       "type": "color",
       "description": "overlay on cards"
     },
