@@ -3164,7 +3164,8 @@
       "bg.social-icons": "S:a5806907e33b7192b2bac0b9659b9d94ee461f24,",
       "gamepage.content.primary-additional": "S:228c2b81e0e21ed993ab8a2067e7792635d6785c,",
       "special-blocks.jackpot-title-additional": "S:99465ca443809718bfd816477e80773183a77c73,",
-      "special-blocks.jackpot-amount-additional": "S:9673364a3033970986890c042b1237f496065057,"
+      "special-blocks.jackpot-amount-additional": "S:9673364a3033970986890c042b1237f496065057,",
+      "typography.link-m-additional": "S:503258cbf38b3e33a66ec20dbb0143a9d69a7f8c,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"

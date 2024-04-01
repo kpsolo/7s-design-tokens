@@ -231,7 +231,7 @@
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.underline}"
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -251,7 +251,7 @@
       "type": "typography",
       "description": "Link text"
     },
-    "link-m-hover": {
+    "link-m-additional": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
@@ -262,6 +262,21 @@
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography",
+      "description": "Link text in strip widget on gamepage (under title)"
+    },
+    "link-m-hover": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.5}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
