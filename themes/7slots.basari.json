@@ -4712,6 +4712,16 @@
       "type": "color",
       "description": "bg in brogress bar "
     },
+    "bg-progress-additional": {
+      "value": "{strip.bg-progress}",
+      "type": "color",
+      "description": "bg in brogress bar ingamepage widget"
+    },
+    "icon-border": {
+      "value": "#96C2FF",
+      "type": "color",
+      "description": "use for icons border on gamepage widget"
+    },
     "overlay": {
       "value": "{bg.overlay.1}",
       "type": "color",
@@ -4739,7 +4749,7 @@
         "description": "use for accent on pamepage widget"
       },
       "icon-additional": {
-        "value": "{text.title.extra}",
+        "value": "{icon.ghost-3}",
         "type": "color",
         "description": "use for icons in gamepage widget"
       },
@@ -4765,20 +4775,10 @@
     },
     "bg": {
       "additional": {
-        "value": "{base.light}",
+        "value": "{bg.other.strip-bg}",
         "type": "color",
         "description": "use as bg in gamepage widget"
       }
-    },
-    "icon-border": {
-      "value": "#96C2FF",
-      "type": "color",
-      "description": "use for icons border on gamepage widget"
-    },
-    "bg-progress-additional": {
-      "value": "rgba(146, 146, 146, 0.16)",
-      "type": "color",
-      "description": "bg in brogress bar ingamepage widget"
     }
   },
   "gamepage": {
