@@ -3160,7 +3160,11 @@
       "wheel.picker.bg-main-2-extra": "S:b519eb3df43c85343c7c13acee780ffe44fbcd64,",
       "wheel.border.main-extra": "S:9999466b9fbb2963db49b2e3fdba5fdd768386f1,",
       "wheel.border.main-additional-extra": "S:6bbe9eba76368f1cdde239795e5c542e85d57dcd,",
-      "small-elements.progress-bg-additional": "S:6f2bef45d4b65e43ec7bdf2cef2f0c3f0931abb2,"
+      "small-elements.progress-bg-additional": "S:6f2bef45d4b65e43ec7bdf2cef2f0c3f0931abb2,",
+      "bg.social-icons": "S:a5806907e33b7192b2bac0b9659b9d94ee461f24,",
+      "gamepage.content.primary-additional": "S:228c2b81e0e21ed993ab8a2067e7792635d6785c,",
+      "special-blocks.jackpot-title-additional": "S:99465ca443809718bfd816477e80773183a77c73,",
+      "special-blocks.jackpot-amount-additional": "S:9673364a3033970986890c042b1237f496065057,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
