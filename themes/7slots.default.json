@@ -1640,7 +1640,7 @@
       "description": "Radius for bonus cards in cashbox"
     },
     "tab": {
-      "value": "1px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     }
