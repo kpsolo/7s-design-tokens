@@ -510,7 +510,8 @@
       "special-blocks.jackpot-amount-additional": "S:af50e114f3dda9859277cb262962a248dacba746,",
       "special-blocks.referral.accent-additional": "S:8d9b590ee7a668d186d93e541c99fa992a720781,",
       "typography.banner": "S:5d2a94e3bb779468bf6e40cc1acb16d1a55d7229,",
-      "gamepage.content.primary-additional": "S:8e7cc8f98db008f7954926644f9c4c23cefe5a38,"
+      "gamepage.content.primary-additional": "S:8e7cc8f98db008f7954926644f9c4c23cefe5a38,",
+      "typography.link-m-additional": "S:2e1dad629bbbe8755ae68e62e12715b7ca1ac1cb,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

@@ -4081,8 +4081,17 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "#BABCC2",
+      "value": "#FFF",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
     "link": {
