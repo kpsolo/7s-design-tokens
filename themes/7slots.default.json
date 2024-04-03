@@ -3843,7 +3843,7 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "linear-gradient(158deg, #475471 6.71%, #7E5796 88.69%)",
+          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
           "type": "color",
           "description": "border for activity card"
         },
@@ -3861,12 +3861,17 @@
           "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
+        },
+        "win": {
+          "value": "linear-gradient(158deg, #B33CB5 0%, rgba(179, 60, 181, 0.43) 47.85%, #B33CB5 85.44%)",
+          "type": "color",
+          "description": "border for win card"
+        },
+        "achievements": {
+          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "type": "color",
+          "description": "border for win card"
         }
-      },
-      "border-2": {
-        "value": "linear-gradient(163deg, #475471 6.71%, #465B53 78.79%)",
-        "type": "color",
-        "description": "border for win card"
       },
       "element": {
         "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.16) 50.78%, rgba(255, 255, 255, 0.00) 100%)",
@@ -3877,6 +3882,21 @@
         "value": "linear-gradient(90deg, rgba(70, 95, 138, 0.15) 0.11%, rgba(70, 95, 138, 0.00) 99.89%)",
         "type": "color",
         "description": "for empty cards zone"
+      },
+      "bg-main": {
+        "value": "linear-gradient(180deg, rgba(40, 81, 136, 0.20) 1%, rgba(40, 81, 136, 0.00) 99.79%)",
+        "type": "color",
+        "description": "for first deposit screen"
+      },
+      "bg-progressbar": {
+        "value": "rgba(255, 255, 255, 0.08)",
+        "type": "color",
+        "description": "for progrees bar bg"
+      },
+      "overlay": {
+        "value": "rgba(151, 159, 215, 0.10)",
+        "type": "color",
+        "description": "for bg under icons in achievement info block"
       },
       "gradient-1": {
         "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
@@ -3893,32 +3913,17 @@
           "value": "linear-gradient(148deg, rgba(102, 45, 175, 0.54) 9.9%, rgba(109, 22, 151, 0.20) 36.87%, rgba(63, 11, 129, 0.00) 56.14%), rgba(28, 33, 46, 0.60)",
           "type": "color",
           "description": "card last bg in main screen"
+        },
+        "3": {
+          "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.16) 0%, rgba(230, 121, 41, 0.16) 100%)",
+          "type": "color",
+          "description": "card first deposit bg in main screen"
+        },
+        "4": {
+          "value": "linear-gradient(148deg, rgba(102, 45, 175, 0.54) 9.9%, rgba(109, 22, 151, 0.20) 36.87%, rgba(63, 11, 129, 0.00) 56.14%), rgba(28, 33, 46, 0.60)",
+          "type": "color",
+          "description": "bg for achievements cards"
         }
-      },
-      "card-3": {
-        "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.16) 0%, rgba(230, 121, 41, 0.16) 100%)",
-        "type": "color",
-        "description": "card first deposit bg in main screen"
-      },
-      "card-4": {
-        "value": "rgba(90, 144, 218, 0.10)",
-        "type": "color",
-        "description": "bg for achievements cards"
-      },
-      "bg-progressbar": {
-        "value": "rgba(255, 255, 255, 0.08)",
-        "type": "color",
-        "description": "for progrees bar bg"
-      },
-      "overlay": {
-        "value": "rgba(151, 159, 215, 0.10)",
-        "type": "color",
-        "description": "for bg under icons in achievement info block"
-      },
-      "bg-main": {
-        "value": "linear-gradient(180deg, rgba(40, 81, 136, 0.20) 1%, rgba(40, 81, 136, 0.00) 99.79%)",
-        "type": "color",
-        "description": "for first deposit screen"
       }
     }
   },

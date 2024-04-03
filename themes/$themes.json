@@ -463,9 +463,6 @@
       "special-blocks.achievements.element": "S:82e625b62582c311d8a473c2f4b4833e656bb1ce,",
       "special-blocks.achievements.gradient": "S:b0599c1bbbe798d462e8decc0abbf5f1ea046b21,",
       "special-blocks.achievements.gradient-1": "S:ab5d4c9ff08ff359f4f102f14d2615f25e8d7a3a,",
-      "special-blocks.achievements.border-2": "S:79d901bb33f8d2a7951f7dde0e036053176586ee,",
-      "special-blocks.achievements.card-3": "S:7fd48a83696d0b7dd4594cda01e6967911987899,",
-      "special-blocks.achievements.card-4": "S:264256dd59949dae340bf794bff2bc6b0abd850a,",
       "menu.accent": "S:7def9be05173e1effad359c9b09bb562f01dcba5,",
       "strip.content.accent-additional": "S:9d8ee7b8cc0c2e3768fde22c3b7e513a73774d7c,",
       "strip.overlay-additional": "S:fe07c1b92c97ad63727cb57b88e1b5f3314efdac,",
@@ -513,7 +510,12 @@
       "special-blocks.achievements.border.main-last": "S:19331dd7c9d19b29696355bb8533e13ef433e8a6,",
       "special-blocks.achievements.card.1": "S:29d0d1f2e3edc99ea3cd1b28fe12945fd1cc57ae,",
       "special-blocks.achievements.card.2": "S:170e581d1b32827ae9c5daa953b0050fe4a7472d,",
-      "special-blocks.achievements.border.main-progress": "S:bc7b9dda1e68305c21347b27489d2f76ccb08132,"
+      "special-blocks.achievements.border.main-progress": "S:bc7b9dda1e68305c21347b27489d2f76ccb08132,",
+      "special-blocks.achievements.border.win": "S:79d901bb33f8d2a7951f7dde0e036053176586ee,",
+      "bg.border": "S:a3edc07279fff814b35c7a69aa66003177debb72,",
+      "special-blocks.achievements.card.3": "S:7fd48a83696d0b7dd4594cda01e6967911987899,",
+      "special-blocks.achievements.card.4": "S:264256dd59949dae340bf794bff2bc6b0abd850a,",
+      "special-blocks.achievements.border.achievements": "S:8fa3a61b830fd1d6a8c5fd4cd0d6352dd96def10,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -755,8 +757,6 @@
       "special-blocks.secret-mirror-title": "5edd78f0d4eb64f68260a85802a1dbcc63757c74",
       "special-blocks.jackpot-sum": "badf17bacd18897673562f0c2029d0d80b7333ee",
       "special-blocks.bg": "48bdfda8a841fbe872a6c13c73884e5c56a6b9b6",
-      "special-blocks.achievements.card-3": "2d766bd6deb615ab5345a513498b61ee852d2079",
-      "special-blocks.achievements.card-4": "cc06f379e9faf882816b07a2018dd21aa0b06064",
       "special-blocks.achievements.bg-progressbar": "2569faef5365da3e044c4de596be9f2d7a4d3fc7",
       "special-blocks.achievements.overlay": "fcb72e29fa817a8f97159e27101f8c0e4ab23fc7",
       "filed spacing.left": "39e4203f1927355a85b80e77e4c805c30992e480",
@@ -910,7 +910,9 @@
       "small-elements.progress-bar-deals": "ee8285e35bbee431ddcdcf9188a131e35be82f73",
       "height.tap-button": "d650ccd1e5755670f72120da53a1c3cb3651f220",
       "special-blocks.achievements.card.1": "8b70fe3b5c7c488b292c92f553c004cc09e36ab4",
-      "special-blocks.achievements.card.2": "31414d353b4567b51f88036a21a647db6234e1db"
+      "special-blocks.achievements.card.2": "31414d353b4567b51f88036a21a647db6234e1db",
+      "special-blocks.achievements.card.3": "2d766bd6deb615ab5345a513498b61ee852d2079",
+      "special-blocks.achievements.card.4": "cc06f379e9faf882816b07a2018dd21aa0b06064"
     }
   },
   {
@@ -1383,9 +1385,6 @@
       "special-blocks.achievements.element": "S:e5cde9a3900cda6bd6ef968a779493355821e03b,",
       "special-blocks.achievements.gradient": "S:8d8222820aaf561c0b4a5befd55a3077b2857b12,",
       "special-blocks.achievements.gradient-1": "S:ba4fe5ef1596343ba0e877ffd88219f3aa93d157,",
-      "special-blocks.achievements.border-2": "S:f0e768fad62ca5f28ccf24e1be2343be629195fd,",
-      "special-blocks.achievements.card-3": "S:b3b9b72fe518fc048f236acc8038910314588fc2,",
-      "special-blocks.achievements.card-4": "S:800106a3806457c9697073c1b3b6f475da72b9da,",
       "special-blocks.achievements.bg-progressbar": "S:a0523e7c5e72154c560867c7fbcd506a733b0087,",
       "special-blocks.achievements.bg-main": "S:c7e1fc388e7e6b2594380676ed9229efc64f8163,",
       "special-blocks.achievements.overlay": "S:8efe9198da476fa070323ee1937498ed3ccbb1be,",
@@ -1428,7 +1427,10 @@
       "special-blocks.achievements.border.activity": "S:6c5f4c0a20b0ebb5df7c131115dc3c4304661bd7,",
       "special-blocks.achievements.border.main": "S:b0ee312f90a041315ad8b1f04e5d93272efa525e,",
       "special-blocks.achievements.card.1": "S:dde5c14ba5f643a24455024882911c3d5353f08f,",
-      "special-blocks.achievements.card.2": "S:f32e619eb5b59a4369392a13e388b11f7df49cbc,"
+      "special-blocks.achievements.card.2": "S:f32e619eb5b59a4369392a13e388b11f7df49cbc,",
+      "special-blocks.achievements.border.win": "S:f0e768fad62ca5f28ccf24e1be2343be629195fd,",
+      "special-blocks.achievements.card.3": "S:b3b9b72fe518fc048f236acc8038910314588fc2,",
+      "special-blocks.achievements.card.4": "S:800106a3806457c9697073c1b3b6f475da72b9da,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -1671,9 +1673,6 @@
       "special-blocks.jackpot-sum": "2912061c61e7bbff0e4df6dfe816590cbab5e2a3",
       "special-blocks.bg": "b8fcbe8c4e2c99d5e9003759520d45b23511e2aa",
       "special-blocks.achievements.element": "ec63dd3baf05adaa5bdf5c6f316d0ffb289dcaae",
-      "special-blocks.achievements.border-2": "edf27a40fa5bc4faa8e5f05806bf6623eeac61bf",
-      "special-blocks.achievements.card-3": "b3c75a31138b7af33fdb0d47348980fd82a4fe2b",
-      "special-blocks.achievements.card-4": "e0fc84ecaa30aff2cb01345a5f0d29d13f5d4bd0",
       "special-blocks.achievements.bg-progressbar": "3aa088abdceb8ba637496e3c2e24a7f3463e0309",
       "special-blocks.achievements.overlay": "ae3b3f0eca815a078c5aed336383d2db4119dd54",
       "filed spacing.left": "dc37577a02ffca7e254feca24a5b4febe8427645",
@@ -1840,7 +1839,10 @@
       "height.tap-button": "78e45d18421d13ae9c3728d0f9e66ff1cce2bbca",
       "special-blocks.achievements.border.activity": "cc16c32213f707a0e13b7b7715650546069b9988",
       "special-blocks.achievements.card.1": "3cad6fff51bde20af721cc2f54bf9affc3b884b4",
-      "special-blocks.achievements.card.2": "b40730ee844505582692257ad81154fa6dfc5a3e"
+      "special-blocks.achievements.card.2": "b40730ee844505582692257ad81154fa6dfc5a3e",
+      "special-blocks.achievements.border.win": "edf27a40fa5bc4faa8e5f05806bf6623eeac61bf",
+      "special-blocks.achievements.card.3": "b3c75a31138b7af33fdb0d47348980fd82a4fe2b",
+      "special-blocks.achievements.card.4": "e0fc84ecaa30aff2cb01345a5f0d29d13f5d4bd0"
     }
   },
   {
@@ -3135,9 +3137,6 @@
       "special-blocks.achievements.element": "S:7eb6911cb3de5008830924980a4dbcc5c250f10a,",
       "special-blocks.achievements.gradient": "S:2b82b739884f093fcff71b6608159114259cb378,",
       "special-blocks.achievements.gradient-1": "S:59d2721b17d9ae3268f28e5d4314b83b6fa6b330,",
-      "special-blocks.achievements.border-2": "S:09acb8b134647526530953218474070cb5ebbab6,",
-      "special-blocks.achievements.card-3": "S:839cb86ca485f264a44799aa27f4a9744198c128,",
-      "special-blocks.achievements.card-4": "S:e4058f25639e2335291f6f3fd16433e6f3b287ba,",
       "shadow.card-additional-3": "S:b92715538df7783ccf4890400a51b97f8b91b94d,",
       "small-elements.label.additional": "S:a13cf980cba93251eb8abc10b0584ce926fede3b,",
       "special-blocks.achievements.bg-progressbar": "S:8624105d0b81d49a860a2cdbdfa13a053f0da873,",
@@ -3168,7 +3167,10 @@
       "special-blocks.achievements.border.activity": "S:0b6b547c77cdceb0462e6fa03a3700784e6122eb,",
       "special-blocks.achievements.border.main": "S:3d11c9acd29ab3581bea472c15aa15742c59e140,",
       "special-blocks.achievements.card.1": "S:7e502675f30f4dc3d65892f73f23ec146a082205,",
-      "special-blocks.achievements.card.2": "S:c3c53752ef2c72f7e0620b90878ff1a47a32af84,"
+      "special-blocks.achievements.card.2": "S:c3c53752ef2c72f7e0620b90878ff1a47a32af84,",
+      "special-blocks.achievements.border.win": "S:09acb8b134647526530953218474070cb5ebbab6,",
+      "special-blocks.achievements.card.3": "S:839cb86ca485f264a44799aa27f4a9744198c128,",
+      "special-blocks.achievements.card.4": "S:e4058f25639e2335291f6f3fd16433e6f3b287ba,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -3460,9 +3462,6 @@
       "special-blocks.jackpot-widget-bg": "e842e77bc7cd568f748f78ee8388bab0c6e690d5",
       "special-blocks.dropdown-content": "6ed9d50e699ae7e833d7535ef84f72f48272efe4",
       "special-blocks.amount-jackpot": "8130e680688c31ed9e02620fa3a1bd26e1e0a4ad",
-      "special-blocks.achievements.border-2": "c45c4e07f82d5e4ec3b69e83c7fee090744befa1",
-      "special-blocks.achievements.card-3": "ab6c1b0be02dba02c0f59aed5c7a09f5d5e21c1b",
-      "special-blocks.achievements.card-4": "aaba61f204cac4e275281dda3aa796e6aa04a05d",
       "special-blocks.achievements.bg-progressbar": "a24ba7d7b795bd9cd51d6b18b3f5617bd07fd655",
       "special-blocks.achievements.overlay": "d72f4a5a08a12b2116f1cc3904779ef4a9d360f6",
       "special-blocks.referral.number": "ad7f1f5edf4b6a0e6ff9939070f7fbc562a7c7dd",
@@ -3639,7 +3638,10 @@
       "height.tap-button": "32835788053ae48f69eab27e0a1517e65c8a02c9",
       "special-blocks.achievements.border.activity": "ddff79c97f3a0652312115fbac8c481e116bedc5",
       "special-blocks.achievements.card.1": "146f33988e086efc98d7f2f5d2e76ab8b3af14b2",
-      "special-blocks.achievements.card.2": "745a365b7e0dbf9b6444aa39a2ac0e093a817379"
+      "special-blocks.achievements.card.2": "745a365b7e0dbf9b6444aa39a2ac0e093a817379",
+      "special-blocks.achievements.border.win": "c45c4e07f82d5e4ec3b69e83c7fee090744befa1",
+      "special-blocks.achievements.card.3": "ab6c1b0be02dba02c0f59aed5c7a09f5d5e21c1b",
+      "special-blocks.achievements.card.4": "aaba61f204cac4e275281dda3aa796e6aa04a05d"
     }
   },
   {

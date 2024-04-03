@@ -3781,6 +3781,16 @@
           "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
+        },
+        "win": {
+          "value": "#1F3189",
+          "type": "color",
+          "description": "border for win card"
+        },
+        "achievements": {
+          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "type": "color",
+          "description": "border for win card"
         }
       },
       "element": {
@@ -3798,11 +3808,6 @@
         "type": "color",
         "description": "for empty cards zone / desktop"
       },
-      "border-2": {
-        "value": "#1F3189",
-        "type": "color",
-        "description": "border for win card"
-      },
       "card": {
         "1": {
           "value": "#1F3189",
@@ -3813,17 +3818,17 @@
           "value": "#1F3189",
           "type": "color",
           "description": "card last bg in main screen"
+        },
+        "3": {
+          "value": "#1F3189",
+          "type": "color",
+          "description": "card first deposit bg in main screen"
+        },
+        "4": {
+          "value": "#1F3189",
+          "type": "color",
+          "description": "achivements card"
         }
-      },
-      "card-3": {
-        "value": "#1F3189",
-        "type": "color",
-        "description": "card first deposit bg in main screen"
-      },
-      "card-4": {
-        "value": "#1F3189",
-        "type": "color",
-        "description": "achivements card"
       },
       "bg-progressbar": {
         "value": "rgba(255, 255, 255, 0.20)",

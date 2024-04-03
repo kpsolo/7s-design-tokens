@@ -3903,6 +3903,11 @@
           "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
+        },
+        "achievements": {
+          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "type": "color",
+          "description": "border for win card"
         }
       }
     },
