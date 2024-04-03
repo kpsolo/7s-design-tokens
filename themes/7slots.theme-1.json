@@ -2131,6 +2131,11 @@
       "value": "rgba(65, 109, 175, 0.10)",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
+    },
+    "border": {
+      "value": "#DCE0EE",
+      "type": "color",
+      "description": "use for profile popups border "
     }
   },
   "nav": {

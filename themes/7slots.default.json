@@ -2139,6 +2139,11 @@
       "value": "{base.light}",
       "type": "color",
       "description": "bg for notifications"
+    },
+    "border": {
+      "value": "#DCE0EE",
+      "type": "color",
+      "description": "use for profile popups border "
     }
   },
   "nav": {
