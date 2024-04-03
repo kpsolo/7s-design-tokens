@@ -1390,7 +1390,7 @@
     },
     "popup-additional": {
       "value": {
-        "color": "transparent",
+        "color": "{bg.border}",
         "width": "0px",
         "style": "solid"
       },
@@ -2096,8 +2096,9 @@
       "description": "use for bg under social icons in mob menu"
     },
     "border": {
-      "value": "#DCE0EE",
+      "value": "transparent",
       "type": "color",
+      "$extensions": {},
       "description": "use for profile popups border "
     }
   },
