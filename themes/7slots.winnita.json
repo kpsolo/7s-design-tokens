@@ -1292,7 +1292,7 @@
     },
     "popup-additional": {
       "value": {
-        "color": "#DCE0EE",
+        "color": "{bg.border}",
         "width": "1",
         "style": "solid"
       },
