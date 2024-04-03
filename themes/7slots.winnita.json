@@ -3576,10 +3576,27 @@
       "type": "color"
     },
     "achievements": {
-      "border-1": {
-        "value": "{base.accent-primary}",
-        "type": "color",
-        "description": "border for activity card"
+      "border": {
+        "activity": {
+          "value": "{base.accent-primary}",
+          "type": "color",
+          "description": "border for activity card"
+        },
+        "main": {
+          "value": "linear-gradient(163deg, rgba(255, 255, 255, 0.35) 3.28%, rgba(71, 255, 185, 0.35) 84.38%)",
+          "type": "color",
+          "description": "use as stroke in last/progress achievements cards and info card"
+        },
+        "main-last": {
+          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "type": "color",
+          "description": "use as stroke in last achievements cards "
+        },
+        "main-progress": {
+          "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
+          "type": "color",
+          "description": "use as stroke in progress achievements cards "
+        }
       },
       "element": {
         "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 1.3%, rgba(255, 255, 255, 0.20) 51.43%, rgba(255, 255, 255, 0.00) 99%)",
@@ -3601,15 +3618,17 @@
         "type": "color",
         "description": "border for win card"
       },
-      "card-1": {
-        "value": "#1F3189",
-        "type": "color",
-        "description": "card in progress bg in main screen"
-      },
-      "card-2": {
-        "value": "#1F3189",
-        "type": "color",
-        "description": "card last bg in main screen"
+      "card": {
+        "1": {
+          "value": "#1F3189",
+          "type": "color",
+          "description": "card in progress bg in main screen"
+        },
+        "2": {
+          "value": "#1F3189",
+          "type": "color",
+          "description": "card last bg in main screen"
+        }
       },
       "card-3": {
         "value": "#1F3189",
@@ -3635,11 +3654,6 @@
         "value": "rgba(151, 159, 215, 0.10)",
         "type": "color",
         "description": "for bg under icons in achievement info block"
-      },
-      "stroke": {
-        "value": "linear-gradient(163deg, rgba(255, 255, 255, 0.35) 3.28%, rgba(71, 255, 185, 0.35) 84.38%)",
-        "type": "color",
-        "description": "use as stroke in last/progress achievements cards and info card"
       }
     },
     "jackpot-title": {

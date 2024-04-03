@@ -3883,10 +3883,22 @@
         "type": "color",
         "description": "for bg under icons in achievement info block"
       },
-      "stroke": {
-        "value": "linear-gradient(163deg, rgba(255, 255, 255, 0.35) 3.28%, rgba(71, 255, 185, 0.35) 84.38%)",
-        "type": "color",
-        "description": "use as stroke in last/progress achievements cards and info card"
+      "border": {
+        "main": {
+          "value": "linear-gradient(163deg, rgba(255, 255, 255, 0.35) 3.28%, rgba(71, 255, 185, 0.35) 84.38%)",
+          "type": "color",
+          "description": "use as stroke in last/progress achievements cards and info card"
+        },
+        "main-last": {
+          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "type": "color",
+          "description": "use as stroke in last achievements cards "
+        },
+        "main-progress": {
+          "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
+          "type": "color",
+          "description": "use as stroke in progress achievements cards "
+        }
       }
     },
     "jackpot-title-additional": {

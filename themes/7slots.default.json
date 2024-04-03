@@ -677,14 +677,6 @@
           "spread": "0",
           "color": "rgba(71, 255, 185, 0.08)",
           "type": "innerShadow"
-        },
-        {
-          "x": "-28",
-          "y": "28",
-          "blur": "28",
-          "spread": "0",
-          "color": "rgba(255, 255, 255, 0.03)",
-          "type": "innerShadow"
         }
       ],
       "type": "boxShadow",
@@ -3844,10 +3836,32 @@
       "type": "typography"
     },
     "achievements": {
-      "border-1": {
-        "value": "linear-gradient(158deg, #475471 6.71%, #7E5796 88.69%)",
+      "border": {
+        "activity": {
+          "value": "linear-gradient(158deg, #475471 6.71%, #7E5796 88.69%)",
+          "type": "color",
+          "description": "border for activity card"
+        },
+        "main": {
+          "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
+          "type": "color",
+          "description": "use as stroke in last/progress achievements cards and info card"
+        },
+        "main-last": {
+          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "type": "color",
+          "description": "use as stroke in last achievements cards "
+        },
+        "main-progress": {
+          "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
+          "type": "color",
+          "description": "use as stroke in progress achievements cards "
+        }
+      },
+      "border-2": {
+        "value": "linear-gradient(163deg, #475471 6.71%, #465B53 78.79%)",
         "type": "color",
-        "description": "border for activity card"
+        "description": "border for win card"
       },
       "element": {
         "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.16) 50.78%, rgba(255, 255, 255, 0.00) 100%)",
@@ -3864,23 +3878,20 @@
         "type": "color",
         "description": "for empty cards zone / desktop"
       },
-      "border-2": {
-        "value": "linear-gradient(163deg, #475471 6.71%, #465B53 78.79%)",
-        "type": "color",
-        "description": "border for win card"
-      },
-      "card-1": {
-        "value": "rgba(71, 118, 181, 0.20)",
-        "type": "color",
-        "description": "card in progress bg in main screen"
-      },
-      "card-2": {
-        "value": "rgba(87, 71, 181, 0.16)",
-        "type": "color",
-        "description": "card last bg in main screen"
+      "card": {
+        "1": {
+          "value": "linear-gradient(148deg, rgba(55, 45, 175, 0.54) 9.9%, rgba(55, 45, 175, 0.20) 36.87%, rgba(55, 45, 175, 0.00) 56.14%), rgba(28, 35, 53, 0.60)",
+          "type": "color",
+          "description": "card in progress bg in main screen"
+        },
+        "2": {
+          "value": "linear-gradient(148deg, rgba(102, 45, 175, 0.54) 9.9%, rgba(109, 22, 151, 0.20) 36.87%, rgba(63, 11, 129, 0.00) 56.14%), rgba(28, 33, 46, 0.60)",
+          "type": "color",
+          "description": "card last bg in main screen"
+        }
       },
       "card-3": {
-        "value": "rgba(71, 118, 181, 0.20)",
+        "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.16) 0%, rgba(230, 121, 41, 0.16) 100%)",
         "type": "color",
         "description": "card first deposit bg in main screen"
       },
@@ -3890,7 +3901,7 @@
         "description": "bg for achievements cards"
       },
       "bg-progressbar": {
-        "value": "rgba(255, 255, 255, 0.20)",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
         "description": "for progrees bar bg"
       },
@@ -3903,11 +3914,6 @@
         "value": "linear-gradient(180deg, rgba(40, 81, 136, 0.20) 1%, rgba(40, 81, 136, 0.00) 99.79%)",
         "type": "color",
         "description": "for first deposit screen"
-      },
-      "stroke": {
-        "value": "linear-gradient(180deg, #4B537F 0%, #305269 100%)",
-        "type": "color",
-        "description": "use as stroke in last/progress achievements cards and info card"
       }
     }
   },
