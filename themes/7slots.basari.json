@@ -2098,7 +2098,6 @@
     "border": {
       "value": "transparent",
       "type": "color",
-      "$extensions": {},
       "description": "use for profile popups border "
     }
   },
