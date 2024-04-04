@@ -4860,15 +4860,7 @@
       "extra-additional": {
         "value": "{gamepage.bg.extra}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "bg under star in gamepage top pannel"
       },
       "tertiary": {
