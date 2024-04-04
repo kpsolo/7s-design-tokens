@@ -1907,9 +1907,17 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "rgba(194, 214, 241, 0.50)",
+        "value": "#FFFFFF",
         "type": "color",
-        "$extensions": {},
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "bg for status stiker for lottery/tournament desktop"
       },
       "3": {
