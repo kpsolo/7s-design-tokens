@@ -3271,6 +3271,14 @@
     "game-item-block": {
       "value": "122px",
       "type": "sizing"
+    },
+    "button-m": {
+      "value": "40px",
+      "type": "sizing"
+    },
+    "button-s": {
+      "value": "32px",
+      "type": "sizing"
     }
   },
   "font-family": {
