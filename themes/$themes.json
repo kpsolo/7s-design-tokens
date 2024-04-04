@@ -3170,7 +3170,11 @@
       "special-blocks.achievements.card.2": "S:c3c53752ef2c72f7e0620b90878ff1a47a32af84,",
       "special-blocks.achievements.border.win": "S:09acb8b134647526530953218474070cb5ebbab6,",
       "special-blocks.achievements.card.3": "S:839cb86ca485f264a44799aa27f4a9744198c128,",
-      "special-blocks.achievements.card.4": "S:e4058f25639e2335291f6f3fd16433e6f3b287ba,"
+      "special-blocks.achievements.card.4": "S:e4058f25639e2335291f6f3fd16433e6f3b287ba,",
+      "bg.border": "S:6fd768faffdf8aff89eac1ce87c40afb7a2f69e6,",
+      "special-blocks.achievements.border.main-last": "S:5c31274808b9bb5a635037335997eabc00c6a356,",
+      "special-blocks.achievements.border.main-progress": "S:5925bb8c130c1e463ccd18012fc5854f7f1fc0be,",
+      "special-blocks.achievements.border.achievements": "S:a6bc7fdd3bfe418e9d84df34a2552d81f580557c,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"

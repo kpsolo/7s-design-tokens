@@ -4860,7 +4860,6 @@
       "extra-additional": {
         "value": "{gamepage.bg.extra}",
         "type": "color",
-        "$extensions": {},
         "description": "bg under star in gamepage top pannel"
       },
       "tertiary": {
