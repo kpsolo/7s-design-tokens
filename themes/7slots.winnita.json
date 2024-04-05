@@ -196,7 +196,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.xs}",
+        "lineHeight": "15px",
         "fontSize": "15px",
         "letterSpacing": "{letter-spacing.0,2}",
         "paragraphSpacing": "{paragraph-spacing.0}",
@@ -300,7 +300,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.s}",
+        "lineHeight": "{line-height.sm}",
         "fontSize": "17px",
         "letterSpacing": "{letter-spacing.0,5}",
         "paragraphSpacing": "{paragraph-spacing.0}",
@@ -5077,7 +5077,7 @@
         "description": "use for large button horizontal padding"
       },
       "large-vertical": {
-        "value": "10px",
+        "value": "4px",
         "type": "dimension",
         "description": "use for large button vertical padding"
       },
