@@ -3273,7 +3273,7 @@
       "type": "sizing"
     },
     "button-m": {
-      "value": "40px",
+      "value": "48px",
       "type": "sizing"
     },
     "button-s": {
@@ -5064,7 +5064,7 @@
     },
     "button": {
       "large-horizontal": {
-        "value": "0px",
+        "value": "12px",
         "type": "dimension",
         "description": "use for circle elements on primary bg"
       },
