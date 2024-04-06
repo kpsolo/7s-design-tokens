@@ -3902,7 +3902,7 @@
         "description": "for progrees bar bg"
       },
       "overlay": {
-        "value": "rgba(151, 159, 215, 0.10)",
+        "value": "rgba(186, 107, 54, 0.60)",
         "type": "color",
         "description": "for bg under icons in achievement info block"
       },
