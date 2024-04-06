@@ -515,7 +515,9 @@
       "bg.border": "S:a3edc07279fff814b35c7a69aa66003177debb72,",
       "special-blocks.achievements.card.3": "S:7fd48a83696d0b7dd4594cda01e6967911987899,",
       "special-blocks.achievements.card.4": "S:264256dd59949dae340bf794bff2bc6b0abd850a,",
-      "special-blocks.achievements.border.achievements": "S:8fa3a61b830fd1d6a8c5fd4cd0d6352dd96def10,"
+      "special-blocks.achievements.border.achievements": "S:8fa3a61b830fd1d6a8c5fd4cd0d6352dd96def10,",
+      "special-blocks.achievements.card.5": "S:3d51e0e789e0d20b194ecf0306482f4924234155,",
+      "special-blocks.achievements.card.6": "S:220aa2feca2737901d45d7d648a4d8797f0055ca,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

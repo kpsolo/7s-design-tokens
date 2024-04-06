@@ -3836,6 +3836,16 @@
           "value": "#1F3189",
           "type": "color",
           "description": "achivements card"
+        },
+        "5": {
+          "value": "linear-gradient(133deg, rgba(113, 44, 200, 0.54) 13.54%, rgba(113, 44, 200, 0.16) 41.38%, rgba(113, 44, 200, 0.00) 63.15%), rgba(0, 0, 0, 0.16)",
+          "type": "color",
+          "description": "bg for activity cards"
+        },
+        "6": {
+          "value": "linear-gradient(132deg, rgba(165, 59, 170, 0.54) 13.69%, rgba(165, 59, 170, 0.16) 38.75%, rgba(165, 59, 170, 0.00) 57.67%), rgba(0, 0, 0, 0.16)",
+          "type": "color",
+          "description": "bg for win cards"
         }
       },
       "bg-progressbar": {

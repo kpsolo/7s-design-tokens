@@ -3876,7 +3876,7 @@
           "description": "border for win card"
         },
         "achievements": {
-          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "value": "linear-gradient(158deg, #4A3BA8 0%, rgba(68, 59, 168, 0.43) 47.85%, #443BA8 85.44%)",
           "type": "color",
           "description": "border for win card"
         }
@@ -3887,12 +3887,12 @@
         "description": "fill for line in first screen"
       },
       "gradient": {
-        "value": "linear-gradient(90deg, rgba(70, 95, 138, 0.15) 0.11%, rgba(70, 95, 138, 0.00) 99.89%)",
+        "value": "linear-gradient(90deg, #302E73 0%, rgba(48, 46, 115, 0.00) 100%)",
         "type": "color",
         "description": "for empty cards zone"
       },
       "bg-main": {
-        "value": "linear-gradient(180deg, rgba(40, 81, 136, 0.20) 1%, rgba(40, 81, 136, 0.00) 99.79%)",
+        "value": "linear-gradient(178deg, rgba(255, 228, 175, 0.16) 1.63%, rgba(239, 133, 55, 0.00) 98.37%)",
         "type": "color",
         "description": "for first deposit screen"
       },
@@ -3928,9 +3928,19 @@
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(148deg, rgba(102, 45, 175, 0.54) 9.9%, rgba(109, 22, 151, 0.20) 36.87%, rgba(63, 11, 129, 0.00) 56.14%), rgba(28, 33, 46, 0.60)",
+          "value": "linear-gradient(148deg, rgba(60, 41, 174, 0.54) 9.9%, rgba(56, 22, 151, 0.20) 36.87%, rgba(42, 11, 129, 0.00) 56.14%), rgba(28, 33, 46, 0.60)",
           "type": "color",
           "description": "bg for achievements cards"
+        },
+        "5": {
+          "value": "linear-gradient(133deg, rgba(113, 44, 200, 0.54) 13.54%, rgba(113, 44, 200, 0.16) 41.38%, rgba(113, 44, 200, 0.00) 63.15%), rgba(0, 0, 0, 0.16)",
+          "type": "color",
+          "description": "bg for activity cards"
+        },
+        "6": {
+          "value": "linear-gradient(132deg, rgba(165, 59, 170, 0.54) 13.69%, rgba(165, 59, 170, 0.16) 38.75%, rgba(165, 59, 170, 0.00) 57.67%), rgba(0, 0, 0, 0.16)",
+          "type": "color",
+          "description": "bg for win cards"
         }
       }
     }
