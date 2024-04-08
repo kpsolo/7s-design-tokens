@@ -3539,6 +3539,66 @@
       "type": "color",
       "description": "Background for jackpot widget"
     },
+    "payment-block-mob": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "24px",
+        "fontSize": "18px",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Title for jackpot widget"
+    },
+    "payment-block-main-desktop": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "38px",
+        "fontSize": "32px",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "main Title for payment block widget"
+    },
+    "payment-block-additional-desktop": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "32px",
+        "fontSize": "20px",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "main Title for payment block widget"
+    },
+    "payment-block-extra-desktop": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "24px",
+        "fontSize": "14px",
+        "letterSpacing": "0%",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "small Title for payment block widget"
+    },
     "jackpot-title": {
       "value": {
         "fontFamily": "{font-family.main}",

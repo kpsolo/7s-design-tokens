@@ -517,7 +517,11 @@
       "special-blocks.achievements.card.4": "S:264256dd59949dae340bf794bff2bc6b0abd850a,",
       "special-blocks.achievements.border.achievements": "S:8fa3a61b830fd1d6a8c5fd4cd0d6352dd96def10,",
       "special-blocks.achievements.card.5": "S:3d51e0e789e0d20b194ecf0306482f4924234155,",
-      "special-blocks.achievements.card.6": "S:220aa2feca2737901d45d7d648a4d8797f0055ca,"
+      "special-blocks.achievements.card.6": "S:220aa2feca2737901d45d7d648a4d8797f0055ca,",
+      "special-blocks.payment-block-mob": "S:ee50a988b43eb90fa285570516567a9b84265118,",
+      "special-blocks.payment-block-main-desktop": "S:ad20528a7bccfa5ded26002f938029a3f55f5086,",
+      "special-blocks.payment-block-additional-desktop": "S:4124aec82a16a22b19e51e60f2b324c7557be6bc,",
+      "special-blocks.payment-block-extra-desktop": "S:21b859710df0489f4cf01407a6c0e0fc297dfe74,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
