@@ -3879,7 +3879,7 @@
         "description": "fill for line in first screen"
       },
       "gradient": {
-        "value": "linear-gradient(90deg, #302E73 0%, rgba(48, 46, 115, 0.00) 100%)",
+        "value": "linear-gradient(90deg, #4C3180 0%, rgba(76, 49, 128, 0.00) 100%)",
         "type": "color",
         "description": "for empty cards zone"
       },
