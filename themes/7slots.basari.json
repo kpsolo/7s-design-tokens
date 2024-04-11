@@ -3811,12 +3811,12 @@
         "type": "color",
         "description": "fill for line in first screen"
       },
-      "gradient": {
+      "gradient-empty": {
         "value": "linear-gradient(89deg, rgba(23, 33, 87, 0.70) 1.23%, rgba(23, 33, 87, 0.00) 98.88%)",
         "type": "color",
         "description": "for empty cards zone"
       },
-      "gradient-1": {
+      "gradient-empty-additional": {
         "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
         "type": "color",
         "description": "for empty cards zone / desktop"
@@ -3872,6 +3872,33 @@
         "value": "rgba(151, 159, 215, 0.10)",
         "type": "color",
         "description": "for bg under icons in achievement info block"
+      },
+      "gradient": {
+        "activity": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(110, 39, 210, 0.40) 0%, rgba(110, 42, 207, 0.40) 19.81%, rgba(88, 30, 170, 0.40) 38.75%, rgba(60, 30, 46, 0.32) 58.55%, rgba(60, 30, 46, 0.21) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
+          "type": "color",
+          "description": "radial card"
+        },
+        "win": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(110, 39, 210, 0.40) 0%, rgba(110, 42, 207, 0.40) 19.81%, rgba(88, 30, 170, 0.40) 38.75%, rgba(60, 30, 46, 0.32) 58.55%, rgba(60, 30, 46, 0.21) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
+          "type": "color",
+          "description": "radial card - win"
+        },
+        "achievements": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(35, 30, 91, 0.60) 0%, rgba(39, 31, 91, 0.60) 19.81%, rgba(50, 37, 94, 0.60) 38.75%, rgba(50, 37, 94, 0.41) 58.55%, rgba(50, 37, 94, 0.31) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
+          "type": "color",
+          "description": "radial card - achievements"
+        },
+        "main": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(34, 92, 103, 0.80) 0%, rgba(34, 92, 103, 0.73) 16.5%, rgba(34, 92, 103, 0.58) 47.5%, rgba(63, 53, 105, 0.28) 77.5%, rgba(63, 53, 105, 0.20) 77.51%, rgba(37, 45, 64, 0.47) 90.02%, rgba(37, 45, 64, 0.00) 100%)",
+          "type": "color",
+          "description": "radial card - main screen/first deposit"
+        },
+        "main-additional": {
+          "value": "radial-gradient(50% 50% at 50% 50%, rgba(246, 110, 10, 0.80) 0%, rgba(239, 112, 14, 0.80) 19.81%, rgba(203, 99, 19, 0.77) 35.5%, rgba(94, 28, 63, 0.66) 67.81%, rgba(94, 28, 63, 0.47) 78.24%, rgba(142, 22, 84, 0.22) 90.02%, rgba(142, 22, 84, 0.00) 100%)",
+          "type": "color",
+          "description": "radial card - main screen with achievements icon"
+        }
       }
     },
     "jackpot-title-additional": {
