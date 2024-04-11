@@ -1202,7 +1202,7 @@
     },
     "button-disabled-additional": {
       "value": {
-        "color": "{button.border.tertiary-disabled}",
+        "color": "{button.bg.primary-disabled}",
         "style": "solid",
         "width": "2"
       },
