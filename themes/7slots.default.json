@@ -3912,6 +3912,11 @@
           "type": "color",
           "description": "use as stroke in last/progress achievements cards and info card"
         },
+        "main-additional": {
+          "value": "linear-gradient(178deg, #1AA3A3 1.63%, rgba(38, 201, 201, 0.17) 98.37%)",
+          "type": "color",
+          "description": "use as stroke in first deposit widget"
+        },
         "main-last": {
           "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
           "type": "color",
@@ -3993,6 +3998,11 @@
           "value": "linear-gradient(132deg, rgba(165, 59, 170, 0.54) 13.69%, rgba(165, 59, 170, 0.16) 38.75%, rgba(165, 59, 170, 0.00) 57.67%), rgba(0, 0, 0, 0.16)",
           "type": "color",
           "description": "bg for win cards"
+        },
+        "first-deposit": {
+          "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 1.63%, rgba(39, 85, 101, 0.16) 98.37%)",
+          "type": "color",
+          "description": "card first deposit bg in main screen"
         }
       }
     }
