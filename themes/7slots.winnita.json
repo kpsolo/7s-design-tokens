@@ -1202,7 +1202,7 @@
     },
     "button-disabled-additional": {
       "value": {
-        "color": "{button.bg.primary-disabled}",
+        "color": "transparent",
         "style": "solid",
         "width": "2"
       },
