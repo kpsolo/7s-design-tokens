@@ -2118,7 +2118,6 @@
         "1": {
           "value": "linear-gradient(151deg, rgba(24, 77, 139, 0.60) 0%, rgba(54, 42, 48, 0.60) 50.9%, rgba(55, 41, 46, 0.60) 100%)",
           "type": "color",
-          "$extensions": {},
           "description": "1st deposit card bg"
         }
       },
@@ -2126,7 +2125,6 @@
         "1": {
           "value": "rgba(20, 28, 41, 0.50)",
           "type": "color",
-          "$extensions": {},
           "description": "1st deposit card tabs bg"
         }
       },
@@ -2134,7 +2132,6 @@
         "1": {
           "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, #283753 85.44%)",
           "type": "color",
-          "$extensions": {},
           "description": "1st deopsit card stroke bg"
         }
       }
