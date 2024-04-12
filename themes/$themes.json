@@ -530,7 +530,12 @@
       "special-blocks.achievements.gradient.main": "S:554c70b2210de65318365e2dce97062ed023b3fe,",
       "special-blocks.achievements.gradient.main-additional": "S:059c1aff0aa3c9f848bf5eb2fc91a5de0214bec3,",
       "special-blocks.achievements.card.first-deposit": "S:a7aa33d775b7aade660f00c159090a2404694aea,",
-      "small-elements.slider-curret-additional": "S:814620601febe0b6f9124135a3702027a72b3612,"
+      "small-elements.slider-curret-additional": "S:814620601febe0b6f9124135a3702027a72b3612,",
+      "bg.overlay.7": "S:3ca7d9393fc048dc96050928cb4c8fbccf23c3b2,",
+      "typography.title-tab-additional": "S:282ca60b42f6de145a6c0c7a56d04684caf9797a,",
+      "typography.title-tab-extra": "S:cbb4fa20496858e10d68ad623f5f4ecbbfc91ab1,",
+      "bg.card.border.1": "S:8defb37b14b64574a9e8f83777b38ef9c4f166ef,",
+      "bg.card.bg.1": "S:2203763417447bb36f6fe72bb4f14bc74b229f68,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -608,7 +613,6 @@
       "bg.overlay.right-menu": "16b74e03c18ec42b188701a9ea0f0a62131f3a54",
       "bg.overlay.light-1": "57f069c239076956a399e8cbf54efe5635d8e98f",
       "bg.overlay.gamepage": "a0809720fe5012a47331c281321a93e66b285dbd",
-      "bg.blur": "f2ddd3504cd983b451c43c5363d9fc329446eeeb",
       "bg.info-blur": "4fb6bb22bbaad3d57897a42d5d85dacea33e35f0",
       "bg.elements-blur": "fac7096435406c5e00cd1390bb771d419c8d107c",
       "bg.radial": "a42d6bb5ba6db0de4308ea4b7b45b12257fe2dbc",
@@ -938,7 +942,8 @@
       "Padding.button.small-horizontal-additional": "55feb8f3649ec389608be74fea14f310b3104ca5",
       "Padding.button.large-vertical": "156aa956a9bfbe757acdd21ec7cc3ff4b9b76a4f",
       "Padding.button.small-vertical": "0ed3aaf5ae2bf0089ec6a67ed19c7f18acbf8799",
-      "Padding.gamehall": "f9c0a9bd380ea8fb738fa4b9e83f23c2b6a39d58"
+      "Padding.gamehall": "f9c0a9bd380ea8fb738fa4b9e83f23c2b6a39d58",
+      "bg.blur": "f2ddd3504cd983b451c43c5363d9fc329446eeeb"
     }
   },
   {
@@ -1530,7 +1535,6 @@
       "bg.overlay.right-menu": "dea3b78b34e7ef7ae4e7ea94ac5996d46c1d1ae1",
       "bg.overlay.light-1": "6eb7200b3130625d162afb8748381f8048d902d7",
       "bg.overlay.gamepage": "be037b7aded8e86dccfe88fb43e9bde492874270",
-      "bg.blur": "a2b05c4f1ea4243d6a37d999f725fee4b4cfd106",
       "bg.info-blur": "582078f8bd7c50899505f6dadefd507da9035d40",
       "bg.elements-blur": "b1c93e87841d224f74d3ed4a577bc205348c4fc4",
       "bg.radial": "4802c2f5866c5251a21462dd448b79df88d7dff8",
@@ -1882,7 +1886,8 @@
       "Padding.button.small-horizontal-additional": "a226916ddf83d8ad03a68cea751f2c6cf3571738",
       "Padding.button.large-vertical": "ab4c657868a958bbc22fe59d0a2aaa2c38d8cefc",
       "Padding.button.small-vertical": "77b1d38ecc68f5baaf1585238aa2b4d45bf59a40",
-      "Padding.gamehall": "0ba5560ea8147650fd69dbabfb3f50c2ea913fcd"
+      "Padding.gamehall": "0ba5560ea8147650fd69dbabfb3f50c2ea913fcd",
+      "bg.blur": "a2b05c4f1ea4243d6a37d999f725fee4b4cfd106"
     }
   },
   {
@@ -2361,7 +2366,6 @@
       "bg.overlay.right-menu": "6ec393624a147ef9f485897cd8d94d9e38a70bba",
       "bg.overlay.light-1": "725bcf2eb2febc7088f55d14080ce4d2da1a5252",
       "bg.overlay.gamepage": "eb691d46966351529221fa26d6535a425a490cb4",
-      "bg.blur": "9019b6c9d556b517bd16e6ec19e39189bc93d181",
       "bg.info-blur": "cb9691a31985866d1aa2d9417b1f1556c77e592e",
       "bg.elements-blur": "de46f9b00a2dc6b1b350d7e960cb176bd62ee93d",
       "bg.radial": "a8e6dda9feb7b1aaf4f6f2fb2d2b859e0c12043f",
@@ -2711,7 +2715,8 @@
       "Padding.button.small-vertical": "bb4d19261dd2735f79a76c81504100bce003106d",
       "Padding.blur-achivements": "2619d58365aa34d66b4fb786fd8ddf954c46c549",
       "Padding.gamehall": "306b18bdd5d38e4f07c10b5dd8319b254f69138c",
-      "padding.game-hall": "8a062946e38da5cb62976a420f3c2e3ca0a79d8f"
+      "padding.game-hall": "8a062946e38da5cb62976a420f3c2e3ca0a79d8f",
+      "bg.blur": "9019b6c9d556b517bd16e6ec19e39189bc93d181"
     }
   },
   {
@@ -3335,7 +3340,6 @@
       "bg.overlay.sidebar-gamepage": "4fc4b121e594acc6cd54961ea32b6a354bb8e0f9",
       "bg.overlay-gradient.3": "c684686ee68ec12bc7a2c6e2a06086a8f3580a10",
       "bg.overlay-gradient.4": "42a85148ec6fb04a57a28fe80e91f27a90d112ba",
-      "bg.blur": "48e0d17a7e19dc9c9a5fd992fe75c61ca0691a9a",
       "bg.info-blur": "15e406396ab2bb86fda8a3e7b11f505e1607038d",
       "bg.elements-blur": "b2d8a6af3736e2450838cf8f09f21d5ea62c47c9",
       "bg.blur-achivements": "5991e22cbbb9d41be24779fe49e7942c8296c252",
@@ -3719,7 +3723,8 @@
       "Padding.button.small-horizontal": "0e8ea2edc7dda23b6f6974868504944b7778b58f",
       "Padding.button.small-vertical": "98b22d8af766b88deda54f1f8a7797307a9b683b",
       "Padding.button.small-horizontal-additional": "9d29b9bed2aeec7de447e289e5600e450e9cc9f1",
-      "Padding.gamehall": "729ba9426cdfb5edcaf1a9aabe2312a5aaf9832f"
+      "Padding.gamehall": "729ba9426cdfb5edcaf1a9aabe2312a5aaf9832f",
+      "bg.blur": "48e0d17a7e19dc9c9a5fd992fe75c61ca0691a9a"
     }
   },
   {

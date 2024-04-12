@@ -579,6 +579,21 @@
       },
       "type": "typography",
       "description": "Link text in strip widget on gamepage (under title)"
+    },
+    "title-tab-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.4}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "text on tabs in welcome deposit"
     }
   },
   "shadow": {
@@ -1569,6 +1584,11 @@
       "value": "4px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
+    },
+    "card-extra": {
+      "value": "13px",
+      "type": "borderRadius",
+      "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     }
   },
   "opacity": {
@@ -1901,6 +1921,20 @@
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
       },
+      "7": {
+        "value": "{base.light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.02",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for stable in first deposite page"
+      },
       "ghost-1": {
         "value": "#000",
         "type": "color",
@@ -2099,6 +2133,37 @@
       "value": "transparent",
       "type": "color",
       "description": "use for profile popups border "
+    },
+    "card": {
+      "bg": {
+        "1": {
+          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.40) 9.9%, rgba(33, 78, 121, 0.15) 30.55%, rgba(4, 64, 178, 0.00) 45.56%), rgba(28, 33, 46, 0.60)",
+          "type": "color",
+          "$extensions": {},
+          "description": "1st deopsit card bg"
+        }
+      },
+      "border": {
+        "1": {
+          "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, #283753 85.44%)",
+          "type": "color",
+          "$extensions": {},
+          "description": "1st deopsit card stroke bg"
+        }
+      },
+      "overlay": {
+        "1": {
+          "value": "rgba(20, 28, 41, 0.50)",
+          "type": "color",
+          "$extensions": {},
+          "description": "1st deposit card tabs bg"
+        }
+      }
+    },
+    "blur-additional": {
+      "value": "32px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
     }
   },
   "nav": {

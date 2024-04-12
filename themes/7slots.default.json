@@ -340,6 +340,36 @@
       "type": "typography",
       "description": "Titles on popup tabs (profile,cashbox)"
     },
+    "title-tab-additional": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.4}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "text on tabs in welcome deposit"
+    },
+    "title-tab-extra": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.4}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.0}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "text on tabs in welcome deposit (extra small size)"
+    },
     "title-small-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -1121,15 +1151,6 @@
     }
   },
   "border": {
-    "button-default": {
-      "value": {
-        "color": "{button.border.tertiary}",
-        "style": "solid",
-        "width": "{border-width.button}"
-      },
-      "type": "border",
-      "description": "Button border default"
-    },
     "ghost-1": {
       "value": {
         "color": "{base.light}",
@@ -1138,6 +1159,15 @@
       },
       "type": "border",
       "description": "results widget in tournament"
+    },
+    "ghost-2": {
+      "value": {
+        "color": "#C9C9C9",
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for counter border in main menu badges"
     },
     "ghost-3": {
       "value": {
@@ -1148,33 +1178,6 @@
       "type": "border",
       "description": "use in lootboxes border on picture"
     },
-    "ghost-4": {
-      "value": {
-        "color": "rgba( {base.primary} , 0.16)",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use in cashbox border on groups icons"
-    },
-    "chips-default": {
-      "value": {
-        "color": "rgba({base.dark} , 0.16)",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use in calendar filter for chips"
-    },
-    "chips-active": {
-      "value": {
-        "color": "#43B183",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use in calendar filter for active chips state"
-    },
     "ghost-5": {
       "value": {
         "color": "{bg.tertiary}",
@@ -1184,6 +1187,15 @@
       "type": "border",
       "description": "use for game card border in statistic page/hall of fame"
     },
+    "ghost-4": {
+      "value": {
+        "color": "rgba( {base.primary} , 0.16)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use in cashbox border on groups icons"
+    },
     "ghost-6": {
       "value": {
         "color": "{bg.tertiary}",
@@ -1192,15 +1204,6 @@
       },
       "type": "border",
       "description": "use for border in timer"
-    },
-    "ghost-2": {
-      "value": {
-        "color": "#C9C9C9",
-        "width": "2",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for counter border in main menu badges"
     },
     "button-hover": {
       "value": {
@@ -1219,6 +1222,33 @@
       },
       "type": "border",
       "description": "Button border pressed"
+    },
+    "button-default": {
+      "value": {
+        "color": "{button.border.tertiary}",
+        "style": "solid",
+        "width": "{border-width.button}"
+      },
+      "type": "border",
+      "description": "Button border default"
+    },
+    "chips-default": {
+      "value": {
+        "color": "rgba({base.dark} , 0.16)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use in calendar filter for chips"
+    },
+    "chips-active": {
+      "value": {
+        "color": "#43B183",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use in calendar filter for active chips state"
     },
     "button-disabled": {
       "value": {
@@ -1537,6 +1567,11 @@
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
+    "card-extra": {
+      "value": "13px",
+      "type": "borderRadius",
+      "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
+    },
     "game-item": {
       "value": "10px",
       "type": "borderRadius",
@@ -1675,15 +1710,113 @@
     }
   },
   "bg": {
+    "technical": {
+      "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
+      "type": "color",
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+    },
+    "additional": {
+      "value": "#31425E",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
+    },
+    "popup-additional": {
+      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
+      "type": "color",
+      "description": "use for secret mirror popups bg gradient"
+    },
+    "popup": {
+      "value": "#252D40",
+      "type": "color",
+      "description": "use for popups bg"
+    },
+    "top-surface": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "bg for menu, bottom sheets,dropdown"
+    },
+    "social-icons": {
+      "value": "rgba(65, 109, 175, 0.10)",
+      "type": "color",
+      "description": "use for bg under social icons in mob menu"
+    },
+    "widget-default": {
+      "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
+      "type": "color",
+      "description": "for tournament on main page, news, lottery"
+    },
+    "border": {
+      "value": "transparent",
+      "type": "color",
+      "description": "use for profile popups border "
+    },
+    "top-surface-additional": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "bg for notifications"
+    },
+    "gradient-additional": {
+      "value": "transparent",
+      "type": "color",
+      "description": "Gradient for bg in bonus card in cashbox"
+    },
+    "popup-2": {
+      "value": "{bg.popup}",
+      "type": "color",
+      "description": "use for popups bg"
+    },
+    "widget-disabled": {
+      "value": "linear-gradient(114deg, rgba(69, 137, 212, 0.60) 23.29%, rgba(0, 48, 74, 0.60) 98.01%)",
+      "type": "color",
+      "description": "for past tournament,lottery"
+    },
+    "additional-2": {
+      "value": "{bg.additional}",
+      "type": "color",
+      "description": "use for messages, shop, faq cards"
+    },
+    "widget-bonus-additional": {
+      "value": "#000000",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.08",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "use as bg for welcome bonus success item"
+    },
+    "widget-bonus": {
+      "value": "linear-gradient(96deg, #44A6A5 5.85%, #2A70BC 95.66%)",
+      "type": "color",
+      "description": "use as bg for welcome bonus"
+    },
     "primary": {
       "value": "{base.surface}",
       "type": "color",
       "description": "first level bg"
     },
+    "radial-additional": {
+      "value": "radial-gradient(50% 50% at 50% 50%, #2D3E51 0%, #252D40 100%)",
+      "type": "color",
+      "description": "use for elipse bg on desktop homepage"
+    },
+    "radial": {
+      "value": "radial-gradient(50% 50% at 50% 50%, rgba(87, 174, 255, 0.40) 0%, rgba(87, 174, 255, 0.00) 100%)",
+      "type": "color"
+    },
     "secondary": {
       "value": "#374C6D",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
+    },
+    "gradient": {
+      "value": "linear-gradient(0deg, rgba(81, 122, 175, 0.00) 0%, rgba(81, 122, 175, 0.40) 100%)",
+      "type": "color",
+      "description": "Gradient for bg"
     },
     "tertiary": {
       "value": "#1C212E",
@@ -1821,7 +1954,7 @@
         "description": "bg for app button in footer"
       },
       "sidebar-game-additional": {
-        "value": "#FFFFFF",
+        "value": "{bg.other.sidebar-game}",
         "type": "color",
         "description": "Bg for right sidebar on gamepage (desktop)"
       },
@@ -1835,51 +1968,6 @@
         "type": "color",
         "description": "use in registration bonus cards"
       }
-    },
-    "gradient": {
-      "value": "linear-gradient(0deg, rgba(81, 122, 175, 0.00) 0%, rgba(81, 122, 175, 0.40) 100%)",
-      "type": "color",
-      "description": "Gradient for bg"
-    },
-    "additional": {
-      "value": "#31425E",
-      "type": "color",
-      "description": "use for messages, shop, faq cards"
-    },
-    "social-icons": {
-      "value": "rgba(65, 109, 175, 0.10)",
-      "type": "color",
-      "description": "use for bg under social icons in mob menu"
-    },
-    "top-surface": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "bg for menu, bottom sheets,dropdown"
-    },
-    "popup": {
-      "value": "#252D40",
-      "type": "color",
-      "description": "use for popups bg"
-    },
-    "popup-additional": {
-      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
-      "type": "color",
-      "description": "use for secret mirror popups bg gradient"
-    },
-    "technical": {
-      "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
-      "type": "color",
-      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
-    },
-    "widget-disabled": {
-      "value": "linear-gradient(114deg, rgba(69, 137, 212, 0.60) 23.29%, rgba(0, 48, 74, 0.60) 98.01%)",
-      "type": "color",
-      "description": "for past tournament,lottery"
-    },
-    "widget-default": {
-      "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
-      "type": "color",
-      "description": "for tournament on main page, news, lottery"
     },
     "overlay": {
       "1": {
@@ -1938,6 +2026,20 @@
         "value": "linear-gradient(180deg, rgba(47, 67, 97, 0.00) 0%, #2F4361 100%)",
         "type": "color",
         "description": "use for bg under tournament/lottery tabs"
+      },
+      "7": {
+        "value": "{base.light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.02",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for stable in first deposite page"
       },
       "ghost-1": {
         "value": "rgba(0, 0, 0, 0.20)",
@@ -2000,6 +2102,32 @@
         "value": "linear-gradient(180deg, rgba(22, 27, 38, 0.00) 0%, rgba(22, 27, 38, 0.95) 63.16%, #161B26 100%)",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
+      }
+    },
+    "card": {
+      "bg": {
+        "1": {
+          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.40) 9.9%, rgba(33, 78, 121, 0.15) 30.55%, rgba(4, 64, 178, 0.00) 45.56%), rgba(28, 33, 46, 0.60)",
+          "type": "color",
+          "$extensions": {},
+          "description": "1st deposit card bg"
+        }
+      },
+      "overlay": {
+        "1": {
+          "value": "rgba(20, 28, 41, 0.50)",
+          "type": "color",
+          "$extensions": {},
+          "description": "1st deposit card tabs bg"
+        }
+      },
+      "border": {
+        "1": {
+          "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, #283753 85.44%)",
+          "type": "color",
+          "$extensions": {},
+          "description": "1st deopsit card stroke bg"
+        }
       }
     },
     "overlay-gradient": {
@@ -2067,7 +2195,12 @@
     "blur": {
       "value": "18px",
       "type": "dimension",
-      "description": "use for bg blue in categories/ strip service"
+      "description": "use for bg blue in 1st deposit cards"
+    },
+    "blur-additional": {
+      "value": "32px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
     },
     "info-blur": {
       "value": "8px",
@@ -2079,63 +2212,10 @@
       "type": "dimension",
       "description": "use for circle elements on primary bg"
     },
-    "radial": {
-      "value": "radial-gradient(50% 50% at 50% 50%, rgba(87, 174, 255, 0.40) 0%, rgba(87, 174, 255, 0.00) 100%)",
-      "type": "color"
-    },
-    "radial-additional": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #2D3E51 0%, #252D40 100%)",
-      "type": "color",
-      "description": "use for elipse bg on desktop homepage"
-    },
     "blur-achivements": {
       "value": "18px",
       "type": "dimension",
       "description": "use for bottom block in profile "
-    },
-    "widget-bonus": {
-      "value": "linear-gradient(96deg, #44A6A5 5.85%, #2A70BC 95.66%)",
-      "type": "color",
-      "description": "use as bg for welcome bonus"
-    },
-    "widget-bonus-additional": {
-      "value": "#000000",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.08",
-            "space": "srgb"
-          }
-        }
-      },
-      "description": "use as bg for welcome bonus success item"
-    },
-    "additional-2": {
-      "value": "{bg.additional}",
-      "type": "color",
-      "description": "use for messages, shop, faq cards"
-    },
-    "popup-2": {
-      "value": "#F2F3F5",
-      "type": "color",
-      "description": "use for popups bg"
-    },
-    "gradient-additional": {
-      "value": "linear-gradient(151deg, #F9E6B5 4.14%, #DBFEFF 95.17%)",
-      "type": "color",
-      "description": "Gradient for bg in bonus card in cashbox"
-    },
-    "top-surface-additional": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "bg for notifications"
-    },
-    "border": {
-      "value": "transparent",
-      "type": "color",
-      "description": "use for profile popups border "
     }
   },
   "nav": {
@@ -4310,7 +4390,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.7",
               "space": "srgb"
             }
           }
@@ -4398,9 +4478,9 @@
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "{text.title.accent}",
+        "value": "#FFD284",
         "type": "color",
-        "description": "usewelcom popup up timer"
+        "description": "use in welcome popup up timer(delete functional?) and welcome bonus cards accent color"
       }
     },
     "link-additional": {
