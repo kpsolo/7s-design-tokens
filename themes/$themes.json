@@ -520,8 +520,17 @@
       "special-blocks.payment-block-main-desktop": "S:ad20528a7bccfa5ded26002f938029a3f55f5086,",
       "special-blocks.payment-block-additional-desktop": "S:4124aec82a16a22b19e51e60f2b324c7557be6bc,",
       "special-blocks.payment-block-extra-desktop": "S:21b859710df0489f4cf01407a6c0e0fc297dfe74,",
-      "special-blocks.achievements.gradient-empty": "S:b0599c1bbbe798d462e8decc0abbf5f1ea046b21,",
-      "special-blocks.achievements.gradient-empty-additional": "S:ab5d4c9ff08ff359f4f102f14d2615f25e8d7a3a,"
+      "special-blocks.achievements.gradient.empty-additional": "S:ab5d4c9ff08ff359f4f102f14d2615f25e8d7a3a,",
+      "special-blocks.achievements.gradient.empty": "S:b0599c1bbbe798d462e8decc0abbf5f1ea046b21,",
+      "small-elements.slider-additional": "S:94cf2a6b296a4b1e238a8ccf391dba5b615f40d0,",
+      "special-blocks.achievements.border.main-additional": "S:5380b240fb5970ebe882552ca2a5e289b86e9480,",
+      "special-blocks.achievements.gradient.activity": "S:cb70fed09277fb6761b9cf0187170f45247d9cd0,",
+      "special-blocks.achievements.gradient.win": "S:13788c679e02e1bf3c5b1794383eaea695df3193,",
+      "special-blocks.achievements.gradient.achievements": "S:e0b019c96cf065ad6ec31a5ec2f5910675a62537,",
+      "special-blocks.achievements.gradient.main": "S:554c70b2210de65318365e2dce97062ed023b3fe,",
+      "special-blocks.achievements.gradient.main-additional": "S:059c1aff0aa3c9f848bf5eb2fc91a5de0214bec3,",
+      "special-blocks.achievements.card.first-deposit": "S:a7aa33d775b7aade660f00c159090a2404694aea,",
+      "small-elements.slider-curret-additional": "S:814620601febe0b6f9124135a3702027a72b3612,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1446,8 +1455,8 @@
       "special-blocks.achievements.border.win": "S:f0e768fad62ca5f28ccf24e1be2343be629195fd,",
       "special-blocks.achievements.card.3": "S:b3b9b72fe518fc048f236acc8038910314588fc2,",
       "special-blocks.achievements.card.4": "S:800106a3806457c9697073c1b3b6f475da72b9da,",
-      "special-blocks.achievements.gradient-empty": "S:8d8222820aaf561c0b4a5befd55a3077b2857b12,",
-      "special-blocks.achievements.gradient-empty-additional": "S:ba4fe5ef1596343ba0e877ffd88219f3aa93d157,"
+      "special-blocks.achievements.gradient.empty-additional": "S:ba4fe5ef1596343ba0e877ffd88219f3aa93d157,",
+      "special-blocks.achievements.gradient.empty": "S:8d8222820aaf561c0b4a5befd55a3077b2857b12,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -3225,8 +3234,8 @@
       "special-blocks.payment-block-main-desktop": "S:a564cf4f7f0e08dc79aefc949d280951d4970d90,",
       "special-blocks.payment-block-additional-desktop": "S:1784f1f83fd47ea83f7aba22106d9eed7d005d62,",
       "special-blocks.payment-block-extra-desktop": "S:d6fd951ca61b94e91d72784952c4dcf62b14e6e8,",
-      "special-blocks.achievements.gradient-empty": "S:2b82b739884f093fcff71b6608159114259cb378,",
-      "special-blocks.achievements.gradient-empty-additional": "S:59d2721b17d9ae3268f28e5d4314b83b6fa6b330,"
+      "special-blocks.achievements.gradient.empty-additional": "S:59d2721b17d9ae3268f28e5d4314b83b6fa6b330,",
+      "special-blocks.achievements.gradient.empty": "S:2b82b739884f093fcff71b6608159114259cb378,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
