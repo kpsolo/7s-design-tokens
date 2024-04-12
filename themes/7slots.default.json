@@ -1205,6 +1205,15 @@
       "type": "border",
       "description": "use for border in timer"
     },
+    "ghost-7": {
+      "value": {
+        "color": "linear-gradient(169deg, rgba(147, 203, 255, 0.25) 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, rgba(147, 203, 255, 0.25) 95.27%)",
+        "width": "0.4px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for border in timer in 1st deposit"
+    },
     "button-hover": {
       "value": {
         "color": "{button.border.tertiary-hover}",
@@ -2107,7 +2116,7 @@
     "card": {
       "bg": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.40) 9.9%, rgba(33, 78, 121, 0.15) 30.55%, rgba(4, 64, 178, 0.00) 45.56%), rgba(28, 33, 46, 0.60)",
+          "value": "linear-gradient(151deg, rgba(24, 77, 139, 0.60) 0%, rgba(54, 42, 48, 0.60) 50.9%, rgba(55, 41, 46, 0.60) 100%)",
           "type": "color",
           "$extensions": {},
           "description": "1st deposit card bg"
@@ -2965,6 +2974,11 @@
         "value": "rgba(0, 0, 0, 0.32)",
         "type": "color",
         "description": "use for timer bg"
+      },
+      "bg-additional": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.14) 3.13%, rgba(255, 255, 255, 0.06) 18.24%, rgba(255, 255, 255, 0.00) 48.75%, rgba(255, 255, 255, 0.06) 86.05%, rgba(255, 255, 255, 0.14) 100%)",
+        "type": "color",
+        "description": "use for timer bg in 1st deposit"
       },
       "content": {
         "value": "{base.primary}",

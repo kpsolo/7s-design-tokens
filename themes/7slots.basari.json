@@ -1429,6 +1429,15 @@
       },
       "type": "border",
       "description": "use for notifications"
+    },
+    "ghost-7": {
+      "value": {
+        "color": "linear-gradient(169deg, rgba(147, 203, 255, 0.25) 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, rgba(147, 203, 255, 0.25) 95.27%)",
+        "width": "0,4px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for border in timer in 1st deposit"
     }
   },
   "base spacing": {
@@ -2844,6 +2853,11 @@
         "value": "{base.primary}",
         "type": "color",
         "description": "use for numbers on timer"
+      },
+      "bg-additional": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.14) 3.13%, rgba(255, 255, 255, 0.06) 18.24%, rgba(255, 255, 255, 0.00) 48.75%, rgba(255, 255, 255, 0.06) 86.05%, rgba(255, 255, 255, 0.14) 100%)",
+        "type": "color",
+        "description": "use for timer bg in 1st deposit"
       }
     },
     "up-button": {
