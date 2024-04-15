@@ -594,6 +594,21 @@
       },
       "type": "typography",
       "description": "text on tabs in welcome deposit"
+    },
+    "title-tab-extra": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.0}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "text on extra small tabs in welcome deposit"
     }
   },
   "shadow": {
@@ -2146,21 +2161,21 @@
     "card": {
       "bg": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.40) 9.9%, rgba(33, 78, 121, 0.15) 30.55%, rgba(4, 64, 178, 0.00) 45.56%), rgba(28, 33, 46, 0.60)",
+          "value": "rgba(35, 24, 21, 0.90)",
           "type": "color",
           "description": "1st deopsit card bg"
         }
       },
       "border": {
         "1": {
-          "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, #283753 85.44%)",
+          "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, rgba(255, 255, 255, 0.05) 85.44%)",
           "type": "color",
           "description": "1st deopsit card stroke bg"
         }
       },
       "overlay": {
         "1": {
-          "value": "rgba(20, 28, 41, 0.50)",
+          "value": "rgba(0, 0, 0, 0.40)",
           "type": "color",
           "description": "1st deposit card tabs bg"
         }
@@ -4432,7 +4447,7 @@
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "{base.accent-secondary}",
+        "value": "#FCC669",
         "type": "color",
         "description": "usewelcom popup up timer"
       }
