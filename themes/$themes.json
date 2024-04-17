@@ -3269,7 +3269,23 @@
       "special-blocks.payment-block-additional-desktop": "S:1784f1f83fd47ea83f7aba22106d9eed7d005d62,",
       "special-blocks.payment-block-extra-desktop": "S:d6fd951ca61b94e91d72784952c4dcf62b14e6e8,",
       "special-blocks.achievements.gradient.empty-additional": "S:59d2721b17d9ae3268f28e5d4314b83b6fa6b330,",
-      "special-blocks.achievements.gradient.empty": "S:2b82b739884f093fcff71b6608159114259cb378,"
+      "special-blocks.achievements.gradient.empty": "S:2b82b739884f093fcff71b6608159114259cb378,",
+      "bg.overlay.7": "S:1f51ca7babeab43977064e8bb076ecc86c433662,",
+      "bg.card.bg.1": "S:f9d0b739b1671d3b3fb7b964c5dcf091f4369742,",
+      "bg.card.border.1": "S:627f548cde78e49954342089e10a78bfd2829b7b,",
+      "bg.card.overlay.1": "S:948a69a168cc0f09125de8a9d9fa52fade96abf9,",
+      "small-elements.timer.bg-additional": "S:05953fcfa37bd77e9396074bd3074b5dbdbe2e43,",
+      "small-elements.slider-additional": "S:55dc860c3eb626cc59642017daeb1f21acf35df7,",
+      "small-elements.slider-curret-additional": "S:cffe354984ec6057de116e45faba377df6e61e62,",
+      "special-blocks.achievements.border.main-additional": "S:e6b8e34f1a8f1666dc4bf19f14ba5074ce44d259,",
+      "special-blocks.achievements.gradient.activity": "S:84d7e427a238102bffe85303833ff9aa84b1c354,",
+      "special-blocks.achievements.gradient.win": "S:a2501668474f9a9fbc60c68583a39f46da9ad724,",
+      "special-blocks.achievements.gradient.achievements": "S:6e9c1d2b1063faf72f8ccbf65d7b89deea058347,",
+      "special-blocks.achievements.gradient.main": "S:403739cf85294ee050fa5a0dafef2c2821fb39c5,",
+      "special-blocks.achievements.gradient.main-additional": "S:caae91d8e3e16a1f1bc709914fb513628d5e0b64,",
+      "special-blocks.achievements.card.first-deposit": "S:e6855bb531af5853ed08e6dc64757d8008d862f9,",
+      "typography.title-tab-additional": "S:a694aa1ee3d1cc2a2d70754f7c7b74c73da03da5,",
+      "typography.title-tab-extra": "S:1068ee2760f4b2b320f8fddd43c1bda70166b89f,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
