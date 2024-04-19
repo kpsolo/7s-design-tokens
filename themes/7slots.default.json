@@ -3138,6 +3138,11 @@
         "type": "color",
         "description": "[delete?]"
       }
+    },
+    "ghost-5": {
+      "value": "#131D32",
+      "type": "color",
+      "description": "use for twiter/tiktok icons in registration [delete]"
     }
   },
   "input": {

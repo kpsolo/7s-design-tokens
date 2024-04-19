@@ -3141,6 +3141,11 @@
       "type": "color",
       "description": "use for message icon in desktop header"
     },
+    "ghost-5": {
+      "value": "#131D32",
+      "type": "color",
+      "description": "use for twiter/tiktok icons in registration [delete]"
+    },
     "prize": {
       "1": {
         "value": "#FFC13B",
