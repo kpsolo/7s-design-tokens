@@ -3091,7 +3091,7 @@
       "description": "use for disabled icons in lists (loyalty)"
     },
     "ghost-5": {
-      "value": "#131D32",
+      "value": "#FFF",
       "type": "color",
       "description": "use for twiter/tiktok icons in registration [delete]"
     }
