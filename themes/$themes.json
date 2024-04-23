@@ -3286,7 +3286,8 @@
       "special-blocks.achievements.card.first-deposit": "S:e6855bb531af5853ed08e6dc64757d8008d862f9,",
       "typography.title-tab-additional": "S:a694aa1ee3d1cc2a2d70754f7c7b74c73da03da5,",
       "typography.title-tab-extra": "S:1068ee2760f4b2b320f8fddd43c1bda70166b89f,",
-      "icon.ghost-5": "S:7feb430484bebb93694312d0c29b73dd2997c029,"
+      "icon.ghost-5": "S:7feb430484bebb93694312d0c29b73dd2997c029,",
+      "bg.overlay.8": "S:e8649ebd056b2be803c8c113612aadeba4ae410f,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
