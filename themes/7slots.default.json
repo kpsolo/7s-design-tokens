@@ -2053,7 +2053,6 @@
       "8": {
         "value": "{bg.overlay.2}",
         "type": "color",
-        "$extensions": {},
         "description": "bg under prize places in tournament/lottery"
       },
       "ghost-1": {
