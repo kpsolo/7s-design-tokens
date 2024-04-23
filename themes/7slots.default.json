@@ -5249,7 +5249,7 @@
     },
     "content": {
       "accent": {
-        "value": "#3BEA62",
+        "value": "{icon.accent}",
         "type": "color",
         "description": "use for accent text on card"
       }

@@ -1961,8 +1961,7 @@
       },
       "8": {
         "value": "{bg.overlay.2}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "ghost-1": {
         "value": "#000",
