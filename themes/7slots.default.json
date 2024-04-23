@@ -2051,18 +2051,10 @@
         "description": "for stable in first deposite page"
       },
       "8": {
-        "value": "#E4F0FF",
+        "value": "{bg.overlay.2}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "for stable in first deposite page"
+        "$extensions": {},
+        "description": "bg under prize places in tournament/lottery"
       },
       "ghost-1": {
         "value": "rgba(0, 0, 0, 0.20)",
