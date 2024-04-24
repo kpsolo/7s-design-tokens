@@ -1526,6 +1526,15 @@
       },
       "type": "border",
       "description": "use for border in timer in 1st deposit"
+    },
+    "additional": {
+      "value": {
+        "color": "rgba(25, 41, 71, 0.10)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use categories separator on inner pages"
     }
   },
   "base spacing": {

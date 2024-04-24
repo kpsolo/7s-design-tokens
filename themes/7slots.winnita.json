@@ -1374,6 +1374,15 @@
       "type": "border",
       "description": "use for dropdown"
     },
+    "additional": {
+      "value": {
+        "color": "rgba(25, 41, 71, 0.10)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use categories separator on inner pages"
+    },
     "wheel-denomination": {
       "value": {
         "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%)",
