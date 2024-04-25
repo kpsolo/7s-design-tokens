@@ -1306,7 +1306,7 @@
     },
     "popup": {
       "value": {
-        "color": "rgba(255,255,255,0.15)",
+        "color": "rgba(255,255,255,0.08)",
         "width": "1",
         "style": "solid"
       },
@@ -1466,8 +1466,8 @@
     },
     "tooltip": {
       "value": {
-        "color": "transparent",
-        "width": "0px",
+        "color": "#fff",
+        "width": "1px",
         "style": "solid"
       },
       "type": "border",
