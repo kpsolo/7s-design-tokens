@@ -1529,7 +1529,7 @@
     },
     "additional": {
       "value": {
-        "color": "rgba(255, 255, 255, 0.10)",
+        "color": "transparent",
         "width": "1",
         "style": "solid"
       },
