@@ -5127,7 +5127,7 @@
         "description": "bg for progressbar cursore"
       },
       "additional-3": {
-        "value": "#1C212E",
+        "value": "#242424",
         "type": "color",
         "description": "bg for top bg in ingame"
       }
@@ -5234,8 +5234,17 @@
       "description": "overlay for game thumb hover state / desktop"
     },
     "overlay-extra": {
-      "value": "#1C212E",
+      "value": "#000",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.5",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "overlay for ingame "
     }
   },

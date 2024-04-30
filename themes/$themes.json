@@ -1498,7 +1498,9 @@
       "typography.title-tab-extra": "S:4e871941b22a6fe9838e9cd079d0bc4fd389c2e1,",
       "bg.overlay.8": "S:383f20bbf6f8640321c661ee9f69016d73f75dc9,",
       "icon.ghost-5": "S:605b0723121f030348728993807ccc7c7581dac1,",
-      "typography.title-1-stronger-additional": "S:cc339cb435a695e6880aa0cace71fa3c2767adb9,"
+      "typography.title-1-stronger-additional": "S:cc339cb435a695e6880aa0cace71fa3c2767adb9,",
+      "gamepage.bg.additional-3": "S:bfaa4650b9c9c701f054e7903d51ebf9b110dab9,",
+      "gamepage.overlay-extra": "S:88eca998f25e8093d007f2aa822c7c0baf656205,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
