@@ -3023,8 +3023,17 @@
         "description": "use for numbers on timer"
       },
       "bg-additional": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.14) 3.13%, rgba(255, 255, 255, 0.06) 18.24%, rgba(255, 255, 255, 0.00) 48.75%, rgba(255, 255, 255, 0.06) 86.05%, rgba(255, 255, 255, 0.14) 100%)",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for timer bg in 1st deposit"
       }
     },
@@ -3894,6 +3903,21 @@
       },
       "type": "typography",
       "description": "x2 x3 icons"
+    },
+    "welcome-bonus": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "17px",
+        "fontSize": "15px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography",
+      "description": "welcome bonus timer title"
     },
     "jackpot-amount": {
       "value": {

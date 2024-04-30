@@ -4176,6 +4176,21 @@
           "description": "card first deposit bg in main screen"
         }
       }
+    },
+    "welcome-bonus": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "17px",
+        "fontSize": "15px",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textDecoration": "{text-decoration.none}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography",
+      "description": "welcome bonus timer title"
     }
   },
   "filed spacing": {

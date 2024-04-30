@@ -3300,7 +3300,8 @@
       "bg.overlay.8": "S:e8649ebd056b2be803c8c113612aadeba4ae410f,",
       "typography.title-1-stronger-additional": "S:97ff4c90d58f8ab58a2e33fc3f83cb7f7556dc44,",
       "gamepage.bg.additional-3": "S:a235393ed5ed3483785050a1f4b3df297d6d676f,",
-      "gamepage.overlay-extra": "S:60e94ef92c285fe7915b7cd659cadd134910d89f,"
+      "gamepage.overlay-extra": "S:60e94ef92c285fe7915b7cd659cadd134910d89f,",
+      "special-blocks.welcome-bonus": "S:f51de798626c4b41cc94376c405472fb71fb7431,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
