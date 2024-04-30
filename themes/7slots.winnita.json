@@ -2194,7 +2194,7 @@
       },
       "overlay": {
         "1": {
-          "value": "rgba(20, 28, 41, 0.50)",
+          "value": "#163486",
           "type": "color",
           "description": "1st deposit card tabs bg"
         }
