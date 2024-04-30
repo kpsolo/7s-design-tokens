@@ -2180,7 +2180,7 @@
     "card": {
       "bg": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.40) 9.9%, rgba(33, 78, 121, 0.15) 30.55%, rgba(4, 64, 178, 0.00) 45.56%), rgba(28, 33, 46, 0.60)",
+          "value": "#1E4EAE",
           "type": "color",
           "description": "1st deopsit card bg"
         }
