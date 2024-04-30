@@ -1635,9 +1635,9 @@
       "type": "borderRadius"
     },
     "popup-additional": {
-      "value": "11px",
+      "value": "9px",
       "type": "borderRadius",
-      "description": "for secret mirror bg border radius"
+      "description": "for secret mirror,welcome back popup bg radius "
     },
     "tooltips-notifications": {
       "value": "10px",
