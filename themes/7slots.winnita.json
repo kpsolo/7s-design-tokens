@@ -2187,9 +2187,9 @@
       },
       "border": {
         "1": {
-          "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, #283753 85.44%)",
+          "value": "transparent",
           "type": "color",
-          "description": "1st deopsit card stroke bg"
+          "description": "1st deposit card stroke, welcomeback popup border "
         }
       },
       "overlay": {
