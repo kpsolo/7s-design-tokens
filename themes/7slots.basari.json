@@ -1614,7 +1614,7 @@
       "description": "use for small tips on final lottery "
     },
     "popup-additional": {
-      "value": "9px",
+      "value": "7px",
       "type": "borderRadius",
       "description": "for secret mirror bg border radius"
     },
