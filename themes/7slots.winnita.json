@@ -4786,6 +4786,11 @@
         "value": "#7899E1",
         "type": "color",
         "description": "bg for progressbar cursore"
+      },
+      "additional-3": {
+        "value": "#1C212E",
+        "type": "color",
+        "description": "bg for top bg in ingame"
       }
     },
     "overlay": {
@@ -4883,6 +4888,11 @@
         "value": "{button.border.ghost}",
         "type": "color"
       }
+    },
+    "overlay-extra": {
+      "value": "#1C212E",
+      "type": "color",
+      "description": "overlay for ingame "
     }
   },
   "lootboxes": {

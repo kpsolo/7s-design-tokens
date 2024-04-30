@@ -5152,6 +5152,11 @@
         "value": "#7899E1",
         "type": "color",
         "description": "bg for progressbar cursore"
+      },
+      "additional-3": {
+        "value": "#1C212E",
+        "type": "color",
+        "description": "bg for top bg in ingame"
       }
     },
     "content": {
@@ -5254,6 +5259,11 @@
       "value": "rgba(0, 0, 0, 0.80)",
       "type": "color",
       "description": "overlay for game thumb hover state / desktop"
+    },
+    "overlay-extra": {
+      "value": "#1C212E",
+      "type": "color",
+      "description": "overlay for ingame "
     }
   },
   "spacing": {
