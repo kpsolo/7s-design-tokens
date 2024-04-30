@@ -539,7 +539,8 @@
       "bg.card.overlay.1": "S:ee7636a71b19ba617b621bfc9120bf5f3ccb9994,",
       "small-elements.timer.bg-additional": "S:dd11b5fef2b9e881fa633ee902935e4822ba9027,",
       "bg.overlay.8": "S:6d3069fd538c028c04d6d89d4938ba9bf0757825,",
-      "icon.ghost-5": "S:12898f38f6a71133074fbffcbb06651ea2d11f1a,"
+      "icon.ghost-5": "S:12898f38f6a71133074fbffcbb06651ea2d11f1a,",
+      "typography.title-1-stronger-additional": "S:4f084ed0fd6c7d2066a87067d7fef0a910f9e11a,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
