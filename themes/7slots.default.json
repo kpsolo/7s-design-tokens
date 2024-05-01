@@ -1721,7 +1721,7 @@
       "description": "Radius for cards amd widgets"
     },
     "button-additional": {
-      "value": "4px",
+      "value": "100px",
       "type": "borderRadius",
       "description": "Radius for pagination buttons in 1st deposit page"
     }
@@ -3061,7 +3061,7 @@
       }
     },
     "pagination": {
-      "value": "#E1E9F5",
+      "value": "{text.title.extra}",
       "type": "color",
       "description": "icon color in pagination"
     }
@@ -4198,10 +4198,10 @@
     },
     "welcome-bonus": {
       "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "17px",
-        "fontSize": "15px",
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.5}",
+        "fontSize": "{font-size.7}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
