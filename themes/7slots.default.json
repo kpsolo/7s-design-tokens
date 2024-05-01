@@ -1553,7 +1553,7 @@
     },
     "ghost-8": {
       "value": {
-        "color": "rgba(240, 230, 230, 0.20)",
+        "color": "{bg.overlay.1}",
         "width": "1px",
         "style": "solid"
       },
