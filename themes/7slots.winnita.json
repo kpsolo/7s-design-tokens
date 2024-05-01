@@ -1506,12 +1506,21 @@
     },
     "ghost-7": {
       "value": {
-        "color": "linear-gradient(169deg, rgba(147, 203, 255, 0.25) 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, rgba(147, 203, 255, 0.25) 95.27%)",
-        "width": "0,4px",
+        "color": "transparent",
+        "width": "1px",
         "style": "solid"
       },
       "type": "border",
       "description": "use for border in timer in 1st deposit"
+    },
+    "ghost-8": {
+      "value": {
+        "color": "rgba(240, 230, 230, 0.20)",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for border in 1st deposit card"
     }
   },
   "base spacing": {
@@ -1591,6 +1600,11 @@
       "value": "44px",
       "type": "borderRadius",
       "description": "Radius for buttons"
+    },
+    "button-additional": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for pagination buttons in 1st deposit page"
     },
     "tap-bar": {
       "value": "0px",
@@ -2862,6 +2876,11 @@
       "type": "color",
       "description": "bg for progressbar in loyalty"
     },
+    "pagination": {
+      "value": "#FFF",
+      "type": "color",
+      "description": "icon color in pagination"
+    },
     "progress-bg-additional": {
       "value": "transparent",
       "type": "color",
@@ -3090,12 +3109,12 @@
       "description": "use for slider curret in mob main page"
     },
     "slider-additional": {
-      "value": "#BB715D",
+      "value": "rgba(154, 185, 253, 0.40)",
       "type": "color",
       "description": "use for slider in welcom bonus"
     },
     "slider-curret-additional": {
-      "value": "#BB715D",
+      "value": "#9AB9FD",
       "type": "color",
       "description": "use for slider curret in welcom bonus"
     }
