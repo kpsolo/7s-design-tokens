@@ -4198,10 +4198,10 @@
     },
     "welcome-bonus": {
       "value": {
-        "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.7}",
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
