@@ -1480,7 +1480,7 @@
     },
     "ghost-8": {
       "value": {
-        "color": "rgba(240, 230, 230, 0.20)",
+        "color": "{bg.overlay.1}",
         "width": "1px",
         "style": "solid"
       },
@@ -1648,7 +1648,7 @@
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "button-additional": {
-      "value": "4px",
+      "value": "100px",
       "type": "borderRadius",
       "description": "Radius for pagination buttons in 1st deposit page"
     }
@@ -3001,12 +3001,12 @@
       "description": "border for progressbar in profile"
     },
     "slider-additional": {
-      "value": "#BB715D",
+      "value": "rgba(180, 139, 111, 0.40)",
       "type": "color",
       "description": "use for slider in welcom bonus"
     },
     "slider-curret-additional": {
-      "value": "#BB715D",
+      "value": "#B48B6F",
       "type": "color",
       "description": "use for slider curret in welcom bonus"
     },
@@ -4146,10 +4146,10 @@
     },
     "welcome-bonus": {
       "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "17px",
-        "fontSize": "15px",
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "16px",
+        "fontSize": "12px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",

@@ -1519,7 +1519,9 @@
       "icon.ghost-5": "S:605b0723121f030348728993807ccc7c7581dac1,",
       "typography.title-1-stronger-additional": "S:cc339cb435a695e6880aa0cace71fa3c2767adb9,",
       "gamepage.bg.additional-3": "S:bfaa4650b9c9c701f054e7903d51ebf9b110dab9,",
-      "gamepage.overlay-extra": "S:88eca998f25e8093d007f2aa822c7c0baf656205,"
+      "gamepage.overlay-extra": "S:88eca998f25e8093d007f2aa822c7c0baf656205,",
+      "small-elements.pagination": "S:d0ac35223dd57b1b5d043c635b86fb94f1e402e0,",
+      "special-blocks.welcome-bonus": "S:365b8cd75ff680064ee71f5315ab9a2aaa27ae58,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
