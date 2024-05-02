@@ -1974,8 +1974,17 @@
         "description": "use for bg in cashbox transaction"
       },
       "5": {
-        "value": "{bg.tertiary}",
+        "value": "#000",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.32",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for bg in cashbox transaction"
       },
       "6": {
