@@ -2022,7 +2022,7 @@
         "description": "use for bg in cashbox transaction"
       },
       "5": {
-        "value": "rgba({base.dark}, 0.32)",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "use for bg in cashbox transaction"
       },
