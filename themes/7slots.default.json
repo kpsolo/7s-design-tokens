@@ -2065,9 +2065,9 @@
         "description": "use for bg in cashbox transaction"
       },
       "5": {
-        "value": "rgba({base.dark}, 0.32)",
+        "value": "{bg.tertiary}",
         "type": "color",
-        "description": "use for bg in cashbox transaction"
+        "description": "use for active bonus bg in registration popup"
       },
       "6": {
         "value": "linear-gradient(180deg, rgba(47, 67, 97, 0.00) 0%, #2F4361 100%)",
