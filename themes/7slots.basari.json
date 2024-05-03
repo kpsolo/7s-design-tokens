@@ -1875,7 +1875,7 @@
         "description": "bg for app button in footer"
       },
       "sidebar-game-additional": {
-        "value": "#FFFFFF",
+        "value": "{bg.other.sidebar-game}",
         "type": "color",
         "description": "Bg for right sidebar on gamepage (desktop)"
       },
