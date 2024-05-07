@@ -1532,17 +1532,17 @@
   },
   "radius": {
     "card": {
-      "value": "10px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
     "game-item": {
-      "value": "10px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
     "navbar": {
-      "value": "44px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
@@ -1552,7 +1552,7 @@
       "description": "use for prize item in tournament/lotery page "
     },
     "button": {
-      "value": "44px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
@@ -1581,7 +1581,7 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "8px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
@@ -1591,7 +1591,7 @@
       "description": "Radius for smallest game items"
     },
     "input-custom1": {
-      "value": "8px 8px 8px 8px",
+      "value": "4px 4px 4px 4px",
       "type": "borderRadius",
       "description": "Use for error field"
     },
@@ -1612,7 +1612,7 @@
     },
     "special-blocks": {
       "jackpot-radius": {
-        "value": "16px",
+        "value": "8px",
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
@@ -2360,23 +2360,50 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "linear-gradient(177deg, #FB3C3C 1.96%, #880303 98.23%)",
+        "value": "#FFC908",
         "type": "color",
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "linear-gradient(160deg, #FF6A6A 0%, #B20101 100%)",
+        "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "linear-gradient(160deg, #880303 0%, #FB3C3C 100%)",
+        "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary pressed"
       },
       "primary-disabled": {
-        "value": "linear-gradient(160deg, rgba(251, 60, 60, 0.60) 0%, rgba(136, 3, 3, 0.60) 100%)",
+        "value": "{button.bg.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.5",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
@@ -2420,14 +2447,14 @@
         "description": "Background for ghost button"
       },
       "primary-disabled-additional": {
-        "value": "linear-gradient(160deg, rgba(251, 60, 60, 0.60) 0%, rgba(136, 3, 3, 0.60) 100%)",
+        "value": "{button.bg.primary-disabled}",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
       }
     },
     "icon": {
       "primary": {
-        "value": "#ffffff",
+        "value": "#000",
         "type": "color",
         "description": "Icon color on a primary button"
       },
@@ -2447,7 +2474,7 @@
         "description": "Icon color on a ghost button"
       },
       "primary-disabled": {
-        "value": "#ffffff66",
+        "value": "{button.text.primary-disabled}",
         "type": "color",
         "description": "Icon color on a primary disabled button"
       },
@@ -2504,7 +2531,7 @@
         "description": "border color for ghost buttons pressed state (use in menu)"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "description": "border color for buttons default in cards"
       },
@@ -2523,7 +2550,7 @@
         "description": "border color for buttons hover"
       },
       "tertiary-light-pressed": {
-        "value": "{button.text.tertiary-light}",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2544,7 +2571,7 @@
     },
     "text": {
       "primary": {
-        "value": "#ffffff",
+        "value": "#000",
         "type": "color",
         "description": "Text color on primary button"
       },
@@ -2564,8 +2591,17 @@
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "#ffffff80",
+        "value": "{button.text.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Text color on primary disabled button"
       },
       "secondary-disabled": {
@@ -2589,12 +2625,12 @@
         "description": "Text color for buttons on light bg (notificstion)"
       },
       "tertiary-light": {
-        "value": "{button.text.primary}",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "description": "color on tertiary buttons on cards"
       },
       "tertiary-light-disabled": {
-        "value": "{button.text.tertiary-light}",
+        "value": "{button.text.tertiary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
