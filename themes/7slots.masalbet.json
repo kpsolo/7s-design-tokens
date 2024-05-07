@@ -1638,7 +1638,7 @@
       "description": "Radius for cards amd widgets"
     },
     "tab": {
-      "value": "4px",
+      "value": "1px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
