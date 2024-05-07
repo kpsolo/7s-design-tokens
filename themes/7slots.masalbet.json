@@ -1566,7 +1566,7 @@
       "type": "borderRadius"
     },
     "tooltips-notifications": {
-      "value": "10px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
