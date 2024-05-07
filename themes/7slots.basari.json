@@ -492,7 +492,7 @@
     },
     "notification-bubble": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "fontSize": "9px",
         "letterSpacing": "{letter-spacing.0}",
