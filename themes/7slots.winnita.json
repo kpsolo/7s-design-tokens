@@ -567,7 +567,7 @@
     },
     "notification-bubble": {
       "value": {
-        "fontFamily": "{font-family.main}",
+        "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.xs}",
         "fontSize": "{font-size.1}",
