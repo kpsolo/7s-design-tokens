@@ -2264,12 +2264,12 @@
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#ffc02e",
+      "value": "#FFC908",
       "type": "color",
       "description": "Background for tertiary elements"
     },
     "accent-tertiary": {
-      "value": "#ffc94d",
+      "value": "#FFC908",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -4417,7 +4417,7 @@
       "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color"
     },
     "error": {
@@ -4605,7 +4605,7 @@
         }
       },
       "item-active": {
-        "value": "#FFC56D",
+        "value": "#FFE68E",
         "type": "color"
       },
       "banner": {
