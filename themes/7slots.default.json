@@ -3660,7 +3660,7 @@
   },
   "special-blocks": {
     "404": {
-      "value": "{base.accent-primary}",
+      "value": "{text.light}",
       "type": "color",
       "description": "for 404 numbers"
     },
