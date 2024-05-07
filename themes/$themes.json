@@ -547,7 +547,8 @@
       "special-blocks.welcome-bonus": "S:84932e6e1396987be195d94b4cd5178601433bd3,"
     },
     "selectedTokenSets": {
-      "7slots.default": "enabled"
+      "7slots.default": "enabled",
+      "7slots.masalabet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:23933:93942",
     "$figmaModeId": "23933:0",
@@ -1524,7 +1525,8 @@
       "special-blocks.welcome-bonus": "S:365b8cd75ff680064ee71f5315ab9a2aaa27ae58,"
     },
     "selectedTokenSets": {
-      "7slots.basari": "enabled"
+      "7slots.basari": "enabled",
+      "7slots.masalabet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:23933:94269",
     "$figmaModeId": "23933:1",
@@ -1971,7 +1973,9 @@
     "id": "c02b25926b7fb33b4a9888b84ae80b8ad345ad82",
     "name": "Light",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "7slots.masalabet": "disabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:23250:119000",
     "$figmaModeId": "23250:1",
     "$figmaVariableReferences": {}
@@ -2369,7 +2373,8 @@
       "wheel.picker.bg-main-2": "S:193140957f550ecd93385b4e4488a1a6dee2cf31,"
     },
     "selectedTokenSets": {
-      "7slots.theme-1": "enabled"
+      "7slots.theme-1": "enabled",
+      "7slots.masalabet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:23933:94608",
     "$figmaModeId": "23933:2",
@@ -3359,7 +3364,8 @@
       "small-elements.pagination": "S:53a28efaa63532143ec942521111a7c92c8eb1ff,"
     },
     "selectedTokenSets": {
-      "7slots.winnita": "enabled"
+      "7slots.winnita": "enabled",
+      "7slots.masalabet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:26569:367527",
     "$figmaModeId": "26569:0",
@@ -3865,7 +3871,9 @@
   {
     "id": "d084ff86637cad138fa461f9c45e80f6b4a970eb",
     "name": "Main Light",
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "7slots.masalabet": "disabled"
+    },
     "$figmaStyleReferences": {
       "Typography.caption-2": "S:02a74ed6f0ec47a2a31983f716b98eb9eb1405e5,",
       "Typography.caption-2-strong": "S:880be5f7adf8f92f00a787fff2d8ff16485c5d89,",
@@ -4188,5 +4196,13 @@
     "$figmaVariableReferences": {},
     "$figmaCollectionId": "VariableCollectionId:21307:192574",
     "$figmaModeId": "21307:6"
+  },
+  {
+    "id": "07e076521ee514ab70e2487018ac324ff08328f3",
+    "name": "Masalabet",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "7slots.masalabet": "enabled"
+    }
   }
 ]
