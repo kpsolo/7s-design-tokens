@@ -4066,7 +4066,7 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "value": "linear-gradient(158deg, #8C4CD2 8.57%, rgba(127, 68, 192, 0.43) 48.22%, #7C41BD 79.36%)",
           "type": "color",
           "description": "border for activity card"
         },
