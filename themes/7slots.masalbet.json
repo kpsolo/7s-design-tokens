@@ -1818,7 +1818,7 @@
         "description": "Global background for strip banners"
       },
       "sidebar-game": {
-        "value": "linear-gradient(180deg, #1D1010 0.3%, #201414 8%, #2D2222 38%, #2C2020 70%, #281D1D 80%, #261C1C 100%)",
+        "value": "{gamepage.bg.primary}",
         "type": "color",
         "description": "Bg for sidebar on gamepage (desktop)"
       },
@@ -1867,7 +1867,7 @@
         "description": "bg for app button in footer"
       },
       "sidebar-game-additional": {
-        "value": "{bg.other.sidebar-game}",
+        "value": "{gamepage.bg.primary}",
         "type": "color",
         "description": "Bg for right sidebar on gamepage (desktop)"
       },
@@ -2046,7 +2046,7 @@
         "description": "use for progress bar bg "
       },
       "sidebar-gamepage": {
-        "value": "linear-gradient(180deg, rgba(41, 30, 30, 0.00) 0%, rgba(39, 27, 27, 0.95) 63.16%, #271B1B 100%)",
+        "value": "{gamepage.bg.primary}",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
       },
@@ -2152,7 +2152,7 @@
       "description": "use for bottom block in profile "
     },
     "widget-bonus": {
-      "value": "linear-gradient(160deg, #ac1717 8.49%, #4a0707 58.22%)",
+      "value": "linear-gradient(123deg, #79001D 9.05%, #77011D 38.8%, #970024 71.52%, #970024 90.19%)",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
