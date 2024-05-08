@@ -1701,7 +1701,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, #2C0202 0.06%, #930101 99.97%)",
+        "value": "linear-gradient(175deg, #841A33 7.63%, #75132A 38.83%, #72162C 73.54%, #841A33 90.34%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -1835,7 +1835,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "linear-gradient(100deg, #830202 0%, rgba(57, 0, 0, 0.30) 75%)",
+        "value": "linear-gradient(175deg, #841A33 7.63%, #75132A 38.83%, #72162C 73.54%, #841A33 90.34%)",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
@@ -1911,7 +1911,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(176deg, #1B1B1B 6.8%, #242424 34.97%, #3C3C3C 61.27%, #2F2F2F 81.93%, #262626 91.33%)",
+      "value": "linear-gradient(104deg, #1B1B1B 11.81%, #242424 31.3%, #3C3C3C 63.08%, #2F2F2F 82.53%, #262626 91.38%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2259,7 +2259,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#FB3C3C",
+      "value": "#E60A3E",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -2806,13 +2806,13 @@
       "type": "color"
     },
     "slider": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.4",
+            "value": "0.2",
             "space": "srgb"
           }
         }
@@ -3012,7 +3012,7 @@
       }
     },
     "slider-curret": {
-      "value": "#FB3C3C",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "use for slider curret in mob main page"
     },
@@ -3096,7 +3096,7 @@
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Use for active icons"
     },
