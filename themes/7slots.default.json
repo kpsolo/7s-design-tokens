@@ -4066,7 +4066,7 @@
     "achievements": {
       "border": {
         "activity": {
-          "value": "linear-gradient(158deg, #8C4CD2 8.57%, rgba(127, 68, 192, 0.43) 48.22%, #7C41BD 79.36%)",
+          "value": "linear-gradient(158deg, #A96BEB 15.68%, rgba(164, 117, 216, 0.43) 48.53%, #864CC6 74.32%)",
           "type": "color",
           "description": "border for activity card"
         },
@@ -4081,22 +4081,22 @@
           "description": "use as stroke in first deposit widget"
         },
         "main-last": {
-          "value": "linear-gradient(158deg, #6F3BA8 0%, rgba(111, 59, 168, 0.43) 47.85%, #6F3BA8 85.44%)",
+          "value": "linear-gradient(158deg, #7945B3 8.57%, rgba(127, 73, 186, 0.43) 48.22%, #7345A6 79.36%)",
           "type": "color",
           "description": "use as stroke in last achievements cards "
         },
         "main-progress": {
-          "value": "linear-gradient(158deg, #3D3BA8 0%, rgba(61, 59, 168, 0.43) 47.85%, #3D3BA8 85.44%)",
+          "value": "linear-gradient(158deg, #4E4CBF 8.57%, rgba(61, 59, 198, 0.43) 48.22%, #4B49B9 79.36%)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
         },
         "win": {
-          "value": "linear-gradient(158deg, #B33CB5 0%, rgba(179, 60, 181, 0.43) 47.85%, #B33CB5 85.44%)",
+          "value": "linear-gradient(158deg, #C24DC4 8.57%, rgba(196, 75, 198, 0.43) 48.22%, #C152C3 79.36%)",
           "type": "color",
           "description": "border for win card"
         },
         "achievements": {
-          "value": "linear-gradient(158deg, #4A3BA8 0%, rgba(68, 59, 168, 0.43) 47.85%, #443BA8 85.44%)",
+          "value": "linear-gradient(158deg, #6858CA 8.57%, rgba(92, 83, 195, 0.43) 48.22%, #5D54C4 79.36%)",
           "type": "color",
           "description": "border for win card"
         }
