@@ -774,15 +774,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "{base.accent-primary}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "8",
-          "spread": "",
-          "color": "{base.accent-primary}",
+          "color": "#7C021E",
           "type": "dropShadow"
         }
       ],
@@ -1040,8 +1032,8 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "0",
-          "color": "#29E95A",
+          "spread": "",
+          "color": "#7C021E",
           "type": "dropShadow"
         }
       ],
@@ -1354,7 +1346,7 @@
     },
     "dropdown": {
       "value": {
-        "color": "#DCE0EE",
+        "color": "rgba(255,255,255,0.08)",
         "width": "1",
         "style": "solid"
       },
@@ -1544,7 +1536,7 @@
     "navbar": {
       "value": "4px",
       "type": "borderRadius",
-      "description": "+socials bg in menu/gamepage/registration"
+      "description": "desktop categories\n+socials bg in menu/gamepage/registration"
     },
     "prize": {
       "value": "4px",
@@ -1612,7 +1604,7 @@
     },
     "special-blocks": {
       "jackpot-radius": {
-        "value": "8px",
+        "value": "6px",
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
@@ -1749,7 +1741,7 @@
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "#811931",
+        "value": "#8F0022",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -2793,7 +2785,7 @@
       }
     },
     "progress-large": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
