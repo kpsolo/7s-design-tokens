@@ -1865,7 +1865,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "1click": {
-        "value": "#1C212E",
+        "value": "{bg.tertiary}",
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
@@ -1911,7 +1911,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(176deg, #711919 4%, #771F1E 34%, #521A19 62%, #31090B 84%, #31090B 94%)",
+      "value": "linear-gradient(176deg, #1B1B1B 6.8%, #242424 34.97%, #3C3C3C 61.27%, #2F2F2F 81.93%, #262626 91.33%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -1921,7 +1921,7 @@
       "description": "for past tournament,lottery"
     },
     "widget-default": {
-      "value": "linear-gradient(160deg, #AC1717 0%, #4A0707 59.9%)",
+      "value": "linear-gradient(106deg, #1B1B1B 15.49%, #242424 39.9%, #3C3C3C 63.5%, #3C3C3C 80.59%, #3C3C3C 88.73%)",
       "type": "color",
       "description": "for tournament on main page, news, lottery"
     },
@@ -3096,7 +3096,7 @@
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "Use for active icons"
     },
@@ -5057,7 +5057,7 @@
       "description": "text for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(175deg, #841A1A 4.27%, #841919 37.94%, #53140B 75.41%, #6F1111 93.54%)",
+      "value": "linear-gradient(175deg, #841A33 7.63%, #75132A 38.83%, #72162C 73.54%, #841A33 90.34%)",
       "type": "color",
       "description": "Bg for card"
     },
