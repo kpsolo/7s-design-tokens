@@ -773,8 +773,8 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
-          "color": "#7C021E",
+          "spread": "0",
+          "color": "#d7a800",
           "type": "dropShadow"
         }
       ],
@@ -1032,8 +1032,8 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
-          "color": "#7C021E",
+          "spread": "0",
+          "color": "#d7a800",
           "type": "dropShadow"
         }
       ],
@@ -4281,7 +4281,7 @@
       "description": "use for desktop categories"
     },
     "item-active": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "use for active desktop categories items"
     }
