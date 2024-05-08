@@ -923,7 +923,7 @@
           "y": "4",
           "blur": "16",
           "spread": "0",
-          "color": "{base.accent-primary}",
+          "color": "transparent",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -2192,7 +2192,7 @@
       "description": "bg for notifications"
     },
     "social-icons": {
-      "value": "rgba(69, 69, 69, 0.08)",
+      "value": "transparent",
       "type": "color",
       "description": "use for bg under social icons in mob menu"
     },
