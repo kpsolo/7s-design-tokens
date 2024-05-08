@@ -1363,7 +1363,7 @@
     },
     "nav-additional": {
       "value": {
-        "color": "#CCCCCC",
+        "color": "rgba(255, 255, 255, 0.15)",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -1557,7 +1557,7 @@
       "description": "Radius for buttons"
     },
     "tap-bar": {
-      "value": "20px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Radius for tapbar"
     },
@@ -2049,7 +2049,7 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "linear-gradient(180deg, {bg.secondary} 0%, {bg.primary} 100%)",
+        "value": "#1E1E1E",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -2346,8 +2346,17 @@
         "description": "use for buttton color on main tapbar"
       },
       "button-icon": {
-        "value": "{base.light}",
+        "value": "{base.dark}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Color of icon on big button in tapbar"
       }
     },
@@ -2399,7 +2408,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "0.5",
+              "value": "0.3",
               "space": "srgb"
             }
           }
@@ -3041,7 +3050,7 @@
       "description": "bg for progressbar in loyalty"
     },
     "progress-bg-additional": {
-      "value": "{bg.overlay.light-2}",
+      "value": "transparent",
       "type": "color",
       "description": "border for progressbar in profile"
     },
@@ -3261,13 +3270,13 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "lighten",
-              "value": "0.8",
+              "value": "0.6",
               "space": "srgb"
             }
           }
