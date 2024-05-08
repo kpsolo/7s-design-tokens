@@ -2793,12 +2793,12 @@
       }
     },
     "progress-large": {
-      "value": "linear-gradient(180deg, #EC8E00 0%, #CD7B01 100%)",
+      "value": "{base.accent-secondary}",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bar": {
-      "value": "linear-gradient(180deg, #EC8E00 6.25%, #CD7B01 100%)",
+      "value": "{base.accent-secondary}",
       "type": "color"
     },
     "bullet": {
