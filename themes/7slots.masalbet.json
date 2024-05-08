@@ -644,8 +644,8 @@
     "card": {
       "value": {
         "x": "0",
-        "y": "8",
-        "blur": "16",
+        "y": "4",
+        "blur": "8",
         "spread": "0",
         "color": "rgba(0,0,0,0.6)",
         "type": "dropShadow"
@@ -929,9 +929,9 @@
         "value": {
           "x": "0",
           "y": "4",
-          "blur": "20",
-          "spread": "",
-          "color": "{special-blocks.amount-jackpot}",
+          "blur": "16",
+          "spread": "0",
+          "color": "{base.accent-primary}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1239,7 +1239,7 @@
     },
     "popup": {
       "value": {
-        "color": "rgba(255,255,255,0.15)",
+        "color": "rgba(255,255,255,0.08)",
         "width": "1",
         "style": "solid"
       },
@@ -1701,7 +1701,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(175deg, #841A33 7.63%, #75132A 38.83%, #72162C 73.54%, #841A33 90.34%)",
+        "value": "linear-gradient(123deg, #79001D 9.05%, #77011D 38.8%, #970024 71.52%, #970024 90.19%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -1744,12 +1744,12 @@
         "description": "for cashbox bonus popup content"
       },
       "promo": {
-        "value": "#000",
+        "value": "#181818",
         "type": "color",
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "linear-gradient(102deg, rgba(255, 255, 255, 0.10) 1.68%, rgba(255, 255, 255, 0.2) 96.87%)",
+        "value": "#811931",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -1835,7 +1835,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "linear-gradient(175deg, #841A33 7.63%, #75132A 38.83%, #72162C 73.54%, #841A33 90.34%)",
+        "value": "linear-gradient(123deg, #79001D 9.05%, #77011D 38.8%, #970024 71.52%, #970024 90.19%)",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
@@ -2259,7 +2259,7 @@
       "description": "Lighttest (white)"
     },
     "accent-primary": {
-      "value": "#E60A3E",
+      "value": "#C60330",
       "type": "color",
       "description": "Background for accent elements"
     },
@@ -3690,7 +3690,7 @@
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-widget-bg": {
-      "value": "linear-gradient(180deg, rgba(77, 77, 77, 0.60) 0%, rgba(48, 49, 51, 0.60) 19.79%, rgba(28, 33, 46, 0.60) 100%)",
+      "value": "linear-gradient(180deg, rgba(77, 77, 77, 0.60) 0%, rgba(48, 49, 51, 0.60) 19.79%, rgba(30, 0, 7, 0.40) 100%)",
       "type": "color",
       "description": "Background for jackpot widget"
     },
@@ -4618,7 +4618,7 @@
         "type": "color"
       },
       "banner": {
-        "value": "linear-gradient(180deg, #C3C3C3 0%, #B4B4B4 100%)",
+        "value": "#181818",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
@@ -5057,7 +5057,7 @@
       "description": "text for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(175deg, #841A33 7.63%, #75132A 38.83%, #72162C 73.54%, #841A33 90.34%)",
+      "value": "linear-gradient(123deg, #79001D 9.05%, #77011D 38.8%, #970024 71.52%, #970024 90.19%)",
       "type": "color",
       "description": "Bg for card"
     },
