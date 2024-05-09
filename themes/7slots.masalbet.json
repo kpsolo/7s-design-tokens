@@ -4406,7 +4406,6 @@
     "link-alternative": {
       "value": "{base.accent-primary}",
       "type": "color",
-      "$extensions": {},
       "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
