@@ -2396,7 +2396,6 @@
       "primary-disabled": {
         "value": "#D9D9D9",
         "type": "color",
-        "$extensions": {},
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
@@ -2586,7 +2585,6 @@
       "primary-disabled": {
         "value": "#919191",
         "type": "color",
-        "$extensions": {},
         "description": "Text color on primary disabled button"
       },
       "secondary-disabled": {

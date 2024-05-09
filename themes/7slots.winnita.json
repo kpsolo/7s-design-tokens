@@ -2819,7 +2819,7 @@
     },
     "separator": {
       "primary": {
-        "value": "#fff",
+        "value": "#000",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
