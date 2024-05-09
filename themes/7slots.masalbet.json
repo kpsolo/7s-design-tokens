@@ -1827,7 +1827,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "linear-gradient(108deg, #EBB700 7.13%, #BB9716 37.47%, #272621 95.46%)",
+        "value": "linear-gradient(120deg, #F49507 5.23%, #A1722A 34.5%, #3C3C3C 91.86%)",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
