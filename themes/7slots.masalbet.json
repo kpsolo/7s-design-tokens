@@ -1617,7 +1617,7 @@
     "popup-additional": {
       "value": "7px",
       "type": "borderRadius",
-      "description": "for secret mirror bg border radius"
+      "description": "for secret mirror bg radius/ welcomeback popup "
     },
     "item": {
       "value": "{radius.button}",
@@ -1823,7 +1823,7 @@
         "description": "Bg for sidebar on gamepage (desktop)"
       },
       "welcome-3": {
-        "value": "#7a3232",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "win-card-wrap": {
@@ -1832,7 +1832,7 @@
         "description": "bg for row of winners vidgets"
       },
       "welcome": {
-        "value": "linear-gradient(180deg, #7a7a7a 0%, #6F6F6F 50%, #5B4847 100%)",
+        "value": "{bg.other.strip-popup}",
         "type": "color",
         "description": "use as bg for welcome popup"
       },
@@ -4404,17 +4404,9 @@
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#5087D7",
+      "value": "{base.accent-primary}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
+      "$extensions": {},
       "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
