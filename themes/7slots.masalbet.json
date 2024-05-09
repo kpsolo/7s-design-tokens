@@ -3219,7 +3219,6 @@
       "disabled": {
         "value": "#383838",
         "type": "color",
-        "$extensions": {},
         "description": "Color border for disabled input"
       },
       "error": {

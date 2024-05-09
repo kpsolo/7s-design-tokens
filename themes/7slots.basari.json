@@ -3179,18 +3179,10 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "#cbcbcb",
+        "value": "#383838",
         "type": "color",
-        "description": "Color border for disabled input",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "Color border for disabled input"
       },
       "error": {
         "value": "{base.error}",
