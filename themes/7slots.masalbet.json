@@ -1805,7 +1805,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.20",
+              "value": "0.10",
               "space": "srgb"
             }
           }
@@ -1813,7 +1813,7 @@
         "description": "use for bg under girls"
       },
       "strip-bg": {
-        "value": "linear-gradient(166deg, #121010 6.67%, #1D1010 16.67%, #2D2222 36.18%, #2C2020 60.8%, #281D1D 78%, #261C1C 90.77%)",
+        "value": "linear-gradient(104deg, #1B1B1B 11.81%, #242424 31.3%, #3C3C3C 63.08%, #2F2F2F 82.53%, #262626 91.38%)",
         "type": "color",
         "description": "Global background for strip banners"
       },
@@ -2152,7 +2152,7 @@
       "description": "use for bottom block in profile "
     },
     "widget-bonus": {
-      "value": "linear-gradient(123deg, #79001D 9.05%, #77011D 38.8%, #970024 71.52%, #970024 90.19%)",
+      "value": "linear-gradient(106deg, #BE960B 6.61%, #846A10 38.07%, #272621 98.49%)",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
@@ -5137,8 +5137,17 @@
       }
     },
     "overlay-additional": {
-      "value": "{bg.overlay.5}",
+      "value": "#000",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.42",
+            "space": "lch"
+          }
+        }
+      },
       "description": "overlay on cards"
     },
     "bg": {
