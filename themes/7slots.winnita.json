@@ -2830,7 +2830,7 @@
             }
           }
         },
-        "description": "border color for separating groups of table rows/colums,footer "
+        "description": "border color for separating groups footer "
       },
       "item": {
         "value": "rgba(25, 41, 71, 0.10)",
