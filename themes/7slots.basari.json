@@ -3448,7 +3448,7 @@
       "type": "sizing"
     },
     "button-m-small": {
-      "value": "40px",
+      "value": "48px",
       "type": "sizing",
       "description": "use on mainpage mob slider "
     }
