@@ -3446,6 +3446,11 @@
     "button-s": {
       "value": "32px",
       "type": "sizing"
+    },
+    "button-m-small": {
+      "value": "40px",
+      "type": "sizing",
+      "description": "use on mainpage mob slider "
     }
   },
   "font-family": {
