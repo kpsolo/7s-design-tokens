@@ -2783,6 +2783,12 @@
           }
         },
         "description": "desktop registration popup bottom link top separator/ tab separator"
+      },
+      "additional": {
+        "value": "{small-elements.separator.primary}",
+        "type": "color",
+        "$extensions": {},
+        "description": "border color for info inside transaction"
       }
     },
     "progress-large": {

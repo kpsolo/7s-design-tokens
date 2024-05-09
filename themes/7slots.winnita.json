@@ -2832,6 +2832,12 @@
         },
         "description": "border color for separating groups footer "
       },
+      "additional": {
+        "value": "{small-elements.separator.primary}",
+        "type": "color",
+        "$extensions": {},
+        "description": "border color for info inside transaction"
+      },
       "item": {
         "value": "rgba(25, 41, 71, 0.10)",
         "type": "color",

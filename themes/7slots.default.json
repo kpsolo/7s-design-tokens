@@ -2803,6 +2803,12 @@
           }
         },
         "description": "use in mob registation tabs"
+      },
+      "additional": {
+        "value": "{small-elements.separator.primary}",
+        "type": "color",
+        "$extensions": {},
+        "description": "border color for info inside transaction"
       }
     },
     "progress-large": {
