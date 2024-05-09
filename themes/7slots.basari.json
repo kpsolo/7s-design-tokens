@@ -2692,9 +2692,8 @@
     },
     "separator": {
       "primary": {
-        "value": "#fff",
+        "value": "#000",
         "type": "color",
-        "description": "border color for separating groups of table rows/colums,footer ",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2703,7 +2702,8 @@
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "border color for separating groups of table rows/colums,footer "
       },
       "tertiary": {
         "value": "#fff",
