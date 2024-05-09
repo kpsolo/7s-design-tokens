@@ -2177,7 +2177,7 @@
       "description": "use for popups bg ( secret mirror border)"
     },
     "popup-2": {
-      "value": "#F2F3F5",
+      "value": "{bg.tertiary}",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -2729,9 +2729,8 @@
     },
     "separator": {
       "primary": {
-        "value": "#fff",
+        "value": "#000",
         "type": "color",
-        "description": "border color for separating groups of table rows/colums,footer ",
         "$extensions": {
           "studio.tokens": {
             "modify": {
@@ -2740,7 +2739,8 @@
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "border color for separating groups of table rows/colums,footer "
       },
       "tertiary": {
         "value": "#fff",
@@ -2768,7 +2768,7 @@
             }
           }
         },
-        "description": "for line separator in dropdown/menu"
+        "description": "for line separator in menu/ dropdown with light bg"
       },
       "secondary": {
         "value": "#585858",
@@ -2781,7 +2781,8 @@
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "desktop registration popup bottom link top separator/ tab separator"
       }
     },
     "progress-large": {
