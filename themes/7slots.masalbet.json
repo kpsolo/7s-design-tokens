@@ -1741,7 +1741,7 @@
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "#8F0022",
+        "value": "#2D2D2D",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -1827,7 +1827,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "linear-gradient(123deg, #79001D 9.05%, #77011D 38.8%, #970024 71.52%, #970024 90.19%)",
+        "value": "linear-gradient(108deg, #EBB700 7.13%, #BB9716 37.47%, #272621 95.46%)",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
@@ -3732,7 +3732,7 @@
       "description": "Amount of prize on jackpot widget"
     },
     "jackpot-line": {
-      "value": "linear-gradient(180deg, rgba( {base.accent-primary} , 0.39) 0%, {base.accent-primary} 49.48%, rgba( {base.accent-primary} , 0.39) 100%)",
+      "value": "linear-gradient(180deg, rgba( {base.accent-secondary} , 0.39) 0%, {base.accent-secondary} 49.48%, rgba( {base.accent-secondary} , 0.39) 100%)",
       "type": "color",
       "description": "Color for jackpot widget separate line"
     },
@@ -3812,7 +3812,7 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "title-jackpot": {
-      "value": "{base.accent-primary}",
+      "value": "{base.accent-secondary}",
       "type": "color"
     },
     "amount-jackpot": {
@@ -5086,7 +5086,7 @@
       "description": "bg in brogress bar ingamepage widget"
     },
     "icon-border": {
-      "value": "#96C2FF",
+      "value": "#fff",
       "type": "color",
       "description": "use for icons border on gamepage widget"
     },
