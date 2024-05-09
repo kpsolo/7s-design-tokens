@@ -2182,7 +2182,7 @@
       "description": "use for popups bg"
     },
     "gradient-additional": {
-      "value": "linear-gradient(151deg, #F9E6B5 4.14%, #DBFEFF 95.17%)",
+      "value": "{bg.popup}",
       "type": "color",
       "description": "Gradient for bg in bonus card in cashbox"
     },
@@ -2785,7 +2785,7 @@
         "description": "desktop registration popup bottom link top separator/ tab separator"
       },
       "additional": {
-        "value": "{small-elements.separator.primary}",
+        "value": "{small-elements.separator.secondary}",
         "type": "color",
         "description": "border color for info inside transaction"
       }
@@ -3217,18 +3217,10 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "#cbcbcb",
+        "value": "#383838",
         "type": "color",
-        "description": "Color border for disabled input",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "$extensions": {},
+        "description": "Color border for disabled input"
       },
       "error": {
         "value": "{base.error}",

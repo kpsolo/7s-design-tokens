@@ -3558,7 +3558,8 @@
       "shadow.header-additional": "S:e98f29e2e70a7029b796aca65bd59770c4a95c44,",
       "shadow.accent-additional": "S:6bc6b297878e36800d97d82094dfb1a2218a835d,",
       "shadow.accent-extra": "S:659433bd01a7076d8564f618612ade90994c3c74,",
-      "shadow.card-additional-3": "S:c36e5f1367d2b71868a52375ed307e2cedadef5b,"
+      "shadow.card-additional-3": "S:c36e5f1367d2b71868a52375ed307e2cedadef5b,",
+      "small-elements.separator.additional": "S:885d81d4ccfbd6675782e78f26f7355cff6beb5b,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
