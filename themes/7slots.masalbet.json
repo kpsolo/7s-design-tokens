@@ -2112,7 +2112,7 @@
         "description": "use on message page under bottom link "
       },
       "welcome": {
-        "value": "linear-gradient(180deg, rgba(91,72,71,0) 0%, #5B4847 60.74%, #5B4847 100%)",
+        "value": "{bg.overlay-gradient.2}",
         "type": "color",
         "description": "use for overlay under button in welcome popup"
       },
