@@ -2291,7 +2291,7 @@
       "description": "Indication of warning"
     },
     "gold": {
-      "value": "#c79e0c",
+      "value": "#EEBD0E",
       "type": "color",
       "description": "Color for winners lottery tickets"
     },
@@ -2394,17 +2394,9 @@
         "description": "Background for primary pressed"
       },
       "primary-disabled": {
-        "value": "{button.bg.primary}",
+        "value": "#D9D9D9",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
@@ -2448,7 +2440,7 @@
         "description": "Background for ghost button"
       },
       "primary-disabled-additional": {
-        "value": "{button.bg.primary-disabled}",
+        "value": "#D9D9D9",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
       }
@@ -2475,7 +2467,7 @@
         "description": "Icon color on a ghost button"
       },
       "primary-disabled": {
-        "value": "{button.text.primary-disabled}",
+        "value": "#919191",
         "type": "color",
         "description": "Icon color on a primary disabled button"
       },
@@ -2592,17 +2584,9 @@
         "description": "color on ghost buttons"
       },
       "primary-disabled": {
-        "value": "{button.text.primary}",
+        "value": "#919191",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Text color on primary disabled button"
       },
       "secondary-disabled": {
@@ -5049,7 +5033,7 @@
       "description": "text for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(123deg, #79001D 9.05%, #77011D 38.8%, #970024 71.52%, #970024 90.19%)",
+      "value": "linear-gradient(120deg, #F49507 5.23%, #A1722A 34.5%, #3C3C3C 91.86%)",
       "type": "color",
       "description": "Bg for card"
     },
@@ -5064,7 +5048,7 @@
       "description": "bg for empty ball"
     },
     "place-label-text": {
-      "value": "#1C212E",
+      "value": "{base.dark}",
       "type": "color",
       "description": "text on place label"
     },
