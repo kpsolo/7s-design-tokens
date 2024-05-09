@@ -2747,9 +2747,8 @@
         }
       },
       "additional": {
-        "value": "{small-elements.separator.primary}",
+        "value": "{small-elements.separator.secondary}",
         "type": "color",
-        "$extensions": {},
         "description": "border color for info inside transaction"
       }
     },
