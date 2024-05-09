@@ -2833,7 +2833,7 @@
         "description": "border color for separating groups footer "
       },
       "additional": {
-        "value": "{small-elements.separator.primary}",
+        "value": "{small-elements.separator.item}",
         "type": "color",
         "description": "border color for info inside transaction"
       },
