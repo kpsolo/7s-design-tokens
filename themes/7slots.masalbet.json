@@ -2419,18 +2419,36 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "linear-gradient(177deg, #F4F4F4 2%, #DCDCDC 100%)",
+        "value": "#EAEAEA",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
       "app-hover": {
-        "value": "linear-gradient(177deg, #FFF 2%, #EBEBEB 100%)",
+        "value": "{button.bg.app-default}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for hovered button in pregame modal"
       },
       "app-pressed": {
-        "value": "linear-gradient(-25deg, #F4F4F4 2%, #DCDCDC 100%)",
+        "value": "{button.bg.app-default}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for pressed button in pregame modal"
       },
       "ghost": {
