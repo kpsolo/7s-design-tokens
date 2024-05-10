@@ -4096,7 +4096,7 @@
           "description": "use as stroke in last achievements cards "
         },
         "main-progress": {
-          "value": "linear-gradient(158deg, #4E4CBF 8.57%, rgba(61, 59, 198, 0.43) 48.22%, #4B49B9 79.36%)",
+          "value": "linear-gradient(158deg, #6865F5 15.68%, rgba(113, 111, 224, 0.43) 48.53%, #6B69C9 74.32%)",
           "type": "color",
           "description": "use as stroke in progress achievements cards "
         },
@@ -4106,7 +4106,7 @@
           "description": "border for win card"
         },
         "achievements": {
-          "value": "linear-gradient(158deg, #6858CA 8.57%, rgba(92, 83, 195, 0.43) 48.22%, #5D54C4 79.36%)",
+          "value": "linear-gradient(158deg, #8679D5 15.68%, rgba(112, 103, 215, 0.43) 48.53%, #685FCA 74.32%)",
           "type": "color",
           "description": "border for win card"
         }
