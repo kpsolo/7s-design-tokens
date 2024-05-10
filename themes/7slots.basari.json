@@ -1865,7 +1865,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "1click": {
-        "value": "#1C212E",
+        "value": "{base.light}",
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
@@ -2190,7 +2190,7 @@
       "description": "use for popups bg"
     },
     "gradient-additional": {
-      "value": "linear-gradient(151deg, #F9E6B5 4.14%, #DBFEFF 95.17%)",
+      "value": "{bg.popup}",
       "type": "color",
       "description": "Gradient for bg in bonus card in cashbox"
     },
