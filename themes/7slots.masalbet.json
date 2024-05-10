@@ -2204,7 +2204,7 @@
     "card": {
       "bg": {
         "1": {
-          "value": "rgba(35, 24, 21, 0.90)",
+          "value": "{bg.technical}",
           "type": "color",
           "description": "1st deopsit card bg"
         }
