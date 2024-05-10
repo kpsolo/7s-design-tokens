@@ -1803,7 +1803,7 @@
       "description": "bg for notifications"
     },
     "gradient-additional": {
-      "value": "transparent",
+      "value": "{bg.popup}",
       "type": "color",
       "description": "Gradient for bg in bonus card in cashbox"
     },

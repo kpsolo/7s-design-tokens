@@ -544,7 +544,8 @@
       "gamepage.overlay-extra": "S:47d88c1c54202c58c33d3ebc8488b7c851e5c01e,",
       "gamepage.bg.additional-3": "S:956ca252b54db78062402d8d2a693991af993dad,",
       "small-elements.pagination": "S:ba3e12edd1d10b59e848d6842c906f26157d49d6,",
-      "special-blocks.welcome-bonus": "S:84932e6e1396987be195d94b4cd5178601433bd3,"
+      "special-blocks.welcome-bonus": "S:84932e6e1396987be195d94b4cd5178601433bd3,",
+      "small-elements.separator.additional": "S:e487d63375e13f460a45d8de09bcf159b53e88e3,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
