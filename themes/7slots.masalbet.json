@@ -4745,11 +4745,11 @@
         "description": "use for text in denomination active buttons"
       },
       "sector-1": {
-        "value": "#D9D9D9",
+        "value": "#222222",
         "type": "color"
       },
       "sector-2": {
-        "value": "#000000",
+        "value": "#222222",
         "type": "color"
       }
     },
@@ -4788,7 +4788,7 @@
         "description": "use for switcher default bg"
       },
       "4": {
-        "value": "#357B2F",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for switcher active bg"
       },
@@ -4798,7 +4798,7 @@
         "description": "use for sectors bg (type1)"
       },
       "sector-1": {
-        "value": "#360303",
+        "value": "#FAA500",
         "type": "color",
         "description": "use for sectors bg (type1)-start"
       },
@@ -4813,7 +4813,7 @@
         "description": "use for borders in sectors"
       },
       "main": {
-        "value": "linear-gradient(180deg, #930101 0.06%, #2c0202 99.97%)",
+        "value": "{bg.technical}",
         "type": "color",
         "description": "use as bg on wheel popup"
       },
@@ -4828,12 +4828,12 @@
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-3-additional": {
-        "value": "#970606",
+        "value": "#C78725",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "sector-1-additional": {
-        "value": "#B70606",
+        "value": "#FAA500",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
@@ -4951,7 +4951,7 @@
     },
     "picker": {
       "bg-main": {
-        "value": "linear-gradient(343deg, #A46C15 3.09%, #F3B755 86.84%)",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "use as main bg on picker"
       },
