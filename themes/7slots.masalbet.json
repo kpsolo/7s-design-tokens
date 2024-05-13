@@ -1610,7 +1610,7 @@
       }
     },
     "live-lottery-tips": {
-      "value": "10px",
+      "value": "20px",
       "type": "borderRadius",
       "description": "use for small tips on final lottery "
     },
