@@ -3411,12 +3411,12 @@
       "description": "use for bottom tapbar main button"
     },
     "logo-mobile": {
-      "value": "130",
+      "value": "106px",
       "type": "sizing",
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "160",
+      "value": "154px",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
