@@ -538,7 +538,7 @@
     "title-extrasmall": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.sm}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
