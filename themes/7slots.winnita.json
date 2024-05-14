@@ -335,10 +335,10 @@
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}",
-        "fontSize": "15"
+        "fontSize": "13"
       },
       "type": "typography",
-      "description": "Provider on thumbs"
+      "description": "Text providers on thumbs/mobile mainpage"
     },
     "title-small-strong": {
       "value": {
