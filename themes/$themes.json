@@ -2521,7 +2521,8 @@
       "gamepage.overlay-extra": "S:60e94ef92c285fe7915b7cd659cadd134910d89f,",
       "special-blocks.welcome-bonus": "S:f51de798626c4b41cc94376c405472fb71fb7431,",
       "small-elements.pagination": "S:53a28efaa63532143ec942521111a7c92c8eb1ff,",
-      "small-elements.separator.additional": "S:9cecba6e892d86ab317cfe3e1029168d8be05443,"
+      "small-elements.separator.additional": "S:9cecba6e892d86ab317cfe3e1029168d8be05443,",
+      "small-elements.timer.border": "S:aa14eb80a86e77e684e72b3e54bb662129da0077,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"

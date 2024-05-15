@@ -1175,7 +1175,7 @@
     },
     "chips-default": {
       "value": {
-        "color": "rgba({base.dark} , 0.16)",
+        "color": "rgba(0, 0, 0, 0.16)",
         "width": "1",
         "style": "solid"
       },
