@@ -5269,7 +5269,7 @@
         "description": "use for close icon in right sidebar"
       },
       "accent-extra": {
-        "value": "{base.dark}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for tournament results in right sidebar"
       }
