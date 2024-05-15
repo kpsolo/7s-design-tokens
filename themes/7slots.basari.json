@@ -3025,7 +3025,7 @@
       "description": "use for slider curret in welcom bonus"
     },
     "pagination": {
-      "value": "#E1E9F5",
+      "value": "{text.title.extra}",
       "type": "color",
       "description": "icon color in pagination"
     }
