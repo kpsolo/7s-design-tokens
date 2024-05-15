@@ -3061,7 +3061,7 @@
         "description": "use for timer bg in 1st deposit"
       },
       "border": {
-        "value": "rgba(147, 203, 255, 0.25)",
+        "value": "transparent",
         "type": "color",
         "description": "use for border on timer (for dev use)"
       }
