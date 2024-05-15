@@ -1462,8 +1462,8 @@
     },
     "ghost-7": {
       "value": {
-        "color": "linear-gradient(169deg, rgba(147, 203, 255, 0.25) 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, rgba(147, 203, 255, 0.25) 95.27%)",
-        "width": "0,4px",
+        "color": "linear-gradient(169deg, {small-elements.timer.border} 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, {small-elements.timer.border}  95.27%)",
+        "width": "0.4px",
         "style": "solid"
       },
       "type": "border",

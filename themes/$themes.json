@@ -1527,7 +1527,8 @@
       "gamepage.overlay-extra": "S:88eca998f25e8093d007f2aa822c7c0baf656205,",
       "small-elements.pagination": "S:d0ac35223dd57b1b5d043c635b86fb94f1e402e0,",
       "special-blocks.welcome-bonus": "S:365b8cd75ff680064ee71f5315ab9a2aaa27ae58,",
-      "small-elements.separator.additional": "S:d1c4df7eba361c01f94148101cb25a3c42f5c46d,"
+      "small-elements.separator.additional": "S:d1c4df7eba361c01f94148101cb25a3c42f5c46d,",
+      "small-elements.timer.border": "S:4df490157659a32fb4768c4e81d69d140a7617e9,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
