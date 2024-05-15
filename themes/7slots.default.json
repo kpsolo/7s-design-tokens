@@ -1222,7 +1222,7 @@
     },
     "ghost-7": {
       "value": {
-        "color": "linear-gradient(169deg, rgba(147, 203, 255, 0.25) 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, rgba(147, 203, 255, 0.25) 95.27%)",
+        "color": "linear-gradient(169deg, {small-elements.timer.border} 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, {small-elements.timer.border}  95.27%)",
         "width": "0.4px",
         "style": "solid"
       },
@@ -3029,6 +3029,11 @@
         "value": "{base.primary}",
         "type": "color",
         "description": "use for numbers on timer"
+      },
+      "border": {
+        "value": "rgba(147, 203, 255, 0.25)",
+        "type": "color",
+        "description": "use for border on timer (for dev use)"
       }
     },
     "up-button": {

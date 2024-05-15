@@ -2964,6 +2964,11 @@
         "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.14) 3.13%, rgba(255, 255, 255, 0.06) 18.24%, rgba(255, 255, 255, 0.00) 48.75%, rgba(255, 255, 255, 0.06) 86.05%, rgba(255, 255, 255, 0.14) 100%)",
         "type": "color",
         "description": "use for timer bg in 1st deposit"
+      },
+      "border": {
+        "value": "rgba(147, 203, 255, 0.25)",
+        "type": "color",
+        "description": "use for border on timer (for dev use)"
       }
     },
     "up-button": {
