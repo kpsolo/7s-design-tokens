@@ -6,7 +6,7 @@
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.2}",
-        "letterSpacing": "{letter-spacing.0}",
+        "letterSpacing": "-0.2px",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
         "textCase": "{text-case.none}",
