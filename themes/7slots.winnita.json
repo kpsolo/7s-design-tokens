@@ -1132,7 +1132,7 @@
         "y": "8",
         "blur": "32",
         "spread": "0",
-        "color": "rgba(0,0,0,0.9)",
+        "color": "rgba(0,0,0,0.2)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -2116,13 +2116,13 @@
         "description": "use for gradient over picture on right tournament panel"
       },
       "slider": {
-        "value": "#00000000",
+        "value": "{bg.additional}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.7",
               "space": "srgb"
             }
           }
