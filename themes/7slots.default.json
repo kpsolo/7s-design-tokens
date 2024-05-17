@@ -909,6 +909,18 @@
       "type": "boxShadow",
       "description": "Shadow for sticky bar"
     },
+    "scrennshots": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "32",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.9)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for mob app screenshots"
+    },
     "special-blocks": {
       "timer-bottom": {
         "value": {
@@ -2111,6 +2123,20 @@
           }
         },
         "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
+      },
+      "slider": {
+        "value": "#00000000",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "mob app slideshow bg"
       },
       "right-menu": {
         "value": "rgba(0, 0, 0, 0.60)",

@@ -1125,6 +1125,18 @@
       ],
       "type": "boxShadow",
       "description": "use for achievements cards"
+    },
+    "scrennshots": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "32",
+        "spread": "0",
+        "color": "rgba(0,0,0,0.9)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for mob app screenshots"
     }
   },
   "border": {
@@ -2102,6 +2114,20 @@
         "value": "transparent",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
+      },
+      "slider": {
+        "value": "#00000000",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "mob app slideshow bg"
       }
     },
     "overlay-gradient": {
