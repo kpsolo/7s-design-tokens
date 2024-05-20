@@ -2204,7 +2204,7 @@
           "description": "1st deopsit card stroke bg"
         },
         "1-additional": {
-          "value": "#02FF39",
+          "value": "#FFF5BF",
           "type": "color",
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         }
