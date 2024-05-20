@@ -2791,7 +2791,7 @@
             }
           }
         },
-        "description": "border color for separating groups of table rows/colums,footer "
+        "description": "border color for separating groups in footer, registration under tabs"
       },
       "item": {
         "value": "{base.dark}",
@@ -2836,9 +2836,18 @@
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "{small-elements.separator.primary}",
+        "value": "{base.light}",
         "type": "color",
-        "description": "border color for info inside transaction"
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.05",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "border color for info inside transaction, separator in tables in static page"
       }
     },
     "progress-large": {
