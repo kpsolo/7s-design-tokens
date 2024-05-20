@@ -2778,8 +2778,17 @@
         }
       },
       "additional": {
-        "value": "{small-elements.separator.secondary}",
+        "value": "{base.accent-light}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "border color for info inside transaction"
       }
     },
