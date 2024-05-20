@@ -1531,7 +1531,10 @@
       "special-blocks.welcome-bonus": "S:365b8cd75ff680064ee71f5315ab9a2aaa27ae58,",
       "small-elements.separator.additional": "S:d1c4df7eba361c01f94148101cb25a3c42f5c46d,",
       "small-elements.timer.border": "S:4df490157659a32fb4768c4e81d69d140a7617e9,",
-      "bg.card.border.1": "S:9692571e55d6580bf0560664df7a1d2f7b508024,"
+      "bg.card.border.1": "S:9692571e55d6580bf0560664df7a1d2f7b508024,",
+      "bg.overlay.slider": "S:b0ffff91a5ea7828e0074868d9d2e86d95208e17,",
+      "bg.card.border.1-additional": "S:159f2a5fe29842afa09401e6049769a81d89e5aa,",
+      "shadow.scrennshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
