@@ -3581,7 +3581,11 @@
       "shadow.accent-extra": "S:659433bd01a7076d8564f618612ade90994c3c74,",
       "shadow.card-additional-3": "S:c36e5f1367d2b71868a52375ed307e2cedadef5b,",
       "small-elements.separator.additional": "S:885d81d4ccfbd6675782e78f26f7355cff6beb5b,",
-      "bg.card.border.1": "S:6d1bc75baa3aba97215dfbf2fa57f4738436a301,"
+      "bg.card.border.1": "S:6d1bc75baa3aba97215dfbf2fa57f4738436a301,",
+      "bg.overlay.slider": "S:a3f7dcd1d92c01cb9cae8a7a777ea1e64bf71f54,",
+      "bg.card.border.1-additional": "S:4e71a658b2522758e8201754929049419be1a914,",
+      "small-elements.timer.border": "S:4dcd96af944cea2160182ad3106dddb162bfb6e6,",
+      "shadow.scrennshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
