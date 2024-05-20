@@ -1695,7 +1695,7 @@
       "description": "for secret mirror bg border radius"
     },
     "card-extra": {
-      "value": "13px",
+      "value": "3px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     }
@@ -2227,9 +2227,14 @@
       },
       "border": {
         "1": {
-          "value": "transparent",
+          "value": "linear-gradient(164deg, {bg.card.border.1-additional} 14.63%, rgba(2, 255, 57, 0.00) 70.89%)",
           "type": "color",
-          "description": "1st deposit card stroke, welcomeback popup border "
+          "description": "DESIGN \n1st deposit card stroke, welcomeback popup border "
+        },
+        "1-additional": {
+          "value": "#02FF39",
+          "type": "color",
+          "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         }
       },
       "overlay": {

@@ -2248,6 +2248,11 @@
           "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, rgba(255, 255, 255, 0.05) 85.44%)",
           "type": "color",
           "description": "1st deopsit card stroke bg"
+        },
+        "1-additional": {
+          "value": "#02FF39",
+          "type": "color",
+          "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         }
       },
       "overlay": {
