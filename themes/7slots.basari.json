@@ -1498,6 +1498,15 @@
       },
       "type": "border",
       "description": "use for border in 1st deposit card"
+    },
+    "provider": {
+      "value": {
+        "color": "rgba(255, 255, 255, 0.12)",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for provider filter card"
     }
   },
   "base spacing": {
@@ -2241,6 +2250,11 @@
           "value": "rgba(35, 24, 21, 0.90)",
           "type": "color",
           "description": "1st deopsit card bg"
+        },
+        "2": {
+          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)",
+          "type": "color",
+          "description": "bg for provider card"
         }
       },
       "border": {
@@ -2260,6 +2274,11 @@
           "value": "rgba(0, 0, 0, 0.40)",
           "type": "color",
           "description": "1st deposit card tabs bg"
+        },
+        "2": {
+          "value": "linear-gradient(180deg, rgba(28, 37, 65, 0.00) 0%, #1C2541 100%)",
+          "type": "color",
+          "description": "select provider item"
         }
       }
     },
@@ -2267,6 +2286,11 @@
       "value": "32px",
       "type": "dimension",
       "description": "use for bg blue in 1st deposit cards"
+    },
+    "blur-extra": {
+      "value": "48px",
+      "type": "dimension",
+      "description": "use for bg blue in provider filter cards"
     }
   },
   "nav": {
@@ -2790,6 +2814,20 @@
           }
         },
         "description": "border color for info inside transaction"
+      },
+      "extra": {
+        "value": "{base.light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.05",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "separator in filter provider item"
       }
     },
     "progress-large": {
