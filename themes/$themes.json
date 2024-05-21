@@ -2535,7 +2535,11 @@
       "bg.card.border.1": "S:627f548cde78e49954342089e10a78bfd2829b7b,",
       "bg.overlay.slider": "S:b0c15274df500bca23be1a767f8768773a6d5aed,",
       "bg.card.border.1-additional": "S:988d9520cb0ce7608883abd576802e5b2cff365a,",
-      "shadow.scrennshots": "S:28d9c7fd5a8ab692e29efc68d47710045b79ade8,"
+      "shadow.scrennshots": "S:28d9c7fd5a8ab692e29efc68d47710045b79ade8,",
+      "bg.card.bg.2": "S:1a72ddb85f789540b41d327c09d972aba5c06505,",
+      "bg.card.overlay.2": "S:f4aa343fe53358ba8d684bdfa2abab297cb491c9,",
+      "small-elements.separator.extra": "S:213d0c90794cb57f95f143ef03ad58010210f08c,",
+      "gamepage.bg.thumb": "S:d7a35ed1cb553294f0b228896e0cbf1f7590999c,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"

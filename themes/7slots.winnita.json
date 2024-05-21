@@ -4920,7 +4920,7 @@
         "description": "bg for top bg in ingame"
       },
       "thumb": {
-        "value": "{navbar.bg.main}",
+        "value": "#F2F3FB",
         "type": "color",
         "description": "bg for show more thumb"
       }
