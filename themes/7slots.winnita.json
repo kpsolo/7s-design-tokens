@@ -4918,6 +4918,11 @@
         "value": "{gamepage.bg.primary}",
         "type": "color",
         "description": "bg for top bg in ingame"
+      },
+      "thumb": {
+        "value": "{navbar.bg.main}",
+        "type": "color",
+        "description": "bg for show more thumb"
       }
     },
     "overlay": {

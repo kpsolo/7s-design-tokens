@@ -5263,6 +5263,11 @@
         "value": "#1C212E",
         "type": "color",
         "description": "bg for top bg in ingame"
+      },
+      "thumb": {
+        "value": "{navbar.bg.main}",
+        "type": "color",
+        "description": "bg for show more thumb"
       }
     },
     "content": {
