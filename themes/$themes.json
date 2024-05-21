@@ -1538,7 +1538,11 @@
       "bg.card.border.1": "S:9692571e55d6580bf0560664df7a1d2f7b508024,",
       "bg.overlay.slider": "S:b0ffff91a5ea7828e0074868d9d2e86d95208e17,",
       "bg.card.border.1-additional": "S:159f2a5fe29842afa09401e6049769a81d89e5aa,",
-      "shadow.scrennshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,"
+      "shadow.scrennshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,",
+      "bg.card.bg.2": "S:4dd30df8150a891bc5301c5a176c74e90d51b7fc,",
+      "bg.card.overlay.2": "S:08385904bc59bdca968be2aeafa35cc1d9717a2a,",
+      "small-elements.separator.extra": "S:8bad28e8d44562e6502d16145519d6227ce02fa6,",
+      "gamepage.bg.thumb": "S:f152f5fd870f0873fcbf1b85400c988731e5f6a9,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
