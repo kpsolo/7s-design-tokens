@@ -2252,7 +2252,7 @@
           "description": "1st deopsit card bg"
         },
         "2": {
-          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)",
+          "value": "rgba(69, 62, 60, 0.60)",
           "type": "color",
           "description": "bg for provider card"
         }
@@ -2276,7 +2276,7 @@
           "description": "1st deposit card tabs bg"
         },
         "2": {
-          "value": "linear-gradient(180deg, rgba(28, 37, 65, 0.00) 0%, #1C2541 100%)",
+          "value": "linear-gradient(180deg, rgba(69, 62, 60, 0.00) 0%, rgba(69, 62, 60, 0.90) 100%)",
           "type": "color",
           "description": "select provider item"
         }
