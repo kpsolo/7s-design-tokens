@@ -1924,7 +1924,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(104deg, #1B1B1B 11.81%, #242424 31.3%, #3C3C3C 63.08%, #2F2F2F 82.53%, #262626 91.38%)",
+      "value": "linear-gradient(104deg, #1B1B1B 0%, #242424 13%, #252525 16.09%, #3C3C3C 94.6%, #2F2F2F 100%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -3087,7 +3087,7 @@
     },
     "tournament": {
       "active-tab-content": {
-        "value": "{base.primary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "color of text and icon on active tab"
       }
@@ -5245,17 +5245,9 @@
         "type": "color"
       },
       "extra": {
-        "value": "#000",
+        "value": "rgba(112, 112, 112, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "bg under star"
       },
       "extra-additional": {

@@ -3619,7 +3619,11 @@
       "bg.overlay.slider": "S:a3f7dcd1d92c01cb9cae8a7a777ea1e64bf71f54,",
       "bg.card.border.1-additional": "S:4e71a658b2522758e8201754929049419be1a914,",
       "small-elements.timer.border": "S:4dcd96af944cea2160182ad3106dddb162bfb6e6,",
-      "shadow.scrennshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,"
+      "shadow.scrennshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,",
+      "bg.card.bg.2": "S:ac6985d82bcf016759b10a2d0290059b6161a9c2,",
+      "bg.card.overlay.2": "S:d0dd55c49fda85839ce2136697b3d680c09465aa,",
+      "small-elements.separator.extra": "S:0f185bec5f45adb12cb4a2bb924d4e16c29f368b,",
+      "gamepage.bg.thumb": "S:aa7bc4eeab741c1f95ecccdacf0c2ccb98f4f304,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
