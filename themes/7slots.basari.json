@@ -1375,7 +1375,7 @@
     },
     "nav-additional": {
       "value": {
-        "color": "#CCCCCC",
+        "color": "rgba(255, 255, 255, 0.15)",
         "width": "{border-width.nav}",
         "style": "solid"
       },
