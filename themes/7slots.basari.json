@@ -5271,6 +5271,11 @@
         "value": "{navbar.bg.main}",
         "type": "color",
         "description": "bg for show more thumb"
+      },
+      "thumb-content": {
+        "value": "{text.primary}",
+        "type": "color",
+        "description": "content color for show more thumb"
       }
     },
     "content": {
