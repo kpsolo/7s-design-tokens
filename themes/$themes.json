@@ -2554,7 +2554,8 @@
       "bg.card.bg.2": "S:1a72ddb85f789540b41d327c09d972aba5c06505,",
       "bg.card.overlay.2": "S:f4aa343fe53358ba8d684bdfa2abab297cb491c9,",
       "small-elements.separator.extra": "S:213d0c90794cb57f95f143ef03ad58010210f08c,",
-      "gamepage.bg.thumb": "S:d7a35ed1cb553294f0b228896e0cbf1f7590999c,"
+      "gamepage.bg.thumb": "S:d7a35ed1cb553294f0b228896e0cbf1f7590999c,",
+      "gamepage.bg.thumb-content": "S:672c0209698a35095d9e2bc8d4ac7f47a8a34931,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"

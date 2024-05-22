@@ -4925,7 +4925,7 @@
         "description": "bg for show more thumb"
       },
       "thumb-content": {
-        "value": "{text.primary}",
+        "value": "{icon.accent-additional}",
         "type": "color",
         "description": "content color for show more thumb"
       }

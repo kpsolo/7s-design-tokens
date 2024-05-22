@@ -5247,7 +5247,6 @@
       "extra": {
         "value": "rgba(112, 112, 112, 0.40)",
         "type": "color",
-        "$extensions": {},
         "description": "bg under star"
       },
       "extra-additional": {
