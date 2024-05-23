@@ -1653,7 +1653,7 @@
     "tab": {
       "value": "1px",
       "type": "borderRadius",
-      "description": "Radius for cards amd widgets"
+      "description": "tabs in news/shop/lootbox"
     },
     "card-extra": {
       "value": "13px",
