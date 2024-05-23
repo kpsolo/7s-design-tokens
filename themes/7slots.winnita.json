@@ -5086,9 +5086,9 @@
   },
   "tab": {
     "active tab": {
-      "value": "{radius.button}",
+      "value": "{radius.card}",
       "type": "borderRadius",
-      "description": "Tab news, shop\n[delete?]"
+      "description": "Tab tournament/lottery\n"
     },
     "bg": {
       "value": "{radius.button}",
