@@ -4816,7 +4816,7 @@
     "active tab": {
       "value": "{radius.button}",
       "type": "borderRadius",
-      "description": "Tab news, shop"
+      "description": "Tab news, shop , tournament/lottery"
     },
     "bg": {
       "value": "{radius.button}",
