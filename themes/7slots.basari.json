@@ -4771,9 +4771,9 @@
   },
   "tab": {
     "active tab": {
-      "value": "{radius.button}",
+      "value": "{radius.card}",
       "type": "borderRadius",
-      "description": "Tab news, shop"
+      "description": "Tabs tournament/lottery - tops"
     },
     "bg": {
       "value": "{radius.button}",
