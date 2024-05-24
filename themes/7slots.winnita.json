@@ -4798,6 +4798,11 @@
     "select card": {
       "value": "{base.accent-primary}",
       "type": "color"
+    },
+    "accent": {
+      "value": "{text.accent-additional}",
+      "type": "color",
+      "$extensions": {}
     }
   },
   "strip": {

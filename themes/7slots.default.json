@@ -4777,6 +4777,19 @@
         }
       }
     },
+    "accent": {
+      "value": "{text.accent-additional}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.1",
+            "space": "srgb"
+          }
+        }
+      }
+    },
     "red": {
       "value": "{base.error}",
       "type": "color"

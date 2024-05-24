@@ -4787,6 +4787,11 @@
     "select card": {
       "value": "#283D87",
       "type": "color"
+    },
+    "accent": {
+      "value": "{text.accent-additional}",
+      "type": "color",
+      "$extensions": {}
     }
   },
   "tab": {
