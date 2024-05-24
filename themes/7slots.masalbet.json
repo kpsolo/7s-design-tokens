@@ -4636,9 +4636,9 @@
         "description": "use in shop cards"
       },
       "extra": {
-        "value": "#FCC669",
+        "value": "{base.accent-tertiary}",
         "type": "color",
-        "description": "usewelcom popup up timer"
+        "description": "welcome/welcomeback popup accent text color"
       },
       "tertiary": {
         "value": "{base.accent-secondary}",
