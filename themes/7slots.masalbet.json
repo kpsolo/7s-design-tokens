@@ -1653,7 +1653,7 @@
     "tab": {
       "value": "1px",
       "type": "borderRadius",
-      "description": "tabs in news/shop/lootbox"
+      "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
     "card-extra": {
       "value": "13px",
@@ -4793,7 +4793,7 @@
     "active tab": {
       "value": "{radius.button}",
       "type": "borderRadius",
-      "description": "Tab news, shop"
+      "description": "tournament/lottery tabs top corners radious"
     },
     "bg": {
       "value": "{radius.button}",
