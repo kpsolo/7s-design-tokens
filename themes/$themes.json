@@ -3637,7 +3637,9 @@
       "small-elements.separator.extra": "S:0f185bec5f45adb12cb4a2bb924d4e16c29f368b,",
       "gamepage.bg.thumb": "S:aa7bc4eeab741c1f95ecccdacf0c2ccb98f4f304,",
       "gamepage.bg.thumb-content": "S:b66b153497b42a7079f961bab14e8138c54af59a,",
-      "shadow.screenshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,"
+      "shadow.screenshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,",
+      "text.title.tertiary": "S:3c62b61e139e1bfcbb8a97a83adaa2a720edd7db,",
+      "betting.accent": "S:668c0f2ac14ddced0396ba073327c839a198c8b0,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"

@@ -4641,7 +4641,7 @@
         "description": "usewelcom popup up timer"
       },
       "tertiary": {
-        "value": "{text.accent}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "1st deposit accent color in text and tabs"
       }
@@ -4794,7 +4794,7 @@
       "type": "color"
     },
     "accent": {
-      "value": "{text.accent-additional}",
+      "value": "{text.accent}",
       "type": "color"
     }
   },
