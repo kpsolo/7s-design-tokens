@@ -4790,8 +4790,7 @@
     },
     "accent": {
       "value": "{text.accent-additional}",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     }
   },
   "tab": {
