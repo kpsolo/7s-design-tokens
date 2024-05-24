@@ -555,7 +555,8 @@
       "gamepage.bg.thumb": "S:585abeae40861e859fa16b1658a3bfdeab1d5bb3,",
       "gamepage.bg.thumb-content": "S:cae7e97a10474dbed586f533e7c19e3835a8ec1c,",
       "shadow.screenshots": "S:1eccdc92e8eaa9f5714cdd14cfd60d8e737a4063,",
-      "betting.accent": "S:62637abb5300365bc93cc834f492aa528dfdb9fe,"
+      "betting.accent": "S:62637abb5300365bc93cc834f492aa528dfdb9fe,",
+      "text.title.tertiary": "S:6660a9b7db4ff8bd8c54c3254958a026dc1d6980,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
