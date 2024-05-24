@@ -1552,7 +1552,9 @@
       "small-elements.separator.extra": "S:8bad28e8d44562e6502d16145519d6227ce02fa6,",
       "gamepage.bg.thumb": "S:f152f5fd870f0873fcbf1b85400c988731e5f6a9,",
       "gamepage.bg.thumb-content": "S:498970b75f4c5258737e3eedab8931933919354c,",
-      "shadow.screenshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,"
+      "shadow.screenshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,",
+      "text.title.tertiary": "S:0bddb968aaea5ad7f3a4d7a6506e083c7eec389d,",
+      "betting.accent": "S:e8817f7be045b1914511b9c38a78f9136297f58f,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
