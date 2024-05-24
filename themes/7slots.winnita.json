@@ -4656,6 +4656,11 @@
         "type": "color",
         "description": "usewelcom popup up timer"
       },
+      "tertiary": {
+        "value": "{text.accent}",
+        "type": "color",
+        "description": "1st deposit accent color in text and tabs"
+      },
       "accent-additional": {
         "value": "#FEFEFE",
         "type": "color",

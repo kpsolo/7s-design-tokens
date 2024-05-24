@@ -4653,6 +4653,11 @@
         "value": "#FFD284",
         "type": "color",
         "description": "use in welcome popup up timer(delete functional?) and welcome bonus cards accent color"
+      },
+      "tertiary": {
+        "value": "{text.accent}",
+        "type": "color",
+        "description": "1st deposit accent color in text and tabs"
       }
     },
     "link-additional": {
