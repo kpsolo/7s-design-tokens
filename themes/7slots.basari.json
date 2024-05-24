@@ -2822,7 +2822,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.08",
               "space": "srgb"
             }
           }
