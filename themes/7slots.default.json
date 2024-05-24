@@ -2866,12 +2866,12 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.08",
               "space": "srgb"
             }
           }
         },
-        "description": "border color for info inside transaction, separator in tables in static page"
+        "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
       "extra": {
         "value": "{base.light}",
