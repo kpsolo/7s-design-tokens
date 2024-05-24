@@ -4757,14 +4757,14 @@
         "studio.tokens": {
           "modify": {
             "type": "lighten",
-            "value": "0.1",
+            "value": "0.2",
             "space": "srgb"
           }
         }
       }
     },
     "red": {
-      "value": "{base.accent-primary}",
+      "value": "{base.error}",
       "type": "color"
     },
     "temp": {
@@ -4785,7 +4785,7 @@
       "type": "color"
     },
     "select card": {
-      "value": "#02066F",
+      "value": "#283D87",
       "type": "color"
     }
   },
