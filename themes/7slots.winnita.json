@@ -2923,7 +2923,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.10",
               "space": "srgb"
             }
           }
