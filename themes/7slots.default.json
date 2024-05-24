@@ -4631,7 +4631,7 @@
         "description": "for main headers"
       },
       "accent": {
-        "value": "#FFD284",
+        "value": "#FCFF71",
         "type": "color"
       },
       "title-winner": {
