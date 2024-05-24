@@ -1595,7 +1595,7 @@
     "tab": {
       "value": "1px",
       "type": "borderRadius",
-      "description": "Radius for cards amd widgets"
+      "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
     "card-additional": {
       "value": "12px",
