@@ -1739,7 +1739,7 @@
     "tab": {
       "value": "4px",
       "type": "borderRadius",
-      "description": "Radius for cards amd widgets"
+      "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
     "button-additional": {
       "value": "100px",
@@ -4816,7 +4816,7 @@
     "active tab": {
       "value": "{radius.button}",
       "type": "borderRadius",
-      "description": "Tab news, shop , tournament/lottery"
+      "description": "Tab top corners in tournament/lottery pages"
     },
     "bg": {
       "value": "{radius.button}",
