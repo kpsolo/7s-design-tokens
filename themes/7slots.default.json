@@ -909,7 +909,7 @@
       "type": "boxShadow",
       "description": "Shadow for sticky bar"
     },
-    "scrennshots": {
+    "screenshots": {
       "value": {
         "x": "0",
         "y": "8",

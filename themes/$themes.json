@@ -549,12 +549,12 @@
       "bg.card.border.1": "S:8defb37b14b64574a9e8f83777b38ef9c4f166ef,",
       "bg.overlay.slider": "S:5895140abc647926758a5fcc384a014acb505e14,",
       "bg.card.border.1-additional": "S:e00ca6a6ca8da6039e880bc08ad8c7823a7facb8,",
-      "shadow.scrennshots": "S:1eccdc92e8eaa9f5714cdd14cfd60d8e737a4063,",
       "bg.card.overlay.2": "S:77fa8daef1e5f7fd9c71cc9d99d0b50f70783c60,",
       "bg.card.bg.2": "S:8eb9b8e33a3ad0ef3b9f4f358ce871cde65ccc69,",
       "small-elements.separator.extra": "S:01875d79838df6e6859dde6e14e1be50c0139415,",
       "gamepage.bg.thumb": "S:585abeae40861e859fa16b1658a3bfdeab1d5bb3,",
-      "gamepage.bg.thumb-content": "S:cae7e97a10474dbed586f533e7c19e3835a8ec1c,"
+      "gamepage.bg.thumb-content": "S:cae7e97a10474dbed586f533e7c19e3835a8ec1c,",
+      "shadow.screenshots": "S:1eccdc92e8eaa9f5714cdd14cfd60d8e737a4063,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1545,12 +1545,12 @@
       "bg.card.border.1": "S:9692571e55d6580bf0560664df7a1d2f7b508024,",
       "bg.overlay.slider": "S:b0ffff91a5ea7828e0074868d9d2e86d95208e17,",
       "bg.card.border.1-additional": "S:159f2a5fe29842afa09401e6049769a81d89e5aa,",
-      "shadow.scrennshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,",
       "bg.card.bg.2": "S:4dd30df8150a891bc5301c5a176c74e90d51b7fc,",
       "bg.card.overlay.2": "S:08385904bc59bdca968be2aeafa35cc1d9717a2a,",
       "small-elements.separator.extra": "S:8bad28e8d44562e6502d16145519d6227ce02fa6,",
       "gamepage.bg.thumb": "S:f152f5fd870f0873fcbf1b85400c988731e5f6a9,",
-      "gamepage.bg.thumb-content": "S:498970b75f4c5258737e3eedab8931933919354c,"
+      "gamepage.bg.thumb-content": "S:498970b75f4c5258737e3eedab8931933919354c,",
+      "shadow.screenshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -2555,12 +2555,12 @@
       "bg.card.border.1": "S:627f548cde78e49954342089e10a78bfd2829b7b,",
       "bg.overlay.slider": "S:b0c15274df500bca23be1a767f8768773a6d5aed,",
       "bg.card.border.1-additional": "S:988d9520cb0ce7608883abd576802e5b2cff365a,",
-      "shadow.scrennshots": "S:28d9c7fd5a8ab692e29efc68d47710045b79ade8,",
       "bg.card.bg.2": "S:1a72ddb85f789540b41d327c09d972aba5c06505,",
       "bg.card.overlay.2": "S:f4aa343fe53358ba8d684bdfa2abab297cb491c9,",
       "small-elements.separator.extra": "S:213d0c90794cb57f95f143ef03ad58010210f08c,",
       "gamepage.bg.thumb": "S:d7a35ed1cb553294f0b228896e0cbf1f7590999c,",
-      "gamepage.bg.thumb-content": "S:672c0209698a35095d9e2bc8d4ac7f47a8a34931,"
+      "gamepage.bg.thumb-content": "S:672c0209698a35095d9e2bc8d4ac7f47a8a34931,",
+      "shadow.screenshots": "S:28d9c7fd5a8ab692e29efc68d47710045b79ade8,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -3626,12 +3626,12 @@
       "bg.overlay.slider": "S:a3f7dcd1d92c01cb9cae8a7a777ea1e64bf71f54,",
       "bg.card.border.1-additional": "S:4e71a658b2522758e8201754929049419be1a914,",
       "small-elements.timer.border": "S:4dcd96af944cea2160182ad3106dddb162bfb6e6,",
-      "shadow.scrennshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,",
       "bg.card.bg.2": "S:ac6985d82bcf016759b10a2d0290059b6161a9c2,",
       "bg.card.overlay.2": "S:d0dd55c49fda85839ce2136697b3d680c09465aa,",
       "small-elements.separator.extra": "S:0f185bec5f45adb12cb4a2bb924d4e16c29f368b,",
       "gamepage.bg.thumb": "S:aa7bc4eeab741c1f95ecccdacf0c2ccb98f4f304,",
-      "gamepage.bg.thumb-content": "S:b66b153497b42a7079f961bab14e8138c54af59a,"
+      "gamepage.bg.thumb-content": "S:b66b153497b42a7079f961bab14e8138c54af59a,",
+      "shadow.screenshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"

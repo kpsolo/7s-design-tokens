@@ -1126,7 +1126,7 @@
       "type": "boxShadow",
       "description": "use for achievements cards"
     },
-    "scrennshots": {
+    "screenshots": {
       "value": {
         "x": "0",
         "y": "8",
