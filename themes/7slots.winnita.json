@@ -628,13 +628,13 @@
     "button-text-xs": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "14px",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.uppercase}",
+        "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography"
@@ -1723,7 +1723,7 @@
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "button-extra": {
-      "value": "8px",
+      "value": "44px",
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     }
