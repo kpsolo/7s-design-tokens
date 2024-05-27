@@ -209,7 +209,7 @@
     "link-s": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.m}",
         "fontSize": "{font-size.4}",
         "letterSpacing": "{letter-spacing.0}",
