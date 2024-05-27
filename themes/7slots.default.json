@@ -2824,12 +2824,12 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.05",
+              "value": "0.06",
               "space": "srgb"
             }
           }
         },
-        "description": "for line separator in dropdown/menu"
+        "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
         "value": "#fff",
@@ -4505,7 +4505,7 @@
           }
         }
       },
-      "description": "use for links on lighter bg (notifications), game page"
+      "description": "use for links on lighter bg (notifications/tooltips), game page"
     },
     "accent": {
       "value": "{base.accent-primary}",
