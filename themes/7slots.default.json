@@ -206,6 +206,20 @@
       },
       "type": "typography"
     },
+    "button-text-xs": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
+    },
     "link-s": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -1654,6 +1668,11 @@
       "value": "8px",
       "type": "borderRadius",
       "description": "Radius for buttons"
+    },
+    "button-extra": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for extrasmall buttons in gamepage"
     },
     "tap-bar": {
       "value": "12px",
@@ -3560,6 +3579,10 @@
     },
     "button-s": {
       "value": "32px",
+      "type": "sizing"
+    },
+    "button-xs": {
+      "value": "20px",
       "type": "sizing"
     },
     "button-m-small": {
@@ -5494,6 +5517,11 @@
         "type": "dimension",
         "description": "use for small button horizontal padding"
       },
+      "x-small-horizontal": {
+        "value": "6px",
+        "type": "dimension",
+        "description": "use for x-small button horizontal padding"
+      },
       "large-horizontal-additional": {
         "value": "12px",
         "type": "dimension",
@@ -5513,6 +5541,11 @@
         "value": "4px",
         "type": "dimension",
         "description": "use for small button vertical padding"
+      },
+      "x-small-vertical": {
+        "value": "2px",
+        "type": "dimension",
+        "description": "use for x-small button vertical padding"
       }
     },
     "gamehall": {

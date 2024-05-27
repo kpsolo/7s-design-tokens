@@ -624,6 +624,20 @@
       },
       "type": "typography",
       "description": "welcome back popup submain header with bonus info"
+    },
+    "button-text-xs": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
     }
   },
   "shadow": {
@@ -1707,6 +1721,11 @@
       "value": "3px",
       "type": "borderRadius",
       "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
+    },
+    "button-extra": {
+      "value": "8px",
+      "type": "borderRadius",
+      "description": "Radius for extrasmall buttons in gamepage"
     }
   },
   "opacity": {
@@ -3595,6 +3614,10 @@
       "value": "40px",
       "type": "sizing",
       "description": "use on mainpage mob slider "
+    },
+    "button-xs": {
+      "value": "20px",
+      "type": "sizing"
     }
   },
   "font-family": {
@@ -5516,6 +5539,16 @@
         "value": "12px",
         "type": "dimension",
         "description": "use for small button horizontal padding - with icons - left padding"
+      },
+      "x-small-horizontal": {
+        "value": "6px",
+        "type": "dimension",
+        "description": "use for x-small button horizontal padding"
+      },
+      "x-small-vertical": {
+        "value": "2px",
+        "type": "dimension",
+        "description": "use for x-small button vertical padding"
       }
     },
     "gamehall": {
