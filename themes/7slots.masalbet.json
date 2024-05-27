@@ -4701,7 +4701,7 @@
         "description": "use for special notification in menu items"
       },
       "info": {
-        "value": "#120606",
+        "value": "#2D2C2C",
         "type": "color",
         "description": "use as bg in menu info zone"
       }
