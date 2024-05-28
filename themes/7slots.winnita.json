@@ -5508,7 +5508,7 @@
       }
     },
     "homepage-dropdown": {
-      "value": "56px",
+      "value": "50px",
       "type": "dimension",
       "description": "DEV - spacing from top of categories to dropdown"
     }
