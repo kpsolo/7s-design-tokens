@@ -5438,6 +5438,11 @@
         "value": "6px",
         "type": "dimension"
       }
+    },
+    "homepage-dropdown": {
+      "value": "56px",
+      "type": "dimension",
+      "description": "DEV - spacing from top of categories to dropdown"
     }
   },
   "lootboxes": {
