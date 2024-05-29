@@ -5546,7 +5546,7 @@
         "description": "use for small button horizontal padding - with icons - left padding"
       },
       "x-small-horizontal": {
-        "value": "6px",
+        "value": "12px",
         "type": "dimension",
         "description": "use for x-small button horizontal padding"
       },
