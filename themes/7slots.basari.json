@@ -5537,7 +5537,7 @@
         "description": "use for small button vertical padding"
       },
       "x-small-horizontal": {
-        "value": "6px",
+        "value": "12px",
         "type": "dimension",
         "description": "use for x-small button horizontal padding"
       },
