@@ -2531,7 +2531,7 @@
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "#3F475E",
+        "value": "rgba(62, 72, 98, 0.40)",
         "type": "color",
         "description": "Background for secondary buttons disabled"
       },
