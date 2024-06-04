@@ -2957,12 +2957,12 @@
     },
     "badge": {
       "1": {
-        "value": "{base.accent-primary}",
+        "value": "#F84358",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "{base.accent-primary}",
+        "value": "#F84358",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       }
