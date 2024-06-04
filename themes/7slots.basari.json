@@ -2129,7 +2129,6 @@
       "2-additional": {
         "value": "{bg.additional}",
         "type": "color",
-        "$extensions": {},
         "description": "bg for social buttons in header - hover state"
       }
     },

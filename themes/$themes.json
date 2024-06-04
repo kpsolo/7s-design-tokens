@@ -3643,7 +3643,11 @@
       "shadow.screenshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,",
       "text.title.tertiary": "S:3c62b61e139e1bfcbb8a97a83adaa2a720edd7db,",
       "betting.accent": "S:668c0f2ac14ddced0396ba073327c839a198c8b0,",
-      "bg.overlay.2": "S:6dfd0ac686940c07d10ae351688e1ba50d21ca0b,"
+      "bg.overlay.2": "S:6dfd0ac686940c07d10ae351688e1ba50d21ca0b,",
+      "bg.overlay.2-additional": "S:b025f6b621ad630ee72722af75c11c76a5e67e00,",
+      "bg.social-icons-additional": "S:21b4b8ecc5060431484582d67533183f47a36fd0,",
+      "small-elements.footer.bg-social-additional": "S:942b5aeb183134ae7adca5b5111f1f4fb9e7784e,",
+      "typography.button-text-xs": "S:a9cf8dce59e5a1080814bf406ed746468a914f6f,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"

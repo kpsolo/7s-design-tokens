@@ -2119,9 +2119,17 @@
         "description": "mob app slideshow bg"
       },
       "2-additional": {
-        "value": "{bg.additional}",
+        "value": "{bg.overlay.2}",
         "type": "color",
-        "$extensions": {},
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.3",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "bg for social buttons in header - hover state"
       }
     },
@@ -3001,7 +3009,7 @@
           "studio.tokens": {
             "modify": {
               "type": "darken",
-              "value": "0.2",
+              "value": "0.3",
               "space": "srgb"
             }
           }
