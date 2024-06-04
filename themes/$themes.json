@@ -38,7 +38,6 @@
       "bg.widget-disabled": "S:f99a391652d32cec7c0248a4eb94eba36c82b393,",
       "bg.widget-default": "S:fce1d8a6a5209cd453f7b4b905d5ed69ac8c9098,",
       "bg.overlay.1": "S:470a615c1aeb21ed8b178144e31aef271a66cc9e,",
-      "bg.overlay.2": "S:322ba7013211f415f6b399633daa11228951424a,",
       "bg.overlay.3": "S:a409ddb9ba7222b886591adb5942fe9cf5268270,",
       "bg.overlay.4": "S:4bcf6e9b134e006ca05c1a3fa3751f77b28937f0,",
       "bg.overlay.5": "S:f026c55fc0ff6f88a596e09e9f1fae9d6bc92f7e,",
@@ -557,7 +556,8 @@
       "shadow.screenshots": "S:1eccdc92e8eaa9f5714cdd14cfd60d8e737a4063,",
       "betting.accent": "S:62637abb5300365bc93cc834f492aa528dfdb9fe,",
       "text.title.tertiary": "S:6660a9b7db4ff8bd8c54c3254958a026dc1d6980,",
-      "typography.button-text-xs": "S:141757e24c64fe024168369f981d61e7f6011fdf,"
+      "typography.button-text-xs": "S:141757e24c64fe024168369f981d61e7f6011fdf,",
+      "bg.overlay.2": "S:322ba7013211f415f6b399633daa11228951424a,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -636,7 +636,6 @@
       "bg.other.search": "c72f509ad73548717da3e11158998a3401c2c3f2",
       "bg.other.bonus": "ec4ba2763dd1d9f61ec1e5af03d2c160b9a4b887",
       "bg.overlay.1": "f4ed901b832c00515bd2ac4c39650307e1d33c36",
-      "bg.overlay.2": "41c392b6163f87fa3ff81f7f2a7fbedd72997d3d",
       "bg.overlay.3": "f8628268c22389b7dcf1430a2355b06e2fee4286",
       "bg.overlay.4": "9a3cbea2aca3ffe48b20021ff617073402664822",
       "bg.overlay.5": "599f86809880007461935fe732e0df0dc9280cce",
@@ -991,7 +990,8 @@
       "Padding.button.small-horizontal-additional": "72574dc62d4b7eaf2cf7ebfb3effbe92c04823d5",
       "Padding.button.large-vertical": "01f68b26dd7f5eba6378a43c0964c98282b70ce8",
       "Padding.button.small-vertical": "ddeed5e6712c6420071ed6b2c1e7137857d52f42",
-      "Padding.gamehall": "43107f378cf4cbb979309fd55630730599d3491c"
+      "Padding.gamehall": "43107f378cf4cbb979309fd55630730599d3491c",
+      "bg.overlay.2": "41c392b6163f87fa3ff81f7f2a7fbedd72997d3d"
     }
   },
   {
@@ -1020,7 +1020,6 @@
       "bg.other.strip": "S:96169f857e43a864a9e53bf5ff76ce45c2262515,",
       "bg.other.sidebar-game": "S:f1220c90ba85dc087881afbfdf69225170940479,",
       "bg.overlay.1": "S:1eb0bb0a250975f0598e34be9eec6fdde92143a7,",
-      "bg.overlay.2": "S:70eb77211dc4c09dd12c987b8e03f79c4f45c114,",
       "bg.overlay.3": "S:35c5556811480108209f71d8280990f4a0f47501,",
       "bg.overlay.4": "S:2404e680a684143689ad7d99429919ec6fe11c5c,",
       "bg.overlay.5": "S:66aa614c727b127029b69a6e83c879c6108c9420,",
@@ -1555,7 +1554,8 @@
       "gamepage.bg.thumb-content": "S:498970b75f4c5258737e3eedab8931933919354c,",
       "shadow.screenshots": "S:7c4342d4887b85ce77f090aac01483e99c8789d5,",
       "text.title.tertiary": "S:0bddb968aaea5ad7f3a4d7a6506e083c7eec389d,",
-      "betting.accent": "S:e8817f7be045b1914511b9c38a78f9136297f58f,"
+      "betting.accent": "S:e8817f7be045b1914511b9c38a78f9136297f58f,",
+      "bg.overlay.2": "S:70eb77211dc4c09dd12c987b8e03f79c4f45c114,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -1620,7 +1620,6 @@
       "bg.additional": "d5d2fdc495fc44242a9b151398ada0856834155c",
       "bg.top-surface": "318220c9acbf9e3da4e56b7e241bef5c3c27e05b",
       "bg.overlay.1": "7ca61daae746dfeee7342704aa1867729f1005af",
-      "bg.overlay.2": "225b1f6aeff678865068a3607be85fd2d7b1b7cb",
       "bg.overlay.3": "c44c5dc766f66671227ce6c3e9d3abec6d0674d9",
       "bg.overlay.4": "5322bd3b8a87b78dc850c98d81cb8a65d0607e5b",
       "bg.overlay.5": "286b9b9d66a2a320278fd8898d924b20fd51e7d2",
@@ -2008,7 +2007,8 @@
       "Padding.button.small-horizontal-additional": "44021d35332bc6365c86fee0fa0503b11f026df2",
       "Padding.button.large-vertical": "fd51aa30c0b876277d43d4a141018556024cbaea",
       "Padding.button.small-vertical": "96c8922ad37b52c1afee8466231338760ff27dca",
-      "Padding.gamehall": "c44e3e7eb25c0a5dafac618eef6ad57b904b9015"
+      "Padding.gamehall": "c44e3e7eb25c0a5dafac618eef6ad57b904b9015",
+      "bg.overlay.2": "225b1f6aeff678865068a3607be85fd2d7b1b7cb"
     }
   },
   {
@@ -2051,7 +2051,6 @@
       "bg.widget-disabled": "S:306fbc499525292e40cfd3ad2253078b0b906938,",
       "bg.widget-default": "S:13d700e7849b75925dd23736f6d13ae395541892,",
       "bg.overlay.1": "S:a887b4cb940594758a8d84c3b2986ccb5036ecf4,",
-      "bg.overlay.2": "S:58c7597d3146d036db5e1c85fe63227375d14614,",
       "bg.overlay.3": "S:27a9a930817167445c3e6e977d36156f1aa619a8,",
       "bg.overlay.4": "S:74750e102a24ba9dbbd1924dd104cc981da2e552,",
       "bg.overlay.5": "S:ca99415bcc71d8b44cff353c06455632eff2fdc9,",
@@ -2568,7 +2567,10 @@
       "shadow.screenshots": "S:28d9c7fd5a8ab692e29efc68d47710045b79ade8,",
       "betting.accent": "S:51181ea0a506daf3ed1886a0c383353b16c83985,",
       "text.title.tertiary": "S:2de09dcd6fda9ff0c47c9453dbb0693614aac03d,",
-      "typography.button-text-xs": "S:cf6f148f14e8d4bfb1efd7784e0c180906b9878b,"
+      "typography.button-text-xs": "S:cf6f148f14e8d4bfb1efd7784e0c180906b9878b,",
+      "small-elements.footer.bg-social-additional": "S:7ba29f83b45ff9def9b3c6a0ea0ad8054f866158,",
+      "bg.overlay.2": "S:58c7597d3146d036db5e1c85fe63227375d14614,",
+      "bg.overlay.2-additional": "S:6f486398a9fd0bebafcdea361b1cc6019952e459,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -2656,7 +2658,6 @@
       "bg.widget-disabled": "f5568aec149bf37eb60a7f28b10f79e49e1e0f1b",
       "bg.widget-default": "4362251fad8b5756fbf13c4c245869cd6e114d2d",
       "bg.overlay.1": "55863fc7ee7caea62bdf70f88ae907e47e5504de",
-      "bg.overlay.2": "fb886a5200cd73e066a75e37e8e3c9ad5a144d2d",
       "bg.overlay.3": "a21006e57bcd223637f7467511b3b06bc57ca639",
       "bg.overlay.4": "ca69a58ebfaaf72e19823b8fbf352a3ecf69a860",
       "bg.overlay.5": "744532a1debd268f86edf26c1687ea6105d25844",
@@ -3081,7 +3082,8 @@
       "Padding.button.small-horizontal": "8e52ea7424d706018d2e5fa7a14794824f0ce255",
       "Padding.button.small-vertical": "de5f7dc6c4eefaa34a3fc16b9785c5042fe1aff2",
       "Padding.button.small-horizontal-additional": "ec6347c3666aa0125ad77a4ea0b5e141a604db2d",
-      "Padding.gamehall": "cb26e50e0665ff9368ba3810c0f802c885431dc0"
+      "Padding.gamehall": "cb26e50e0665ff9368ba3810c0f802c885431dc0",
+      "bg.overlay.2": "fb886a5200cd73e066a75e37e8e3c9ad5a144d2d"
     }
   },
   {
@@ -3191,7 +3193,6 @@
       "bg.widget-disabled": "S:9a50ce030ddaecc9582dc741efd2732c8f8af273,",
       "bg.widget-default": "S:8064654e32f6b9b5a4b9e60d8e421301910b0457,",
       "bg.overlay.1": "S:e00bdf35ace46432d7eb4e898ae6215cb27f5113,",
-      "bg.overlay.2": "S:6dfd0ac686940c07d10ae351688e1ba50d21ca0b,",
       "bg.overlay.3": "S:c1b7d09d4818afef421ef3ae5a91a765f0c7d54c,",
       "bg.overlay.4": "S:16c88d0f8030ee19e15eaeb4739aa881866b5da6,",
       "bg.overlay.5": "S:0779d96b7ea58dfecdb3fca14fd1c02eb4a40489,",
@@ -3641,7 +3642,8 @@
       "gamepage.bg.thumb-content": "S:b66b153497b42a7079f961bab14e8138c54af59a,",
       "shadow.screenshots": "S:63260cb47a12c0c0bf720b6a0623b4fe0eaca707,",
       "text.title.tertiary": "S:3c62b61e139e1bfcbb8a97a83adaa2a720edd7db,",
-      "betting.accent": "S:668c0f2ac14ddced0396ba073327c839a198c8b0,"
+      "betting.accent": "S:668c0f2ac14ddced0396ba073327c839a198c8b0,",
+      "bg.overlay.2": "S:6dfd0ac686940c07d10ae351688e1ba50d21ca0b,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
@@ -3709,7 +3711,6 @@
       "bg.additional": "ff0c016152bb95acd6369021a73a7d5a3296c0a8",
       "bg.top-surface": "8f95847f1e68773e4f17c5d2496eeb066a235199",
       "bg.overlay.1": "293bb250ef908bffaeb9f244a6bd760982799905",
-      "bg.overlay.2": "1aed17fa5e912783ec52a4d9293684de3808e0d6",
       "bg.overlay.3": "018146b326c48b8a15711ac5a921910b436eb4b6",
       "bg.overlay.4": "79549c449e6ccf6fce7ecc3084df228474a493e0",
       "bg.overlay.5": "c38c312484ba1e585c820b6dea7bd3551f36a5f8",
@@ -4112,7 +4113,8 @@
       "Padding.button.small-horizontal-additional": "63e4b4b0e9acafaa4abc3f42b49bf690b9f88f71",
       "Padding.button.large-vertical": "68f3fe4327e1c5a761183f570171517630a6a6b1",
       "Padding.button.small-vertical": "666c67dd9f55bb306bc7b2286d011fc39ec748ac",
-      "Padding.gamehall": "844cd74f0c97e97cea4c860f6f9f65f01f597294"
+      "Padding.gamehall": "844cd74f0c97e97cea4c860f6f9f65f01f597294",
+      "bg.overlay.2": "1aed17fa5e912783ec52a4d9293684de3808e0d6"
     }
   }
 ]

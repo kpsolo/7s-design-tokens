@@ -2208,6 +2208,12 @@
         "value": "linear-gradient(180deg, rgba(22, 27, 38, 0.00) 0%, rgba(22, 27, 38, 0.95) 63.16%, #161B26 100%)",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
+      },
+      "2-additional": {
+        "value": "{bg.additional}",
+        "type": "color",
+        "$extensions": {},
+        "description": "bg for social buttons in header - hover state"
       }
     },
     "card": {
@@ -2339,6 +2345,20 @@
       "value": "18px",
       "type": "dimension",
       "description": "use for bottom block in profile "
+    },
+    "social-icons-additional": {
+      "value": "{bg.social-icons}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.1",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "use for bg under social icons in mob menu - hover state"
     }
   },
   "nav": {
@@ -3044,6 +3064,20 @@
             }
           }
         }
+      },
+      "bg-social-additional": {
+        "value": "{small-elements.footer.bg-social}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for social icons bg hover State "
       }
     },
     "check-box": {

@@ -2029,7 +2029,7 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "#FFFFFF",
+        "value": "#FFFF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2040,7 +2040,7 @@
             }
           }
         },
-        "description": "bg for status stiker for lottery/tournament desktop"
+        "description": "bg for social buttons in header"
       },
       "3": {
         "value": "{text.content}",
@@ -2098,6 +2098,12 @@
           }
         },
         "description": "for stable in first deposite page"
+      },
+      "2-additional": {
+        "value": "{bg.additional}",
+        "type": "color",
+        "$extensions": {},
+        "description": "bg for social buttons in header - hover state"
       },
       "ghost-1": {
         "value": "rgba(255, 255, 255, 0.20)",
@@ -3031,6 +3037,20 @@
         "value": "#284389",
         "type": "color",
         "description": "for social icons bg"
+      },
+      "bg-social-additional": {
+        "value": "{small-elements.footer.bg-social}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for social icons bg hover State "
       },
       "bg-payments": {
         "value": "rgba(255, 255, 255, 0.08)",

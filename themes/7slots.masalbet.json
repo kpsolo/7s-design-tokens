@@ -2117,6 +2117,12 @@
           }
         },
         "description": "mob app slideshow bg"
+      },
+      "2-additional": {
+        "value": "{bg.additional}",
+        "type": "color",
+        "$extensions": {},
+        "description": "bg for social buttons in header - hover state"
       }
     },
     "overlay-gradient": {
@@ -2302,6 +2308,20 @@
       "value": "48px",
       "type": "dimension",
       "description": "use for bg blue in provider filter cards"
+    },
+    "social-icons-additional": {
+      "value": "{bg.social-icons}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.1",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "use for bg under social icons in mob menu - hover state"
     }
   },
   "nav": {
@@ -2973,6 +2993,20 @@
         "value": "{bg.overlay.2}",
         "type": "color",
         "description": "Background for payment dropdown element"
+      },
+      "bg-social-additional": {
+        "value": "{small-elements.footer.bg-social}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for social icons bg hover State "
       }
     },
     "label-new-1": {
