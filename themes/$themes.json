@@ -557,7 +557,10 @@
       "betting.accent": "S:62637abb5300365bc93cc834f492aa528dfdb9fe,",
       "text.title.tertiary": "S:6660a9b7db4ff8bd8c54c3254958a026dc1d6980,",
       "typography.button-text-xs": "S:141757e24c64fe024168369f981d61e7f6011fdf,",
-      "bg.overlay.2": "S:322ba7013211f415f6b399633daa11228951424a,"
+      "bg.overlay.2": "S:322ba7013211f415f6b399633daa11228951424a,",
+      "bg.overlay.2-additional": "S:b452c3f27263381cdb46d1bb22d3762bccb913a8,",
+      "bg.social-icons-additional": "S:ee018f95e0b427f96167aa7032bfec49760f4a39,",
+      "small-elements.footer.bg-social-additional": "S:f1b939972d7f31c29b2e9303cf9b7355c0d17b62,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

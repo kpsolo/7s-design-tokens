@@ -1726,6 +1726,11 @@
       "value": "44px",
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
+    },
+    "social": {
+      "value": "44px",
+      "type": "borderRadius",
+      "description": "use for social buttons in footer/menu"
     }
   },
   "opacity": {

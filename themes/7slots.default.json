@@ -1659,6 +1659,11 @@
       "type": "borderRadius",
       "description": "use for navbar on main page"
     },
+    "social": {
+      "value": "44px",
+      "type": "borderRadius",
+      "description": "use for social buttons in footer/menu"
+    },
     "prize": {
       "value": "4px",
       "type": "borderRadius",
@@ -2210,8 +2215,17 @@
         "description": "use for gradient over picture on right tournament panel"
       },
       "2-additional": {
-        "value": "{bg.additional}",
+        "value": "{bg.overlay.2}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "bg for social buttons in header - hover state"
       }
     },
