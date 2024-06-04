@@ -2150,7 +2150,7 @@
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary} , 0.00) 0%, rgba({bg.primary}, 0.76) 41.15%, {bg.primary} 100%)",
+        "value": "linear-gradient(180deg, rgba(19, 19, 19, 0.00) 0%, #131313 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
