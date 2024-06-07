@@ -2258,7 +2258,7 @@
       "description": "use for popups bg ( secret mirror border)"
     },
     "popup-2": {
-      "value": "#F2F3F5",
+      "value": "{bg.tertiary}",
       "type": "color",
       "description": "use for popups bg"
     },
