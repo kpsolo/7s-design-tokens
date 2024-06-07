@@ -1853,7 +1853,7 @@
       "description": "Gradient for bg in bonus card in cashbox"
     },
     "popup-2": {
-      "value": "{bg.popup}",
+      "value": "{bg.tertiary}",
       "type": "color",
       "description": "use for popups bg"
     },
