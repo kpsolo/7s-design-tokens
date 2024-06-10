@@ -1563,7 +1563,8 @@
       "bg.social-icons-additional": "S:94e2eb72079947f9313e6bc611d2e9cd47a52eb2,",
       "small-elements.footer.bg-social-additional": "S:07f8b4acd1637990e793c423db77107b2e69401e,",
       "typography.button-text-xs": "S:55c3fe23fdfeed49f42cee199c861cc884345c07,",
-      "small-elements.fade-additional": "S:f83be62334fa6ae4ec55a73d8300c73da5ca70c1,"
+      "small-elements.fade-additional": "S:f83be62334fa6ae4ec55a73d8300c73da5ca70c1,",
+      "small-elements.fade-tertiary": "S:f83be62334fa6ae4ec55a73d8300c73da5ca70c1,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"

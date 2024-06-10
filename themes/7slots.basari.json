@@ -1880,7 +1880,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "linear-gradient(100deg, #830202 0%, rgba(57, 0, 0, 0.30) 75%)",
+        "value": "#500404",
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
@@ -2912,6 +2912,11 @@
       "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
       "type": "color",
       "description": "Fade on tertiary backgrounds"
+    },
+    "fade-additional": {
+      "value": "linear-gradient(270deg, #500404 0%, rgba(80, 4, 4, 0.00) 100%)",
+      "type": "color",
+      "description": "Fade on winning now widget"
     },
     "sign": {
       "value": "{base.accent-tertiary}",
