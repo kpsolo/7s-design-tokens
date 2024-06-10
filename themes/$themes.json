@@ -126,7 +126,6 @@
       "small-elements.separator.secondary": "S:24dcfaaed69f636ca9d6b30d4b60cc80fe458b4e,",
       "small-elements.progress-large": "S:e8dd1a68f317d617e3e88dd69ced21a1c0237366,",
       "small-elements.bullet": "S:81f22900cd79bd4d6c2cd03fe7c3b6440a90cc97,",
-      "small-elements.fade-tertiary": "S:8f5c3dacf1ee9eb2ab19c48f5a13a8d83029c59b,",
       "small-elements.sign": "S:e63c60675d928f4801039d4cbf15aecfe8c795ad,",
       "small-elements.badge.1": "S:a4c8b991fc13532f77a98f1bae86f43f8e6b6d1b,",
       "small-elements.badge.2": "S:3db46cf553aaf4792f9d4060123ed239956ab586,",
@@ -560,7 +559,8 @@
       "bg.overlay.2": "S:322ba7013211f415f6b399633daa11228951424a,",
       "bg.overlay.2-additional": "S:b452c3f27263381cdb46d1bb22d3762bccb913a8,",
       "bg.social-icons-additional": "S:ee018f95e0b427f96167aa7032bfec49760f4a39,",
-      "small-elements.footer.bg-social-additional": "S:f1b939972d7f31c29b2e9303cf9b7355c0d17b62,"
+      "small-elements.footer.bg-social-additional": "S:f1b939972d7f31c29b2e9303cf9b7355c0d17b62,",
+      "small-elements.fade-additional": "S:8f5c3dacf1ee9eb2ab19c48f5a13a8d83029c59b,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1097,7 +1097,6 @@
       "small-elements.separator.secondary": "S:55fc95801b0406948e385208f2e03db20e7409e9,",
       "small-elements.progress-large": "S:ad8b950c7dcfd72e8d823920589b6c1f44365594,",
       "small-elements.bullet": "S:872a0a2caaba400aba133611937092f6942e50e1,",
-      "small-elements.fade-tertiary": "S:f83be62334fa6ae4ec55a73d8300c73da5ca70c1,",
       "small-elements.sign": "S:0806bd224934398f633184b84857113952b6e095,",
       "small-elements.badge.1": "S:3858d5ed770d0b2491f2377c502d7e3847e9118a,",
       "small-elements.badge.2": "S:9d511ab3f831cb5189d0da2da50dce446eacfa74,",
@@ -1562,7 +1561,8 @@
       "bg.overlay.2-additional": "S:7b1b2a025b2b8761415ba253e2ab45489be5c7cd,",
       "bg.social-icons-additional": "S:94e2eb72079947f9313e6bc611d2e9cd47a52eb2,",
       "small-elements.footer.bg-social-additional": "S:07f8b4acd1637990e793c423db77107b2e69401e,",
-      "typography.button-text-xs": "S:55c3fe23fdfeed49f42cee199c861cc884345c07,"
+      "typography.button-text-xs": "S:55c3fe23fdfeed49f42cee199c861cc884345c07,",
+      "small-elements.fade-additional": "S:f83be62334fa6ae4ec55a73d8300c73da5ca70c1,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -2161,7 +2161,6 @@
       "small-elements.separator.secondary": "S:540db06c00c814d23892c32d6dd7e1d8e2f6cc46,",
       "small-elements.progress-large": "S:e17edaece7276e35973b52ca6b38e74908689f56,",
       "small-elements.bullet": "S:af89b25f670a1a7ea977db21716c94426031a692,",
-      "small-elements.fade-tertiary": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,",
       "small-elements.sign": "S:c3ec32d494fcbeec09ae4364717bf6ebd5239a27,",
       "small-elements.badge.1": "S:ee5b57493f1ad92df298e9e9441ac243dfce7aea,",
       "small-elements.badge.2": "S:9d32e6df826becc5abd1940f6e1e704a9a3da3ea,",
@@ -2577,7 +2576,8 @@
       "typography.button-text-xs": "S:cf6f148f14e8d4bfb1efd7784e0c180906b9878b,",
       "small-elements.footer.bg-social-additional": "S:7ba29f83b45ff9def9b3c6a0ea0ad8054f866158,",
       "bg.overlay.2": "S:58c7597d3146d036db5e1c85fe63227375d14614,",
-      "bg.overlay.2-additional": "S:6f486398a9fd0bebafcdea361b1cc6019952e459,"
+      "bg.overlay.2-additional": "S:6f486398a9fd0bebafcdea361b1cc6019952e459,",
+      "small-elements.fade-additional": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -2783,7 +2783,6 @@
       "small-elements.progress-bg-additional": "61aab9bc619daf9a3519fbb311d68f2616874cfa",
       "small-elements.progress-bar-deals": "654994c29de0da3049918db4fcacef65b6126b93",
       "small-elements.bullet": "e8c5345a680ef02de603c2523809ca0d1394ef8f",
-      "small-elements.fade-tertiary": "66346c4b1a4eb77c3ac6c77c12f27dbae80601be",
       "small-elements.sign": "ca4daad018040e68cf7a8c8bb20a22a86c84c157",
       "small-elements.badge.1": "338660b27d30dd7510bbab8ff5d4aa2b94efafc0",
       "small-elements.badge.2": "a9102b7ae6dadc858d552a50f4783593ff657047",
@@ -3090,7 +3089,8 @@
       "Padding.button.small-vertical": "de5f7dc6c4eefaa34a3fc16b9785c5042fe1aff2",
       "Padding.button.small-horizontal-additional": "ec6347c3666aa0125ad77a4ea0b5e141a604db2d",
       "Padding.gamehall": "cb26e50e0665ff9368ba3810c0f802c885431dc0",
-      "bg.overlay.2": "fb886a5200cd73e066a75e37e8e3c9ad5a144d2d"
+      "bg.overlay.2": "fb886a5200cd73e066a75e37e8e3c9ad5a144d2d",
+      "small-elements.fade-additional": "66346c4b1a4eb77c3ac6c77c12f27dbae80601be"
     }
   },
   {
@@ -3317,7 +3317,6 @@
       "small-elements.progress-bar": "S:72bfd4cff49c7a2b6f394154b1f49b0ef06fa881,",
       "small-elements.bullet": "S:8372371c18c018f0e695abfdb1fb95ea121991ec,",
       "small-elements.slider": "S:ae36ded7a794cde377859a8d2673ea0e9c5b0649,",
-      "small-elements.fade-tertiary": "S:bfdfc87ea718d28cff686f179163d8ff7c1dfe81,",
       "small-elements.sign": "S:72452faa9f33faa8c44a2a1f2b6ec0062d79faa5,",
       "small-elements.badge.1": "S:8d71bbe0265c4eb77193aacd3644bd3bff024234,",
       "small-elements.badge.2": "S:cae065928383d6c1115d40312f27dd3fca24a01b,",
@@ -3654,7 +3653,8 @@
       "bg.overlay.2-additional": "S:b025f6b621ad630ee72722af75c11c76a5e67e00,",
       "bg.social-icons-additional": "S:21b4b8ecc5060431484582d67533183f47a36fd0,",
       "small-elements.footer.bg-social-additional": "S:942b5aeb183134ae7adca5b5111f1f4fb9e7784e,",
-      "typography.button-text-xs": "S:a9cf8dce59e5a1080814bf406ed746468a914f6f,"
+      "typography.button-text-xs": "S:a9cf8dce59e5a1080814bf406ed746468a914f6f,",
+      "small-elements.fade-additional": "S:bfdfc87ea718d28cff686f179163d8ff7c1dfe81,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"

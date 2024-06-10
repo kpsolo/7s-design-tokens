@@ -1872,9 +1872,9 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "linear-gradient(125deg, #D08617 11.09%, #986E2C 37.51%, #514839 89.28%)",
+        "value": "#976E2D",
         "type": "color",
-        "description": "bg for row of winners vidgets"
+        "description": "bg for row of winners widget"
       },
       "welcome": {
         "value": "{bg.other.strip-popup}",
@@ -2946,10 +2946,10 @@
         }
       }
     },
-    "fade-tertiary": {
-      "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
+    "fade-additional": {
+      "value": "linear-gradient(270deg, #976E2D 0%, rgba(151, 110, 45, 0.00) 100%)",
       "type": "color",
-      "description": "Fade on tertiary backgrounds"
+      "description": "Fade on winning now widget"
     },
     "sign": {
       "value": "{base.accent-tertiary}",
