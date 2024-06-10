@@ -2973,6 +2973,11 @@
       "type": "color",
       "description": "Fade on tertiary backgrounds"
     },
+    "fade-additional": {
+      "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
+      "type": "color",
+      "description": "Fade on winning now widget"
+    },
     "label-new-1-text": {
       "value": "{base.light}",
       "type": "color",
