@@ -3004,6 +3004,11 @@
       "type": "color",
       "description": "Fade on tertiary backgrounds"
     },
+    "fade-additional": {
+      "value": "transparent",
+      "type": "color",
+      "description": "Fade on winning now widget"
+    },
     "sign": {
       "value": "#16DA41",
       "type": "color",

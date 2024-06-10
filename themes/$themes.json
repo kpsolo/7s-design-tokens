@@ -2578,7 +2578,8 @@
       "small-elements.footer.bg-social-additional": "S:7ba29f83b45ff9def9b3c6a0ea0ad8054f866158,",
       "bg.overlay.2": "S:58c7597d3146d036db5e1c85fe63227375d14614,",
       "bg.overlay.2-additional": "S:6f486398a9fd0bebafcdea361b1cc6019952e459,",
-      "small-elements.fade-additional": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,"
+      "small-elements.fade-additional": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,",
+      "small-elements.fade-tertiary": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
