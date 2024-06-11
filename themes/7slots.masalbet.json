@@ -638,6 +638,21 @@
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography"
+    },
+    "title-block-light": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.extra}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "tournament card currency"
     }
   },
   "shadow": {

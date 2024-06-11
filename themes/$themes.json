@@ -561,7 +561,8 @@
       "bg.social-icons-additional": "S:ee018f95e0b427f96167aa7032bfec49760f4a39,",
       "small-elements.footer.bg-social-additional": "S:f1b939972d7f31c29b2e9303cf9b7355c0d17b62,",
       "small-elements.fade-additional": "S:8f5c3dacf1ee9eb2ab19c48f5a13a8d83029c59b,",
-      "small-elements.fade-tertiary": "S:8f5c3dacf1ee9eb2ab19c48f5a13a8d83029c59b,"
+      "small-elements.fade-tertiary": "S:8f5c3dacf1ee9eb2ab19c48f5a13a8d83029c59b,",
+      "typography.title-block-light": "S:2ed36a5766e4ad035fa12b77620ebd59da6ff2b3,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
