@@ -5564,7 +5564,7 @@
     },
     "gamepage": {
       "player": {
-        "value": "4px",
+        "value": "8px",
         "type": "dimension"
       }
     },
