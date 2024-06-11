@@ -2582,7 +2582,8 @@
       "bg.overlay.2": "S:58c7597d3146d036db5e1c85fe63227375d14614,",
       "bg.overlay.2-additional": "S:6f486398a9fd0bebafcdea361b1cc6019952e459,",
       "small-elements.fade-additional": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,",
-      "small-elements.fade-tertiary": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,"
+      "small-elements.fade-tertiary": "S:ded374d2c02d0ed5e68533ffc617b69eaf973388,",
+      "typography.title-block-light": "S:d0009e73496c7572f0f78b981c3e262b4036ba04,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
