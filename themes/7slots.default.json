@@ -653,6 +653,319 @@
       },
       "type": "typography",
       "description": "Link text in strip widget on gamepage (under title)"
+    },
+    "special-blocks": {
+      "payment-block-mob": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "24px",
+          "fontSize": "18px",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "Title for jackpot widget"
+      },
+      "payment-block-main-desktop": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "38px",
+          "fontSize": "32px",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "main Title for payment block widget"
+      },
+      "payment-block-additional-desktop": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "32px",
+          "fontSize": "20px",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "main Title for payment block widget"
+      },
+      "payment-block-extra-desktop": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "24px",
+          "fontSize": "14px",
+          "letterSpacing": "0%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "small Title for payment block widget"
+      },
+      "jackpot-title": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "50px",
+          "fontSize": "50px",
+          "letterSpacing": "-10%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "Title for jackpot widget"
+      },
+      "jackpot-title-additional": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "36px",
+          "fontSize": "32px",
+          "letterSpacing": "-1%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "Title for jackpot page"
+      },
+      "secret-mirrors-title": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.1}",
+          "lineHeight": "32px",
+          "fontSize": "26px",
+          "letterSpacing": "auto",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}"
+        },
+        "type": "typography",
+        "description": "Title for secret mirror popup"
+      },
+      "live-lottery-numbers": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "18px",
+          "fontSize": "18px",
+          "letterSpacing": "0",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "numbers in timer"
+      },
+      "x-status": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "{line-height.sm}",
+          "fontSize": "{font-size.1-desktop}",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "x2 x3 icons"
+      },
+      "jackpot-amount": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "70px",
+          "fontSize": "64px",
+          "letterSpacing": "-5%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Amount of prize on jackpot widget"
+      },
+      "jackpot-amount-additional": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "36px",
+          "fontSize": "34px",
+          "letterSpacing": "-1%",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "Amount of prize on jackpot page"
+      },
+      "jackpot-amount-desktop": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "44px",
+          "fontSize": "38px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography",
+        "description": "for jackpot amount on mane page desktop"
+      },
+      "jackpot-amount-desktop-light": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.0}",
+          "lineHeight": "44px",
+          "fontSize": "38px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography",
+        "description": "for jackpot amount on mane page desktop"
+      },
+      "404-500-large": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "250px",
+          "fontSize": "280px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography",
+        "description": "for 404/500 "
+      },
+      "404-500-small": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "140px",
+          "fontSize": "160px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography",
+        "description": "for 404/500 "
+      },
+      "referral-number": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "60px",
+          "fontSize": "52px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography",
+        "description": "for referral cards numbers"
+      },
+      "verification-title": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "20px",
+          "fontSize": "11px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography"
+      },
+      "verification-card-num": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "8px",
+          "fontSize": "6px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.uppercase}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography"
+      },
+      "verification-card-text": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.0}",
+          "lineHeight": "6px",
+          "fontSize": "4px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography"
+      },
+      "verification-passport-text": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.0}",
+          "lineHeight": "7px",
+          "fontSize": "6px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography"
+      },
+      "welcome-bonus": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.0}",
+          "lineHeight": "{line-height.sm}",
+          "fontSize": "{font-size.3}",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "welcome bonus timer title"
+      }
     }
   },
   "shadow": {
@@ -3885,250 +4198,10 @@
       "type": "color",
       "description": "Background for jackpot widget"
     },
-    "payment-block-mob": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "24px",
-        "fontSize": "18px",
-        "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "Title for jackpot widget"
-    },
-    "payment-block-main-desktop": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "38px",
-        "fontSize": "32px",
-        "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "main Title for payment block widget"
-    },
-    "payment-block-additional-desktop": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "32px",
-        "fontSize": "20px",
-        "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "main Title for payment block widget"
-    },
-    "payment-block-extra-desktop": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "24px",
-        "fontSize": "14px",
-        "letterSpacing": "0%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "small Title for payment block widget"
-    },
-    "jackpot-title": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "50px",
-        "fontSize": "50px",
-        "letterSpacing": "-10%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "Title for jackpot widget"
-    },
-    "jackpot-title-additional": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "36px",
-        "fontSize": "32px",
-        "letterSpacing": "-1%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "Title for jackpot page"
-    },
-    "secret-mirrors-title": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "32px",
-        "fontSize": "26px",
-        "letterSpacing": "auto",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography",
-      "description": "Title for secret mirror popup"
-    },
-    "live-lottery-numbers": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "18px",
-        "fontSize": "18px",
-        "letterSpacing": "0",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography",
-      "description": "numbers in timer"
-    },
-    "x-status": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.1-desktop}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography",
-      "description": "x2 x3 icons"
-    },
-    "jackpot-amount": {
-      "value": {
-        "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "70px",
-        "fontSize": "64px",
-        "letterSpacing": "-5%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography",
-      "description": "Amount of prize on jackpot widget"
-    },
-    "jackpot-amount-additional": {
-      "value": {
-        "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "36px",
-        "fontSize": "34px",
-        "letterSpacing": "-1%",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography",
-      "description": "Amount of prize on jackpot page"
-    },
     "jackpot-line": {
       "value": "radial-gradient(50% 50% at 50% 50%, #27FFA4 0%, rgba(45, 216, 144, 0.39) 100%)",
       "type": "color",
       "description": "Color for jackpot widget separate line"
-    },
-    "jackpot-amount-desktop": {
-      "value": {
-        "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "44px",
-        "fontSize": "38px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography",
-      "description": "for jackpot amount on mane page desktop"
-    },
-    "jackpot-amount-desktop-light": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "44px",
-        "fontSize": "38px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography",
-      "description": "for jackpot amount on mane page desktop"
-    },
-    "404-500-large": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "250px",
-        "fontSize": "280px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography",
-      "description": "for 404/500 "
-    },
-    "404-500-small": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "140px",
-        "fontSize": "160px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography",
-      "description": "for 404/500 "
-    },
-    "referral-number": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.3}",
-        "lineHeight": "60px",
-        "fontSize": "52px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography",
-      "description": "for referral cards numbers"
     },
     "dropdown-custom": {
       "value": "#1C212E",
@@ -4189,62 +4262,6 @@
         },
         "description": "use for numbers gradient in conditions"
       }
-    },
-    "verification-title": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "20px",
-        "fontSize": "11px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography"
-    },
-    "verification-card-num": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "8px",
-        "fontSize": "6px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.uppercase}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography"
-    },
-    "verification-card-text": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "6px",
-        "fontSize": "4px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography"
-    },
-    "verification-passport-text": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "7px",
-        "fontSize": "6px",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-      },
-      "type": "typography"
     },
     "achievements": {
       "border": {
@@ -4378,21 +4395,6 @@
           "description": "card first deposit bg in main screen"
         }
       }
-    },
-    "welcome-bonus": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textDecoration": "{text-decoration.none}",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography",
-      "description": "welcome bonus timer title"
     }
   },
   "filed spacing": {
