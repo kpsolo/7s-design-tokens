@@ -2460,13 +2460,13 @@
         "description": "mob app slideshow bg"
       },
       "2-additional": {
-        "value": "{bg.overlay.2}",
+        "value": "#fff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
-              "value": "0.2",
+              "type": "alpha",
+              "value": "0.12",
               "space": "srgb"
             }
           }
@@ -3303,13 +3303,13 @@
         "description": "Background for payment dropdown element"
       },
       "bg-social-additional": {
-        "value": "{small-elements.footer.bg-social}",
+        "value": "#FFFFFF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "lighten",
-              "value": "0.2",
+              "type": "alpha",
+              "value": "0.12",
               "space": "srgb"
             }
           }
