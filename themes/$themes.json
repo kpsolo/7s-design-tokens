@@ -1576,7 +1576,17 @@
       "typography.special-blocks.payment-block-main-desktop": "S:7b52a4f4c7841ef50bcd629b3c489b3b4e48f474,",
       "typography.special-blocks.payment-block-additional-desktop": "S:c3ddd898af1ba9975222a8aaa323579606b91ef5,",
       "typography.special-blocks.payment-block-extra-desktop": "S:c923b8dae624627ac4b170cc07152b37432e2092,",
-      "typography.special-blocks.welcome-bonus": "S:365b8cd75ff680064ee71f5315ab9a2aaa27ae58,"
+      "typography.special-blocks.welcome-bonus": "S:365b8cd75ff680064ee71f5315ab9a2aaa27ae58,",
+      "small-elements.chips.bg.default": "S:bf29abbcd7120d32d65c04b570cd8ad3ca5dd60f,",
+      "small-elements.chips.bg.states": "S:c0d937406b8dbbcbfe45efb53a09e05ed4114636,",
+      "small-elements.chips.bg.default-additional": "S:6dd53bc6f874de2aedf998b2fc133a1392e4222e,",
+      "small-elements.chips.bg.states-additional": "S:d03ec40bc77e5a011a4dd7f14375394973cc02cf,",
+      "small-elements.chips.text.default": "S:5de708a211ed4cb2c9ee474d95a614af4843fc5a,",
+      "small-elements.chips.text.default-additional": "S:ef64f42d41e438ad316b15afecc42eb3416d6bca,",
+      "small-elements.chips.text.states": "S:c329ce266338a8994c3be381bc8e6e15d231d011,",
+      "small-elements.chips.text.states-additional": "S:c5b60402a3d3a14e136f59ce2a42cdf23800acaa,",
+      "shadow.tips-additional": "S:fa8bfd784c14979373c9b69ae04680452a844435,",
+      "shadow.tips-additional-2": "S:d3823ac17f51bfd32c4099a5f31537067a55e660,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
