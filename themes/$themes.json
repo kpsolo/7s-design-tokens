@@ -562,7 +562,9 @@
       "typography.special-blocks.payment-block-main-desktop": "S:ad20528a7bccfa5ded26002f938029a3f55f5086,",
       "typography.special-blocks.payment-block-additional-desktop": "S:4124aec82a16a22b19e51e60f2b324c7557be6bc,",
       "typography.special-blocks.payment-block-extra-desktop": "S:21b859710df0489f4cf01407a6c0e0fc297dfe74,",
-      "typography.special-blocks.welcome-bonus": "S:84932e6e1396987be195d94b4cd5178601433bd3,"
+      "typography.special-blocks.welcome-bonus": "S:84932e6e1396987be195d94b4cd5178601433bd3,",
+      "shadow.tips-additional": "S:a8b17a3d20b3038b5c36d854c49c97653245c03d,",
+      "shadow.tips-additional-2": "S:063da81094c05525c7d249b6d7f8f7709ccabe26,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

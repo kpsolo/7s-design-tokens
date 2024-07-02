@@ -1445,6 +1445,30 @@
       },
       "type": "boxShadow",
       "description": "Shadow for mob app screenshots"
+    },
+    "tips-additional": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "3",
+        "spread": "0",
+        "color": "rgba(48, 66, 94, 0.32)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shaddow for tags in pregame"
+    },
+    "tips-additional-2": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "3",
+        "spread": "0",
+        "color": "rgba(27, 49, 83, 0.32)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shaddow for tags in pregame - desktop"
     }
   },
   "border": {
