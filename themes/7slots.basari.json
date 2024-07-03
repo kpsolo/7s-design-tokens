@@ -3564,7 +3564,6 @@
         "states-additional": {
           "value": "rgba(251, 60, 60, 0.30)",
           "type": "color",
-          "$extensions": {},
           "description": "use for tags bg in pregame for hover/focuced/pressed- desktop"
         }
       },
