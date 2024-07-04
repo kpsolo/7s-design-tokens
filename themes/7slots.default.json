@@ -326,7 +326,7 @@
     },
     "title-small-strong": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.5}",
@@ -2762,7 +2762,7 @@
       "description": "Background for tertiary elements"
     },
     "dark": {
-      "value": "#000000",
+      "value": "#1D2538",
       "type": "color",
       "description": "Darkest (black)"
     },

@@ -3612,7 +3612,6 @@
         "default-additional": {
           "value": "#2D4480",
           "type": "color",
-          "$extensions": {},
           "description": "use for tags bg in pregame - desktop"
         },
         "states-additional": {
@@ -3658,7 +3657,6 @@
         "states-additional": {
           "value": "#ffffff",
           "type": "color",
-          "$extensions": {},
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
       }
