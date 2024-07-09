@@ -1931,7 +1931,7 @@
     },
     "additional": {
       "value": {
-        "color": "transparent",
+        "color": "unset",
         "width": "1",
         "style": "solid"
       },
