@@ -575,8 +575,7 @@
       "small-elements.chips.text.states-additional": "S:c6364fe9a80e42d0cb12eec7a64c4cdeb0ed51c0,"
     },
     "selectedTokenSets": {
-      "7slots.default": "enabled",
-      "7slots.abe.bet": "disabled"
+      "7slots.default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:23933:93942",
     "$figmaModeId": "23933:0",
@@ -1609,8 +1608,7 @@
       "shadow.tips-additional-2": "S:d3823ac17f51bfd32c4099a5f31537067a55e660,"
     },
     "selectedTokenSets": {
-      "7slots.basari": "enabled",
-      "7slots.abe.bet": "disabled"
+      "7slots.basari": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:23933:94269",
     "$figmaModeId": "23933:1",
@@ -2647,8 +2645,7 @@
       "typography.special-blocks.welcome-bonus": "S:f51de798626c4b41cc94376c405472fb71fb7431,"
     },
     "selectedTokenSets": {
-      "7slots.winnita": "enabled",
-      "7slots.abe.bet": "disabled"
+      "7slots.winnita": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:26569:367527",
     "$figmaModeId": "26569:0",
@@ -3750,8 +3747,7 @@
       "shadow.tips-additional-2": "S:8987aeb4ed593959c07e74be1b770ea2e93f22e4,"
     },
     "selectedTokenSets": {
-      "7slots.masalbet": "enabled",
-      "7slots.abe.bet": "disabled"
+      "7slots.masalbet": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:31249:1568456",
     "$figmaModeId": "31249:0",
