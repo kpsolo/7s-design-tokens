@@ -1484,9 +1484,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "0",
+        "blur": "3",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0)",
+        "color": "rgba(48, 66, 94, 0.32)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1496,9 +1496,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "0",
+        "blur": "3",
         "spread": "0",
-        "color": "rgba(0, 0, 0, 0)",
+        "color": "rgba(27, 49, 83, 0.32)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -2043,7 +2043,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "12px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
@@ -3600,29 +3600,38 @@
     "chips": {
       "bg": {
         "default": {
-          "value": "#E1E2E3",
+          "value": "#F8F8F9",
           "type": "color",
           "description": "use for tags bg in pregame - mob"
         },
         "states": {
-          "value": "#E0FCFD",
+          "value": "#F8F8F9",
           "type": "color",
           "description": "use for tags bg in pregame for hover/focuced/pressed- mob"
         },
         "default-additional": {
-          "value": "#2D4480",
+          "value": "#fff",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "use for tags bg in pregame - desktop"
         },
         "states-additional": {
-          "value": "rgba(85, 210, 235, 0.40)",
+          "value": "rgba(67, 177, 131, 0.20)",
           "type": "color",
           "description": "use for tags bg in pregame for hover/focuced/pressed- desktop"
         }
       },
       "text": {
         "default": {
-          "value": "#192947",
+          "value": "#000",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -3642,7 +3651,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.8",
+                "value": "0.6",
                 "space": "srgb"
               }
             }
@@ -3650,13 +3659,22 @@
           "description": "use for tags text in pregame - desktop"
         },
         "states": {
-          "value": "#192947",
+          "value": "#43B183",
           "type": "color",
           "description": "use for tags text in pregame for hover/focuced/pressed- mob"
         },
         "states-additional": {
-          "value": "#ffffff",
+          "value": "#fff",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
       }
