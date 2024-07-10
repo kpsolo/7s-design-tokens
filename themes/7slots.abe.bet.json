@@ -2095,17 +2095,9 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#2d2d2d",
+        "value": "#322245",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
@@ -2138,7 +2130,7 @@
         "description": "Main banner background"
       },
       "win-card": {
-        "value": "#2D2D2D",
+        "value": "linear-gradient(102deg, rgba(255, 255, 255, 0.10) 53.25%, rgba(255, 255, 255, 0.20) 100%)",
         "type": "color",
         "description": "Background color for card winners now"
       },
@@ -2224,7 +2216,7 @@
         "type": "color"
       },
       "win-card-wrap": {
-        "value": "#976E2D",
+        "value": "radial-gradient(113.7% 90.4% at 100% 100%, rgba(241, 43, 150, 0.80) 10.88%, rgba(241, 43, 150, 0.00) 82.51%), #331837",
         "type": "color",
         "description": "bg for row of winners widget"
       },
@@ -2300,7 +2292,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(176deg, #C22682 6.8%, #631C5B 61.27%, #331848 91.33%)",
+      "value": "linear-gradient(169deg, #9A1363 11.29%, #631C5B 47.49%, #331848 84.92%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2597,7 +2589,7 @@
       "description": "use for messages, shop, faq cards"
     },
     "popup-additional": {
-      "value": "linear-gradient(180deg, #FFE1A6 0%, #A55D35 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "use for popups bg ( secret mirror border)"
     },
@@ -2646,7 +2638,7 @@
           "description": "1st deopsit card stroke bg"
         },
         "1-additional": {
-          "value": "#02FF39",
+          "value": "transparent",
           "type": "color",
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
         }
@@ -3119,7 +3111,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.7",
+              "value": "0.9",
               "space": "srgb"
             }
           }
@@ -3317,7 +3309,7 @@
       }
     },
     "fade-additional": {
-      "value": "linear-gradient(270deg, #976E2D 0%, rgba(151, 110, 45, 0.00) 100%)",
+      "value": "transparent",
       "type": "color",
       "description": "Fade on winning now widget"
     },
