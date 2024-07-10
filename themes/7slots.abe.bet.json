@@ -2769,7 +2769,7 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "rgba(98,90,90,0.8)",
+        "value": "#625A5A",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
