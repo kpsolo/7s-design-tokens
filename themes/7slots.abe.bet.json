@@ -989,7 +989,7 @@
         "y": "4",
         "blur": "8",
         "spread": "0",
-        "color": "rgba(0,0,0,0.6)",
+        "color": "#0C1426",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -2079,12 +2079,12 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#0A1020",
+      "value": "#331848",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#162548",
+      "value": "#121E3B",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
@@ -2276,7 +2276,7 @@
       "description": "Gradient for bg"
     },
     "additional": {
-      "value": "#1E224D",
+      "value": "#151F43",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -2291,7 +2291,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
+      "value": "#1E224D",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
