@@ -3330,12 +3330,12 @@
     },
     "footer": {
       "crypto-up": {
-        "value": "linear-gradient(180deg, rgba(139, 139, 139, 0.3) 0%, rgba(157, 157, 157, 0.08) 100%)",
+        "value": "linear-gradient(180deg, rgba(34, 56, 105, 0.40) 0%, rgba(34, 56, 105, 0.00) 100%)",
         "type": "color",
         "description": "Background for crypto"
       },
       "crypto-down": {
-        "value": "linear-gradient(180deg, rgba(215, 82, 53, 0.30) 0%, rgba(157, 157, 157, 0.08) 100%)",
+        "value": "linear-gradient(180deg, rgba(34, 56, 105, 0.40) 0%, rgba(34, 56, 105, 0.00) 100%)",
         "type": "color",
         "description": "Background for crypto"
       },
@@ -3345,8 +3345,17 @@
         "description": "navigation for crypto slider"
       },
       "bg-social": {
-        "value": "{bg.overlay.2}",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.06",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "for social icons bg"
       },
       "bg-payments": {
