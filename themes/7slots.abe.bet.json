@@ -2291,7 +2291,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(169deg, #7D1C68 16.37%, #55227C 47.82%, #331848 80.34%)",
+      "value": "linear-gradient(161deg, #912266 11.11%, #331848 45.91%, #331848 83.89%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2301,7 +2301,7 @@
       "description": "for past tournament,lottery"
     },
     "widget-default": {
-      "value": "linear-gradient(106deg, #1B1B1B 15.49%, #242424 39.9%, #3C3C3C 63.5%, #3C3C3C 80.59%, #3C3C3C 88.73%)",
+      "value": "linear-gradient(161deg, #912266 11.11%, #331848 45.91%, #331848 83.89%)",
       "type": "color",
       "description": "for tournament on main page, news, lottery"
     },
