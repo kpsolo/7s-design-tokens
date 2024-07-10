@@ -1000,7 +1000,7 @@
         {
           "x": "0",
           "y": "1",
-          "blur": "2",
+          "blur": "0",
           "spread": "0",
           "color": "rgba(255,255,255,0.12)",
           "type": "innerShadow"
@@ -1010,7 +1010,7 @@
           "y": "8",
           "blur": "16",
           "spread": "0",
-          "color": "rgba(0,0,0,0.2)",
+          "color": "#0C1426",
           "type": "dropShadow"
         }
       ],
@@ -2276,7 +2276,7 @@
       "description": "Gradient for bg"
     },
     "additional": {
-      "value": "#242424",
+      "value": "#1E224D",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -3239,7 +3239,7 @@
         "description": "for line separator in menu/ dropdown with light bg"
       },
       "secondary": {
-        "value": "#585858",
+        "value": "#1E2E53",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
