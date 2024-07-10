@@ -1644,7 +1644,7 @@
     },
     "input-focus": {
       "value": {
-        "color": "{base.accent-secondary}",
+        "color": "#fff",
         "width": "{border-width.input}",
         "style": "solid"
       },
@@ -1686,7 +1686,7 @@
     },
     "input-default": {
       "value": {
-        "color": "#B4B4B4",
+        "color": "#fff",
         "width": "{border-width.input}",
         "style": "solid"
       },
@@ -1769,7 +1769,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "#cccccc",
+        "color": "#fff",
         "width": "1px",
         "style": "solid"
       },
@@ -1941,11 +1941,11 @@
       "description": "use for navbar bg top corners\n+socials bg in menu/gamepage/registration"
     },
     "popup": {
-      "value": "8px",
+      "value": "10px",
       "type": "borderRadius"
     },
     "tooltips-notifications": {
-      "value": "4px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "Border radius for tooltips ans notifications"
     },
@@ -2124,7 +2124,7 @@
         "description": "for cashbox bonus popup content"
       },
       "promo": {
-        "value": "#331848",
+        "value": "radial-gradient(31.01% 25.61% at 22.5% 58.73%, rgba(146, 33, 111, 0.60) 0%, rgba(146, 33, 111, 0.45) 29.08%, rgba(146, 33, 111, 0.36) 46.38%, rgba(146, 33, 111, 0.00) 100%), #331848",
         "type": "color",
         "description": "Main banner background"
       },
@@ -2291,7 +2291,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(161deg, #912266 11.11%, #331848 45.91%, #331848 83.89%)",
+      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2301,7 +2301,7 @@
       "description": "for past tournament,lottery"
     },
     "widget-default": {
-      "value": "linear-gradient(161deg, #912266 11.11%, #331848 45.91%, #331848 83.89%)",
+      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
       "type": "color",
       "description": "for tournament on main page, news, lottery"
     },
@@ -2716,7 +2716,7 @@
       "description": "Background for tertiary elements"
     },
     "dark": {
-      "value": "#1D0C20",
+      "value": "#0C050E",
       "type": "color",
       "description": "Darkest (black)"
     },
@@ -4700,7 +4700,7 @@
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "{base.accent-primary}",
+      "value": "{text.secondary}",
       "type": "color",
       "description": "use for links on lighter bg (notifications), game page"
     },
