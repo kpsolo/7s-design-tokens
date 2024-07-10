@@ -2250,7 +2250,7 @@
         "description": "Background color for outside 1click zone "
       },
       "footer-app": {
-        "value": "{bg.overlay.ghost-2}",
+        "value": "#020712",
         "type": "color",
         "description": "bg for app button in footer"
       },
@@ -3350,13 +3350,13 @@
         "description": "for social icons bg"
       },
       "bg-payments": {
-        "value": "{bg.secondary}",
+        "value": "#fff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.06",
               "space": "srgb"
             }
           }
