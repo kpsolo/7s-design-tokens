@@ -1936,7 +1936,7 @@
       "description": "Radius for buttons"
     },
     "tap-bar": {
-      "value": "10px",
+      "value": "12px",
       "type": "borderRadius",
       "description": "use for navbar bg top corners\n+socials bg in menu/gamepage/registration"
     },
@@ -3318,12 +3318,12 @@
     },
     "badge": {
       "1": {
-        "value": "#F84358",
+        "value": "#E90D5C",
         "type": "color",
         "description": "use for badge in main tapbar"
       },
       "2": {
-        "value": "#F84358",
+        "value": "#E90D5C",
         "type": "color",
         "description": "use for badges in navbar, menu top part , lottery tickets sale,check box"
       }
@@ -4517,18 +4517,18 @@
   "categories": {
     "bg": {
       "main": {
-        "value": "#736f6f",
+        "value": "#7C8495",
         "type": "color",
-        "description": "use for navbar bg",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.40",
               "space": "srgb"
             }
           }
-        }
+        },
+        "description": "use for navbar bg"
       },
       "additional": {
         "value": "{categories.bg.main}",
@@ -4536,8 +4536,17 @@
         "description": "use for search bg in categories"
       },
       "extra": {
-        "value": "#CCCCCC",
+        "value": "#FFFFFF",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.15",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for search bg in categories"
       }
     },
@@ -4581,7 +4590,7 @@
         "description": "use for bg under balance amount"
       },
       "main": {
-        "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.80) 0%, rgba(0, 0, 0, 0.67) 28.65%, rgba(0, 0, 0, 0.52) 53.65%, rgba(0, 0, 0, 0.22) 76.04%, rgba(0, 0, 0, 0.06) 89.06%, rgba(0, 0, 0, 0.00) 100%)",
+        "value": "linear-gradient(180deg, rgba(31, 9, 49, 0.56) 0%, rgba(0, 0, 0, 0.04) 89.06%, rgba(0, 0, 0, 0.00) 100%)",
         "type": "color"
       },
       "sticky": {
