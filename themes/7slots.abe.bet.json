@@ -1916,7 +1916,7 @@
       "description": "Radius for cards amd widgets"
     },
     "game-item": {
-      "value": "4px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "Radius for thumbs"
     },
@@ -3113,13 +3113,31 @@
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
-        "value": "{base.light}",
+        "value": "#A657A3",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Color for label thumb"
       },
       "label-thumb-top": {
-        "value": "{base.accent-tertiary}",
+        "value": "#88206B",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.7",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Color for label thumb"
       },
       "counter-color": {
@@ -3137,7 +3155,7 @@
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
-        "value": "{base.dark}",
+        "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
       }
@@ -3286,13 +3304,13 @@
       "type": "color"
     },
     "slider": {
-      "value": "{base.accent-secondary}",
+      "value": "#9A85A4",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.2",
+            "value": "0.4",
             "space": "srgb"
           }
         }
@@ -3511,7 +3529,7 @@
       }
     },
     "slider-curret": {
-      "value": "{base.accent-secondary}",
+      "value": "#fff",
       "type": "color",
       "description": "use for slider curret in mob main page"
     },
