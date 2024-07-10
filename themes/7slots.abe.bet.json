@@ -2811,7 +2811,7 @@
   "button": {
     "bg": {
       "primary": {
-        "value": "#FFC908",
+        "value": "#F2FF44",
         "type": "color",
         "description": "Background for primary buttons"
       },
@@ -2914,12 +2914,12 @@
     },
     "icon": {
       "primary": {
-        "value": "#000",
+        "value": "{base.surface}",
         "type": "color",
         "description": "Icon color on a primary button"
       },
       "secondary": {
-        "value": "#000",
+        "value": "{base.surface}",
         "type": "color",
         "description": "Icon color on a secondary button"
       },
@@ -2976,7 +2976,7 @@
         "description": "border color for buttons disabled"
       },
       "ghost": {
-        "value": "rgba(0, 0, 0, 0.80)",
+        "value": "{base.surface}",
         "type": "color",
         "description": "border color for ghost buttons (use in menu)"
       },
@@ -3031,12 +3031,12 @@
     },
     "text": {
       "primary": {
-        "value": "#000",
+        "value": "{base.surface}",
         "type": "color",
         "description": "Text color on primary button"
       },
       "secondary": {
-        "value": "#000",
+        "value": "{base.surface}",
         "type": "color",
         "description": "Text color on secondary button"
       },
