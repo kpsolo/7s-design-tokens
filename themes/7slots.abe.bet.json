@@ -2084,7 +2084,7 @@
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
     "tertiary": {
-      "value": "#2d2d2d",
+      "value": "#162548",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
@@ -2140,7 +2140,7 @@
         "description": "Use for tooltip background"
       },
       "footer": {
-        "value": "#1B0B27",
+        "value": "#0D1527",
         "type": "color",
         "description": "Background color for footer"
       },
@@ -2292,7 +2292,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "linear-gradient(169deg, #9A1363 11.29%, #631C5B 47.49%, #331848 84.92%)",
+      "value": "linear-gradient(169deg, #7D1C68 16.37%, #55227C 47.82%, #331848 80.34%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2689,7 +2689,7 @@
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#222",
+        "value": "#271743",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
@@ -2727,7 +2727,7 @@
       "description": "Indication of success transactions"
     },
     "surface": {
-      "value": "#041334",
+      "value": "#101A32",
       "type": "color",
       "description": "main color for brand bgs"
     },
@@ -3100,7 +3100,7 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%, rgba(0, 0, 0, 0.60) 20.83%, #000 100%)",
+        "value": "linear-gradient(180deg, rgba(22, 37, 72, 0.00) 0%, rgba(22, 37, 72, 0.60) 20.83%, #162548 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
