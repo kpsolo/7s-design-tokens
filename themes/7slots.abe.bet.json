@@ -1960,7 +1960,7 @@
       "description": "No radius"
     },
     "input-base": {
-      "value": "4px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Use for inputs, dropdowns bg"
     },
@@ -2716,7 +2716,7 @@
       "description": "Background for tertiary elements"
     },
     "dark": {
-      "value": "#000000",
+      "value": "#1D0C20",
       "type": "color",
       "description": "Darkest (black)"
     },
