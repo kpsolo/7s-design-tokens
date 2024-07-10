@@ -2097,7 +2097,6 @@
       "status-bg": {
         "value": "#322245",
         "type": "color",
-        "$extensions": {},
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
