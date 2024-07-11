@@ -2167,7 +2167,7 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "#1E224D",
+        "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
         "type": "color",
         "description": "color for desktop sidebar"
       },
@@ -2253,7 +2253,7 @@
         "description": "bg.other.lootboxes-cof-selected"
       },
       "categories-nav": {
-        "value": "#212121",
+        "value": "#2B1A47",
         "type": "color",
         "description": "Baground foe categories on desktop"
       },
@@ -2278,7 +2278,7 @@
         "description": "Bg for right sidebar on gamepage (desktop)"
       },
       "search": {
-        "value": "{bg.tertiary}",
+        "value": "#2B1A47",
         "type": "color",
         "description": "Background for search in desktop"
       },
@@ -2787,13 +2787,13 @@
   "navbar": {
     "bg": {
       "main": {
-        "value": "#625A5A",
+        "value": "#19294D",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.4",
+              "value": "0.6",
               "space": "srgb"
             }
           }
@@ -3300,7 +3300,7 @@
       }
     },
     "progress-large": {
-      "value": "{base.accent-primary}",
+      "value": "#E90D5C",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -3432,19 +3432,19 @@
         "description": "use for check box border"
       },
       "fill": {
-        "value": "#050505",
+        "value": "#3A0D39",
         "type": "color",
         "description": "use for check box in lottery"
       },
       "default": {
-        "value": "rgba( {base.primary},0.2)",
+        "value": "#571D57",
         "type": "color",
         "description": "use for border in default state"
       }
     },
     "desktop": {
       "tournament-counter": {
-        "value": "{button.bg.primary}",
+        "value": "#B02F8B",
         "type": "color",
         "description": "Color of counter for desktop tournament widget"
       },
@@ -3704,7 +3704,7 @@
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "#E90D5C",
       "type": "color",
       "description": "Use for active icons"
     },
@@ -3714,7 +3714,7 @@
       "description": "use for categories icons on mob"
     },
     "alternative": {
-      "value": "{base.accent-secondary}",
+      "value": "#F2FF44",
       "type": "color",
       "description": "use for icons in lists (different from accent icons)"
     },
@@ -3937,7 +3937,7 @@
         "description": "Input value text color"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#E90D5C",
         "type": "color",
         "description": "Use for active select text"
       },
@@ -4308,7 +4308,7 @@
       "description": "Color for jackpot widget separate line"
     },
     "dropdown-custom": {
-      "value": "#292929",
+      "value": "#111C34",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
@@ -4625,12 +4625,12 @@
         "type": "color"
       },
       "top-desktop": {
-        "value": "#212121",
+        "value": "#251844",
         "type": "color",
         "description": "bg header on top for desktop"
       },
       "bottom-desktop": {
-        "value": "linear-gradient(180deg, {header.bg.top-desktop} 0%, rgba(0,0,0,0) 100%)",
+        "value": "linear-gradient(180deg, #29103C 0%, rgba(51, 24, 72, 0.00) 100%)",
         "type": "color",
         "description": "bg header on bottom menu for desktop"
       }
@@ -4661,7 +4661,7 @@
         "description": "use for  (desktop)"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#E90D5C",
         "type": "color",
         "description": "use for bottom menu categories active state (desktop)"
       },
@@ -5526,7 +5526,7 @@
         "description": "bg for top bg in ingame"
       },
       "thumb": {
-        "value": "{navbar.bg.main}",
+        "value": "#192541",
         "type": "color",
         "description": "bg for show more thumb"
       },
