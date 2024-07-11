@@ -1007,10 +1007,10 @@
         },
         {
           "x": "0",
-          "y": "8",
-          "blur": "16",
+          "y": "2",
+          "blur": "4",
           "spread": "0",
-          "color": "#0C1426",
+          "color": "rgba(12, 20, 38, 0.40)",
           "type": "dropShadow"
         }
       ],
@@ -2090,7 +2090,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, rgba(77, 77, 77, 0.60) 0%, rgba(48, 49, 51, 0.60) 19.79%, rgba(19, 19, 19, 0.40) 100%)",
+        "value": "linear-gradient(180deg, rgba(16, 25, 50, 0.60) 0%, #101A32 19.79%, #2D1944 100%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
