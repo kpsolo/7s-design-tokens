@@ -1216,7 +1216,7 @@
           "y": "0",
           "blur": "24",
           "spread": "0",
-          "color": "rgba({base.light}, 0.3)",
+          "color": "rgba(95, 37, 139, 0.80)",
           "type": "dropShadow"
         },
         "type": "boxShadow",
@@ -1991,7 +1991,7 @@
     },
     "special-blocks": {
       "jackpot-radius": {
-        "value": "6px",
+        "value": "12px",
         "type": "borderRadius",
         "description": "Radius for jackpot widget"
       }
@@ -4289,7 +4289,7 @@
       "description": "Border-color for jackpot widgets"
     },
     "jackpot-widget-bg": {
-      "value": "linear-gradient(180deg, rgba(77, 77, 77, 0.60) 0%, rgba(48, 49, 51, 0.60) 19.79%, rgba(19, 19, 19, 0.40) 100%)",
+      "value": "linear-gradient(180deg, rgba(118, 30, 108, 0.10) 0%, rgba(86, 17, 79, 0.60) 19.79%, rgba(84, 15, 76, 0.40) 100%)",
       "type": "color",
       "description": "Background for jackpot widget"
     },
