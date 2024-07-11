@@ -2867,17 +2867,17 @@
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
-        "value": "linear-gradient(177deg, #F4F4F4 2%, #DCDCDC 100%)",
+        "value": "#F4F4F4",
         "type": "color",
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "linear-gradient(177deg, #FFF 2%, #EBEBEB 100%)",
+        "value": "#D6D6D6",
         "type": "color",
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "linear-gradient(-25deg, #F4F4F4 2%, #DCDCDC 100%)",
+        "value": "#fff",
         "type": "color",
         "description": "Background for secondary buttons pressed"
       },
