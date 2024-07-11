@@ -1926,7 +1926,7 @@
       "description": "desktop categories\n+socials bg in menu/gamepage/registration"
     },
     "prize": {
-      "value": "4px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "use for prize item in tournament/lotery page "
     },
@@ -5020,7 +5020,7 @@
   },
   "tab": {
     "active tab": {
-      "value": "{radius.button}",
+      "value": "16px",
       "type": "borderRadius",
       "description": "tournament/lottery tabs top corners radious"
     },
