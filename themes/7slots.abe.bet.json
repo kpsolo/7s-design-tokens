@@ -2285,7 +2285,7 @@
       "description": "Gradient for bg"
     },
     "additional": {
-      "value": "#151F43",
+      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
@@ -2300,7 +2300,7 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "#1E224D",
+      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
