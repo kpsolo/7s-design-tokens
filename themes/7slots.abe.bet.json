@@ -2248,7 +2248,7 @@
         "description": "use as bg for welcome popup timer widget"
       },
       "lootboxes-cell-selected": {
-        "value": "linear-gradient(180deg, rgba(255, 201, 8, 0.10) 0%, rgba(255, 201, 8, 0.30) 43.5%, rgba(255, 201, 8, 0.60) 85.5%, #FFC908 100%)",
+        "value": "{bg.secondary}",
         "type": "color",
         "description": "bg.other.lootboxes-cof-selected"
       },
@@ -5678,7 +5678,7 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "{bg.tertiary}",
+        "value": "#701F5D",
         "type": "color",
         "description": "use for dropdown"
       },
