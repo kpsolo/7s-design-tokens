@@ -4026,7 +4026,7 @@
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "154px",
+      "value": "200px",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
@@ -4048,7 +4048,7 @@
       "description": "use for mobile logo height "
     },
     "logo-desktop": {
-      "value": "32",
+      "value": "41.56px",
       "type": "sizing",
       "description": "use for desktop logo height "
     },
