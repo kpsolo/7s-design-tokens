@@ -2158,7 +2158,7 @@
         "description": "use as accent on light bg - filter in cashdesk"
       },
       "sidebar-desktop": {
-        "value": "linear-gradient(180deg, #424242 0%, #1A1A1A 100%)",
+        "value": "#1E224D",
         "type": "color",
         "description": "color for desktop sidebar"
       },
@@ -5354,7 +5354,7 @@
       "description": "text for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(120deg, #F49507 5.23%, #A1722A 34.5%, #3C3C3C 91.86%)",
+      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
       "type": "color",
       "description": "Bg for card"
     },
