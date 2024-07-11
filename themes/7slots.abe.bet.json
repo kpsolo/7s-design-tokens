@@ -2586,7 +2586,7 @@
       "description": "use for bottom block in profile "
     },
     "widget-bonus": {
-      "value": "linear-gradient(106deg, #BE960B 6.61%, #846A10 38.07%, #272621 98.49%)",
+      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
       "type": "color",
       "description": "use as bg for welcome bonus"
     },
