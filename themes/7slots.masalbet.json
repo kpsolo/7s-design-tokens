@@ -1865,6 +1865,15 @@
       },
       "type": "border",
       "description": "border for provider filter card"
+    },
+    "button-primary": {
+      "value": {
+        "color": "rgba(51, 24, 72, 0.10)",
+        "style": "solid",
+        "width": "0px"
+      },
+      "type": "border",
+      "description": "Button border default"
     }
   },
   "base spacing": {
