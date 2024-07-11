@@ -1477,7 +1477,7 @@
       "value": {
         "color": "rgba(51, 24, 72, 0.10)",
         "style": "solid",
-        "width": "0px"
+        "width": "1px"
       },
       "type": "border",
       "description": "Button border default"
