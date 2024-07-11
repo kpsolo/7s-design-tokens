@@ -2263,7 +2263,7 @@
         "description": "Bg for background popup on strip desktop"
       },
       "1click": {
-        "value": "{bg.tertiary}",
+        "value": "#fff",
         "type": "color",
         "description": "Background color for outside 1click zone "
       },
