@@ -1936,7 +1936,7 @@
       "description": "Radius for buttons"
     },
     "tap-bar": {
-      "value": "12px",
+      "value": "20px",
       "type": "borderRadius",
       "description": "use for navbar bg top corners\n+socials bg in menu/gamepage/registration"
     },
@@ -1970,7 +1970,7 @@
       "description": "Radius for smallest game items"
     },
     "input-custom1": {
-      "value": "4px 4px 4px 4px",
+      "value": "8px 8px 8px 4px",
       "type": "borderRadius",
       "description": "Use for error field"
     },
@@ -1980,7 +1980,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "4px",
+      "value": "8px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
@@ -2296,7 +2296,7 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "widget-disabled": {
-      "value": "linear-gradient(114deg, rgba(157, 157, 157, 0.60) 23.29%, rgba(57, 57, 57, 0.60) 98.01%)",
+      "value": "linear-gradient(119deg, rgba(73, 75, 105, 0.40) 27.11%, rgba(73, 75, 105, 0.60) 93.86%)",
       "type": "color",
       "description": "for past tournament,lottery"
     },
@@ -2341,7 +2341,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.15",
+              "value": "0.08",
               "space": "srgb"
             }
           }
@@ -2508,7 +2508,7 @@
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba({bg.additional}, 0.00) 0%, {bg.additional} 100%)",
+        "value": "linear-gradient(180deg, rgba({bg.primary}, 0.00) 0%, {bg.primary} 100%)",
         "type": "color",
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
@@ -2721,7 +2721,7 @@
       "description": "Darkest (black)"
     },
     "success": {
-      "value": "#079e02",
+      "value": "#00D900",
       "type": "color",
       "description": "Indication of success transactions"
     },
@@ -2731,7 +2731,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#cf0000",
+      "value": "#BA0606",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -4690,7 +4690,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "rgba({base.primary},0.8)",
+      "value": "rgba(255, 255, 255, 0.90)",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
