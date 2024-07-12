@@ -324,6 +324,21 @@
       "type": "typography",
       "description": "Small titles"
     },
+    "title-small-fun": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.5}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Small titles"
+    },
     "title-small-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
@@ -998,6 +1013,18 @@
         "blur": "16",
         "spread": "0",
         "color": "rgba(25, 30, 45, 0.60)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "General shadow for cards, 1click"
+    },
+    "card-fun": {
+      "value": {
+        "x": "1",
+        "y": "1",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(58, 14, 14, 0.25)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -2040,6 +2067,11 @@
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     },
+    "button-extra-fun": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for extrasmall buttons in gamepage"
+    },
     "tap-bar": {
       "value": "12px",
       "type": "borderRadius",
@@ -2165,6 +2197,11 @@
   "bg": {
     "technical": {
       "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
+      "type": "color",
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+    },
+    "technical-fun": {
+      "value": "linear-gradient(180deg, #885FBC 0%, #2F456E 100%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
@@ -2601,6 +2638,16 @@
           "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)",
           "type": "color",
           "description": "bg for provider card"
+        },
+        "fun": {
+          "value": "linear-gradient(151deg, rgba(93, 33, 221, 0.40) 0%, rgba(29, 15, 58, 0.40) 28%, rgba(29, 32, 40, 0.40) 69%, rgba(28, 33, 46, 0.40) 100%)",
+          "type": "color",
+          "description": "1st deposit card bg"
+        },
+        "fun-2": {
+          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.16) 0%, rgba(230, 121, 41, 0.16) 100%)",
+          "type": "color",
+          "description": "1st deposit card bg"
         }
       },
       "overlay": {
@@ -2618,6 +2665,11 @@
       "border": {
         "1": {
           "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, #283753 85.44%)",
+          "type": "color",
+          "description": "1st deopsit card stroke bg"
+        },
+        "fun-2": {
+          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
           "type": "color",
           "description": "1st deopsit card stroke bg"
         },
@@ -2692,6 +2744,11 @@
     },
     "blur": {
       "value": "18px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
+    },
+    "blur-fun": {
+      "value": "4px",
       "type": "dimension",
       "description": "use for bg blue in 1st deposit cards"
     },
@@ -3146,6 +3203,11 @@
         "type": "color",
         "description": "Color for label thumb"
       },
+      "label-thumb-new-fun": {
+        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
       "label-thumb-top": {
         "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
         "type": "color",
@@ -3166,6 +3228,11 @@
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
+      "label-thumb-text-fun": {
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
@@ -4839,6 +4906,10 @@
       },
       "accent": {
         "value": "#FCFF71",
+        "type": "color"
+      },
+      "accent-fun": {
+        "value": "#FFD284",
         "type": "color"
       },
       "title-winner": {

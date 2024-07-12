@@ -966,6 +966,21 @@
         "type": "typography",
         "description": "welcome bonus timer title"
       }
+    },
+    "title-small-fun": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.5}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Small titles"
     }
   },
   "shadow": {
@@ -1469,6 +1484,18 @@
       },
       "type": "boxShadow",
       "description": "Shaddow for tags in pregame - desktop"
+    },
+    "card-fun": {
+      "value": {
+        "x": "1",
+        "y": "1",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(58, 14, 14, 0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "General shadow for cards, 1click"
     }
   },
   "border": {
@@ -2057,6 +2084,11 @@
       "value": "44px",
       "type": "borderRadius",
       "description": "use for social buttons in footer/menu"
+    },
+    "button-extra-fun": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for extrasmall buttons in gamepage"
     }
   },
   "opacity": {
@@ -2654,6 +2686,16 @@
           "value": "rgba(69, 62, 60, 0.60)",
           "type": "color",
           "description": "bg for provider card"
+        },
+        "fun": {
+          "value": "linear-gradient(151deg, rgba(24, 77, 139, 0.60) 0%, rgba(54, 42, 48, 0.60) 50.9%, rgba(55, 41, 46, 0.60) 100%)",
+          "type": "color",
+          "description": "1st deposit card bg"
+        },
+        "fun-2": {
+          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.16) 0%, rgba(230, 121, 41, 0.16) 100%)",
+          "type": "color",
+          "description": "1st deposit card bg"
         }
       },
       "border": {
@@ -2666,6 +2708,11 @@
           "value": "#FFF5BF",
           "type": "color",
           "description": "DEV - 1st deposit card stroke, welcomeback popup border "
+        },
+        "fun-2": {
+          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
+          "type": "color",
+          "description": "1st deopsit card stroke bg"
         }
       },
       "overlay": {
@@ -2704,6 +2751,16 @@
         }
       },
       "description": "use for bg under social icons in mob menu - hover state"
+    },
+    "technical-fun": {
+      "value": "linear-gradient(180deg, #885FBC 0%, #2F456E 100%)",
+      "type": "color",
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+    },
+    "blur-fun": {
+      "value": "4px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
     }
   },
   "nav": {
@@ -3110,6 +3167,16 @@
       },
       "label-thumb-text": {
         "value": "{base.dark}",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
+      "label-thumb-new-fun": {
+        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
+      "label-thumb-text-fun": {
+        "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
       }
@@ -4831,6 +4898,10 @@
         "value": "#FCC669",
         "type": "color",
         "description": "1st deposit accent color in text and tabs"
+      },
+      "accent-fun": {
+        "value": "#FFD284",
+        "type": "color"
       }
     },
     "link-additional": {
