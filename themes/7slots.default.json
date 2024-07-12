@@ -59,6 +59,21 @@
       "type": "typography",
       "description": "Caption"
     },
+    "body-fun": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Caption"
+    },
     "caption-small-desktop": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -309,6 +324,20 @@
       },
       "type": "typography"
     },
+    "title-small-fun-sum": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.uppercase}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
+    },
     "title-small": {
       "value": {
         "fontFamily": "{font-family.accent}",
@@ -324,10 +353,10 @@
       "type": "typography",
       "description": "Small titles"
     },
-    "title-small-fun": {
+    "title-small-strong": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.5}",
         "letterSpacing": "{letter-spacing.0}",
@@ -339,7 +368,7 @@
       "type": "typography",
       "description": "Small titles"
     },
-    "title-small-strong": {
+    "title-small-fun": {
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
@@ -2640,7 +2669,7 @@
           "description": "bg for provider card"
         },
         "fun": {
-          "value": "linear-gradient(151deg, rgba(93, 33, 221, 0.40) 0%, rgba(29, 15, 58, 0.40) 28%, rgba(29, 32, 40, 0.40) 69%, rgba(28, 33, 46, 0.40) 100%)",
+          "value": "linear-gradient(151deg, rgba(93, 33, 221, 0.64) 0%, rgba(29, 15, 58, 0.64) 28%, rgba(29, 32, 40, 0.64) 69%, rgba(28, 33, 46, 0.64) 100%)",
           "type": "color",
           "description": "1st deposit card bg"
         },
