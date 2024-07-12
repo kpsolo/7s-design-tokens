@@ -2611,7 +2611,7 @@
       "description": "use for popups bg ( secret mirror border)"
     },
     "popup-2": {
-      "value": "{bg.tertiary}",
+      "value": "#180C34",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -2754,7 +2754,7 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#dcac00",
+      "value": "#FDCB26",
       "type": "color",
       "description": "Indication of warning"
     },
