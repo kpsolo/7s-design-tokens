@@ -2224,7 +2224,7 @@
         "description": "Global background for strip banners"
       },
       "sidebar-game": {
-        "value": "{gamepage.bg.primary}",
+        "value": "#211741",
         "type": "color",
         "description": "Bg for sidebar on gamepage (desktop)"
       },
@@ -2273,7 +2273,7 @@
         "description": "bg for app button in footer"
       },
       "sidebar-game-additional": {
-        "value": "{gamepage.bg.primary}",
+        "value": "{strip.bg.additional}",
         "type": "color",
         "description": "Bg for right sidebar on gamepage (desktop)"
       },
@@ -2423,7 +2423,7 @@
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "rgba(0,0,0,0.8)",
+        "value": "rgba(0,0,0,0.6)",
         "type": "color",
         "description": "Use for underlay of elements on top (star, counter)"
       },
@@ -2531,7 +2531,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #EDEDED 0%, rgba(237, 237, 237, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #D4C8F7 0%,rgba(212, 200, 247, 0.00) 100%)",
         "type": "color",
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
@@ -2779,7 +2779,7 @@
       "description": "for text,icons"
     },
     "accent-light": {
-      "value": "#ededed",
+      "value": "#D4C8F7",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
     }
@@ -5475,11 +5475,11 @@
   "gamepage": {
     "bg": {
       "primary": {
-        "value": "{bg.tertiary}",
+        "value": "#291D4E",
         "type": "color"
       },
       "secondary": {
-        "value": "{bg.primary}",
+        "value": "{bg.other.sidebar-game}",
         "type": "color"
       },
       "extra": {
@@ -5502,7 +5502,7 @@
         "description": "bg under star"
       },
       "tertiary": {
-        "value": "{bg.additional}",
+        "value": "#2E1F5D",
         "type": "color"
       },
       "additional": {

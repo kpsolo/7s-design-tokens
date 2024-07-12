@@ -22,7 +22,6 @@
       "bg.other.cashbox-additional": "S:90d20d1e6e3ff584a149936daf841da6b66db8ea,",
       "bg.other.strip": "S:25f3499ace9d58efd8c87355d6ed6cea3478f510,",
       "bg.other.strip-bg": "S:daed5095b692075ff52eedd700eb748d9f3f99b4,",
-      "bg.other.sidebar-game": "S:1e7029d53fdda917e1a2f9efeae00cc1fd0d24da,",
       "bg.other.welcome-3": "S:02ed5fd8429e327585fa54972d7a84360b8b07eb,",
       "bg.other.win-card-wrap": "S:e73eb5fa9428d7f607ce67a4fad95df73298599c,",
       "bg.other.welcome": "S:362344c815444b4517bce8c3c59e08022a2543d7,",
@@ -572,7 +571,8 @@
       "small-elements.chips.bg.states": "S:d6cd628316e333155a0b2343c8bfcb61bd9348d3,",
       "small-elements.chips.text.states": "S:8faa1b3e51546b290b7160adfd041ebe969ffc04,",
       "small-elements.chips.bg.states-additional": "S:6df0dd711b80a7dc4212760a30fad8f678294117,",
-      "small-elements.chips.text.states-additional": "S:c6364fe9a80e42d0cb12eec7a64c4cdeb0ed51c0,"
+      "small-elements.chips.text.states-additional": "S:c6364fe9a80e42d0cb12eec7a64c4cdeb0ed51c0,",
+      "bg.other.sidebar-game": "S:1e7029d53fdda917e1a2f9efeae00cc1fd0d24da,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -642,7 +642,6 @@
       "bg.other.cashbox-additional": "ba21e7494170034ecdf48c3a9229181a2bf866db",
       "bg.other.strip": "ec3c5c1b3c1319ffc3964b3fc9d0b0e9f745c38d",
       "bg.other.strip-bg": "7d17760e7baa202d940a26aafd25e56e96784933",
-      "bg.other.sidebar-game": "bb6fdda9308d29252343fe8f4636d821e6bf912f",
       "bg.other.welcome-3": "2bc85332eec8378089773bfd7d87db1f46a3a37c",
       "bg.other.win-card-wrap": "c5b4c19cd33eb6c6d8258c44dcc72d7df09f7644",
       "bg.other.welcome-2": "f8191bd42d2fba3c1c8b08d07d00ac5ee574cf44",
@@ -1025,7 +1024,8 @@
       "Padding.button.large-vertical": "66edcec7e759c301324af6d445de94164a0852a9",
       "Padding.button.small-vertical": "0f01e0fa2d4211310d6d77b98dfb05252732939e",
       "Padding.button.x-small-vertical": "ca8f3b66031f97850cc9a06a1cf41cb041956363",
-      "Padding.gamehall": "57580518a87cb00284e07f9519244b5b1e4b1866"
+      "Padding.gamehall": "57580518a87cb00284e07f9519244b5b1e4b1866",
+      "bg.other.sidebar-game": "bb6fdda9308d29252343fe8f4636d821e6bf912f"
     }
   },
   {
@@ -1052,7 +1052,6 @@
       "bg.other.cashbox": "S:4666f828b92271b40eee107ed12d0e6c70dfac8a,",
       "bg.other.cashbox-additional": "S:3db2f2a4d309ac46893172df57e5d0c6afe3f94a,",
       "bg.other.strip": "S:96169f857e43a864a9e53bf5ff76ce45c2262515,",
-      "bg.other.sidebar-game": "S:f1220c90ba85dc087881afbfdf69225170940479,",
       "bg.overlay.1": "S:1eb0bb0a250975f0598e34be9eec6fdde92143a7,",
       "bg.overlay.3": "S:35c5556811480108209f71d8280990f4a0f47501,",
       "bg.overlay.4": "S:2404e680a684143689ad7d99429919ec6fe11c5c,",
@@ -1605,7 +1604,8 @@
       "small-elements.chips.text.states": "S:c329ce266338a8994c3be381bc8e6e15d231d011,",
       "small-elements.chips.text.states-additional": "S:c5b60402a3d3a14e136f59ce2a42cdf23800acaa,",
       "shadow.tips-additional": "S:fa8bfd784c14979373c9b69ae04680452a844435,",
-      "shadow.tips-additional-2": "S:d3823ac17f51bfd32c4099a5f31537067a55e660,"
+      "shadow.tips-additional-2": "S:d3823ac17f51bfd32c4099a5f31537067a55e660,",
+      "bg.other.sidebar-game": "S:f1220c90ba85dc087881afbfdf69225170940479,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -2105,7 +2105,6 @@
       "bg.other.cashbox-additional": "S:79d4e30552d3367d58156b40770c58748b900acb,",
       "bg.other.strip": "S:32362f6ca525cd1c0653dd30d49a4d0a09e85c5f,",
       "bg.other.strip-bg": "S:918dc2e51bcb3ae42f95c09e32e22566a49a2d1c,",
-      "bg.other.sidebar-game": "S:568497b755d9bf33895c55c29d4bf73400b87b74,",
       "bg.other.welcome-3": "S:97cd9c34fbcbab786ac41bb2ff2a8946e9fab237,",
       "bg.other.win-card-wrap": "S:3bceb5be604bbf114181647289583a41bc06af38,",
       "bg.other.welcome": "S:b731ea76ab0356fdc3ee4565215b716af968ba95,",
@@ -2642,7 +2641,8 @@
       "typography.special-blocks.payment-block-main-desktop": "S:a564cf4f7f0e08dc79aefc949d280951d4970d90,",
       "typography.special-blocks.payment-block-additional-desktop": "S:1784f1f83fd47ea83f7aba22106d9eed7d005d62,",
       "typography.special-blocks.payment-block-extra-desktop": "S:d6fd951ca61b94e91d72784952c4dcf62b14e6e8,",
-      "typography.special-blocks.welcome-bonus": "S:f51de798626c4b41cc94376c405472fb71fb7431,"
+      "typography.special-blocks.welcome-bonus": "S:f51de798626c4b41cc94376c405472fb71fb7431,",
+      "bg.other.sidebar-game": "S:568497b755d9bf33895c55c29d4bf73400b87b74,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -2713,7 +2713,6 @@
       "bg.other.strip": "4000c2fa465a06b8bb0b725921bebab55e10501b",
       "bg.other.bonus": "6bdaa5b922415a0896310a6be1c2726a2f146f2d",
       "bg.other.strip-bg": "0a1aa0755050ffa674ffeefc8d2b9cf389a2d77c",
-      "bg.other.sidebar-game": "76902559c0d473f66bfef889eaab0c9121bd81c0",
       "bg.other.sidebar-game-additional": "8c030a7b054dfa2a49c7f6546aa6e34238d5ed29",
       "bg.other.win-card-wrap": "a584118aa0392521b5457f792b7e904ba7b45896",
       "bg.other.welcome": "47c3a155685703e83e02f338acae2a61ae88782a",
@@ -3169,7 +3168,8 @@
       "Padding.button.small-horizontal-additional": "56f74f5ce3296b8520325f1a45f265b8f6fce77f",
       "Padding.button.x-small-horizontal": "262ed9fe516a6f36c0ec8ad5b44a3fcc08a22ed0",
       "Padding.button.x-small-vertical": "aa39025e4276be14bc2cee3f2acd2c452ad6238f",
-      "Padding.gamehall": "7765584d942e5d061de619e9050e885fa4c1658d"
+      "Padding.gamehall": "7765584d942e5d061de619e9050e885fa4c1658d",
+      "bg.other.sidebar-game": "76902559c0d473f66bfef889eaab0c9121bd81c0"
     }
   },
   {
@@ -3237,7 +3237,6 @@
       "bg.other.cashbox-additional": "S:83899da00ae638ed48fe79eeff77bb0341b2daa6,",
       "bg.other.strip": "S:104fcc04cb8720341b27fad0799969ac64784b3d,",
       "bg.other.strip-bg": "S:1f1cda4ebd03a8953b57b38a04270934140792cb,",
-      "bg.other.sidebar-game": "S:9874d7f4df68b58bd4d3a2b11413eb432893219e,",
       "bg.other.welcome-3": "S:e2e4be364ba5479774caeea41c55920e44a46528,",
       "bg.other.win-card-wrap": "S:d626638fc910ca7017c3a27a902763ae9c62d9eb,",
       "bg.other.welcome": "S:5c62f66ed19c30f7a57f606a14c451ec67bc2703,",
@@ -3744,7 +3743,8 @@
       "small-elements.chips.text.states-additional": "S:001c6907bba9a4833ea84331eceff211da1e4426,",
       "typography.title-block-light": "S:3989c6dac19936e82e3ff4c0772ae037c90a0547,",
       "shadow.tips-additional": "S:8ccb3e2e1dc262661554e74c5c829c3f628cd1e8,",
-      "shadow.tips-additional-2": "S:8987aeb4ed593959c07e74be1b770ea2e93f22e4,"
+      "shadow.tips-additional-2": "S:8987aeb4ed593959c07e74be1b770ea2e93f22e4,",
+      "bg.other.sidebar-game": "S:9874d7f4df68b58bd4d3a2b11413eb432893219e,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
@@ -3802,7 +3802,6 @@
       "bg.other.cashbox": "d536196b545d56671524e00160a2b4024a1d19d0",
       "bg.other.cashbox-additional": "2302a3db5766072dd206bc6345df43b7c0be0cb2",
       "bg.other.strip": "7c288181fefab559270d1c74f20d3f7b3cafd76f",
-      "bg.other.sidebar-game": "be51ae30bdace5a20f3d0c946ae7e472ad1edaba",
       "bg.other.welcome-3": "fe1070d3c093f88227f2d3ceea7bc0bc094c3a26",
       "bg.other.win-card-wrap": "cdb2a79e2a4e573f7412cd90045aa31d8dc08013",
       "bg.other.welcome-2": "794fc102204bae51aebc9a0fe3d947fedbc349b0",
@@ -4235,7 +4234,8 @@
       "Padding.button.small-vertical": "67fbb48a63471815242c6b7d4d5532cf0b38fb60",
       "Padding.button.x-small-horizontal": "1a6ac61bfabc3d93ee17ccba0651c898a31ccf43",
       "Padding.button.x-small-vertical": "5775f6686a16c766c4f30c31e4c4b20e0a62d411",
-      "Padding.gamehall": "1bfe9c64dd4e02ae6310b6b97a291eead3c62631"
+      "Padding.gamehall": "1bfe9c64dd4e02ae6310b6b97a291eead3c62631",
+      "bg.other.sidebar-game": "be51ae30bdace5a20f3d0c946ae7e472ad1edaba"
     }
   }
 ]
