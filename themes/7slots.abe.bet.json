@@ -2447,7 +2447,7 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "#1E1E1E",
+        "value": "#A94890",
         "type": "color",
         "description": "use for progress bar bg "
       },
@@ -3411,7 +3411,7 @@
       }
     },
     "label-new-1": {
-      "value": "{base.accent-secondary}",
+      "value": "#DD56BA",
       "type": "color",
       "description": "use for label new in menu item"
     },
@@ -4894,7 +4894,7 @@
   "menu": {
     "bg": {
       "gradient": {
-        "value": "#1E1D1D",
+        "value": "linear-gradient(157deg, #912266 22.17%, #461B52 52.3%, #331848 71.43%)",
         "type": "color"
       },
       "item-default": {
@@ -4916,21 +4916,30 @@
         }
       },
       "item-active": {
-        "value": "#FFE68E",
-        "type": "color"
+        "value": "#922367",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        }
       },
       "banner": {
-        "value": "#181818",
+        "value": "linear-gradient(157deg, #912266 22.17%, #461B52 52.3%, #331848 71.43%)",
         "type": "color",
         "description": "use for banner bg for unlogged "
       },
       "notification": {
-        "value": "{base.accent-primary}",
+        "value": "#DD56BA",
         "type": "color",
         "description": "use for special notification in menu items"
       },
       "info": {
-        "value": "#2D2C2C",
+        "value": "#2B0C3F",
         "type": "color",
         "description": "use as bg in menu info zone"
       }
