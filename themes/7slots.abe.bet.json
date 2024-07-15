@@ -2118,17 +2118,17 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
-        "value": "linear-gradient(140deg, #FCFCFC 15.06%, #EAE9E9 36.26%, #DBDBDB 54.3%, #D9D9D9 73.55%, #D0D0D0 92.34%)",
+        "value": "{bg.technical}",
         "type": "color",
         "description": "for cashbox bonus popup"
       },
       "cashbox-bonus-content": {
-        "value": "{base.dark}",
+        "value": "#FFF",
         "type": "color",
         "description": "for cashbox bonus popup content"
       },
       "cashbox-bonus-content-opacity": {
-        "value": "{base.dark}",
+        "value": "#FFF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2447,8 +2447,17 @@
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
-        "value": "#A94890",
+        "value": "#FFF",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.12",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for progress bar bg "
       },
       "sidebar-gamepage": {
@@ -2867,7 +2876,7 @@
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
-        "value": "#F4F4F4",
+        "value": "#F2F2F2",
         "type": "color",
         "description": "Background for secondary buttons"
       },
@@ -4688,7 +4697,7 @@
       "description": "use for crypto in footer, banners titles/cards titles, tournament/lottery tapbar, for titles in messages ( on picture)"
     },
     "accent-additional": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for accent text in welcome popup"
     },
