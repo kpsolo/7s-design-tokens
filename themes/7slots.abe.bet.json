@@ -3827,8 +3827,17 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "#383838",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.06",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Color border for disabled input"
       },
       "error": {
@@ -3864,7 +3873,7 @@
         "description": "Backgrounds for disabled inputs"
       },
       "confirmed": {
-        "value": "#181818",
+        "value": "#1C163E",
         "type": "color",
         "description": "Backgrounds for confirmed inputs"
       },
