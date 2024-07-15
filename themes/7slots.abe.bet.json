@@ -2162,7 +2162,7 @@
         "description": "Background color for footer"
       },
       "accent-on-light": {
-        "value": "{base.accent-secondary}",
+        "value": "{menu.bg.notification}",
         "type": "color",
         "description": "use as accent on light bg - filter in cashdesk"
       },
@@ -2724,7 +2724,7 @@
       "description": "Background for accent elements"
     },
     "accent-secondary": {
-      "value": "#F2FF44",
+      "value": "#912266",
       "type": "color",
       "description": "Background for tertiary elements"
     },
@@ -4312,7 +4312,7 @@
       "description": "Background for jackpot widget"
     },
     "jackpot-line": {
-      "value": "linear-gradient(180deg, rgba( {base.accent-secondary} , 0.39) 0%, {base.accent-secondary} 49.48%, rgba( {base.accent-secondary} , 0.39) 100%)",
+      "value": "linear-gradient(180deg, rgba( {base.accent-primary} , 0.39) 0%, {base.accent-primary} 49.48%, rgba( {base.accent-primary} , 0.39) 100%)",
       "type": "color",
       "description": "Color for jackpot widget separate line"
     },
@@ -4332,7 +4332,7 @@
       "description": "Color of text and icons for custom dropdown"
     },
     "title-jackpot": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color"
     },
     "amount-jackpot": {
@@ -4855,7 +4855,7 @@
         "description": "for main headers"
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "title-winner": {
