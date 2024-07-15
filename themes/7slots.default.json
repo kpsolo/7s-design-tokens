@@ -4505,7 +4505,7 @@
           "description": "bg for win cards"
         },
         "first-deposit": {
-          "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 3.21%, rgba(39, 85, 101, 0.00) 96.79%)",
+          "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 4.73%, rgba(39, 85, 101, 0.00) 88.99%)",
           "type": "color",
           "description": "card first deposit bg in main screen"
         }
