@@ -4386,7 +4386,7 @@
       "description": "for jackpot sun in jackpot page"
     },
     "bg": {
-      "value": "{bg.tertiary}",
+      "value": "#432F7B",
       "type": "color",
       "description": "use for bg search widget for providers popup"
     },
@@ -4613,7 +4613,7 @@
       "description": "use for desktop categories"
     },
     "item-active": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for active desktop categories items"
     }
@@ -4679,7 +4679,7 @@
         "description": "use for  (desktop)"
       },
       "accent": {
-        "value": "#E90D5C",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for bottom menu categories active state (desktop)"
       },
