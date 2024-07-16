@@ -970,7 +970,7 @@
     "title-small-fun": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.2}",
         "fontSize": "{font-size.5}",
         "letterSpacing": "{letter-spacing.0}",
@@ -997,7 +997,7 @@
       "type": "typography",
       "description": "Caption"
     },
-    "text-fun-sum\"": {
+    "text-fun-sum": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
@@ -2717,7 +2717,7 @@
           "description": "bg for provider card"
         },
         "fun": {
-          "value": "linear-gradient(151deg, rgba(93, 33, 221, 0.64) 0%, rgba(29, 15, 58, 0.64) 28%, rgba(29, 32, 40, 0.64) 69%, rgba(28, 33, 46, 0.64) 100%)",
+          "value": "linear-gradient(151deg, rgba(221, 89, 33, 0.64) 0%, rgba(110, 55, 32, 0.64) 28%, rgba(40, 33, 29, 0.64) 69%, rgba(40, 33, 29, 0.64) 100%)",
           "type": "color",
           "description": "bg for provider card"
         },
@@ -2787,7 +2787,7 @@
       "description": "use for bg blue in 1st deposit cards"
     },
     "technical-fun": {
-      "value": "linear-gradient(180deg, #885FBC 0%, #2F456E 100%)",
+      "value": "linear-gradient(180deg, #D1833B 0%, #862E1B 100%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     }
@@ -3200,7 +3200,7 @@
         "description": "Color for label thumb"
       },
       "label-tournament-fun": {
-        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "Color for label thumb"
       }
