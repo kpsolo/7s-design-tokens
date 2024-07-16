@@ -89,6 +89,21 @@
       "type": "typography",
       "description": "Caption"
     },
+    "body-card-fun": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Caption"
+    },
     "caption-small-strong": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -150,6 +165,20 @@
       "description": "Body"
     },
     "body-1-stronger": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography"
+    },
+    "text-fun-sum": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
@@ -310,6 +339,21 @@
       "type": "typography"
     },
     "title-small": {
+      "value": {
+        "fontFamily": "{font-family.accent}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.2}",
+        "fontSize": "{font-size.5}",
+        "letterSpacing": "{letter-spacing.0}",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Small titles"
+    },
+    "title-small-fun": {
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.0}",
@@ -1002,6 +1046,18 @@
       },
       "type": "boxShadow",
       "description": "General shadow for cards, 1click"
+    },
+    "card-fun": {
+      "value": {
+        "x": "1",
+        "y": "1",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(58, 14, 14, 0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Fun shadow for cards"
     },
     "card-additional": {
       "value": [
@@ -2040,6 +2096,11 @@
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     },
+    "button-icon-menu-logged": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for extrasmall buttons 1click "
+    },
     "tap-bar": {
       "value": "12px",
       "type": "borderRadius",
@@ -2167,6 +2228,11 @@
       "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+    },
+    "technical-fun": {
+      "value": "linear-gradient(180deg, #885FBC 0%, #2F456E 100%)",
+      "type": "color",
+      "description": "for set by admin (card of tournament-fun)"
     },
     "additional": {
       "value": "#31425E",
@@ -2601,6 +2667,16 @@
           "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)",
           "type": "color",
           "description": "bg for provider card"
+        },
+        "fun": {
+          "value": "linear-gradient(151deg, rgba(96, 59, 157, 0.64) 0%, rgba(69, 42, 84, 0.64) 28%, rgba(29, 32, 40, 0.64) 51%, rgba(28, 33, 46, 0.64) 100%)",
+          "type": "color",
+          "description": "bg for provider card"
+        },
+        "fun-2": {
+          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
+          "type": "color",
+          "description": "bg for provider card"
         }
       },
       "overlay": {
@@ -2618,6 +2694,11 @@
       "border": {
         "1": {
           "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, #283753 85.44%)",
+          "type": "color",
+          "description": "1st deopsit card stroke bg"
+        },
+        "card-fun": {
+          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
           "type": "color",
           "description": "1st deopsit card stroke bg"
         },
@@ -2692,6 +2773,11 @@
     },
     "blur": {
       "value": "18px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
+    },
+    "blur-fun": {
+      "value": "4px",
       "type": "dimension",
       "description": "use for bg blue in 1st deposit cards"
     },
@@ -3142,6 +3228,11 @@
         "description": "Background for provider logo on game thumb"
       },
       "label-thumb-new": {
+        "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
+        "type": "color",
+        "description": "Color for label thumb"
+      },
+      "label-tournament-fun": {
         "value": "linear-gradient(180deg, #4B9DE8 0%, #416FB4 100%)",
         "type": "color",
         "description": "Color for label thumb"
@@ -4728,6 +4819,10 @@
     },
     "warning": {
       "value": "{base.warning}",
+      "type": "color"
+    },
+    "text-sum-fun": {
+      "value": "#FFD284",
       "type": "color"
     },
     "prize": {
