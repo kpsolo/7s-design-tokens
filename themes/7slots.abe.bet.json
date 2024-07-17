@@ -1704,12 +1704,12 @@
     },
     "input-search": {
       "value": {
-        "color": "transparent",
+        "color": "rgba(255, 255, 255, 0.16)",
         "width": "{border-width.input}",
         "style": "solid"
       },
       "type": "border",
-      "description": "use for light theme inputs"
+      "description": "use for providers search - desktop"
     },
     "special-blocks": {
       "jackpot-border": {
