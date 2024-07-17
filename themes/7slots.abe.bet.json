@@ -4934,17 +4934,9 @@
         }
       },
       "item-active": {
-        "value": "#922367",
+        "value": "transparent",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "$extensions": {}
       },
       "banner": {
         "value": "linear-gradient(157deg, #912266 22.17%, #461B52 52.3%, #331848 71.43%)",
