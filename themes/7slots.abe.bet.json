@@ -1702,6 +1702,15 @@
       "type": "border",
       "description": "use for light theme inputs"
     },
+    "input-search": {
+      "value": {
+        "color": "transparent",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for light theme inputs"
+    },
     "special-blocks": {
       "jackpot-border": {
         "value": {
@@ -4966,7 +4975,6 @@
     "content": {
       "value": "#FFF",
       "type": "color",
-      "$extensions": {},
       "description": "Color for status and %"
     }
   },
