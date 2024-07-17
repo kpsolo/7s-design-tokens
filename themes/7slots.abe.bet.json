@@ -3,7 +3,7 @@
     "caption-extrasmall": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.2}",
         "letterSpacing": "-0.2px",
@@ -1787,8 +1787,8 @@
     },
     "dropdown-additional": {
       "value": {
-        "color": "transparent",
-        "width": "0px",
+        "color": "rgba(12, 5, 14, 0.10)",
+        "width": "1px",
         "style": "solid"
       },
       "type": "border",
@@ -2453,7 +2453,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.12",
+              "value": "0.16",
               "space": "srgb"
             }
           }
@@ -3314,7 +3314,7 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bar": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color"
     },
     "bullet": {
@@ -3420,7 +3420,7 @@
       }
     },
     "label-new-1": {
-      "value": "#DD56BA",
+      "value": "#9EE857",
       "type": "color",
       "description": "use for label new in menu item"
     },
@@ -4829,13 +4829,13 @@
         }
       },
       "light-1": {
-        "value": "{base.light}",
+        "value": "#FFF",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.8",
               "space": "srgb"
             }
           }
@@ -4935,8 +4935,7 @@
       },
       "item-active": {
         "value": "transparent",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "banner": {
         "value": "linear-gradient(157deg, #912266 22.17%, #461B52 52.3%, #331848 71.43%)",
@@ -4955,27 +4954,19 @@
       }
     },
     "item-active-content": {
-      "value": "{text.secondary}",
+      "value": "#DD56BA",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
     "accent": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
     "content": {
-      "value": "{text.light}",
+      "value": "#FFF",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
+      "$extensions": {},
       "description": "Color for status and %"
     }
   },
