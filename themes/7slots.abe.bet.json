@@ -3788,9 +3788,9 @@
         "description": "[delete?]"
       },
       "4": {
-        "value": "#e2ddc8",
+        "value": "rgba(158, 232, 87, 0.8)",
         "type": "color",
-        "description": "[delete?]"
+        "description": "label tournament for thumbs"
       },
       "5": {
         "value": "#c8d7e3",
