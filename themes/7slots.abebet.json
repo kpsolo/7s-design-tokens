@@ -5371,7 +5371,7 @@
   },
   "live-lottery": {
     "live-tip": {
-      "value": "{base.accent-primary}",
+      "value": "rgba(158, 232, 87, 0.8)",
       "type": "color",
       "description": "Bg for live icon"
     },
@@ -5381,7 +5381,7 @@
       "description": "text for live icon"
     },
     "card-bg": {
-      "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
+      "value": "linear-gradient(134deg, #331848 7.57%, #461B52 36.53%, #912266 85%)",
       "type": "color",
       "description": "Bg for card"
     },
