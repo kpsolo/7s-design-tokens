@@ -575,7 +575,8 @@
       "bg.other.sidebar-game": "S:1e7029d53fdda917e1a2f9efeae00cc1fd0d24da,"
     },
     "selectedTokenSets": {
-      "7slots.default": "enabled"
+      "7slots.default": "enabled",
+      "7slots.abebet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:23933:93942",
     "$figmaModeId": "23933:0",
@@ -1608,7 +1609,8 @@
       "bg.other.sidebar-game": "S:f1220c90ba85dc087881afbfdf69225170940479,"
     },
     "selectedTokenSets": {
-      "7slots.basari": "enabled"
+      "7slots.basari": "enabled",
+      "7slots.abebet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:23933:94269",
     "$figmaModeId": "23933:1",
@@ -2645,7 +2647,8 @@
       "bg.other.sidebar-game": "S:568497b755d9bf33895c55c29d4bf73400b87b74,"
     },
     "selectedTokenSets": {
-      "7slots.winnita": "enabled"
+      "7slots.winnita": "enabled",
+      "7slots.abebet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:26569:367527",
     "$figmaModeId": "26569:0",
@@ -3747,7 +3750,8 @@
       "bg.other.sidebar-game": "S:9874d7f4df68b58bd4d3a2b11413eb432893219e,"
     },
     "selectedTokenSets": {
-      "7slots.masalbet": "enabled"
+      "7slots.masalbet": "enabled",
+      "7slots.abebet": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:31249:1568456",
     "$figmaModeId": "31249:0",
