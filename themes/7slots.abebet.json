@@ -4852,7 +4852,7 @@
         "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)"
       },
       "light-2": {
-        "value": "{base.light}",
+        "value": "#fff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -5386,7 +5386,7 @@
       "description": "Bg for card"
     },
     "timer-bg": {
-      "value": "linear-gradient(180deg, rgba(170, 170, 170, 0.70) 0%, rgba(156, 156, 156, 0.80) 31.25%, rgba(124, 124, 124, 0.80) 63.54%, rgba(118, 118, 118, 0.75) 100%)",
+      "value": "linear-gradient(180deg, rgba(37, 9, 51, 0.70) 0%, rgba(37, 9, 51, 0.80) 31.25%, rgba(37, 9, 51, 0.80) 63.54%, rgba(37, 9, 51, 0.70) 100%)",
       "type": "color",
       "description": "bg for timer"
     },
