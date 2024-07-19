@@ -2777,7 +2777,7 @@
       "description": "Indication of warning"
     },
     "gold": {
-      "value": "#EEBD0E",
+      "value": "#FFBB00",
       "type": "color",
       "description": "Color for winners lottery tickets"
     },
@@ -2787,7 +2787,7 @@
       "description": "Color for winners"
     },
     "bronze": {
-      "value": "#c1511b",
+      "value": "#db510c",
       "type": "color",
       "description": "Color for winners"
     },
