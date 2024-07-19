@@ -2513,13 +2513,13 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "{base.primary}",
+        "value": "#fff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.10",
+              "value": "0.08",
               "space": "srgb"
             }
           }

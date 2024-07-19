@@ -572,7 +572,17 @@
       "small-elements.chips.text.states": "S:8faa1b3e51546b290b7160adfd041ebe969ffc04,",
       "small-elements.chips.bg.states-additional": "S:6df0dd711b80a7dc4212760a30fad8f678294117,",
       "small-elements.chips.text.states-additional": "S:c6364fe9a80e42d0cb12eec7a64c4cdeb0ed51c0,",
-      "bg.other.sidebar-game": "S:1e7029d53fdda917e1a2f9efeae00cc1fd0d24da,"
+      "bg.other.sidebar-game": "S:1e7029d53fdda917e1a2f9efeae00cc1fd0d24da,",
+      "bg.technical-fun": "S:9985c094275859473b216435691c6d44e9a7aa4f,",
+      "bg.card.bg.fun": "S:36dd440b23345097a2acc8d8cb24551fd51d8504,",
+      "bg.card.bg.fun-2": "S:2c254d945183f741d4d8de382e7570db7341ccf4,",
+      "bg.card.border.card-fun": "S:086efd665852e2cf1a8c0c3bd428280ff5630565,",
+      "small-elements.game.label-tournament-fun": "S:3dd956a447062cc2544183b3ad85e79f7258dacd,",
+      "text.text-sum-fun": "S:2f9fb73e66ef1e74455fb7eb41cd3caf8a9fdbb4,",
+      "typography.body-card-fun": "S:62bb7b75edab940cc70b7f3a1b3621b1514ac0ed,",
+      "typography.text-fun-sum": "S:880e924342230d8acea172fdb964f8c2d61fb10b,",
+      "typography.title-small-fun": "S:6efd5262272cb5e3627abae241bd7cf365fe9ad4,",
+      "shadow.card-fun": "S:aa1a6d54cdc0079a10c0e58202f4c2a23ae078af,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
