@@ -4820,7 +4820,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.9",
+              "value": "0.8",
               "space": "srgb"
             }
           }
