@@ -4858,7 +4858,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.8",
+              "value": "0.7",
               "space": "srgb"
             }
           }
