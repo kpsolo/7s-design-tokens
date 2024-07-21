@@ -1926,6 +1926,15 @@
       },
       "type": "border",
       "description": "use for light theme inputs"
+    },
+    "tab": {
+      "value": {
+        "color": "unset",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for border in tournament/lottery mob tabs"
     }
   },
   "base spacing": {

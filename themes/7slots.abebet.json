@@ -1607,6 +1607,15 @@
       },
       "type": "border"
     },
+    "tab": {
+      "value": {
+        "color": "#F2FF44",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for border in tournament/lottery mob tabs"
+    },
     "right-menu": {
       "value": {
         "color": "rgba(0,0,0,0.6)",
