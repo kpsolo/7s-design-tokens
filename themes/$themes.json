@@ -1615,7 +1615,17 @@
       "small-elements.chips.text.states-additional": "S:c5b60402a3d3a14e136f59ce2a42cdf23800acaa,",
       "shadow.tips-additional": "S:fa8bfd784c14979373c9b69ae04680452a844435,",
       "shadow.tips-additional-2": "S:d3823ac17f51bfd32c4099a5f31537067a55e660,",
-      "bg.other.sidebar-game": "S:f1220c90ba85dc087881afbfdf69225170940479,"
+      "bg.other.sidebar-game": "S:f1220c90ba85dc087881afbfdf69225170940479,",
+      "bg.card.bg.fun": "S:0c8fe1a2585126096cd5e09c9a628d5584abdbfe,",
+      "bg.card.bg.fun-2": "S:0f46ac11b992650cad6084d8ce38582f3f04c62b,",
+      "bg.card.border.card-fun": "S:fd9fc14f992d599a01a7354a7763b429aa695b45,",
+      "bg.technical-fun": "S:e97faf36316bcf270b2be56151cb0fbcca8b62b6,",
+      "small-elements.game.label-tournament-fun": "S:c39a32218188cc67da1c1faa753407691c817d02,",
+      "text.text-sum-fun": "S:eac19cae66c32b68fe956102307efe36233d4020,",
+      "typography.title-small-fun": "S:132e2335312e7bcfa0cf678f80ac8eb2a3827fd0,",
+      "typography.body-card-fun": "S:80855dfc087a13548330aa4ae3289b35513ff72a,",
+      "typography.text-fun-sum": "S:de793e3d9dc851ee5cb24589aa911d4242b7af9a,",
+      "shadow.card-fun": "S:ebda8dab4d84e5e82c3bbe472e74aa4e0793e153,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
