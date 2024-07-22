@@ -1788,8 +1788,8 @@
     },
     "dropdown": {
       "value": {
-        "color": "#DCE0EE",
-        "width": "1",
+        "color": "rgba(255,255,255,0.15)",
+        "width": "1px",
         "style": "solid"
       },
       "type": "border",
