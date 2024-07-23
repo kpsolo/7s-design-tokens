@@ -1860,7 +1860,7 @@
     "ghost-7": {
       "value": {
         "color": "linear-gradient(169deg, rgba(147, 203, 255, 0.25) 8.44%, rgba(4, 100, 191, 0.00) 40.65%, rgba(42, 128, 208, 0.00) 64.53%, rgba(147, 203, 255, 0.25) 95.27%)",
-        "width": "0,4px",
+        "width": "0.4px",
         "style": "solid"
       },
       "type": "border",
@@ -2029,7 +2029,7 @@
       "description": "use for small tips on final lottery "
     },
     "popup-additional": {
-      "value": "9px",
+      "value": "10px",
       "type": "borderRadius",
       "description": "for secret mirror bg radius/ welcomeback popup "
     },
@@ -2677,7 +2677,7 @@
       },
       "border": {
         "1": {
-          "value": "linear-gradient(158deg, #FFF5BF 0%, rgba(232, 177, 82, 0.43) 47.85%, rgba(255, 255, 255, 0.05) 85.44%)",
+          "value": "#D8C03E",
           "type": "color",
           "description": "1st deopsit card stroke bg"
         },
