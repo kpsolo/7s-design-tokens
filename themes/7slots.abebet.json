@@ -3284,13 +3284,13 @@
         "description": "for line separator in menu/ dropdown with light bg"
       },
       "secondary": {
-        "value": "#1E2E53",
+        "value": "#fff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.6",
+              "value": "0.08",
               "space": "srgb"
             }
           }
