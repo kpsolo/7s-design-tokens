@@ -2029,7 +2029,7 @@
       "description": "use for small tips on final lottery "
     },
     "popup-additional": {
-      "value": "10px",
+      "value": "9px",
       "type": "borderRadius",
       "description": "for secret mirror bg radius/ welcomeback popup "
     },
