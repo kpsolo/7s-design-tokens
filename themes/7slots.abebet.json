@@ -2723,6 +2723,16 @@
         }
       },
       "description": "use for bg under social icons in mob menu - hover state"
+    },
+    "balance-active": {
+      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
+      "type": "color",
+      "description": "use for active bonus balance"
+    },
+    "balance-default": {
+      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #3C567D 0%, #334063 100%)",
+      "type": "color",
+      "description": "use for bonus balance"
     }
   },
   "nav": {
