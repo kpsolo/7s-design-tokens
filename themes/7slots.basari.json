@@ -2810,7 +2810,7 @@
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
     "balance-active": {
-      "value": "linear-gradient(287deg, #8D262B 3.95%, #440D10 100%)",
+      "value": "linear-gradient(288deg, #8D262B -0.13%, #440D10 100%)",
       "type": "color",
       "description": "use for active bonus balance"
     },
