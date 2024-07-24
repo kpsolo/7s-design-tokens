@@ -1632,7 +1632,9 @@
       "typography.title-small-fun": "S:132e2335312e7bcfa0cf678f80ac8eb2a3827fd0,",
       "typography.body-card-fun": "S:80855dfc087a13548330aa4ae3289b35513ff72a,",
       "typography.text-fun-sum": "S:de793e3d9dc851ee5cb24589aa911d4242b7af9a,",
-      "shadow.card-fun": "S:ebda8dab4d84e5e82c3bbe472e74aa4e0793e153,"
+      "shadow.card-fun": "S:ebda8dab4d84e5e82c3bbe472e74aa4e0793e153,",
+      "bg.balance-active": "S:a5f0e9dfa4933cdcceb2fe2eaf7af0d14decc558,",
+      "bg.balance-default": "S:b4a1590c0a35b284ddf43a042f61ba9509763061,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
