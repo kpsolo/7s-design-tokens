@@ -2686,7 +2686,9 @@
       "small-elements.chips.text.states": "S:6fa49dfd1c4d6021e188120d7f49ac594ee9ca5e,",
       "small-elements.chips.text.states-additional": "S:c4a3e20b303d91e8b5c0ed0ffcbd77dfe3c49c97,",
       "shadow.tips-additional": "S:e52465e58ea60470fd2e7d51b84acc6fa2fbcf27,",
-      "shadow.tips-additional-2": "S:d6ab192a725339b1ccd206a0cc525e1ee02f3932,"
+      "shadow.tips-additional-2": "S:d6ab192a725339b1ccd206a0cc525e1ee02f3932,",
+      "bg.balance-active": "S:e912fa3b3a40ec2256833c211d03813f7979027a,",
+      "bg.balance-default": "S:119c264aaf6c424f66b18f72328275c55048a261,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"

@@ -1173,10 +1173,10 @@
       "value": [
         {
           "x": "0",
-          "y": "2",
-          "blur": "4",
+          "y": "1",
+          "blur": "2",
           "spread": "0",
-          "color": "transparent",
+          "color": "#EB8426",
           "type": "dropShadow"
         }
       ],
