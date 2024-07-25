@@ -2112,7 +2112,7 @@
       "description": "use for social buttons in footer/menu"
     },
     "small-tips-additional": {
-      "value": "4px",
+      "value": "2px",
       "type": "borderRadius",
       "description": "Radius for small elements - checkbox"
     }
