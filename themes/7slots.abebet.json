@@ -2011,6 +2011,11 @@
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
+    "small-tips-additional": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for small elements - checkbox"
+    },
     "large-tips": {
       "value": "100px",
       "type": "borderRadius",

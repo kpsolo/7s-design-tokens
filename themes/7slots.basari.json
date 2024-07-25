@@ -2136,6 +2136,11 @@
       "value": "4px",
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons 1click "
+    },
+    "small-tips-additional": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for small elements - checkbox"
     }
   },
   "opacity": {

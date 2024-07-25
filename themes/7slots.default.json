@@ -2209,6 +2209,11 @@
       "value": "100px",
       "type": "borderRadius",
       "description": "Radius for pagination buttons in 1st deposit page"
+    },
+    "small-tips-additional": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for small elements - checkbox"
     }
   },
   "opacity": {

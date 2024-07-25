@@ -2110,6 +2110,11 @@
       "value": "44px",
       "type": "borderRadius",
       "description": "use for social buttons in footer/menu"
+    },
+    "small-tips-additional": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for small elements - checkbox"
     }
   },
   "opacity": {
