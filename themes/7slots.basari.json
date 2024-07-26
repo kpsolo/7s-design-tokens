@@ -2740,12 +2740,12 @@
           "description": "bg for provider card"
         },
         "fun": {
-          "value": "linear-gradient(151deg, rgba(221, 89, 33, 0.64) 0%, rgba(110, 55, 32, 0.64) 28%, rgba(40, 33, 29, 0.64) 69%, rgba(40, 33, 29, 0.64) 100%)",
+          "value": "linear-gradient(151deg, rgba(102, 87, 87, 0.86) 0%, rgba(60, 53, 53, 0.86) 34%, rgba(39, 34, 3, 0.86) 100%)",
           "type": "color",
           "description": "bg for provider card"
         },
         "fun-2": {
-          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
+          "value": "linear-gradient(180deg, rgba(255, 217, 153, 0.48) 0%, rgba(176, 118, 97, 0.72) 100%)",
           "type": "color",
           "description": "bg for provider card"
         }
@@ -3233,7 +3233,7 @@
         "description": "Color for label thumb"
       },
       "label-tournament-fun": {
-        "value": "{base.accent-secondary}",
+        "value": "#FFEADA",
         "type": "color",
         "description": "Color for label thumb"
       }
@@ -4973,7 +4973,7 @@
       "description": "use for link text on desktop popups (under popup frame)"
     },
     "text-sum-fun": {
-      "value": "#FFD284",
+      "value": "#FF952A",
       "type": "color"
     }
   },
