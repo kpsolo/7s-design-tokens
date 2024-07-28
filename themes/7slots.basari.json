@@ -2196,17 +2196,9 @@
         "description": "Bg for empty error pages"
       },
       "status-bg": {
-        "value": "#2d2d2d",
+        "value": "{bg.secondary}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "cashbox-bonus": {
