@@ -4782,17 +4782,9 @@
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "#5087D7",
+      "value": "{text.secondary}",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
+      "$extensions": {},
       "description": "use for links on lighter bg (notifications), game page"
     },
     "accent": {
