@@ -2688,7 +2688,8 @@
       "shadow.tips-additional": "S:e52465e58ea60470fd2e7d51b84acc6fa2fbcf27,",
       "shadow.tips-additional-2": "S:d6ab192a725339b1ccd206a0cc525e1ee02f3932,",
       "bg.balance-active": "S:e912fa3b3a40ec2256833c211d03813f7979027a,",
-      "bg.balance-default": "S:119c264aaf6c424f66b18f72328275c55048a261,"
+      "bg.balance-default": "S:119c264aaf6c424f66b18f72328275c55048a261,",
+      "menu.accent-additional": "S:ab60e839c2fa895f2a30b9154596cd6212b1968f,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
