@@ -4996,6 +4996,11 @@
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
+    "accent-additional": {
+      "value": "#E90D5C",
+      "type": "color",
+      "description": "Color of icon and sum in cashback"
+    },
     "content": {
       "value": "#FFF",
       "type": "color",
