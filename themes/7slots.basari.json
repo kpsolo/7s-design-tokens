@@ -5028,7 +5028,7 @@
       "description": "Color for status and %"
     },
     "accent-additional": {
-      "value": "#E90D5C",
+      "value": "{header.content.accent}",
       "type": "color",
       "description": "Color of icon and sum in cashback"
     }
