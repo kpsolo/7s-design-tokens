@@ -3713,7 +3713,7 @@
           "description": "use for tags text in pregame for hover/focuced/pressed- mob"
         },
         "states-additional": {
-          "value": "#F9DE11",
+          "value": "#F2FF44",
           "type": "color",
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
@@ -5720,7 +5720,7 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "#701F5D",
+        "value": "#B91FA8",
         "type": "color",
         "description": "use for dropdown"
       },
@@ -5737,7 +5737,7 @@
     },
     "content": {
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent text on card"
       }
