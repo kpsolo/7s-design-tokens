@@ -584,7 +584,8 @@
       "typography.title-small-fun": "S:6efd5262272cb5e3627abae241bd7cf365fe9ad4,",
       "shadow.card-fun": "S:aa1a6d54cdc0079a10c0e58202f4c2a23ae078af,",
       "bg.balance-active": "S:bdfff46358df58f40058a483458353b1f1eba869,",
-      "bg.balance-default": "S:8d018a328d411cf5d39b7140b6e387f45e9ae8be,"
+      "bg.balance-default": "S:8d018a328d411cf5d39b7140b6e387f45e9ae8be,",
+      "menu.accent-additional": "S:fd5baea78e8c0e9c516265865895dec28cf58367,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
