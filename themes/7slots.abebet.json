@@ -1618,7 +1618,7 @@
     },
     "right-menu": {
       "value": {
-        "color": "rgba(0,0,0,0.6)",
+        "color": "rgba(255, 255, 255, 0.12)",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -2484,7 +2484,7 @@
         "description": "use for progress bar bg "
       },
       "sidebar-gamepage": {
-        "value": "{gamepage.bg.primary}",
+        "value": "linear-gradient(180deg, rgba(21, 21, 59, 0.00) 0%, rgba(21, 21, 59, 0.80) 50.8%, #15153B 100%)",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
       },
@@ -3713,7 +3713,7 @@
           "description": "use for tags text in pregame for hover/focuced/pressed- mob"
         },
         "states-additional": {
-          "value": "#FFC908",
+          "value": "#F9DE11",
           "type": "color",
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
@@ -5615,7 +5615,7 @@
         }
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "tertiary": {
@@ -5637,7 +5637,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "hover": {
@@ -5665,7 +5665,7 @@
         "description": "use for close icon in right sidebar"
       },
       "accent-extra": {
-        "value": "{base.dark}",
+        "value": "{base.light}",
         "type": "color",
         "description": "use for tournament results in right sidebar"
       }
