@@ -2791,7 +2791,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#E21010",
+      "value": "#D80000",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -3513,7 +3513,7 @@
         "description": "use for deny label text in cashbox transactions"
       },
       "additional": {
-        "value": "{bg.overlay.1}",
+        "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
       }
@@ -3910,12 +3910,12 @@
         "description": "Background for warning inputs"
       },
       "disabled": {
-        "value": "#181818",
+        "value": "#0C0537",
         "type": "color",
         "description": "Backgrounds for disabled inputs"
       },
       "confirmed": {
-        "value": "#1C163E",
+        "value": "#0C0537",
         "type": "color",
         "description": "Backgrounds for confirmed inputs"
       },
