@@ -966,6 +966,36 @@
         "type": "typography",
         "description": "small Title for payment block widget"
       }
+    },
+    "link-xs": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "-0.2px",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.underline}"
+      },
+      "type": "typography",
+      "description": "links in shop"
+    },
+    "link-xs-hover": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.2}",
+        "letterSpacing": "-0.2px",
+        "paragraphSpacing": "{paragraph-spacing.0}",
+        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+        "textCase": "{text-case.none}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "links in shop hover state"
     }
   },
   "shadow": {
