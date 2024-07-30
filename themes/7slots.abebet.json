@@ -3713,7 +3713,7 @@
           "description": "use for tags text in pregame for hover/focuced/pressed- mob"
         },
         "states-additional": {
-          "value": "#FFC908",
+          "value": "{base.accent-tertiary}",
           "type": "color",
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
