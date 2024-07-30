@@ -3498,7 +3498,7 @@
     },
     "label": {
       "success": {
-        "value": "rgba(45, 216, 144, 0.4)",
+        "value": "rgba(0, 217, 0, 0.40)",
         "type": "color",
         "description": "use for success label in cashbox transactions"
       },
