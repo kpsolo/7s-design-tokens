@@ -1493,7 +1493,7 @@
     },
     "ghost-3": {
       "value": {
-        "color": "rgba({base.light}, 0.16)",
+        "color": "#B024A1",
         "width": "1",
         "style": "solid"
       },
@@ -3342,7 +3342,7 @@
       }
     },
     "progress-large": {
-      "value": "#E90D5C",
+      "value": "#5E2DC8",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -5432,12 +5432,12 @@
   },
   "strip": {
     "bg-progress": {
-      "value": "{bg.secondary}",
+      "value": "#5E2DC8",
       "type": "color",
       "description": "bg in brogress bar "
     },
     "bg-progress-additional": {
-      "value": "{strip.bg-progress}",
+      "value": "#42208B",
       "type": "color",
       "description": "bg in brogress bar ingamepage widget"
     },
