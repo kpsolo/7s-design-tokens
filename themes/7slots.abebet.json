@@ -2484,7 +2484,7 @@
         "description": "use for progress bar bg "
       },
       "sidebar-gamepage": {
-        "value": "{gamepage.bg.primary}",
+        "value": "linear-gradient(180deg, rgba(25, 22, 61, 0.00) 0%, #19163D 100%)",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
       },
