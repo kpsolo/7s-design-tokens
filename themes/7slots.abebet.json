@@ -1493,7 +1493,7 @@
     },
     "ghost-3": {
       "value": {
-        "color": "rgba({base.light}, 0.16)",
+        "color": "#B024A1",
         "width": "1",
         "style": "solid"
       },
