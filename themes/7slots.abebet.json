@@ -2111,7 +2111,7 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#331848",
+      "value": "#AD1E8C",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
@@ -3159,7 +3159,7 @@
   "small-elements": {
     "game": {
       "provider-logo-bg": {
-        "value": "linear-gradient(180deg, rgba(22, 37, 72, 0.00) 0%, rgba(22, 37, 72, 0.60) 20.83%, #162548 100%)",
+        "value": "linear-gradient(180deg, rgba(15, 26, 50, 0.00) 0%, rgba(15, 26, 50, 0.60) 31%, #0F1A32 100%)",
         "type": "color",
         "description": "Background for provider logo on game thumb"
       },
@@ -5615,7 +5615,7 @@
         }
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "tertiary": {
@@ -5637,7 +5637,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "hover": {
@@ -5720,7 +5720,7 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "#701F5D",
+        "value": "#C723A1",
         "type": "color",
         "description": "use for dropdown"
       },
@@ -5737,7 +5737,7 @@
     },
     "content": {
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent text on card"
       }
