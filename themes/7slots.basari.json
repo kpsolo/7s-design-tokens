@@ -1010,65 +1010,6 @@
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography"
-    },
-    "timer-welcome-bonus -text": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "timer-welcome-bonus "
-    },
-    "timer-welcome-bonus-stronger": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "Caption (unread)"
-    },
-    "body-timer-welcome-bonus-desktop": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "Body"
-    },
-    "body-timer-welcome-bonus-desktop-stronger": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography"
     }
   },
   "shadow": {
@@ -2873,21 +2814,6 @@
       "value": "#3B3B3B",
       "type": "color",
       "description": "use for bonus balance"
-    },
-    "timer-welcome-bonus": {
-      "value": "#486B99",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
-    },
-    "timer-welcome-bonus-mob": {
-      "value": "#ffffff",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
-    },
-    "timer-welcome-bonus-mob-small": {
-      "value": "rgba(101, 161, 205, 0.30)",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
     }
   },
   "nav": {
@@ -3941,18 +3867,6 @@
       "value": "#FFF",
       "type": "color",
       "description": "use for twiter/tiktok icons in registration [delete]"
-    },
-    "timer-welcome-bonus": {
-      "default": {
-        "value": "rgba(255, 255, 255, 0.24)",
-        "type": "color",
-        "description": "use for icon button on navbar"
-      },
-      "hover": {
-        "value": "rgba(255, 255, 255, 0.4)",
-        "type": "color",
-        "description": "use for icon button on navbar"
-      }
     }
   },
   "input": {
@@ -5043,15 +4957,6 @@
     "text-sum-fun": {
       "value": "#FF952A",
       "type": "color"
-    },
-    "timer-gift": {
-      "value": "#FFD284",
-      "type": "color"
-    },
-    "timer-welcome-bonus-accent": {
-      "value": "#3EC332",
-      "type": "color",
-      "description": "use for accent text in welcome popup"
     }
   },
   "menu": {
@@ -5121,6 +5026,11 @@
         }
       },
       "description": "Color for status and %"
+    },
+    "accent-additional": {
+      "value": "{header.content.accent}",
+      "type": "color",
+      "description": "Color of icon and sum in cashback"
     }
   },
   "max-width": {

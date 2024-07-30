@@ -59,21 +59,6 @@
       "type": "typography",
       "description": "Caption"
     },
-    "timer-welcome-bonus text": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "timer-welcome-bonus "
-    },
     "caption-small-desktop": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -149,37 +134,7 @@
       "type": "typography",
       "description": "Caption (unread)"
     },
-    "timer-welcome-bonus-stronger": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "Caption (unread)"
-    },
     "body-1": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "Body"
-    },
-    "body-timer-welcome-bonus-desktop": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
@@ -210,20 +165,6 @@
       "description": "Body"
     },
     "body-1-stronger": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography"
-    },
-    "body-timer-welcome-bonus-desktop-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
@@ -2434,21 +2375,6 @@
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
-    "timer-welcome-bonus": {
-      "value": "#486B99",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
-    },
-    "timer-welcome-bonus-mob": {
-      "value": "#ffffff",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
-    },
-    "timer-welcome-bonus-mob-small": {
-      "value": "rgba(101, 161, 205, 0.30)",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
-    },
     "other": {
       "404": {
         "value": "linear-gradient(180deg, #1D2E5B 0.06%, #5D6C97 99.97%)",
@@ -3960,18 +3886,6 @@
       "type": "color",
       "description": "use for icon button on navbar"
     },
-    "timer-welcome-bonus": {
-      "default": {
-        "value": "rgba(255, 255, 255, 0.24)",
-        "type": "color",
-        "description": "use for icon button on navbar"
-      },
-      "hover": {
-        "value": "rgba(255, 255, 255, 0.4)",
-        "type": "color",
-        "description": "use for icon button on navbar"
-      }
-    },
     "prize": {
       "1": {
         "value": "#D2C25A",
@@ -4867,11 +4781,6 @@
       "type": "color",
       "description": "use for accent text in welcome popup"
     },
-    "timer-welcome-bonus-accent": {
-      "value": "#3EC332",
-      "type": "color",
-      "description": "use for accent text in welcome popup"
-    },
     "primary": {
       "value": "{base.primary}",
       "type": "color",
@@ -4947,10 +4856,6 @@
     },
     "text-sum-fun": {
       "value": "#FFD284",
-      "type": "color"
-    },
-    "timer-gift": {
-      "value": "#FFDD47",
       "type": "color"
     },
     "prize": {
@@ -5173,6 +5078,11 @@
         }
       },
       "description": "Color for status and %"
+    },
+    "accent-additional": {
+      "value": "{text.warning}",
+      "type": "color",
+      "description": "Color of icon and sum in cashback"
     }
   },
   "max-width": {

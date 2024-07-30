@@ -1618,7 +1618,7 @@
     },
     "right-menu": {
       "value": {
-        "color": "rgba(0,0,0,0.6)",
+        "color": "rgba(255, 255, 255, 0.12)",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -2111,7 +2111,7 @@
       "description": "first level bg"
     },
     "secondary": {
-      "value": "#331848",
+      "value": "#B024A1",
       "type": "color",
       "description": "bg for element above primary bg ( tournament/lottery tabs)"
     },
@@ -2484,7 +2484,7 @@
         "description": "use for progress bar bg "
       },
       "sidebar-gamepage": {
-        "value": "{gamepage.bg.primary}",
+        "value": "linear-gradient(180deg, rgba(21, 21, 59, 0.00) 0%, rgba(21, 21, 59, 0.80) 50.8%, #15153B 100%)",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
       },
@@ -3713,7 +3713,7 @@
           "description": "use for tags text in pregame for hover/focuced/pressed- mob"
         },
         "states-additional": {
-          "value": "#FFC908",
+          "value": "#F2FF44",
           "type": "color",
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
@@ -4911,7 +4911,7 @@
         "description": "for winner name in winning now block"
       },
       "additional": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use in shop cards"
       },
@@ -4995,6 +4995,11 @@
       "value": "{base.accent-primary}",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
+    },
+    "accent-additional": {
+      "value": "#E90D5C",
+      "type": "color",
+      "description": "Color of icon and sum in cashback"
     },
     "content": {
       "value": "#FFF",
@@ -5615,7 +5620,7 @@
         }
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "tertiary": {
@@ -5637,7 +5642,7 @@
         "description": "use for lines in right sidebar"
       },
       "accent-additional": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color"
       },
       "hover": {
@@ -5665,7 +5670,7 @@
         "description": "use for close icon in right sidebar"
       },
       "accent-extra": {
-        "value": "{base.dark}",
+        "value": "{base.light}",
         "type": "color",
         "description": "use for tournament results in right sidebar"
       }
@@ -5720,7 +5725,7 @@
         "description": "use for bullets bg"
       },
       "additioinal": {
-        "value": "#701F5D",
+        "value": "#B91FA8",
         "type": "color",
         "description": "use for dropdown"
       },
@@ -5737,7 +5742,7 @@
     },
     "content": {
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent text on card"
       }

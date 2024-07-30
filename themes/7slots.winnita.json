@@ -4948,6 +4948,11 @@
       "value": "{text.light}",
       "type": "color",
       "description": "Color for status and %"
+    },
+    "accent-additional": {
+      "value": "{text.warning}",
+      "type": "color",
+      "description": "Color of icon and sum in cashback"
     }
   },
   "max-width": {
