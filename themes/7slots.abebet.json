@@ -895,8 +895,8 @@
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
-          "lineHeight": "36px",
-          "fontSize": "32px",
+          "lineHeight": "58px",
+          "fontSize": "58px",
           "letterSpacing": "-1%",
           "paragraphSpacing": "{paragraph-spacing.0}",
           "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -904,7 +904,7 @@
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
-        "description": "Title for jackpot widget"
+        "description": "Title for jackpot widget on desktop page"
       },
       "jackpot-amount-additional": {
         "value": {
