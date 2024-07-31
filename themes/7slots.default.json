@@ -3894,6 +3894,11 @@
       "value": "{text.title.extra}",
       "type": "color",
       "description": "icon color in pagination"
+    },
+    "gender": {
+      "value": "{button.bg.secondary}",
+      "type": "color",
+      "description": "use for gender curret in profile"
     }
   },
   "icon": {

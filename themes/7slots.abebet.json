@@ -3623,6 +3623,11 @@
       "type": "color",
       "description": "use for slider curret in mob main page"
     },
+    "gender": {
+      "value": "#9EE857",
+      "type": "color",
+      "description": "use for gender curret in profile"
+    },
     "progress-bar-deals": {
       "value": "#FFF",
       "type": "color",
@@ -3901,7 +3906,6 @@
       "disabled": {
         "value": "rgba(255, 255, 255, 0.16)",
         "type": "color",
-        "$extensions": {},
         "description": "Color border for disabled input"
       },
       "error": {
@@ -5103,7 +5107,7 @@
       "description": "bg all tabs"
     },
     "bg all": {
-      "value": "{bg.tertiary}",
+      "value": "#30185A",
       "type": "color"
     }
   },

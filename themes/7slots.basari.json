@@ -3844,6 +3844,11 @@
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
       }
+    },
+    "gender": {
+      "value": "{button.bg.secondary}",
+      "type": "color",
+      "description": "use for gender curret in profile"
     }
   },
   "icon": {
