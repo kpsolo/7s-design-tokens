@@ -2821,7 +2821,7 @@
       "description": "main color for brand bgs"
     },
     "error": {
-      "value": "#D80000",
+      "value": "#EB0202",
       "type": "color",
       "description": "Indication of unsuccess transactions"
     },
@@ -3930,7 +3930,7 @@
         "description": "Default backgrounds for inputs"
       },
       "error": {
-        "value": "{base.error}",
+        "value": "#C50606",
         "type": "color",
         "description": "Background for error inputs"
       },
