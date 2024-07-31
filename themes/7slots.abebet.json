@@ -910,9 +910,9 @@
         "value": {
           "fontFamily": "{font-family.accent}",
           "fontWeight": "{font-weight.2}",
-          "lineHeight": "36px",
-          "fontSize": "34px",
-          "letterSpacing": "-1%",
+          "lineHeight": "70px",
+          "fontSize": "48px",
+          "letterSpacing": "-5%",
           "paragraphSpacing": "{paragraph-spacing.0}",
           "paragraphIndent": "{paragraph-indent.first-stroke-default}",
           "textDecoration": "{text-decoration.none}",
