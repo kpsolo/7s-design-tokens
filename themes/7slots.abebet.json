@@ -1648,7 +1648,7 @@
     },
     "right-menu": {
       "value": {
-        "color": "rgba(0,0,0,0.6)",
+        "color": "transparent",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -3372,7 +3372,7 @@
       }
     },
     "progress-large": {
-      "value": "#5E2DC8",
+      "value": "#E90D5C",
       "type": "color",
       "description": "Color of progress for strip, gamepage(desktop)"
     },
@@ -3899,17 +3899,9 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "#fff",
+        "value": "rgba(255, 255, 255, 0.16)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.06",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "Color border for disabled input"
       },
       "error": {
@@ -5467,7 +5459,7 @@
       "description": "bg in brogress bar "
     },
     "bg-progress-additional": {
-      "value": "#42208B",
+      "value": "rgba(255, 255, 255, 0.16)",
       "type": "color",
       "description": "bg in brogress bar ingamepage widget"
     },
@@ -5483,7 +5475,7 @@
     },
     "content": {
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent elements"
       },
@@ -5671,7 +5663,7 @@
         "type": "color"
       },
       "hover": {
-        "value": "#FFFFFF",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "for icon hover state"
       },
