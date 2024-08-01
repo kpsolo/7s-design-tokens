@@ -2905,7 +2905,7 @@
       "description": "use for bonus balance"
     },
     "timer-welcome-bonus": {
-      "value": "#486B99",
+      "value": "#625A5A",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     },
@@ -5079,12 +5079,12 @@
       "value": "#FF952A",
       "type": "color"
     },
-    "timer-gift": {
-      "value": "#FFD284",
+    "timer-gift-mob": {
+      "value": "#DE9200",
       "type": "color"
     },
-    "timer-welcome-bonus-accent": {
-      "value": "#3EC332",
+    "timer-gift-desktop": {
+      "value": "#FFBD3C",
       "type": "color",
       "description": "use for accent text in welcome popup"
     }
