@@ -598,7 +598,7 @@
       "small-elements.gender": "S:b8b7ba64c5e15a96224f6b9b52edf4b4cc8c15cd,",
       "typography.link-xs": "S:e40b03c6daf43ee96f8f5f6255c2d2869b021ff8,",
       "typography.link-xs-hover": "S:8f8732eb2b0ea6997ff5884bfde895ec25dcaa07,",
-      "text.timer-gift-web": "S:02eaa7cc2418cfe84edc4338699dd206e7d8f790,"
+      "text.timer-gift-desktop": "S:02eaa7cc2418cfe84edc4338699dd206e7d8f790,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
