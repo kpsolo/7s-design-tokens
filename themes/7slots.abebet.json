@@ -2152,7 +2152,7 @@
     },
     "other": {
       "404": {
-        "value": "linear-gradient(180deg, rgba(16, 25, 50, 0.60) 0%, #101A32 19.79%, #2D1944 100%)",
+        "value": "linear-gradient(180deg, #101A320%, #101A3219.79%, #2D1944100%)",
         "type": "color",
         "description": "Bg for empty error pages"
       },
@@ -5211,7 +5211,7 @@
         "description": "use for borders in sectors"
       },
       "main": {
-        "value": "{bg.technical}",
+        "value": "linear-gradient(180deg, #1220410%, #12204126.5%, #2D1944100%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       },
