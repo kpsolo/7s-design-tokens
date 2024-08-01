@@ -5220,17 +5220,9 @@
         }
       },
       "inactive": {
-        "value": "#FFFFFF",
+        "value": "#A3ADC6",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for inactive items in right sidebar"
       },
       "hover": {
