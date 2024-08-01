@@ -5143,7 +5143,7 @@
         "description": "use for text in denomination active buttons"
       },
       "sector-1": {
-        "value": "#222222",
+        "value": "#fafafa",
         "type": "color"
       },
       "sector-2": {
@@ -5158,17 +5158,9 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "#ffffff",
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.12)0%, rgba(153, 153, 153, 0.12)100%)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
+        "$extensions": {},
         "description": "use for denomination widget bg"
       },
       "3": {
@@ -5186,7 +5178,7 @@
         "description": "use for switcher default bg"
       },
       "4": {
-        "value": "{base.accent-primary}",
+        "value": "#7AE315",
         "type": "color",
         "description": "use for switcher active bg"
       },
@@ -5196,7 +5188,7 @@
         "description": "use for sectors bg (type1)"
       },
       "sector-1": {
-        "value": "#FAA500",
+        "value": "#7B1DC4",
         "type": "color",
         "description": "use for sectors bg (type1)-start"
       },
@@ -5211,7 +5203,7 @@
         "description": "use for borders in sectors"
       },
       "main": {
-        "value": "linear-gradient(180deg, #1220410%, #12204126.5%, #2D1944100%)",
+        "value": "linear-gradient(180deg, #1019320%, #101A3219.79%, #2D1944100%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       },
@@ -5221,17 +5213,17 @@
         "description": "use as bg for lines under wheel"
       },
       "sector-3": {
-        "value": "#C78725",
+        "value": "#7AE315",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - start"
       },
       "sector-3-additional": {
-        "value": "#C78725",
+        "value": "#5bb30a",
         "type": "color",
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "sector-1-additional": {
-        "value": "#FAA500",
+        "value": "#3B0E5E",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
@@ -5339,6 +5331,15 @@
       "active": {
         "value": "#ffffff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.12",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use as bg for denominations bet item active state"
       },
       "inactive": {
