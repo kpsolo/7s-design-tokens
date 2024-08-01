@@ -162,7 +162,7 @@
         "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
-      "description": "Caption (unread)"
+      "description": "timer-welcome-bonus-stronger - text bonus"
     },
     "body-1": {
       "value": {
