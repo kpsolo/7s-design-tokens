@@ -5049,16 +5049,15 @@
       "type": "color"
     },
     "card": {
-      "value": "#2D0D48",
+      "value": "#370C5B",
       "type": "color"
     },
     "green": {
       "value": "#9EE857",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     },
     "red": {
-      "value": "#E2001A",
+      "value": "#C40D23",
       "type": "color"
     },
     "temp": {
