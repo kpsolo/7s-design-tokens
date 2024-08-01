@@ -5045,49 +5045,59 @@
   },
   "betting": {
     "surface": {
-      "value": "#141414",
+      "value": "#4F0C5B",
       "type": "color"
     },
     "card": {
-      "value": "#1F1F1F",
+      "value": "#2D0D48",
       "type": "color"
     },
     "green": {
-      "value": "{base.success}",
+      "value": "#9EE857",
+      "type": "color",
+      "$extensions": {}
+    },
+    "red": {
+      "value": "#E2001A",
+      "type": "color"
+    },
+    "temp": {
+      "value": "{base.accent-primary}",
+      "type": "color"
+    },
+    "separator primary": {
+      "value": "#fff",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "lighten",
-            "value": "0.2",
+            "type": "alpha",
+            "value": "0.12",
             "space": "srgb"
           }
         }
       }
     },
-    "red": {
-      "value": "{base.error}",
-      "type": "color"
-    },
-    "temp": {
-      "value": "{base.accent-secondary}",
-      "type": "color"
-    },
-    "separator primary": {
-      "value": "#444",
-      "type": "color"
-    },
     "secondary": {
-      "value": "{bg.overlay.1}",
+      "value": "#000",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.2",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "cashout bg/ "
     },
     "hover card": {
-      "value": "#424242",
+      "value": "#4B1679",
       "type": "color"
     },
     "select card": {
-      "value": "#283D87",
+      "value": "#270AAA",
       "type": "color"
     },
     "accent": {

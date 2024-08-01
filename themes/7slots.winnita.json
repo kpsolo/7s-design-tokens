@@ -5222,7 +5222,6 @@
       "inactive": {
         "value": "#A3ADC6",
         "type": "color",
-        "$extensions": {},
         "description": "use for inactive items in right sidebar"
       },
       "hover": {
