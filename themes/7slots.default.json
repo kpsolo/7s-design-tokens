@@ -4902,7 +4902,7 @@
       "type": "color",
       "description": "use for accent text in welcome popup"
     },
-    "timer-welcome-bonus-accent": {
+    "timer-gift-mob": {
       "value": "#3EC332",
       "type": "color",
       "description": "use for accent text in welcome popup"
@@ -4984,7 +4984,7 @@
       "value": "#FFD284",
       "type": "color"
     },
-    "timer-gift": {
+    "timer-gift-web": {
       "value": "#FFDD47",
       "type": "color"
     },

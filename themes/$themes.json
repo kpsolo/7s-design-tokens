@@ -588,14 +588,17 @@
       "bg.timer-welcome-bonus": "S:2cdd621c73e12a9ed9d16010522f720bc74efd3c,",
       "bg.timer-welcome-bonus-mob": "S:3311fc5a4897c89b9887077235256209ade4b8c2,",
       "bg.timer-welcome-bonus-mob-small": "S:6ecec14112c8b3a12fa3e6dea6ece86f660d89f8,",
-      "text.timer-gift": "S:592661c2c400801250fcb332b511b3cfefc14d35,",
-      "text.timer-welcome-bonus-accent": "S:ca4e1bd7f86c0a22373cb726b4bd639431d8ad59,",
       "typography.timer-welcome-bonus text": "S:6d6b4182aad410f84f92d50314bb25ecbc870e59,",
       "typography.timer-welcome-bonus-stronger": "S:18cd7160f10a5a798660494c1cdaadfb4eddc57d,",
       "typography.body-timer-welcome-bonus-desktop": "S:50765f3efac479d71021526a8fb426dfae6dc7cb,",
       "typography.body-timer-welcome-bonus-desktop-stronger": "S:d026ae43e1770ca1c8fab07c0446c6d6928152ba,",
       "icon.timer-welcome-bonus.default": "S:9714c71ff37f12e4e82915dbbb9578655d2c72a4,",
-      "icon.timer-welcome-bonus.hover": "S:11de10a619274cb3ba40afbf88e749b61870dd03,"
+      "icon.timer-welcome-bonus.hover": "S:11de10a619274cb3ba40afbf88e749b61870dd03,",
+      "text.timer-gift-mob": "S:f8f2f6f05c4f4176c188db4b8d67da07b5adb1a9,",
+      "small-elements.gender": "S:b8b7ba64c5e15a96224f6b9b52edf4b4cc8c15cd,",
+      "typography.link-xs": "S:e40b03c6daf43ee96f8f5f6255c2d2869b021ff8,",
+      "typography.link-xs-hover": "S:8f8732eb2b0ea6997ff5884bfde895ec25dcaa07,",
+      "text.timer-gift-web": "S:02eaa7cc2418cfe84edc4338699dd206e7d8f790,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
