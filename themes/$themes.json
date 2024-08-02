@@ -3811,7 +3811,12 @@
       "typography.title-block-light": "S:3989c6dac19936e82e3ff4c0772ae037c90a0547,",
       "shadow.tips-additional": "S:8ccb3e2e1dc262661554e74c5c829c3f628cd1e8,",
       "shadow.tips-additional-2": "S:8987aeb4ed593959c07e74be1b770ea2e93f22e4,",
-      "bg.other.sidebar-game": "S:9874d7f4df68b58bd4d3a2b11413eb432893219e,"
+      "bg.other.sidebar-game": "S:9874d7f4df68b58bd4d3a2b11413eb432893219e,",
+      "bg.balance-active": "S:daf133ae987c5b20d12f139aa372073b5a31ceff,",
+      "bg.balance-default": "S:97fd7f68707807fba91f8201abc5a814939cfb8a,",
+      "small-elements.gender": "S:7a3c02d820f78f4f175a706898d7e19dd56075c0,",
+      "typography.link-xs": "S:6a381f8984e70f4631752bce7ab3f2d3001c7d95,",
+      "typography.link-xs-hover": "S:3c685c52dd0ce1f095b3d43934552a781ead849e,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
