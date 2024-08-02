@@ -1648,7 +1648,21 @@
       "typography.text-fun-sum": "S:de793e3d9dc851ee5cb24589aa911d4242b7af9a,",
       "shadow.card-fun": "S:ebda8dab4d84e5e82c3bbe472e74aa4e0793e153,",
       "bg.balance-active": "S:a5f0e9dfa4933cdcceb2fe2eaf7af0d14decc558,",
-      "bg.balance-default": "S:b4a1590c0a35b284ddf43a042f61ba9509763061,"
+      "bg.balance-default": "S:b4a1590c0a35b284ddf43a042f61ba9509763061,",
+      "bg.timer-welcome-bonus": "S:de7199ce14972d0929b8b46b892c272f1f90e292,",
+      "bg.timer-welcome-bonus-mob": "S:ede9d805d32e689153c340cba2748bb84d371b48,",
+      "bg.timer-welcome-bonus-mob-small": "S:f51e25a262f0675081bed2e261f5011892b04f87,",
+      "small-elements.gender": "S:d89a8e0e76d9453428ab694cad8259d58ec0e829,",
+      "icon.timer-welcome-bonus.default": "S:089c1a89f923fc4b570b12dcff6d4dda3750aae4,",
+      "icon.timer-welcome-bonus.hover": "S:8797b1bb8ba8365180d5fa7dfbad8158f5d6424d,",
+      "text.timer-gift-mob": "S:c8e5220ce1ba6bbe0a05d68dc98040de952d9959,",
+      "text.timer-gift-desktop": "S:d0266fe72b44084dc1f4753c379fe1d70f198a5e,",
+      "typography.timer-welcome-bonus-text": "S:9ce0244d428a539dba0abffe826657fcfa728a11,",
+      "typography.timer-welcome-bonus-stronger": "S:fee533eecd7f55e734881e00137e8aeef6be49fa,",
+      "typography.body-timer-welcome-bonus-desktop": "S:0884d9f6d212bf2155b456a58a79ec2bf0a0bcb0,",
+      "typography.body-timer-welcome-bonus-desktop-stronger": "S:52447e05dfc980eb9e5e4d526c190e6894fc1130,",
+      "typography.link-xs": "S:47a57c363fea84a36b2a249f1430e5d630226123,",
+      "typography.link-xs-hover": "S:231a6e8a1efdb557727cb415a15c3fffcf1adccc,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
