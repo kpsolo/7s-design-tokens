@@ -4103,7 +4103,7 @@
       "description": "use for mobile logo width "
     },
     "logo-desktop": {
-      "value": "200px",
+      "value": "99px",
       "type": "sizing",
       "description": "use for desktop logo width "
     }
@@ -5160,7 +5160,6 @@
       "2": {
         "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.12)0%, rgba(153, 153, 153, 0.12)100%)",
         "type": "color",
-        "$extensions": {},
         "description": "use for denomination widget bg"
       },
       "3": {
