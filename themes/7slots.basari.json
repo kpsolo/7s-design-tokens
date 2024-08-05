@@ -2803,7 +2803,7 @@
       "description": "use for elipse bg on desktop homepage"
     },
     "additional-2": {
-      "value": "{bg.additional}",
+      "value": "{bg.primary}",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
