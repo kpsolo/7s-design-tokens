@@ -5182,7 +5182,7 @@
         "description": "use for switcher active bg"
       },
       "sector-2": {
-        "value": "#fff",
+        "value": "#FCF933",
         "type": "color",
         "description": "use for sectors bg (type1)"
       },
@@ -5227,7 +5227,7 @@
         "description": "use for sectors bg (type1) - stop"
       },
       "sector-2-additional": {
-        "value": "#ffffff",
+        "value": "#CAC70F",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
