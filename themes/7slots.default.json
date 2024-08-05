@@ -2442,7 +2442,7 @@
       "description": "for past tournament,lottery"
     },
     "additional-2": {
-      "value": "{bg.additional}",
+      "value": "{bg.primary}",
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
