@@ -2803,7 +2803,7 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#373737",
+        "value": "#0E1438",
         "type": "color",
         "description": "gradient on top for popups"
       },
