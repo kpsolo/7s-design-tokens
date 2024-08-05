@@ -1026,26 +1026,42 @@
         },
         "type": "typography"
       },
+      "titlemob-app": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "48px",
+          "fontSize": "40px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "welcome bonus timer title"
+      },
+      "numbersmob-app": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.1}",
+          "lineHeight": "56px",
+          "fontSize": "48px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}"
+        },
+        "type": "typography",
+        "description": "numbers mob app"
+      },
       "verification-card-text": {
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.0}",
           "lineHeight": "6px",
           "fontSize": "4px",
-          "letterSpacing": "{letter-spacing.0}",
-          "paragraphSpacing": "{paragraph-spacing.0}",
-          "textDecoration": "{text-decoration.none}",
-          "textCase": "{text-case.none}",
-          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
-        },
-        "type": "typography"
-      },
-      "verification-passport-text": {
-        "value": {
-          "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.0}",
-          "lineHeight": "7px",
-          "fontSize": "6px",
           "letterSpacing": "{letter-spacing.0}",
           "paragraphSpacing": "{paragraph-spacing.0}",
           "textDecoration": "{text-decoration.none}",
@@ -1068,6 +1084,20 @@
         },
         "type": "typography",
         "description": "welcome bonus timer title"
+      },
+      "verification-passport-text": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.0}",
+          "lineHeight": "7px",
+          "fontSize": "6px",
+          "letterSpacing": "{letter-spacing.0}",
+          "paragraphSpacing": "{paragraph-spacing.0}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.none}",
+          "paragraphIndent": "{paragraph-indent.first-stroke-default}"
+        },
+        "type": "typography"
       }
     },
     "link-xs": {
@@ -4753,6 +4783,42 @@
           "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 4.73%, rgba(39, 85, 101, 0.00) 88.99%)",
           "type": "color",
           "description": "card first deposit bg in main screen"
+        }
+      }
+    },
+    "mobapp": {
+      "border": {
+        "cardbenefit-additional": {
+          "value": "rgba(255, 255, 255, 0.10)",
+          "type": "color",
+          "description": "use as stroke in card benefit"
+        }
+      },
+      "card": {
+        "1": {
+          "value": "linear-gradient(155deg, #287D85 2.44%, #226972 7.84%, #123944 34.61%, #181F27 73.13%)",
+          "type": "color",
+          "description": "card in benefits"
+        },
+        "2": {
+          "value": "linear-gradient(151deg, #3D72B3 -7.66%, #3D72B3 -2.28%, #1D3653 18.16%, #202535 50.27%)",
+          "type": "color",
+          "description": "card benefit bg"
+        },
+        "3": {
+          "value": "linear-gradient(156deg, #9B244D -3.01%, rgba(132, 31, 66, 0.78) 2.61%, #1C212E 41.17%)",
+          "type": "color",
+          "description": "card benefit bg"
+        },
+        "4": {
+          "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
+          "type": "color",
+          "description": "bg for benefits card "
+        },
+        "5": {
+          "value": "linear-gradient(151deg, #4B2C80 3.96%, #37225B 23.71%, #1C212E 56.34%)",
+          "type": "color",
+          "description": "bg for benefits  cards"
         }
       }
     }

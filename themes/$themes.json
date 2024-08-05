@@ -598,7 +598,15 @@
       "small-elements.gender": "S:b8b7ba64c5e15a96224f6b9b52edf4b4cc8c15cd,",
       "typography.link-xs": "S:e40b03c6daf43ee96f8f5f6255c2d2869b021ff8,",
       "typography.link-xs-hover": "S:8f8732eb2b0ea6997ff5884bfde895ec25dcaa07,",
-      "text.timer-gift-desktop": "S:02eaa7cc2418cfe84edc4338699dd206e7d8f790,"
+      "text.timer-gift-desktop": "S:02eaa7cc2418cfe84edc4338699dd206e7d8f790,",
+      "special-blocks.mobapp.border.cardbenefit-additional": "S:f5a76e10e2354d6f0727034dd74a723eb0292aab,",
+      "special-blocks.mobapp.card.1": "S:6902d37f1a9bf3a590660f4ad1286c35cf9ccfad,",
+      "special-blocks.mobapp.card.2": "S:687ffe014cca2a626d51d15b3eec67b3778adde7,",
+      "special-blocks.mobapp.card.3": "S:d069f576593cd0a6a20237741c3383371d25d0d4,",
+      "special-blocks.mobapp.card.4": "S:4955a6820eb64c016e4e08c67a4e6d3860325419,",
+      "special-blocks.mobapp.card.5": "S:9f889c1d2f541ba705ebea3a81bbe9a6edfbdf65,",
+      "typography.special-blocks.titlemob-app": "S:45ae60a4ee1094392329eb529bbf7472a857866c,",
+      "typography.special-blocks.numbersmob-app": "S:b15cea5106313eec0436bf1e4bcb8d31f9271309,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
