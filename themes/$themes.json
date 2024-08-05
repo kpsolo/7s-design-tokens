@@ -2727,7 +2727,22 @@
       "bg.balance-default": "S:119c264aaf6c424f66b18f72328275c55048a261,",
       "small-elements.gender": "S:2ebe114cb4335efe56578cf561d21c3ffed0ed66,",
       "typography.link-xs": "S:aea695c90930aa8e995a0a07f251bc0be1e6e5c1,",
-      "typography.link-xs-hover": "S:230fd94548a776796dab076a08c034b36d3396f6,"
+      "typography.link-xs-hover": "S:230fd94548a776796dab076a08c034b36d3396f6,",
+      "special-blocks.mobapp.border.activity": "S:437c6392cd2e15ade775d80e348e9e52a1917fcf,",
+      "special-blocks.mobapp.border.main": "S:4c61dd0848cca8127886ffae15c808b1b2ec3ebe,",
+      "special-blocks.mobapp.border.main-additional": "S:3acdac4adca053842a556464c881e22106c2b324,",
+      "special-blocks.mobapp.border.main-last": "S:86ce0607fdc3ae36173482aad698fbfe022d0950,",
+      "special-blocks.mobapp.border.main-progress": "S:9a03ecee78eee7873a0327e17048a1577c48b258,",
+      "special-blocks.mobapp.border.win": "S:a90e2fc13a3926e78507cca4616a73be8ff34901,",
+      "special-blocks.mobapp.border.achievements": "S:bf0ae5c5732890b2f016177cd02017352ac329a4,",
+      "special-blocks.mobapp.element": "S:6721ff24f64d8a95aadff5357cdcd94cd598bf88,",
+      "special-blocks.mobapp.card.1": "S:3ae404942a4ec71a06f25ac15e559fccadae0863,",
+      "special-blocks.mobapp.card.2": "S:ad1045d412f4a26d944a93133fcae7e15b4a10ff,",
+      "special-blocks.mobapp.card.3": "S:3fa452c54d973c52d345285f8f1eab0e5fa2bc64,",
+      "special-blocks.mobapp.card.4": "S:20b2b78db54deb24bc28d7665b619acecad306a5,",
+      "special-blocks.mobapp.card.5": "S:e8e7fb0f85665ca774f59917e62f93d33962dd3d,",
+      "typography.special-blocks.titlemob-app": "S:a71a9ec043865d53c741abe9fe32669758af59c2,",
+      "typography.special-blocks.numbersmob-app": "S:f6db88ea24db5bf266a3b559abbf071086dd3889,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
