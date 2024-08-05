@@ -1670,7 +1670,15 @@
       "typography.body-timer-welcome-bonus-desktop": "S:0884d9f6d212bf2155b456a58a79ec2bf0a0bcb0,",
       "typography.body-timer-welcome-bonus-desktop-stronger": "S:52447e05dfc980eb9e5e4d526c190e6894fc1130,",
       "typography.link-xs": "S:47a57c363fea84a36b2a249f1430e5d630226123,",
-      "typography.link-xs-hover": "S:231a6e8a1efdb557727cb415a15c3fffcf1adccc,"
+      "typography.link-xs-hover": "S:231a6e8a1efdb557727cb415a15c3fffcf1adccc,",
+      "special-blocks.mobapp.border.activity": "S:9e1f29f0fd47947cc7003ff404d6039ec0444237,",
+      "special-blocks.mobapp.card.1": "S:2ce7e3f5f3b5ebefde624a745bacf82095b35d5f,",
+      "special-blocks.mobapp.card.2": "S:e87c468e1320c0c72ec2ab65bf705068cb183dff,",
+      "special-blocks.mobapp.card.3": "S:2f33d870f948468435b94a6c420a32dc7242dabd,",
+      "special-blocks.mobapp.card.4": "S:e40d0a9992a3874b96240f8b8f4dabd42d0ad835,",
+      "special-blocks.mobapp.card.5": "S:6d87345791be82599dc429f135f4625e099fb439,",
+      "typography.special-blocks.titlemob-app": "S:60fbc71ea2d8eb877a69e26398facdbc53fa3b8e,",
+      "typography.special-blocks.numbersmob-app": "S:a71bee9cc707b0f4edec331f0c5d45ea1ead18eb,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"

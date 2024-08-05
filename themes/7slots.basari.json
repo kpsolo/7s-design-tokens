@@ -969,9 +969,9 @@
       "titlemob-app": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.0}",
-          "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size.3}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "48px",
+          "fontSize": "40px",
           "letterSpacing": "{letter-spacing.0}",
           "paragraphSpacing": "{paragraph-spacing.0}",
           "paragraphIndent": "{paragraph-indent.first-stroke-default}",
@@ -4740,94 +4740,7 @@
           "value": "linear-gradient(158deg, #A96BEB 15.68%, rgba(164, 117, 216, 0.43) 48.53%, #864CC6 74.32%)",
           "type": "color",
           "description": "border for activity card"
-        },
-        "main": {
-          "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
-          "type": "color",
-          "description": "use as stroke in last/progress achievements cards and info card"
-        },
-        "main-additional": {
-          "value": "linear-gradient(178deg, #1AA3A3 1.63%, rgba(38, 201, 201, 0.17) 98.37%)",
-          "type": "color",
-          "description": "use as stroke in first deposit widget"
-        },
-        "main-last": {
-          "value": "linear-gradient(158deg, #7945B3 8.57%, rgba(127, 73, 186, 0.43) 48.22%, #7345A6 79.36%)",
-          "type": "color",
-          "description": "use as stroke in last achievements cards "
-        },
-        "main-progress": {
-          "value": "linear-gradient(158deg, #6865F5 15.68%, rgba(113, 111, 224, 0.43) 48.53%, #6B69C9 74.32%)",
-          "type": "color",
-          "description": "use as stroke in progress achievements cards "
-        },
-        "win": {
-          "value": "linear-gradient(158deg, #C24DC4 8.57%, rgba(196, 75, 198, 0.43) 48.22%, #C152C3 79.36%)",
-          "type": "color",
-          "description": "border for win card"
-        },
-        "achievements": {
-          "value": "linear-gradient(158deg, #8679D5 15.68%, rgba(112, 103, 215, 0.43) 48.53%, #685FCA 74.32%)",
-          "type": "color",
-          "description": "border for win card"
         }
-      },
-      "gradient": {
-        "activity": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(110, 39, 210, 0.40) 0%, rgba(110, 42, 207, 0.40) 19.81%, rgba(88, 30, 170, 0.40) 38.75%, rgba(60, 30, 46, 0.32) 58.55%, rgba(60, 30, 46, 0.21) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
-          "type": "color",
-          "description": "radial card"
-        },
-        "win": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(144, 25, 147, 0.60) 0%, rgba(136, 30, 140, 0.60) 19.81%, rgba(102, 20, 102, 0.60) 38.75%, rgba(81, 27, 56, 0.47) 58.55%, rgba(60, 30, 46, 0.31) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
-          "type": "color",
-          "description": "radial card - win"
-        },
-        "achievements": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(35, 30, 91, 0.60) 0%, rgba(39, 31, 91, 0.60) 19.81%, rgba(50, 37, 94, 0.60) 38.75%, rgba(50, 37, 94, 0.41) 58.55%, rgba(50, 37, 94, 0.31) 71.88%, rgba(38, 45, 64, 0.00) 90.02%, rgba(38, 45, 64, 0.00) 100%)",
-          "type": "color",
-          "description": "radial card - achievements"
-        },
-        "main": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(34, 92, 103, 0.80) 0%, rgba(34, 92, 103, 0.73) 16.5%, rgba(34, 92, 103, 0.58) 47.5%, rgba(63, 53, 105, 0.28) 77.5%, rgba(63, 53, 105, 0.20) 77.51%, rgba(37, 45, 64, 0.47) 90.02%, rgba(37, 45, 64, 0.00) 100%)",
-          "type": "color",
-          "description": "radial card - main screen/first deposit"
-        },
-        "main-additional": {
-          "value": "radial-gradient(50% 50% at 50% 50%, rgba(246, 110, 10, 0.80) 0%, rgba(239, 112, 14, 0.80) 19.81%, rgba(203, 99, 19, 0.77) 35.5%, rgba(94, 28, 63, 0.66) 67.81%, rgba(94, 28, 63, 0.47) 78.24%, rgba(142, 22, 84, 0.22) 90.02%, rgba(142, 22, 84, 0.00) 100%)",
-          "type": "color",
-          "description": "radial card - main screen with achievements icon"
-        },
-        "empty": {
-          "value": "linear-gradient(90deg, #4C3180 0%, rgba(76, 49, 128, 0.00) 100%)",
-          "type": "color",
-          "description": "for empty cards zone"
-        },
-        "empty-additional": {
-          "value": "linear-gradient(89deg, rgba(23, 35, 99, 0.87) 0.81%, rgba(27, 41, 112, 0.87) 63.22%, rgba(23, 33, 87, 0.00) 99.19%);",
-          "type": "color",
-          "description": "for empty cards zone / desktop"
-        }
-      },
-      "element": {
-        "value": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) 0%, rgba(255, 255, 255, 0.16) 50.78%, rgba(255, 255, 255, 0.00) 100%)",
-        "type": "color",
-        "description": "fill for line in first screen"
-      },
-      "bg-main": {
-        "value": "linear-gradient(178deg, rgba(255, 228, 175, 0.16) 1.63%, rgba(239, 133, 55, 0.00) 98.37%)",
-        "type": "color",
-        "description": "for first deposit screen"
-      },
-      "bg-progressbar": {
-        "value": "rgba(255, 255, 255, 0.08)",
-        "type": "color",
-        "description": "for progrees bar bg"
-      },
-      "overlay": {
-        "value": "rgba(186, 107, 54, 0.60)",
-        "type": "color",
-        "description": "for bg under icons in achievement info block"
       },
       "card": {
         "1": {
@@ -4854,16 +4767,6 @@
           "value": "linear-gradient(133deg, rgba(113, 44, 200, 0.54) 13.54%, rgba(113, 44, 200, 0.16) 41.38%, rgba(113, 44, 200, 0.00) 63.15%), rgba(0, 0, 0, 0.16)",
           "type": "color",
           "description": "bg for activity cards"
-        },
-        "6": {
-          "value": "linear-gradient(132deg, rgba(165, 59, 170, 0.54) 13.69%, rgba(165, 59, 170, 0.16) 38.75%, rgba(165, 59, 170, 0.00) 57.67%), rgba(0, 0, 0, 0.16)",
-          "type": "color",
-          "description": "bg for win cards"
-        },
-        "first-deposit": {
-          "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 4.73%, rgba(39, 85, 101, 0.00) 88.99%)",
-          "type": "color",
-          "description": "card first deposit bg in main screen"
         }
       }
     }
