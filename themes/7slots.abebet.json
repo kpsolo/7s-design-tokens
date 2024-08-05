@@ -2712,7 +2712,7 @@
       },
       "border": {
         "1": {
-          "value": "#D8C03E",
+          "value": "linear-gradient(180deg, #F1FE4C 0%, #94228D 100%)",
           "type": "color",
           "description": "1st deopsit card stroke bg"
         },
@@ -4947,7 +4947,7 @@
         "description": "welcome/welcomeback popup accent text color"
       },
       "tertiary": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "1st deposit accent color in text and tabs"
       }
