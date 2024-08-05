@@ -3946,7 +3946,7 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
