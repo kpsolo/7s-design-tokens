@@ -5208,11 +5208,11 @@
   },
   "betting": {
     "surface": {
-      "value": "#4F0C5B",
+      "value": "#182A54",
       "type": "color"
     },
     "card": {
-      "value": "#370C5B",
+      "value": "#13203F",
       "type": "color"
     },
     "green": {
@@ -5220,7 +5220,7 @@
       "type": "color"
     },
     "red": {
-      "value": "#C40D23",
+      "value": "#D20921",
       "type": "color"
     },
     "temp": {
@@ -5241,25 +5241,17 @@
       }
     },
     "secondary": {
-      "value": "#000",
+      "value": "#17274D",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.2",
-            "space": "srgb"
-          }
-        }
-      },
+      "$extensions": {},
       "description": "cashout bg/ "
     },
     "hover card": {
-      "value": "#4B1679",
+      "value": "#203870",
       "type": "color"
     },
     "select card": {
-      "value": "#270AAA",
+      "value": "#0E3595",
       "type": "color"
     },
     "accent": {
