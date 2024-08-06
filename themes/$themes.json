@@ -588,7 +588,6 @@
       "bg.timer-welcome-bonus": "S:2cdd621c73e12a9ed9d16010522f720bc74efd3c,",
       "bg.timer-welcome-bonus-mob": "S:3311fc5a4897c89b9887077235256209ade4b8c2,",
       "bg.timer-welcome-bonus-mob-small": "S:6ecec14112c8b3a12fa3e6dea6ece86f660d89f8,",
-      "typography.timer-welcome-bonus text": "S:6d6b4182aad410f84f92d50314bb25ecbc870e59,",
       "typography.timer-welcome-bonus-stronger": "S:18cd7160f10a5a798660494c1cdaadfb4eddc57d,",
       "typography.body-timer-welcome-bonus-desktop": "S:50765f3efac479d71021526a8fb426dfae6dc7cb,",
       "typography.body-timer-welcome-bonus-desktop-stronger": "S:d026ae43e1770ca1c8fab07c0446c6d6928152ba,",
@@ -606,7 +605,8 @@
       "special-blocks.mobapp.card.4": "S:4955a6820eb64c016e4e08c67a4e6d3860325419,",
       "special-blocks.mobapp.card.5": "S:9f889c1d2f541ba705ebea3a81bbe9a6edfbdf65,",
       "typography.special-blocks.titlemob-app": "S:45ae60a4ee1094392329eb529bbf7472a857866c,",
-      "typography.special-blocks.numbersmob-app": "S:b15cea5106313eec0436bf1e4bcb8d31f9271309,"
+      "typography.special-blocks.numbersmob-app": "S:b15cea5106313eec0436bf1e4bcb8d31f9271309,",
+      "typography.timer-welcome-bonus-text": "S:6d6b4182aad410f84f92d50314bb25ecbc870e59,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

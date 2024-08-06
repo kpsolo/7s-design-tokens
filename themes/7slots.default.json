@@ -59,7 +59,7 @@
       "type": "typography",
       "description": "Caption"
     },
-    "timer-welcome-bonus text": {
+    "timer-welcome-bonus-text": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
