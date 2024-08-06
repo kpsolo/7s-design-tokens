@@ -3803,7 +3803,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.4",
+            "value": "0.6",
             "space": "srgb"
           }
         }
@@ -5243,7 +5243,6 @@
     "secondary": {
       "value": "#17274D",
       "type": "color",
-      "$extensions": {},
       "description": "cashout bg/ "
     },
     "hover card": {
