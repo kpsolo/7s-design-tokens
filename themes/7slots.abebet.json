@@ -3373,13 +3373,13 @@
         "description": "desktop registration popup bottom link top separator/ tab separator"
       },
       "additional": {
-        "value": "{base.light}",
+        "value": "#fff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.08",
+              "value": "0.10",
               "space": "srgb"
             }
           }
