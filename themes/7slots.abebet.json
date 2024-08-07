@@ -3939,7 +3939,7 @@
         "description": "Color border for disabled input"
       },
       "error": {
-        "value": "{base.error}",
+        "value": "#CA0000",
         "type": "color",
         "description": "Color border for error input"
       },
