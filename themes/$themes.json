@@ -606,7 +606,9 @@
       "special-blocks.mobapp.card.5": "S:9f889c1d2f541ba705ebea3a81bbe9a6edfbdf65,",
       "typography.special-blocks.titlemob-app": "S:45ae60a4ee1094392329eb529bbf7472a857866c,",
       "typography.special-blocks.numbersmob-app": "S:b15cea5106313eec0436bf1e4bcb8d31f9271309,",
-      "typography.timer-welcome-bonus-text": "S:6d6b4182aad410f84f92d50314bb25ecbc870e59,"
+      "typography.timer-welcome-bonus-text": "S:6d6b4182aad410f84f92d50314bb25ecbc870e59,",
+      "special-blocks.mobapp.qrcod": "S:9d62795250164d665a21c61428101c827f0d9b27,",
+      "special-blocks.mobapp.qrcod-copy": "S:e36f5d5d40638ed262ca025369e43593820e4edc,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
