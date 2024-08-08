@@ -4737,7 +4737,7 @@
     "mobapp": {
       "border": {
         "activity": {
-          "value": "linear-gradient(158deg, #A96BEB 15.68%, rgba(164, 117, 216, 0.43) 48.53%, #864CC6 74.32%)",
+          "value": "rgba(255, 255, 255, 0.25);",
           "type": "color",
           "description": "border for activity card"
         }
@@ -4749,12 +4749,12 @@
           "description": "card in progress bg in main screen"
         },
         "2": {
-          "value": "linear-gradient(148deg, rgba(102, 45, 175, 0.54) 9.9%, rgba(109, 22, 151, 0.20) 36.87%, rgba(63, 11, 129, 0.00) 56.14%), rgba(28, 33, 46, 0.60)",
+          "value": "linear-gradient(151deg, #3D72B3 -7.66%, #3D72B3 -2.28%, #1D3653 18.16%, #202535 50.27%)",
           "type": "color",
           "description": "card last bg in main screen"
         },
         "3": {
-          "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.16) 0%, rgba(230, 121, 41, 0.16) 100%)",
+          "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
           "type": "color",
           "description": "card first deposit bg in main screen"
         },
@@ -4770,12 +4770,12 @@
         }
       },
       "qrcod": {
-        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%);",
+        "value": "linear-gradient(180deg, #FC96A9 0%, #8E545F 100%)",
         "type": "color",
         "description": "bg QRcod on"
       },
       "qrcod-copy": {
-        "value": "linear-gradient(0deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "value": "linear-gradient(0deg, rgba(0, 0, 0, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%), linear-gradient(180deg, #FC96A9 0%, #8E545F 100%)",
         "type": "color",
         "description": "bg QRcod off"
       }
