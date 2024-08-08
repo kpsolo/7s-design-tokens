@@ -5366,7 +5366,7 @@
         "description": "use for borders in sectors"
       },
       "main": {
-        "value": "linear-gradient(180deg, #1019320%, #101A3219.79%, #2D1944100%)",
+        "value": "linear-gradient(180deg, #101932 0%, #101A32 19.79%, #2D1944 100%)",
         "type": "color",
         "description": "use as bg on wheel popup"
       },
