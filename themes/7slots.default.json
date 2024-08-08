@@ -5879,7 +5879,7 @@
         }
       },
       "accent": {
-        "value": "{icon.accent}",
+        "value": "{text.title.accent}",
         "type": "color"
       },
       "additional": {
