@@ -5204,7 +5204,7 @@
         "description": "use for accent on pamepage widget"
       },
       "icon-additional": {
-        "value": "{text.title.extra}",
+        "value": "{text.title.additional}",
         "type": "color",
         "description": "use for icons in gamepage widget"
       }

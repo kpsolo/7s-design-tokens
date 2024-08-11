@@ -2746,7 +2746,9 @@
       "special-blocks.mobapp.card.4": "S:20b2b78db54deb24bc28d7665b619acecad306a5,",
       "special-blocks.mobapp.card.5": "S:e8e7fb0f85665ca774f59917e62f93d33962dd3d,",
       "typography.special-blocks.titlemob-app": "S:a71a9ec043865d53c741abe9fe32669758af59c2,",
-      "typography.special-blocks.numbersmob-app": "S:f6db88ea24db5bf266a3b559abbf071086dd3889,"
+      "typography.special-blocks.numbersmob-app": "S:f6db88ea24db5bf266a3b559abbf071086dd3889,",
+      "special-blocks.mobapp.qrcod": "S:077d0bc7b148fef6c8f29eb9b1232450480871cc,",
+      "special-blocks.mobapp.qrcod-copy": "S:a754aee296e8186845bfc77d00e553743d982593,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
