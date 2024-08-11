@@ -2749,7 +2749,7 @@
             }
           }
         },
-        "description": "Use for underlay of elements on top (star, counter)\ningame back button bg"
+        "description": "Use for underlay of elements on top (star, counter)\ningame back button bg\npopups underlay\n"
       },
       "slider": {
         "value": "#00000000",
