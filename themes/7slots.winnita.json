@@ -5149,9 +5149,9 @@
       "description": "bg in brogress bar "
     },
     "bg-progress-additional": {
-      "value": "{small-elements.progress-bg}",
+      "value": "#E1E9F5",
       "type": "color",
-      "description": "bg in brogress bar ingamepage widget"
+      "description": "bg in progress bar in strip widget on gamepage"
     },
     "overlay": {
       "value": "rgba(255, 255, 255, 0.08)",
