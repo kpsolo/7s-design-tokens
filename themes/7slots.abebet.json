@@ -2730,7 +2730,7 @@
     "card": {
       "bg": {
         "1": {
-          "value": "{bg.technical}",
+          "value": "linear-gradient(118deg, #912266 14.54%, #4D1C73 79.7%)",
           "type": "color",
           "description": "1st deopsit card bg"
         },
