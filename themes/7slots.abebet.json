@@ -5567,7 +5567,7 @@
   },
   "strip": {
     "bg-progress": {
-      "value": "{small-elements.progress-large}",
+      "value": "rgba(255, 255, 255, 0.16)",
       "type": "color",
       "description": "bg in brogress bar "
     },
