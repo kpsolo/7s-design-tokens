@@ -5284,6 +5284,11 @@
         }
       },
       "description": "Color for status and %"
+    },
+    "accent-additional": {
+      "value": "#FFA70F",
+      "type": "color",
+      "description": "Color for menu balances sum and icon"
     }
   },
   "max-width": {
