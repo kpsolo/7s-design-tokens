@@ -5234,7 +5234,7 @@
       "description": "Color for status and %"
     },
     "accent-additional": {
-      "value": "#FFA70F",
+      "value": "#FB3C3C",
       "type": "color",
       "description": "Color for menu balances sum and icon"
     }
