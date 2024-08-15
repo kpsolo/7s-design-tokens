@@ -2729,6 +2729,11 @@
           "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)",
           "type": "color",
           "description": "bg for provider card"
+        },
+        "3": {
+          "value": "{bg.additional}",
+          "type": "color",
+          "description": "shop card bg"
         }
       },
       "border": {

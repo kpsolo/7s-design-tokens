@@ -2710,6 +2710,11 @@
           "value": "#173A86",
           "type": "color",
           "description": "bg for provider card"
+        },
+        "3": {
+          "value": "{bg.additional}",
+          "type": "color",
+          "description": "shop card bg"
         }
       },
       "border": {
