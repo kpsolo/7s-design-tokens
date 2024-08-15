@@ -2740,7 +2740,7 @@
           "description": "bg for provider card"
         },
         "3": {
-          "value": "{bg.additional}",
+          "value": "#5C1D58",
           "type": "color",
           "description": "shop card bg"
         }
