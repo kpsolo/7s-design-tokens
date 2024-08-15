@@ -4871,7 +4871,7 @@
         "type": "color"
       },
       "sticky": {
-        "value": "{header.bg.main}",
+        "value": "linear-gradient(180deg, #271941 0%, rgba(39, 25, 65, 0.90) 89.06%, rgba(39, 25, 65, 0.00) 100%)",
         "type": "color"
       },
       "top-desktop": {
