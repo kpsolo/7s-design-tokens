@@ -2753,7 +2753,8 @@
       "typography.special-blocks.numbersmob-app": "S:f6db88ea24db5bf266a3b559abbf071086dd3889,",
       "special-blocks.mobapp.qrcod": "S:077d0bc7b148fef6c8f29eb9b1232450480871cc,",
       "special-blocks.mobapp.qrcod-copy": "S:a754aee296e8186845bfc77d00e553743d982593,",
-      "menu.accent-additional": "S:ab60e839c2fa895f2a30b9154596cd6212b1968f,"
+      "menu.accent-additional": "S:ab60e839c2fa895f2a30b9154596cd6212b1968f,",
+      "bg.card.bg.3": "S:0ca2cae4e9e9f93ef7a310fcd09933a66856180e,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
