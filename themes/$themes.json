@@ -1680,7 +1680,11 @@
       "special-blocks.mobapp.card.4": "S:e40d0a9992a3874b96240f8b8f4dabd42d0ad835,",
       "special-blocks.mobapp.card.5": "S:6d87345791be82599dc429f135f4625e099fb439,",
       "typography.special-blocks.titlemob-app": "S:60fbc71ea2d8eb877a69e26398facdbc53fa3b8e,",
-      "typography.special-blocks.numbersmob-app": "S:a71bee9cc707b0f4edec331f0c5d45ea1ead18eb,"
+      "typography.special-blocks.numbersmob-app": "S:a71bee9cc707b0f4edec331f0c5d45ea1ead18eb,",
+      "bg.card.bg.3": "S:9836096b7c93dff48f84918cac57f45d589b6f86,",
+      "special-blocks.mobapp.qrcod": "S:78982e8969c54578c996557c058fe5a27b64cd1f,",
+      "special-blocks.mobapp.qrcod-copy": "S:1c508d722a8eb3e10488fe0c7ff131839fe72a22,",
+      "menu.accent-additional": "S:cfc8db539de8304601295040b3235eec4eaa8101,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
