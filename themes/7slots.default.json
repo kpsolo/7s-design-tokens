@@ -4138,7 +4138,7 @@
         "description": "Background for warning inputs"
       },
       "disabled": {
-        "value": "transparent",
+        "value": "{bg.popup}",
         "type": "color",
         "description": "Backgrounds for disabled inputs"
       },
