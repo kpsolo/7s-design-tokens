@@ -1829,7 +1829,7 @@
     },
     "strip-card": {
       "value": {
-        "color": "{navbar.bg.main}",
+        "color": "{base.accent-primary}",
         "width": "{border-width.nav}",
         "style": "solid"
       },
