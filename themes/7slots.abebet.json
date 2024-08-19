@@ -2081,6 +2081,11 @@
       "type": "borderRadius",
       "description": "use for elements with large radius ( button in footer, gold tickets in lottery)"
     },
+    "badge": {
+      "value": "100px",
+      "type": "borderRadius",
+      "description": "use for elements with large radius  - golden tickets bages in lottery"
+    },
     "special-blocks": {
       "jackpot-radius": {
         "value": "12px",

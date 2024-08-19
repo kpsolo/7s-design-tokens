@@ -2175,6 +2175,11 @@
       "value": "2px",
       "type": "borderRadius",
       "description": "Radius for small elements - checkbox"
+    },
+    "badge": {
+      "value": "100px",
+      "type": "borderRadius",
+      "description": "use for elements with large radius  - golden tickets bages in lottery"
     }
   },
   "opacity": {
