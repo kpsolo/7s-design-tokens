@@ -4163,7 +4163,7 @@
         "description": "Backgrounds for disabled inputs"
       },
       "confirmed": {
-        "value": "transparent",
+        "value": "#252D40",
         "type": "color",
         "description": "Backgrounds for confirmed inputs"
       },
