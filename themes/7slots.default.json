@@ -2850,6 +2850,16 @@
           "type": "color",
           "description": "bg for provider card"
         },
+        "fun-daily-default": {
+          "value": "linear-gradient(151deg, rgba(96, 59, 157, 0.64) 0%, rgba(69, 42, 84, 0.64) 28%, rgba(29, 32, 40, 0.64) 51%, rgba(28, 33, 46, 0.64) 100%)",
+          "type": "color",
+          "description": "bg for provider card"
+        },
+        "fun-daily-check": {
+          "value": "#181321",
+          "type": "color",
+          "description": "bg for provider card"
+        },
         "fun-2": {
           "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
           "type": "color",
