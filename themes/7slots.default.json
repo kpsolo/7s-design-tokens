@@ -2851,7 +2851,7 @@
           "description": "bg for provider card"
         },
         "fun-daily-default": {
-          "value": "linear-gradient(151deg, rgba(96, 59, 157, 0.64) 0%, rgba(69, 42, 84, 0.64) 28%, rgba(29, 32, 40, 0.64) 51%, rgba(28, 33, 46, 0.64) 100%)",
+          "value": "linear-gradient(151deg, rgba(110, 71, 175, 0.00) 0%, rgba(176, 113, 211, 0.42) 28%, rgba(134, 96, 183, 0.67) 51%, rgba(73, 58, 98, 1.00) 100%)",
           "type": "color",
           "description": "bg for provider card"
         },
