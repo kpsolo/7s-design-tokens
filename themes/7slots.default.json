@@ -2850,7 +2850,7 @@
           "type": "color",
           "description": "bg for provider card"
         },
-        "fun-daily-default": {
+        "fun-daily-active": {
           "value": "linear-gradient(151deg, rgba(176, 113, 211, 1.00) 28%, rgba(134, 96, 183, 1.00) 51%, rgba(73, 58, 98, 1.00) 100%)",
           "type": "color",
           "description": "bg for provider card"
@@ -2886,6 +2886,11 @@
         },
         "card-fun": {
           "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
+          "type": "color",
+          "description": "1st deopsit card stroke bg"
+        },
+        "card-fun-daily-active": {
+          "value": "#A37ABD",
           "type": "color",
           "description": "1st deopsit card stroke bg"
         },

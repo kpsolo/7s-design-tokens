@@ -610,10 +610,11 @@
       "special-blocks.mobapp.qrcod": "S:9d62795250164d665a21c61428101c827f0d9b27,",
       "special-blocks.mobapp.qrcod-copy": "S:e36f5d5d40638ed262ca025369e43593820e4edc,",
       "bg.card.bg.3": "S:7d9f5e4a8625124b4b9aaf6e5215c3f87f84ac46,",
-      "bg.card.bg.fun-daily-default": "S:2dc2dce1ea5cbb543cdf7ca0c2457462c6e0ac49,",
       "bg.card.bg.fun-daily-check": "S:291a8e645e060e647d74b2a489ae50433aabb172,",
       "special-blocks.success-bg": "S:a22b71e17c6a6bdfda6c36b6d0c21808f7606ff7,",
-      "menu.accent-additional": "S:b68fd6b7145197da86a4c8b80f10858b2b3c7531,"
+      "menu.accent-additional": "S:b68fd6b7145197da86a4c8b80f10858b2b3c7531,",
+      "bg.card.bg.fun-daily-active": "S:b483345f0f02f407156193dcd914cb979a8e6c68,",
+      "bg.card.border.card-fun-daily-active": "S:6e20e8ee877e024b08af3a1ba4e9243ffd7b1d51,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1689,7 +1690,8 @@
       "bg.card.bg.3": "S:9836096b7c93dff48f84918cac57f45d589b6f86,",
       "special-blocks.mobapp.qrcod": "S:78982e8969c54578c996557c058fe5a27b64cd1f,",
       "special-blocks.mobapp.qrcod-copy": "S:1c508d722a8eb3e10488fe0c7ff131839fe72a22,",
-      "menu.accent-additional": "S:cfc8db539de8304601295040b3235eec4eaa8101,"
+      "menu.accent-additional": "S:cfc8db539de8304601295040b3235eec4eaa8101,",
+      "bg.card.bg.fun-daily-default": "S:2dc2dce1ea5cbb543cdf7ca0c2457462c6e0ac49,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
