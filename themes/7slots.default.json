@@ -4613,6 +4613,11 @@
       "type": "color",
       "description": "for jackpot sun in jackpot page"
     },
+    "success-bg": {
+      "value": "#A6E8B6",
+      "type": "color",
+      "description": "for success bg"
+    },
     "dropdown-custom-fade": {
       "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
       "type": "color",

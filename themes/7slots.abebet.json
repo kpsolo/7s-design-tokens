@@ -4769,6 +4769,11 @@
         "type": "color",
         "description": "bg QRcod off"
       }
+    },
+    "success-bg": {
+      "value": "#A6E8B6",
+      "type": "color",
+      "description": "for success bg"
     }
   },
   "filed spacing": {
