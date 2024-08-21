@@ -598,23 +598,23 @@
       "typography.link-xs": "S:1dbc03c316f22053281325a1a15b83117ac18e85,",
       "typography.link-xs-hover": "S:ad187195e222f5278864f5be89d72a4745f7d967,",
       "text.timer-gift-desktop": "S:7b731fe423d06bdffd0eb83347aa93f9d6babab2,",
-      "special-blocks.mobapp.border.cardbenefit-additional": "S:9c3e915a47d18a527472d75b6b496f0e2a19e4fc,",
-      "special-blocks.mobapp.card.1": "S:1138f8250d42326ee9f0c8a5209abf8374d8237c,",
-      "special-blocks.mobapp.card.2": "S:54240b41a7c03a2e7b43bfdbc0d43f910ea3faa7,",
-      "special-blocks.mobapp.card.3": "S:053d0486c54fc401af25c88ca7512d921c112b73,",
-      "special-blocks.mobapp.card.4": "S:fce07c47f860d60f9e5716af9a6b9c84a8da8bd0,",
-      "special-blocks.mobapp.card.5": "S:aa1e3e1924884b69d0ddafe520c25307d8236d8e,",
+      "special-blocks.mobapp.border.cardbenefit-additional": "S:59a959d045a67b84831c56bff4ff488c055eb0ff,",
+      "special-blocks.mobapp.card.1": "S:9ead9ada44333e9e4e1c2cd76ba45da268bbce50,",
+      "special-blocks.mobapp.card.2": "S:a96aa6035ff0ea9399640f4e66b0e0d29a2346f1,",
+      "special-blocks.mobapp.card.3": "S:8c68e678eeeaea243eafb793b38c251785e4f53c,",
+      "special-blocks.mobapp.card.4": "S:25ef094bc9ac7f2e10e58146264c4af1639b9084,",
+      "special-blocks.mobapp.card.5": "S:ef8698756724f9319457079375f9ed9a9854e953,",
       "typography.special-blocks.titlemob-app": "S:5eeeef8f9cd69f755bd1dd3c133c3857b6c6a9e1,",
       "typography.special-blocks.numbersmob-app": "S:869d486e6df559693526c1b8576afed3613e9e12,",
       "typography.timer-welcome-bonus-text": "S:1144dfec5fb24d87d1624a095233f0b5018421f1,",
-      "special-blocks.mobapp.qrcod": "S:8e147f29a5a1ab39647f19e16ce7c61ef6a620fc,",
-      "special-blocks.mobapp.qrcod-copy": "S:114cb7bc5664bbed0120ccb77d59628eae9de11d,",
-      "bg.card.bg.3": "S:3cfb5f6350f0d99e2e2771facfbbece6a1a6753e,",
-      "bg.card.bg.fun-daily-check": "S:f3ca80a9a542ad4d9d3fbea84bce7177ddba5abd,",
-      "special-blocks.success-bg": "S:5c6da5ca4f1c12f56e8bab6cde5eb95536b343e8,",
+      "special-blocks.mobapp.qrcod": "S:11b0a274ce2539976c7324525b2d477707e30dc1,",
+      "special-blocks.mobapp.qrcod-copy": "S:d4a86effc64f9d450331304a70e36ab68d52a39a,",
+      "bg.card.bg.3": "S:f85718e1255484392463770df0f85f6a420944b4,",
+      "bg.card.bg.fun-daily-check": "S:61a4f9887503a0552cd4af8d3ed072b05365ceaf,",
+      "special-blocks.success-bg": "S:1d00d9c15d20be9576434db438609640017c2036,",
       "menu.accent-additional": "S:3bec5f920c7740f8c2eefda3c3a2ff61710b930c,",
-      "bg.card.bg.fun-daily-active": "S:3804a149a7723ffa6f4b026b117851b2abb95fd1,",
-      "bg.card.border.card-fun-daily-active": "S:075623692b94ac630539312ccc4f7b700f6ee167,"
+      "bg.card.bg.fun-daily-active": "S:b5c6bd6078f9e714c75c2326f0dbcedba7387c1b,",
+      "bg.card.border.card-fun-daily-active": "S:e356ed34df0f722e0b4aa72fffb3c025aa24f5a1,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1679,7 +1679,7 @@
       "typography.body-timer-welcome-bonus-desktop-stronger": "S:52447e05dfc980eb9e5e4d526c190e6894fc1130,",
       "typography.link-xs": "S:47a57c363fea84a36b2a249f1430e5d630226123,",
       "typography.link-xs-hover": "S:231a6e8a1efdb557727cb415a15c3fffcf1adccc,",
-      "special-blocks.mobapp.border.activity": "S:b56313ede5b0d0306c80401d6343155d87634aa1,",
+      "special-blocks.mobapp.border.activity": "S:38bcaaf2fbf3dcd45ef5f5e2d4bea5336ad619f2,",
       "special-blocks.mobapp.card.1": "S:2ce7e3f5f3b5ebefde624a745bacf82095b35d5f,",
       "special-blocks.mobapp.card.2": "S:e87c468e1320c0c72ec2ab65bf705068cb183dff,",
       "special-blocks.mobapp.card.3": "S:2f33d870f948468435b94a6c420a32dc7242dabd,",
@@ -1691,7 +1691,7 @@
       "special-blocks.mobapp.qrcod": "S:78982e8969c54578c996557c058fe5a27b64cd1f,",
       "special-blocks.mobapp.qrcod-copy": "S:1c508d722a8eb3e10488fe0c7ff131839fe72a22,",
       "menu.accent-additional": "S:cfc8db539de8304601295040b3235eec4eaa8101,",
-      "bg.card.bg.fun-daily-default": "S:31bf1817db78691b504c20f4c2c3e89c8a77ea71,"
+      "bg.card.bg.fun-daily-default": "S:ab9cc853a6cb3f00877b71b28bfad0095d60afb0,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
