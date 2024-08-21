@@ -5880,7 +5880,7 @@
         "description": "use for dropdown"
       },
       "overlay-additional": {
-        "value": "{bg.overlay-gradient.3}",
+        "value": "linear-gradient(90deg, #101a3200 0%, #101A32 100%)",
         "type": "color",
         "description": "use for bg under prizes"
       },
