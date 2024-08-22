@@ -1678,7 +1678,7 @@
     },
     "right-menu": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "{border-width.nav}",
         "style": "solid"
       },
@@ -1838,7 +1838,7 @@
     },
     "1click": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "0px",
         "style": "solid"
       },
@@ -1847,7 +1847,7 @@
     },
     "search": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "0px",
         "style": "solid"
       },
@@ -1874,7 +1874,7 @@
     },
     "empty-item": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "0px",
         "style": "dash"
       },
@@ -1883,7 +1883,7 @@
     },
     "betting": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "0px",
         "style": "solid"
       },
@@ -1892,7 +1892,7 @@
     },
     "popup-additional": {
       "value": {
-        "color": "{bg.border}",
+        "color": "none",
         "width": "0px",
         "style": "solid"
       },
@@ -1901,7 +1901,7 @@
     },
     "notification-additional": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "0",
         "style": "solid"
       },
@@ -1910,7 +1910,7 @@
     },
     "notification": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "0",
         "style": "solid"
       },
@@ -1928,7 +1928,7 @@
     },
     "additional": {
       "value": {
-        "color": "trasparent",
+        "color": "none",
         "width": "1",
         "style": "solid"
       },
