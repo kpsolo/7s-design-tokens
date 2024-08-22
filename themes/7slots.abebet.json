@@ -5342,7 +5342,7 @@
         "description": "use as bg for popups and notification"
       },
       "2": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.12)0%, rgba(153, 153, 153, 0.12)100%)",
+        "value": "linear-gradient(180deg, rgba(175, 159, 255, 0.10) 0%, rgba(9, 62, 208, 0.10) 100%)",
         "type": "color",
         "description": "use for denomination widget bg"
       },
