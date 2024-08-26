@@ -5482,6 +5482,11 @@
         "value": "transparent",
         "type": "color",
         "description": "use for bg elipse on main bg under wheel"
+      },
+      "sector-icon": {
+        "value": "#B70606",
+        "type": "color",
+        "description": "use for color secto in icon in header desktop"
       }
     },
     "switcher": {

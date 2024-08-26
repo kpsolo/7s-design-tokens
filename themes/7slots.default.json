@@ -5542,6 +5542,11 @@
         "value": "#8DFCFD",
         "type": "color",
         "description": "use for borders in sectors"
+      },
+      "sector-icon": {
+        "value": "#7B1DC4",
+        "type": "color",
+        "description": "use for color secto in icon in header desktop"
       }
     },
     "switcher": {

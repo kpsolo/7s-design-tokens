@@ -5372,6 +5372,11 @@
         "type": "color",
         "description": "use for sectors bg (type1)-start"
       },
+      "sector-icon": {
+        "value": "#7B1DC4",
+        "type": "color",
+        "description": "use for color secto in icon in header desktop"
+      },
       "dots": {
         "value": "transparent",
         "type": "color",
