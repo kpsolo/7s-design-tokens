@@ -5544,9 +5544,9 @@
         "description": "use for borders in sectors"
       },
       "sector-icon": {
-        "value": "#7B1DC4",
+        "value": "{icon.alternative}",
         "type": "color",
-        "description": "use for color secto in icon in header desktop"
+        "description": "use for color sector in icon in header desktop/ menu mob"
       }
     },
     "switcher": {
