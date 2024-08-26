@@ -2542,7 +2542,7 @@
             }
           }
         },
-        "description": "for stable in first deposite page"
+        "description": "bg under prize places in tournament/lottery"
       },
       "2-additional": {
         "value": "{bg.additional}",
@@ -2653,6 +2653,11 @@
         "value": "linear-gradient(180deg, rgba( {bg.primary} , 0.00) 0%, rgba( {bg.primary}, 0.76) 41.15%, {bg.primary} 100%)",
         "type": "color",
         "description": "use on message page under bottom link "
+      },
+      "10": {
+        "value": "linear-gradient(180deg, rgba( {nav.tab.stop} , 0.00) 0%, rgba( {nav.tab.stop}, 0.76) 41.15%, {nav.tab.stop} 100%)",
+        "type": "color",
+        "description": "mask in search dropdown in mob homepage"
       },
       "welcome": {
         "value": "linear-gradient(180deg, rgba(23, 58, 134, 0.00) 0%, #173A86 60.74%, #173A86 100%)",

@@ -2947,6 +2947,11 @@
         "type": "color",
         "description": "use on message page under bottom link "
       },
+      "10": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 62%, #FFF 100%)",
+        "type": "color",
+        "description": "mask in search dropdown in mob homepage"
+      },
       "welcome": {
         "value": "linear-gradient(180deg, rgba(99, 103, 161, 0.00) 0%, #6367A1 60.74%, #6367A1 100%)",
         "type": "color",

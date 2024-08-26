@@ -2613,7 +2613,8 @@
       },
       "8": {
         "value": "{bg.overlay.2}",
-        "type": "color"
+        "type": "color",
+        "description": "bg under prize places in tournament/lottery"
       },
       "ghost-1": {
         "value": "#000",
@@ -2751,6 +2752,11 @@
         "value": "{bg.overlay-gradient.3}",
         "type": "color",
         "description": "use on message page under bottom link "
+      },
+      "10": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 62%, #FFF 100%)",
+        "type": "color",
+        "description": "mask in search dropdown in mob homepage"
       },
       "welcome": {
         "value": "linear-gradient(180deg, rgba(91,72,71,0) 0%, #5B4847 60.74%, #5B4847 100%)",

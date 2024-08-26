@@ -4808,7 +4808,8 @@
       "lootboxes.bg.overlay-gradient": "S:b42fe392add020db1a139f6026b2be7d060171f8,",
       "lootboxes.content.accent": "S:df216ac946c67b0e64e4d27e56db7469a57fb97d,",
       "lootboxes.border.item": "S:9dee765ee07d2b0a1c1c986497d1e8bbb0af1664,",
-      "bg.border": "S:54711f1d467cde79bf3b6e946f69f0c5b9b6d407,"
+      "bg.border": "S:54711f1d467cde79bf3b6e946f69f0c5b9b6d407,",
+      "bg.overlay-gradient.10": "S:83c5e6c6373cb887aae9538e5b6eb206de30f1ec,"
     },
     "selectedTokenSets": {
       "7slots.abebet": "enabled"
