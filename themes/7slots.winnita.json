@@ -1773,15 +1773,6 @@
       "type": "border",
       "description": "use for stroke for popup bg"
     },
-    "popup-additional": {
-      "value": {
-        "color": "{bg.border}",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for stroke for profile desktop popup stroke"
-    },
     "dropdown": {
       "value": {
         "color": "#DCE0EE",
@@ -2214,7 +2205,7 @@
   },
   "bg": {
     "popup-additional": {
-      "value": "linear-gradient(180deg, #52FFE0 0%, #29A5EB 100%)",
+      "value": "#283046",
       "type": "color",
       "description": "use for popups bg"
     },
@@ -2452,9 +2443,11 @@
       "description": "use for popups bg"
     },
     "border": {
-      "value": "#DCE0EE",
-      "type": "color",
-      "description": "use for profile popups border "
+      "popup-additional": {
+        "value": "#1d2a45",
+        "type": "color",
+        "description": "use for profile popups border "
+      }
     },
     "popup-2": {
       "value": "#F2F3F5",
@@ -2771,12 +2764,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "{bg.popup}",
+        "value": "#06102C",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "{bg.popup}",
+        "value": "#0E1B3F",
         "type": "color",
         "description": "gradient on bottom for popups"
       }

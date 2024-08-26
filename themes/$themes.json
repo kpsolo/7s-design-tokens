@@ -491,7 +491,6 @@
       "special-blocks.achievements.card.2": "S:8973c2a5d359ae5f47a043ba06d5e7c1f413c737,",
       "special-blocks.achievements.border.main-progress": "S:89f6d35619b53d9e6476dc60b20526af3f510588,",
       "special-blocks.achievements.border.win": "S:9d2de66714bdb7a3ae93926777221dd3967f20e0,",
-      "bg.border": "S:e56a5897faafcf2658e8d1845bd2d572a828375b,",
       "special-blocks.achievements.card.3": "S:57f7f9352b5a4bb733c053ee196d407ffd291431,",
       "special-blocks.achievements.card.4": "S:4e35fd61c1887b718f071c56d76e4fb3b8cbd9d2,",
       "special-blocks.achievements.border.achievements": "S:34a07935c02eab05a9d427dbdb646a0af7a93fb2,",
@@ -614,7 +613,8 @@
       "special-blocks.success-bg": "S:266b556223a7a53bef3f79b305fe55a7bc42f442,",
       "menu.accent-additional": "S:8c31a2c71923bf7d1e7fac695a7d6401df507147,",
       "bg.card.bg.fun-daily-active": "S:8516620c08b000fcfd9517a7ebadab1886bad45e,",
-      "bg.card.border.card-fun-daily-active": "S:96d977e8353b0fe81e21fe2d918e9d1fb924cd8a,"
+      "bg.card.border.card-fun-daily-active": "S:96d977e8353b0fe81e21fe2d918e9d1fb924cd8a,",
+      "bg.border.popup-additional": "S:e56a5897faafcf2658e8d1845bd2d572a828375b,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1260,7 +1260,6 @@
       "special-blocks.achievements.gradient.empty-additional": "S:ba4fe5ef1596343ba0e877ffd88219f3aa93d157,",
       "special-blocks.achievements.gradient.empty": "S:8d8222820aaf561c0b4a5befd55a3077b2857b12,",
       "bg.overlay.7": "S:f57faf96b8daf68b5bf67eb3bc2a4f53858bb6ee,",
-      "bg.border": "S:dcc3e306ff774eec9e61357fd14eea6ed10fc491,",
       "bg.card.bg.1": "S:f4cd6833aa5bafa3e6f356c2f285e05e110ddd83,",
       "bg.card.overlay.1": "S:fa46b43f29a469b0cf941a77f34358bd211ead51,",
       "small-elements.timer.bg-additional": "S:af580c0ab644773ab8199ea1bac20deeb050b1a8,",
@@ -1378,7 +1377,8 @@
       "special-blocks.mobapp.qrcod": "S:78982e8969c54578c996557c058fe5a27b64cd1f,",
       "special-blocks.mobapp.qrcod-copy": "S:1c508d722a8eb3e10488fe0c7ff131839fe72a22,",
       "menu.accent-additional": "S:cfc8db539de8304601295040b3235eec4eaa8101,",
-      "bg.card.bg.fun-daily-default": "S:ead4a54266f01e5895dbba765ff279e7b3ee07d0,"
+      "bg.card.bg.fun-daily-default": "S:ead4a54266f01e5895dbba765ff279e7b3ee07d0,",
+      "bg.border.popup-additional": "S:dcc3e306ff774eec9e61357fd14eea6ed10fc491,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -2019,7 +2019,6 @@
       "special-blocks.achievements.border.win": "S:09acb8b134647526530953218474070cb5ebbab6,",
       "special-blocks.achievements.card.3": "S:839cb86ca485f264a44799aa27f4a9744198c128,",
       "special-blocks.achievements.card.4": "S:e4058f25639e2335291f6f3fd16433e6f3b287ba,",
-      "bg.border": "S:6fd768faffdf8aff89eac1ce87c40afb7a2f69e6,",
       "special-blocks.achievements.border.main-last": "S:5c31274808b9bb5a635037335997eabc00c6a356,",
       "special-blocks.achievements.border.main-progress": "S:5925bb8c130c1e463ccd18012fc5854f7f1fc0be,",
       "special-blocks.achievements.border.achievements": "S:a6bc7fdd3bfe418e9d84df34a2552d81f580557c,",
@@ -2117,7 +2116,8 @@
       "special-blocks.mobapp.qrcod": "S:077d0bc7b148fef6c8f29eb9b1232450480871cc,",
       "special-blocks.mobapp.qrcod-copy": "S:a754aee296e8186845bfc77d00e553743d982593,",
       "menu.accent-additional": "S:ab60e839c2fa895f2a30b9154596cd6212b1968f,",
-      "bg.card.bg.3": "S:0ca2cae4e9e9f93ef7a310fcd09933a66856180e,"
+      "bg.card.bg.3": "S:0ca2cae4e9e9f93ef7a310fcd09933a66856180e,",
+      "bg.border.popup-additional": "S:6fd768faffdf8aff89eac1ce87c40afb7a2f69e6,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -2379,7 +2379,6 @@
       "bg.gradient-additional": "S:d112aad9af1d54652ad292981504a200cee19c4f,",
       "bg.top-surface-additional": "S:3a39896a4fdbfca854ab5234f06256db505c8b14,",
       "bg.social-icons": "S:80783b09b1cbdc7fdce2af0ffc910d4a8723f69a,",
-      "bg.border": "S:0a4273e51fdde92917765ce4c69cff7a5c296205,",
       "bg.card.bg.1": "S:9fb4684a8744a4b04eaead108c63a3ab474e6e40,",
       "bg.card.overlay.1": "S:9855e7c310969d2dcb419e8c870f46fe5b8972b1,",
       "nav.tab.start": "S:e2ea41b78eca0c6f1f465981e06f701bd4dea081,",
@@ -2854,7 +2853,8 @@
       "special-blocks.mobapp.bg-progressbar": "S:a91100e750c16ba5603f6915c577c2e0c015b77e,",
       "special-blocks.mobapp.overlay": "S:fd3be4fb2ecd08ab8fdd5fd0c4c6bf36a9d3ea79,",
       "special-blocks.mobapp.card.6": "S:1c65dcf0d7933c67da585beee73e60de433c6743,",
-      "special-blocks.mobapp.card.first-deposit": "S:d912c53c7df5347fa8e4059b678e6709db21efd8,"
+      "special-blocks.mobapp.card.first-deposit": "S:d912c53c7df5347fa8e4059b678e6709db21efd8,",
+      "bg.border.popup-additional": "S:0a4273e51fdde92917765ce4c69cff7a5c296205,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
@@ -3223,7 +3223,6 @@
       "bg.gradient-additional": "S:f4b3ab103754d89235898f336aea505e40ac5e75,",
       "bg.top-surface-additional": "S:02c7721b92b4fa22eef21ed4204fe75804347159,",
       "bg.social-icons": "S:46dc48de4135012b438b30345fe3a9443f9d30e2,",
-      "bg.border": "S:54711f1d467cde79bf3b6e946f69f0c5b9b6d407,",
       "bg.card.bg.1": "S:4aa5ef54b6273899d45ba8fea781bb75b975b081,",
       "bg.card.bg.2": "S:81fbe42a98a34411bfa6ac701b0427b566a3a0c0,",
       "bg.card.bg.3": "S:4dde4c4c77558746868aeb980850085fa210b7fb,",
@@ -3599,7 +3598,8 @@
       "lootboxes.bg.overlay-additional": "S:4255266d0989962b32131d63eb5a479092b7ee88,",
       "lootboxes.bg.overlay-gradient": "S:b42fe392add020db1a139f6026b2be7d060171f8,",
       "lootboxes.content.accent": "S:df216ac946c67b0e64e4d27e56db7469a57fb97d,",
-      "lootboxes.border.item": "S:9dee765ee07d2b0a1c1c986497d1e8bbb0af1664,"
+      "lootboxes.border.item": "S:9dee765ee07d2b0a1c1c986497d1e8bbb0af1664,",
+      "bg.border.popup-additional": "S:54711f1d467cde79bf3b6e946f69f0c5b9b6d407,"
     },
     "selectedTokenSets": {
       "7slots.abebet": "enabled"
@@ -3702,7 +3702,6 @@
       "bg.popup-2": "f5f21509ad5dd6a4967cc7af336017f111543038",
       "bg.top-surface-additional": "73c6a24e63f437e70bce5140a4abc981812cfba7",
       "bg.social-icons": "419d1f9d2eb0cd2ea66d9459c1355f28210f6506",
-      "bg.border": "a31a04d42d858eaf8cf33cc8437b10ca9bde4505",
       "bg.card.bg.3": "e21ea22045c441f8d173b333d3590045cafe3f6c",
       "bg.card.border.1-additional": "64e76e59b748e7c02f40fbf9266bd9b3d6d7ce48",
       "bg.card.overlay.1": "1e0b858ecf95b3567d5265fba82521300bc28feb",
@@ -4137,7 +4136,8 @@
       "Padding.button.small-vertical": "b0caa79ea1d5c0dee1991f54e7be54969ebd2a5d",
       "Padding.button.x-small-horizontal": "538538fe1f2ffffa3fba9e852875faa69dabcc0b",
       "Padding.button.x-small-vertical": "ccdac2523b7284dd8d9a8f352774cae389db71db",
-      "Padding.gamehall": "5ec0a76245108135adc0c3ace02617fb160c1730"
+      "Padding.gamehall": "5ec0a76245108135adc0c3ace02617fb160c1730",
+      "bg.border.popup-additional": "a31a04d42d858eaf8cf33cc8437b10ca9bde4505"
     }
   }
 ]
