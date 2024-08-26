@@ -4520,6 +4520,7 @@
       "bg.popup-2": "f5f21509ad5dd6a4967cc7af336017f111543038",
       "bg.top-surface-additional": "73c6a24e63f437e70bce5140a4abc981812cfba7",
       "bg.social-icons": "419d1f9d2eb0cd2ea66d9459c1355f28210f6506",
+      "bg.border": "a31a04d42d858eaf8cf33cc8437b10ca9bde4505",
       "bg.card.bg.3": "e21ea22045c441f8d173b333d3590045cafe3f6c",
       "bg.card.border.1-additional": "64e76e59b748e7c02f40fbf9266bd9b3d6d7ce48",
       "bg.card.overlay.1": "1e0b858ecf95b3567d5265fba82521300bc28feb",
@@ -4954,8 +4955,7 @@
       "Padding.button.small-vertical": "b0caa79ea1d5c0dee1991f54e7be54969ebd2a5d",
       "Padding.button.x-small-horizontal": "538538fe1f2ffffa3fba9e852875faa69dabcc0b",
       "Padding.button.x-small-vertical": "ccdac2523b7284dd8d9a8f352774cae389db71db",
-      "Padding.gamehall": "5ec0a76245108135adc0c3ace02617fb160c1730",
-      "bg.border": "a31a04d42d858eaf8cf33cc8437b10ca9bde4505"
+      "Padding.gamehall": "5ec0a76245108135adc0c3ace02617fb160c1730"
     }
   }
 ]

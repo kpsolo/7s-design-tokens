@@ -1890,15 +1890,6 @@
       "type": "border",
       "description": "use for stoke for betting cards"
     },
-    "popup-additional": {
-      "value": {
-        "color": "none",
-        "width": "0px",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for stroke for profile desktop popup stroke"
-    },
     "notification-additional": {
       "value": {
         "color": "none",
@@ -2728,7 +2719,7 @@
       "description": "use for bg under social icons in mob menu"
     },
     "border": {
-      "value": "transparent",
+      "value": "rgba(255, 255, 255, 0.08)",
       "type": "color",
       "description": "use for profile popups border "
     },
