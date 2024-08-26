@@ -5956,7 +5956,7 @@
         "description": "use for close icon in right sidebar"
       },
       "accent-extra": {
-        "value": "{base.accent-primary}",
+        "value": "#fff",
         "type": "color",
         "description": "use for tournament results in right sidebar"
       }
