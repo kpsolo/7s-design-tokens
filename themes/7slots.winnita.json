@@ -2443,11 +2443,9 @@
       "description": "use for popups bg"
     },
     "border": {
-      "popup-additional": {
-        "value": "#DCE0EE",
-        "type": "color",
-        "description": "use for profile popups border "
-      }
+      "value": "#DCE0EE",
+      "type": "color",
+      "description": "use for profile popups border "
     },
     "popup-2": {
       "value": "#F2F3F5",

@@ -1988,7 +1988,7 @@
     },
     "popup-additional": {
       "value": {
-        "color": "{bg.border.popup-additional}",
+        "color": "{bg.border}",
         "width": "0px",
         "style": "solid"
       },

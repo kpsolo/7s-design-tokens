@@ -614,7 +614,7 @@
       "menu.accent-additional": "S:8c31a2c71923bf7d1e7fac695a7d6401df507147,",
       "bg.card.bg.fun-daily-active": "S:8516620c08b000fcfd9517a7ebadab1886bad45e,",
       "bg.card.border.card-fun-daily-active": "S:96d977e8353b0fe81e21fe2d918e9d1fb924cd8a,",
-      "bg.border.popup-additional": "S:e56a5897faafcf2658e8d1845bd2d572a828375b,"
+      "bg.border": "S:e56a5897faafcf2658e8d1845bd2d572a828375b,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -1378,7 +1378,7 @@
       "special-blocks.mobapp.qrcod-copy": "S:1c508d722a8eb3e10488fe0c7ff131839fe72a22,",
       "menu.accent-additional": "S:cfc8db539de8304601295040b3235eec4eaa8101,",
       "bg.card.bg.fun-daily-default": "S:ead4a54266f01e5895dbba765ff279e7b3ee07d0,",
-      "bg.border.popup-additional": "S:dcc3e306ff774eec9e61357fd14eea6ed10fc491,"
+      "bg.border": "S:dcc3e306ff774eec9e61357fd14eea6ed10fc491,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -2117,8 +2117,8 @@
       "special-blocks.mobapp.qrcod-copy": "S:a754aee296e8186845bfc77d00e553743d982593,",
       "menu.accent-additional": "S:ab60e839c2fa895f2a30b9154596cd6212b1968f,",
       "bg.card.bg.3": "S:0ca2cae4e9e9f93ef7a310fcd09933a66856180e,",
-      "bg.border.popup-additional": "S:6fd768faffdf8aff89eac1ce87c40afb7a2f69e6,",
-      "special-blocks.success-bg": "S:93ac4c271a0fdd2026219adbb1233a1935b04a55,"
+      "special-blocks.success-bg": "S:93ac4c271a0fdd2026219adbb1233a1935b04a55,",
+      "bg.border": "S:6fd768faffdf8aff89eac1ce87c40afb7a2f69e6,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -2212,7 +2212,6 @@
       "bg.top-surface": "405e86f95119766251f5a6f605fa20b538431ec4",
       "bg.top-surface-additional": "b692abde7432dfe6a56635b1a0b54551a4525dfe",
       "bg.popup": "06f0c663db880181d85e02ea5d6d3f5371dafb53",
-      "bg.border.popup-additional": "7f305f1a03b77ccd445154ec3755e1862e9142b0",
       "bg.popup-2": "5977b657b1c05ee49e2a2baa35a751837d6afddc",
       "bg.technical": "f67bd984e8fe3e79ddfdd251fe54b18269f2b343",
       "bg.widget-disabled": "be6aae2ff7d2f101de1cacf40c99e0d45dfdbff1",
@@ -2706,7 +2705,8 @@
       "Padding.button.small-horizontal-additional": "8d47ff3937f378540820343a8a27cf91146741a0",
       "Padding.button.x-small-horizontal": "9084d644fb1057eab2b0d8fd265ad03b8ec3aadb",
       "Padding.button.x-small-vertical": "c9e08abf32067c15f8fa823e3faec9f552c3c5fa",
-      "Padding.gamehall": "fc8bd5aff097c32b7dc726bb0f4bd700c4d237cd"
+      "Padding.gamehall": "fc8bd5aff097c32b7dc726bb0f4bd700c4d237cd",
+      "bg.border": "7f305f1a03b77ccd445154ec3755e1862e9142b0"
     }
   },
   {
@@ -3304,7 +3304,7 @@
       "special-blocks.mobapp.overlay": "S:fd3be4fb2ecd08ab8fdd5fd0c4c6bf36a9d3ea79,",
       "special-blocks.mobapp.card.6": "S:1c65dcf0d7933c67da585beee73e60de433c6743,",
       "special-blocks.mobapp.card.first-deposit": "S:d912c53c7df5347fa8e4059b678e6709db21efd8,",
-      "bg.border.popup-additional": "S:0a4273e51fdde92917765ce4c69cff7a5c296205,"
+      "bg.border": "S:0a4273e51fdde92917765ce4c69cff7a5c296205,"
     },
     "selectedTokenSets": {
       "7slots.masalbet": "enabled"
@@ -4049,7 +4049,7 @@
       "lootboxes.bg.overlay-gradient": "S:b42fe392add020db1a139f6026b2be7d060171f8,",
       "lootboxes.content.accent": "S:df216ac946c67b0e64e4d27e56db7469a57fb97d,",
       "lootboxes.border.item": "S:9dee765ee07d2b0a1c1c986497d1e8bbb0af1664,",
-      "bg.border.popup-additional": "S:54711f1d467cde79bf3b6e946f69f0c5b9b6d407,"
+      "bg.border": "S:54711f1d467cde79bf3b6e946f69f0c5b9b6d407,"
     },
     "selectedTokenSets": {
       "7slots.abebet": "enabled"
@@ -4587,7 +4587,7 @@
       "Padding.button.x-small-horizontal": "538538fe1f2ffffa3fba9e852875faa69dabcc0b",
       "Padding.button.x-small-vertical": "ccdac2523b7284dd8d9a8f352774cae389db71db",
       "Padding.gamehall": "5ec0a76245108135adc0c3ace02617fb160c1730",
-      "bg.border.popup-additional": "a31a04d42d858eaf8cf33cc8437b10ca9bde4505"
+      "bg.border": "a31a04d42d858eaf8cf33cc8437b10ca9bde4505"
     }
   }
 ]
