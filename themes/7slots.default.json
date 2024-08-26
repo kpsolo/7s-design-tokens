@@ -2422,7 +2422,7 @@
       "description": "for tournament on main page, news, lottery"
     },
     "border": {
-      "value": "transparent",
+      "value": "rgba(255, 255, 255, 0.05)",
       "type": "color",
       "description": "use for profile popups border "
     },
@@ -5418,7 +5418,7 @@
       "description": "bg all tabs"
     },
     "bg all": {
-      "value": "{bg.tertiary}",
+      "value": "#1C212E",
       "type": "color"
     }
   },
