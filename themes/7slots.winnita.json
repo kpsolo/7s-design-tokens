@@ -2444,7 +2444,7 @@
     },
     "border": {
       "popup-additional": {
-        "value": "#1d2a45",
+        "value": "#DCE0EE",
         "type": "color",
         "description": "use for profile popups border "
       }
@@ -2764,12 +2764,12 @@
   "nav": {
     "tab": {
       "start": {
-        "value": "#06102C",
+        "value": "#fff",
         "type": "color",
         "description": "gradient on top for popups"
       },
       "stop": {
-        "value": "#0E1B3F",
+        "value": "#fff",
         "type": "color",
         "description": "gradient on bottom for popups"
       }
