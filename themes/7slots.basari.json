@@ -2838,7 +2838,7 @@
       "description": "use for bg under social icons in mob menu"
     },
     "border": {
-      "value": "transparent",
+      "value": "rgba(255, 255, 255, 0.12)",
       "type": "color",
       "description": "use for profile popups border "
     },
