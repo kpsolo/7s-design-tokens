@@ -5469,7 +5469,7 @@
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "sector-1-additional": {
-        "value": "#B70606",
+        "value": "#8A1A1A",
         "type": "color",
         "description": "use for sectors bg (type1) - stop"
       },
