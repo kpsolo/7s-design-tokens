@@ -4809,7 +4809,8 @@
       "lootboxes.content.accent": "S:df216ac946c67b0e64e4d27e56db7469a57fb97d,",
       "lootboxes.border.item": "S:9dee765ee07d2b0a1c1c986497d1e8bbb0af1664,",
       "bg.border": "S:54711f1d467cde79bf3b6e946f69f0c5b9b6d407,",
-      "bg.overlay-gradient.10": "S:83c5e6c6373cb887aae9538e5b6eb206de30f1ec,"
+      "bg.overlay-gradient.10": "S:83c5e6c6373cb887aae9538e5b6eb206de30f1ec,",
+      "wheel.bg.sector-icon": "S:f3828078890d8efe178f52f247da5847a15e92e6,"
     },
     "selectedTokenSets": {
       "7slots.abebet": "enabled"
@@ -5268,6 +5269,7 @@
       "wheel.bg.4": "6321b2b232db98f90958d3f12f356c6c56aa6152",
       "wheel.bg.sector-2": "87948e10f228b0293db258bae210150e7f4c4568",
       "wheel.bg.sector-1": "a5b42ce22106927036c78c0ed9eda1ef89fd80db",
+      "wheel.bg.sector-icon": "b46a50208145e053acf8e0f5b3b73ae6e5c315a2",
       "wheel.bg.dots": "73eae053a0a62b9d441fcea1fe2e96414622dd1a",
       "wheel.bg.border-sector": "f475307cc94b56892482f15e8c8162cd800a0c98",
       "wheel.bg.lines": "0251f82cd2535163ff6e9ecd3668e50cdc9c02ed",
