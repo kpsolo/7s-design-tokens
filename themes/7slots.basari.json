@@ -5503,7 +5503,7 @@
         "description": "use as bg for button play in wheel icon in menu"
       },
       "picker": {
-        "value": "linear-gradient(153deg, #AA0606 25.9%, #7D0505 74.1%)",
+        "value": "#8D0606",
         "type": "color",
         "description": "use as bg for picker  in wheel icon in menu"
       }
