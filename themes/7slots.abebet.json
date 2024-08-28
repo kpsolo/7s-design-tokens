@@ -5363,12 +5363,12 @@
         "description": "use for switcher active bg"
       },
       "button": {
-        "value": "#EE801A",
+        "value": "#FCF933",
         "type": "color",
         "description": "use as bg for button play in wheel icon in menu"
       },
       "picker": {
-        "value": "#F28621",
+        "value": "#FCF933",
         "type": "color",
         "description": "use as bg for picker  in wheel icon in menu"
       },
@@ -5530,7 +5530,7 @@
     },
     "border": {
       "button-play": {
-        "value": "#D9D9D9",
+        "value": "#BABABA",
         "type": "color",
         "description": "icon in mob menu - border for play button"
       },
