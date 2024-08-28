@@ -5799,10 +5799,6 @@
         "value": "#D4E2FF",
         "type": "color"
       },
-      "main-additional": {
-        "value": "transparent",
-        "type": "color"
-      },
       "bottom": {
         "value": "transparent",
         "type": "color",

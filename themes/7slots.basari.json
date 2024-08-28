@@ -5609,10 +5609,6 @@
         "type": "color",
         "description": "use for wheel border (outside) in wheel icon in menu"
       },
-      "main-additional": {
-        "value": "linear-gradient(180deg, #AB741D 0%, #DA9425 30.02%, #BD852D 70.42%, #DC9D39 100%)",
-        "type": "color"
-      },
       "bottom": {
         "value": "transparent",
         "type": "color",

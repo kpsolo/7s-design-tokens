@@ -5539,10 +5539,6 @@
         "type": "color",
         "description": "use for wheel border(inside) in menu wheel icon"
       },
-      "main-additional": {
-        "value": "#D9D9D9",
-        "type": "color"
-      },
       "main-additional-extra": {
         "value": "#D9D9D9",
         "type": "color",

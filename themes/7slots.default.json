@@ -5681,11 +5681,6 @@
         "value": "#7E898D",
         "type": "color",
         "description": "use for wheel border(inside) in menu wheel icon"
-      },
-      "main-additional-extra": {
-        "value": "#929EA3",
-        "type": "color",
-        "description": "use for wheel border (outside) in wheel icon in menu"
       }
     }
   },
