@@ -1902,8 +1902,8 @@
     "additional": {
       "value": {
         "color": "trasparent",
-        "width": "1",
-        "style": "solid"
+        "width": "",
+        "style": ""
       },
       "type": "border",
       "description": "use categories separator on inner pages"
