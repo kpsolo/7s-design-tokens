@@ -5487,6 +5487,16 @@
         "value": "#B70606",
         "type": "color",
         "description": "use for color secto in icon in header desktop"
+      },
+      "button": {
+        "value": "#EE801A",
+        "type": "color",
+        "description": "use as bg for button play in wheel icon in menu"
+      },
+      "picker": {
+        "value": "#F28621",
+        "type": "color",
+        "description": "use as bg for picker  in wheel icon in menu"
       }
     },
     "switcher": {
@@ -5649,14 +5659,14 @@
         "type": "color",
         "description": "use for wheel border(inside) in menu wheel icon"
       },
-      "main-additional": {
-        "value": "linear-gradient(180deg, #AB741D 0%, #DA9425 30.02%, #BD852D 70.42%, #DC9D39 100%)",
-        "type": "color"
-      },
       "main-additional-extra": {
         "value": "#DFA03C",
         "type": "color",
         "description": "use for wheel border (outside) in wheel icon in menu"
+      },
+      "main-additional": {
+        "value": "linear-gradient(180deg, #AB741D 0%, #DA9425 30.02%, #BD852D 70.42%, #DC9D39 100%)",
+        "type": "color"
       },
       "bottom": {
         "value": "transparent",

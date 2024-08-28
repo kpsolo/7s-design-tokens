@@ -5403,6 +5403,16 @@
         "value": "#7B1DC4",
         "type": "color",
         "description": "use for color secto in icon in header desktop"
+      },
+      "button": {
+        "value": "#EE801A",
+        "type": "color",
+        "description": "use as bg for button play in wheel icon in menu"
+      },
+      "picker": {
+        "value": "#F28621",
+        "type": "color",
+        "description": "use as bg for picker  in wheel icon in menu"
       }
     },
     "switcher": {

@@ -5362,6 +5362,16 @@
         "type": "color",
         "description": "use for switcher active bg"
       },
+      "button": {
+        "value": "#EE801A",
+        "type": "color",
+        "description": "use as bg for button play in wheel icon in menu"
+      },
+      "picker": {
+        "value": "#F28621",
+        "type": "color",
+        "description": "use as bg for picker  in wheel icon in menu"
+      },
       "sector-2": {
         "value": "#FCF933",
         "type": "color",

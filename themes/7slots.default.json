@@ -5547,6 +5547,16 @@
         "value": "{icon.alternative}",
         "type": "color",
         "description": "use for color sector in icon in header desktop/ menu mob"
+      },
+      "button": {
+        "value": "#EE801A",
+        "type": "color",
+        "description": "use as bg for button play in wheel icon in menu"
+      },
+      "picker": {
+        "value": "#F28621",
+        "type": "color",
+        "description": "use as bg for picker  in wheel icon in menu"
       }
     },
     "switcher": {
