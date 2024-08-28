@@ -4157,7 +4157,7 @@
       "description": "use for top navbar items"
     },
     "logo-mobile": {
-      "value": "32",
+      "value": "28px",
       "type": "sizing",
       "description": "use for mobile logo height "
     },
