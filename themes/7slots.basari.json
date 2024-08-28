@@ -2024,7 +2024,7 @@
     },
     "additional": {
       "value": {
-        "color": "trasparent",
+        "color": "none",
         "width": "",
         "style": ""
       },

@@ -2106,7 +2106,7 @@
     },
     "additional": {
       "value": {
-        "color": "transparent",
+        "color": "none",
         "width": "",
         "style": ""
       },
