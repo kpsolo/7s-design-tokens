@@ -5549,12 +5549,21 @@
         "description": "use for color sector in icon in header desktop/ menu mob"
       },
       "button": {
-        "value": "#EE801A",
+        "value": "#FFFFFF",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use as bg for button play in wheel icon in menu"
       },
       "picker": {
-        "value": "#F28621",
+        "value": "#AA0606",
         "type": "color",
         "description": "use as bg for picker  in wheel icon in menu"
       }
@@ -5596,21 +5605,6 @@
           "type": "color"
         },
         "description": "use for navigation icons"
-      },
-      "1": {
-        "value": "linear-gradient(160deg, #FB3C3C 0%, #880303 100%)",
-        "type": "color",
-        "description": "use for icon respin in popup"
-      },
-      "2": {
-        "value": "#B51A1A",
-        "type": "color",
-        "description": "use for present icon in popup"
-      },
-      "2-additional": {
-        "value": "#C22222",
-        "type": "color",
-        "description": "use for present icon in popup"
       },
       "border": {
         "value": "{base.primary}",
@@ -5669,58 +5663,9 @@
         "description": "use as bg for denominations bet item active state"
       }
     },
-    "picker": {
-      "bg-main": {
-        "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
-        "type": "color",
-        "description": "use as main bg on picker"
-      },
-      "bg-main-2-additional": {
-        "value": "#000",
-        "type": "color",
-        "description": "use as bg for bigger circle"
-      },
-      "bg-shaddow": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
-        "type": "color",
-        "description": "use for shaddow over picker"
-      },
-      "bg-main-2": {
-        "value": "linear-gradient(180deg, #C12323 0%, #B62D3E 45.62%, #8DFCFD 100%), linear-gradient(180deg, #5CD995 0%, #3A9B84 100%), linear-gradient(108deg, #116B21 20.07%, #60BD61 100%)",
-        "type": "color",
-        "description": "use as bg for circle"
-      },
-      "bg-main-2-extra": {
-        "value": "#B62D3E",
-        "type": "color",
-        "description": "use as bg for picker in wheel icon in menu"
-      }
-    },
-    "button": {
-      "bg-2": {
-        "value": "linear-gradient(174deg, rgba(255, 255, 255, 0.80) 6.36%, rgba(255, 255, 255, 0.00) 80.66%)",
-        "type": "color",
-        "description": "use for shaddow under play triangle"
-      },
-      "play": {
-        "value": "#ffffffe6",
-        "type": "color",
-        "description": "play triangle"
-      },
-      "bg-1": {
-        "value": "#B6C6D4",
-        "type": "color",
-        "description": "use for bg on play button"
-      },
-      "bg-border-1": {
-        "value": "linear-gradient(180deg, #47515A 0%, #B6C6D4 100%)",
-        "type": "color",
-        "description": "use as border for play button"
-      }
-    },
     "border": {
       "button-play": {
-        "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
+        "value": "#B6C6D4",
         "type": "color"
       },
       "main-additional": {
