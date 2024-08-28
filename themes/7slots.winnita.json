@@ -5785,7 +5785,7 @@
       }
     },
     "border": {
-      "main": {
+      "button-play": {
         "value": "transparent",
         "type": "color"
       },

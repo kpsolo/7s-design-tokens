@@ -5709,7 +5709,7 @@
       }
     },
     "border": {
-      "main": {
+      "button-play": {
         "value": "linear-gradient(90deg, #47515A 0%, #868E93 26.31%, #DCF7FD 50%, #868E93 75%, #47515A 100%)",
         "type": "color"
       },

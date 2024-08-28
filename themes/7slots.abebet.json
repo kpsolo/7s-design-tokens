@@ -5519,9 +5519,10 @@
       }
     },
     "border": {
-      "main": {
-        "value": "linear-gradient(59deg, #a76f18 15.01%, #c08a31 36.89%, #c78724 56.58%, #f0b24d 84.9%)",
-        "type": "color"
+      "button-play": {
+        "value": "#D9D9D9",
+        "type": "color",
+        "description": "icon in mob menu - border for play button"
       },
       "main-extra": {
         "value": "#9D9D9D",
