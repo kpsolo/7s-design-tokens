@@ -5524,16 +5524,16 @@
         "type": "color"
       },
       "main-extra": {
-        "value": "#C78A2B",
+        "value": "#9D9D9D",
         "type": "color",
         "description": "use for wheel border(inside) in menu wheel icon"
       },
       "main-additional": {
-        "value": "linear-gradient(180deg, #AB741D 0%, #DA9425 30.02%, #BD852D 70.42%, #DC9D39 100%)",
+        "value": "#D9D9D9",
         "type": "color"
       },
       "main-additional-extra": {
-        "value": "#DFA03C",
+        "value": "#D9D9D9",
         "type": "color",
         "description": "use for wheel border (outside) in wheel icon in menu"
       },
