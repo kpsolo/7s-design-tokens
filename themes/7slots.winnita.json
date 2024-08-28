@@ -5796,7 +5796,7 @@
     },
     "border": {
       "button-play": {
-        "value": "transparent",
+        "value": "#D4E2FF",
         "type": "color"
       },
       "main-additional": {
@@ -5809,12 +5809,12 @@
         "description": "use as bg under wheel main border"
       },
       "main-extra": {
-        "value": "#C78A2B",
+        "value": "#C9DAFF",
         "type": "color",
         "description": "use for wheel border(inside) in menu wheel icon"
       },
       "main-additional-extra": {
-        "value": "#DFA03C",
+        "value": "#849DC3",
         "type": "color",
         "description": "use for wheel border (outside) in wheel icon in menu"
       }
