@@ -5668,8 +5668,8 @@
         "value": "#B6C6D4",
         "type": "color"
       },
-      "main-additional": {
-        "value": "linear-gradient(180deg, #47515A 6.83%, #868E93 29.42%, #DCF7FD 49.75%, #868E93 71.21%, #47515A 92.67%)",
+      "main-additional-extra": {
+        "value": "#7E898D",
         "type": "color"
       },
       "bottom": {

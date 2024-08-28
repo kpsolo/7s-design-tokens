@@ -273,7 +273,6 @@
       "wheel.button.play": "S:8262d147d90f3455c9859c455e8e117317af3db6,",
       "wheel.button.bg-1": "S:39df9a659a6392a1b9d8b2149b302b8fbd59ce1f,",
       "wheel.button.bg-border-1": "S:26861b14fc8a4bf31291762a351a858bf08fab40,",
-      "wheel.border.main-additional": "S:48a4d73236be4d4f0650ce6970088e5d78249a55,",
       "wheel.border.bottom": "S:7c85c76ed141d7368f37d26830c2cf5a300d6636,",
       "typography.caption-extrasmall": "S:3621d5083bb626bb90a39f33a465b16dbfd4ba19,",
       "typography.caption-extrasmall-strong": "S:843dee54474f62a5a46643d3c85953457c069144,",
@@ -614,7 +613,8 @@
       "wheel.bg.sector-icon": "S:d3c715e8b2da3a7f427e98ee93e2b5edb10e7b7f,",
       "wheel.border.button-play": "S:1e748430d0eebcddfcdc2231ac338eef72924068,",
       "wheel.bg.button": "S:4b849eeebc07752a09339f16e3fe31fab22072c1,",
-      "wheel.bg.picker": "S:6dd62bc6c77614f59355a04c1900bb535427bc20,"
+      "wheel.bg.picker": "S:6dd62bc6c77614f59355a04c1900bb535427bc20,",
+      "wheel.border.main-additional-extra": "S:48a4d73236be4d4f0650ce6970088e5d78249a55,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"
@@ -3902,8 +3902,7 @@
       "wheel.button.bg-1": "S:ec6cfdd4956820276c01065bee07e83d9b173801,",
       "wheel.button.bg-border-1": "S:36b62de5d1e297d2df14f921737b1d033cb857ef,",
       "wheel.border.main-extra": "S:ac88a08c983ddf20b81cb553a6b9edd814720d18,",
-      "wheel.border.main-additional": "S:36c104fa78fe8fae7cd3f40c1fc774ccc90921c9,",
-      "wheel.border.main-additional-extra": "S:85e6192a90c31d3844f78b5cfff572bc2200b129,",
+      "wheel.border.main-additional-extra": "S:36c104fa78fe8fae7cd3f40c1fc774ccc90921c9,",
       "wheel.border.bottom": "S:17c4ce1a3e17607e1e1eeaeafdd3ecc03b306e88,",
       "live-lottery.live-tip": "S:30998a83ee9dba2ffdaf8b877b4bcdd532a5994b,",
       "live-lottery.live-tip-text": "S:a166f597d2933f4e18d29b5cd850f70567b5490a,",
