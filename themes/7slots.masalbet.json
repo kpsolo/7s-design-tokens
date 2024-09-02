@@ -2725,8 +2725,17 @@
       "description": "use for bg under social icons in mob menu"
     },
     "border": {
-      "value": "transparent",
+      "value": "#FFFFFF",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.08",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "use for profile popups border "
     },
     "card": {
