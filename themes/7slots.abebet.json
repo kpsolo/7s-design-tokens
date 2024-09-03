@@ -1169,6 +1169,20 @@
       "type": "boxShadow",
       "description": "Shadow for secondary button text"
     },
+    "accent-extra": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "transparent",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "use for message icon on header desktop"
+    },
     "accent": {
       "value": [
         {
@@ -1176,6 +1190,34 @@
           "y": "0",
           "blur": "4",
           "spread": "",
+          "color": "#d7a800",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "accent blur menu items desktop"
+    },
+    "accent-unic": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "",
+          "color": "#C31855",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "shaddow on item hover state in desktop categories dropdown"
+    },
+    "accent-additional": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0",
           "color": "#d7a800",
           "type": "dropShadow"
         }
@@ -1427,34 +1469,6 @@
       },
       "type": "boxShadow",
       "description": "Shadow for header desktop"
-    },
-    "accent-additional": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "4",
-          "spread": "0",
-          "color": "#d7a800",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "accent blur menu items desktop"
-    },
-    "accent-extra": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "transparent",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for message icon on header desktop"
     },
     "card-additional-3": {
       "value": [
@@ -3314,7 +3328,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0.1",
               "space": "srgb"
             }
           }

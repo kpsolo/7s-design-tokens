@@ -1521,6 +1521,20 @@
       },
       "type": "boxShadow",
       "description": "Shaddow for tags in pregame - desktop"
+    },
+    "accent-unic": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "",
+          "color": "#C31855",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "shaddow on item hover state in desktop categories dropdown"
     }
   },
   "border": {
