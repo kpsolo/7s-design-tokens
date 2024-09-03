@@ -4051,7 +4051,7 @@
         "description": "Input value text color"
       },
       "accent": {
-        "value": "{categories.item-active}",
+        "value": "{icon.accent}",
         "type": "color",
         "description": "Use for active select text"
       },
