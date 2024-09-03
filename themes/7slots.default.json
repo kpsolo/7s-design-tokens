@@ -1723,7 +1723,7 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
+          "spread": "1",
           "color": "#2DD890",
           "type": "dropShadow"
         }
