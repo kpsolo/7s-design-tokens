@@ -1528,7 +1528,7 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "",
+          "spread": "1",
           "color": "{base.accent-primary}",
           "type": "dropShadow"
         }
