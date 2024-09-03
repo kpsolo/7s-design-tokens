@@ -3766,6 +3766,11 @@
           "type": "color",
           "description": "use for tags text in pregame for hover/focuced/pressed- desktop"
         }
+      },
+      "border": {
+        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+        "type": "color",
+        "description": "use for border in bonus games popup "
       }
     },
     "gender": {
