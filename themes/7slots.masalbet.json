@@ -1529,7 +1529,7 @@
           "y": "0",
           "blur": "4",
           "spread": "",
-          "color": "#C31855",
+          "color": "{base.accent-primary}",
           "type": "dropShadow"
         }
       ],
