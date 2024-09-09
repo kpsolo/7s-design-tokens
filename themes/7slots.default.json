@@ -3869,8 +3869,17 @@
         }
       },
       "border": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+        "value": "#fff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.12",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "use for border in bonus games popup "
       }
     },
