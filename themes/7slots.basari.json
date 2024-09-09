@@ -1966,7 +1966,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "#cccccc",
+        "color": "#fff",
         "width": "1px",
         "style": "solid"
       },
