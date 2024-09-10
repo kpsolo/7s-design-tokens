@@ -536,14 +536,9 @@
     "title-1-stronger-additional": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.7}",
-        "letterSpacing": "{letter-spacing.0}",
-        "paragraphSpacing": "{paragraph-spacing.0}",
-        "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
-        "textDecoration": "{text-decoration.none}"
+        "fontWeight": "{font-weight.3}",
+        "fontSize": "24",
+        "lineHeight": "29"
       },
       "type": "typography",
       "description": "welcome back popup submain header with bonus info"
@@ -2417,7 +2412,7 @@
       "description": "use for active bonus balance"
     },
     "popup": {
-      "value": "#252D40",
+      "value": "linear-gradient(213.02deg, #3A5379 19.43%, #1C212E 89.5%)",
       "type": "color",
       "description": "use for popups bg"
     },
