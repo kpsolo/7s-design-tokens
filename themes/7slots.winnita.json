@@ -3801,7 +3801,7 @@
         }
       },
       "border": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
+        "value": "#D9E4FF",
         "type": "color",
         "description": "use for border in bonus games popup "
       }
