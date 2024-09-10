@@ -297,16 +297,17 @@
     "button-text-xs": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0}",
         "paragraphSpacing": "{paragraph-spacing.0}",
         "paragraphIndent": "{paragraph-indent.first-stroke-default}",
-        "textCase": "{text-case.none}",
+        "textCase": "{text-case.uppercase}",
         "textDecoration": "{text-decoration.none}"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "small button in pregame"
     },
     "link-s": {
       "value": {
