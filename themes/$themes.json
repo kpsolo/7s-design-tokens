@@ -1746,7 +1746,9 @@
       "bg.overlay-gradient.10": "S:1a00cf4e88302d20b2f600250b8342d1394e2181,",
       "wheel.bg.sector-icon": "S:e4b01dc6f45ffd7ea434d6c408656db971936f83,",
       "wheel.bg.button": "S:0e6338829e38889ec2edcb88732fb6a6766c2bc3,",
-      "wheel.bg.picker": "S:7ffc694eaa72d71a10582d9dadc66c59cc02c3d0,"
+      "wheel.bg.picker": "S:7ffc694eaa72d71a10582d9dadc66c59cc02c3d0,",
+      "small-elements.chips.border": "S:1bc0d6b4b10151d8501dc0f675752d79353cb931,",
+      "shadow.accent-unic": "S:ca2ef48ae1d36f7f1dbfe129ab1fd335b0db9241,"
     },
     "selectedTokenSets": {
       "7slots.basari": "enabled"
@@ -1972,6 +1974,7 @@
       "small-elements.chips.text.default-additional": "ae5c127d42efce35445528e93d187e3f0b9d2840",
       "small-elements.chips.text.states": "c7c6f97eb9f167caadaad46877806802bac84837",
       "small-elements.chips.text.states-additional": "8120d9745e52033a01a3c839eef0ce126e037fb5",
+      "small-elements.chips.border": "ad025829862e8fa2cf7c86d957094529d815b0fa",
       "icon.secondary": "f91a9e7f8ed98e0aa54f7f96d8e17ed0754a1148",
       "icon.primary": "a8fd1db125122e411fd04da33996ad2b87a6e449",
       "icon.tertiary": "e8d71e36de3eeacd21799330397f820ed1c5b7b0",
@@ -2206,6 +2209,7 @@
       "wheel.bg.radial": "471d56dd3267b52b73e34956788269473b8d7c15",
       "wheel.bg.sector-icon": "bd71578381e2a07d75304d9d9f682717c44f2e64",
       "wheel.bg.button": "16da733156eeee6f4195ba311071bf3ff5cfaa45",
+      "wheel.bg.picker": "20c31e72199ad4cc459eedb823c73da8394e8c06",
       "wheel.switcher": "3792ee4c5f1fd8875ad3613453142991092e545f",
       "wheel.icons.0": "634cc5d71b39b6d1404b835019809027e8fdf929",
       "wheel.icons.border": "2ee89f85ea9a398ea582edd4313c05ed5faf606f",
