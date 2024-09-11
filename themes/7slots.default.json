@@ -2412,9 +2412,14 @@
       "description": "use for active bonus balance"
     },
     "popup": {
-      "value": "linear-gradient(213.02deg, #3A5379 19%, #1C212E 89%)",
+      "value": "#252D40",
       "type": "color",
       "description": "use for popups bg"
+    },
+    "popup2": {
+      "value": "linear-gradient(213.02deg, #3A5379 19%, #1C212E 89%)",
+      "type": "color",
+      "description": "use for popups bg2"
     },
     "top-surface": {
       "value": "{base.light}",
