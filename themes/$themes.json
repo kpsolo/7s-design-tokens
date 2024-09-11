@@ -2517,7 +2517,10 @@
       "bg.overlay-gradient.10": "S:384b1ac2d13f899542bc3927bb32335e3a614048,",
       "wheel.bg.sector-icon": "S:84d4d36205aef5a5e94a0b2b5100802227fcdae4,",
       "wheel.bg.button": "S:fc15916583c8edce437f171cd0fb1c7d17baf20c,",
-      "wheel.bg.picker": "S:52c78e6b54ff59cde3d95cdbab36300a1f3058d1,"
+      "wheel.bg.picker": "S:52c78e6b54ff59cde3d95cdbab36300a1f3058d1,",
+      "bg.popup2": "S:80ad580cc6e67ffb92632efe03c824902e42015d,",
+      "small-elements.chips.border": "S:84269be9300dd6de5d2dc88e7db89c9187112b8c,",
+      "shadow.accent-unic": "S:ff3fcfefe2ebad9684ace5c7e34495bcc733ccb4,"
     },
     "selectedTokenSets": {
       "7slots.winnita": "enabled"
@@ -2787,6 +2790,7 @@
       "small-elements.chips.text.default-additional": "2d2b1a1daadb2eee712db00eefe7ab30dab57258",
       "small-elements.chips.text.states": "0495e15c5b0e31dd7bc9d092462b56329e9f53c3",
       "small-elements.chips.text.states-additional": "f80dcbe89fb84004d63adc51a579b762dfcb3016",
+      "small-elements.chips.border": "a9096e01c86b8c8f8852381f4a5d6c1d9c6c6b2c",
       "small-elements.gender": "de408a38bbad7009ec92b63738c9daf4eb66cfa4",
       "icon.secondary": "e3ed8d59a6ba2150bfbd3c716f9ffa7f0c86def9",
       "icon.primary": "e8fc8c459ffc3b03365091a970480c4113387463",
