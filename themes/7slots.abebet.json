@@ -1203,7 +1203,7 @@
           "x": "0",
           "y": "0",
           "blur": "4",
-          "spread": "1",
+          "spread": "",
           "color": "#C31855",
           "type": "dropShadow"
         }
