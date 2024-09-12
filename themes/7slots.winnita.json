@@ -2456,6 +2456,11 @@
       "type": "color",
       "description": "use for popups bg"
     },
+    "popup2": {
+      "value": "#FFFFFF",
+      "type": "color",
+      "description": "use for popups bg2"
+    },
     "border": {
       "value": "#DCE0EE",
       "type": "color",
@@ -2776,11 +2781,6 @@
       "value": "#1742A0",
       "type": "color",
       "description": "use for bonus balance"
-    },
-    "popup2": {
-      "value": "linear-gradient(213.02deg, #3A5379 19%, #1C212E 89%)",
-      "type": "color",
-      "description": "use for popups bg2"
     }
   },
   "nav": {
