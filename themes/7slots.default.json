@@ -5903,7 +5903,7 @@
         }
       },
       "accent": {
-        "value": "{text.title.accent}",
+        "value": "{icon.accent}",
         "type": "color"
       },
       "additional": {
