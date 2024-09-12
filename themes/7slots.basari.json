@@ -2519,15 +2519,20 @@
       "type": "color",
       "description": "use for messages, shop, faq cards"
     },
-    "top-surface": {
-      "value": "{base.light}",
-      "type": "color",
-      "description": "bg for menu, bottom sheets,dropdown"
-    },
     "popup": {
       "value": "linear-gradient(180deg, {nav.tab.start} 0%, {nav.tab.stop} 100%)",
       "type": "color",
       "description": "use for popups bg"
+    },
+    "popup2": {
+      "value": "{bg.popup}",
+      "type": "color",
+      "description": "use for popups bg2"
+    },
+    "top-surface": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "bg for menu, bottom sheets,dropdown"
     },
     "technical": {
       "value": "linear-gradient(176deg, #711919 4%, #771F1E 34%, #521A19 62%, #31090B 84%, #31090B 94%)",
@@ -2993,11 +2998,6 @@
       "value": "#ffffff",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
-    },
-    "popup2": {
-      "value": "linear-gradient(213.02deg, #3A5379 19%, #1C212E 89%)",
-      "type": "color",
-      "description": "use for popups bg2"
     }
   },
   "nav": {
