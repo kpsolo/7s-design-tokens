@@ -2525,7 +2525,7 @@
       "description": "use for popups bg"
     },
     "popup2": {
-      "value": "{bg.popup}",
+      "value": "linear-gradient(180deg, #373737 0%, #222222 100%)",
       "type": "color",
       "description": "use for popups bg2"
     },
