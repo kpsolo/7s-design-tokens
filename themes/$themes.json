@@ -5248,7 +5248,8 @@
       "wheel.bg.button": "S:eaa346f706e58b4c4480d7d58b7ddb067d0ffc22,",
       "wheel.bg.picker": "S:b69238a9672fa3bdf2fa8ec783d4af8721cdd0d7,",
       "small-elements.chips.border": "S:a6c3f74cac84d5511f10b4cc04dd9dbe925bdd58,",
-      "shadow.accent-unic": "S:8d1394e78c517e75f5c4e6d81084c86518653bed,"
+      "shadow.accent-unic": "S:8d1394e78c517e75f5c4e6d81084c86518653bed,",
+      "bg.popup2": "S:b62be62cbb07c2b9aed09284d1f00244e26023e3,"
     },
     "selectedTokenSets": {
       "7slots.abebet": "enabled"
