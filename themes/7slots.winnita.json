@@ -2603,7 +2603,7 @@
         "description": "use for progress bar bg "
       },
       "gamepage": {
-        "value": "rgba(0, 0, 0, 0.80)",
+        "value": "rgba(0, 0, 0, 0.85)",
         "type": "color",
         "description": "Background above game image"
       },
