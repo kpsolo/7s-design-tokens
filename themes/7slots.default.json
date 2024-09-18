@@ -214,7 +214,8 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.3}",
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -235,7 +236,8 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}"
+        "fontSize": "{font-size.4}",
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "Link text"
@@ -783,7 +785,8 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.2}",
-        "letterSpacing": "-0.2px"
+        "letterSpacing": "-0.2px",
+        "textDecoration": "{text-decoration.none}"
       },
       "type": "typography",
       "description": "links in shop hover state"
