@@ -575,7 +575,7 @@
           "fontWeight": "{font-weight.3}",
           "lineHeight": "50px",
           "fontSize": "50px",
-          "letterSpacing": "-10%",
+          "letterSpacing": "-5px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -632,7 +632,7 @@
           "fontWeight": "{font-weight.2}",
           "lineHeight": "70px",
           "fontSize": "64px",
-          "letterSpacing": "-5%"
+          "letterSpacing": "-3px"
         },
         "type": "typography",
         "description": "Amount of prize on jackpot widget"
