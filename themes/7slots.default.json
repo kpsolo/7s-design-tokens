@@ -527,6 +527,7 @@
           "fontWeight": "{font-weight.3}",
           "lineHeight": "24px",
           "fontSize": "18px",
+          "letterSpacing": "0%",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -538,6 +539,7 @@
           "fontWeight": "{font-weight.3}",
           "lineHeight": "38px",
           "fontSize": "32px",
+          "letterSpacing": "0%",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -549,6 +551,7 @@
           "fontWeight": "{font-weight.3}",
           "lineHeight": "32px",
           "fontSize": "20px",
+          "letterSpacing": "0%",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -560,6 +563,7 @@
           "fontWeight": "{font-weight.2}",
           "lineHeight": "24px",
           "fontSize": "14px",
+          "letterSpacing": "0%",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
