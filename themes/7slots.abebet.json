@@ -4229,7 +4229,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "accent": {
-        "value": "#F4F7FB",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for accent elements ( button, number)"
       },
