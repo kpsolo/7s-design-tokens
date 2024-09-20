@@ -1491,7 +1491,7 @@
       },
       "referral-card": {
         "value": {
-          "color": "rgba(71, 255, 185, 0.20)",
+          "color": "rgba(250, 165, 0, 0.2);",
           "width": "1px",
           "style": "solid"
         },
@@ -4169,7 +4169,7 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
+        "value": "linear-gradient(180deg, #F6D365 0%, #FDA085 100%)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
