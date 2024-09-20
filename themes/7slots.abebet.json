@@ -4219,7 +4219,7 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
+        "value": "linear-gradient(180deg, #D4FC79 0%, #96E6A1 100%)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
