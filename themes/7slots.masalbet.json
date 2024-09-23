@@ -1491,7 +1491,7 @@
       },
       "referral-card": {
         "value": {
-          "color": "rgba(250, 165, 0, 0.3)",
+          "color": "rgba(71, 255, 185, 0.20)",
           "width": "1px",
           "style": "solid"
         },
@@ -4169,7 +4169,7 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(180deg, #F6D365 0%, #FDA085 100%)",
+        "value": "linear-gradient(153deg, #68ECE4 31.72%, #ED81EF 66.82%)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
@@ -4179,7 +4179,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#F4F7FB",
         "type": "color",
         "description": "use for accent elements ( button, number)"
       },

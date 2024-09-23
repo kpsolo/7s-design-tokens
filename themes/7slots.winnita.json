@@ -4313,12 +4313,12 @@
     },
     "referral": {
       "number": {
-        "value": "#92AFD8",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
       "bg": {
-        "value": "rgba(155, 187, 230, 0.30)",
+        "value": "rgba(58, 99, 184, 0.1)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
