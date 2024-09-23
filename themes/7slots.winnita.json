@@ -1641,9 +1641,9 @@
       },
       "referral-card": {
         "value": {
-          "color": "rgba(71, 255, 185, 0.10)",
-          "width": "1px",
-          "style": "solid"
+          "color": "#fff",
+          "width": "",
+          "style": ""
         },
         "type": "border",
         "description": "Border for card 1,2,3 in referral conditions"
@@ -2406,7 +2406,7 @@
       }
     },
     "blur": {
-      "value": "0px",
+      "value": "{bg.blur-additional}",
       "type": "dimension",
       "description": "use for bg blue in categories/ strip service"
     },
@@ -4318,7 +4318,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg": {
-        "value": "rgba(58, 99, 184, 0.1)",
+        "value": "rgba(10, 90, 201, 0.2)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
