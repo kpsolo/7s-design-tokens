@@ -4318,7 +4318,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg": {
-        "value": "rgba(10, 90, 201, 1)",
+        "value": "#B2C3FF",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
