@@ -587,7 +587,7 @@
           "fontWeight": "{font-weight.3}",
           "lineHeight": "36px",
           "fontSize": "32px",
-          "letterSpacing": "-1%",
+          "letterSpacing": "-2px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -643,7 +643,7 @@
           "fontWeight": "{font-weight.2}",
           "lineHeight": "36px",
           "fontSize": "34px",
-          "letterSpacing": "-1%"
+          "letterSpacing": "-2px"
         },
         "type": "typography",
         "description": "Amount of prize on jackpot page"
