@@ -4287,7 +4287,7 @@
     },
     "referral": {
       "number": {
-        "value": "linear-gradient(244.46deg, #B0FAD3 16.17%, #93DA93 30.62%, #E5AC91 50%, #61BBDC 66.92%, #9CF3E8 83.83%)",
+        "value": "linear-gradient(0deg, #FF9E1B 15%, #FFCF54 75.83%)",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
