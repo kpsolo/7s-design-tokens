@@ -1491,7 +1491,7 @@
       },
       "referral-card": {
         "value": {
-          "color": "rgba(71, 255, 185, 0.20)",
+          "color": "rgba(250, 165, 0, 0.3)",
           "width": "1px",
           "style": "solid"
         },
@@ -4179,7 +4179,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "accent": {
-        "value": "#F4F7FB",
+        "value": "#FAA500",
         "type": "color",
         "description": "use for accent elements ( button, number)"
       },
