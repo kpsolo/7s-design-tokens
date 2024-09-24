@@ -1641,7 +1641,7 @@
       },
       "referral-card": {
         "value": {
-          "color": "#fff",
+          "color": "rgba(214, 230, 255, 0.1)",
           "width": "",
           "style": ""
         },
