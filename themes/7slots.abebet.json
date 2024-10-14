@@ -2565,7 +2565,7 @@
       "description": "use for bonus balance"
     },
     "popup2": {
-      "value": "linear-gradient(180deg, #0E1438 0%, #271743 100%)",
+      "value": "linear-gradient(213.02deg, #3A5379 23.28%, #1C212E 83.62%)",
       "type": "color",
       "description": "use for popups bg2"
     }
