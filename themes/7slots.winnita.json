@@ -2450,7 +2450,7 @@
       },
       "border": {
         "1": {
-          "value": "linear-gradient(164deg, {bg.card.border.1-additional} 14.63%, rgba(2, 255, 57, 0.00) 70.89%)",
+          "value": "linear-gradient(164deg, #02ff39 14.63%, #02ff3900 70.89%);",
           "type": "color",
           "description": "DESIGN \n1st deposit card stroke, welcomeback popup border "
         },
