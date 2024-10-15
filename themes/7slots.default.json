@@ -4447,8 +4447,17 @@
           "description": "radial card - main screen with achievements icon"
         },
         "empty": {
-          "value": "linear-gradient(90deg, #4C3180 0%, rgba(76, 49, 128, 0.00) 100%)",
+          "value": "#492E7C",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "srgb"
+              }
+            }
+          },
           "description": "for empty cards zone"
         },
         "empty-additional": {
