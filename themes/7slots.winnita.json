@@ -4409,7 +4409,7 @@
       "description": "for success bg"
     },
     "error-bg": {
-      "value": "#E09AA3",
+      "value": "#F1B2B2",
       "type": "color",
       "description": "for error bg"
     }
