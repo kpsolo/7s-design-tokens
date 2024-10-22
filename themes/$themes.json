@@ -617,7 +617,8 @@
       "wheel.border.main-additional-extra": "S:fd3fa87daa32ba3013dd400e20895596de53ba88,",
       "small-elements.chips.border": "S:c409835a670f403a9abba6e0bd9365230551dcd1,",
       "shadow.accent-unic": "S:21ba5ccd8a4d85155b6d5974a0fc0eb3a7b1f82b,",
-      "bg.popup2": "S:b4c8096af6701caa99bb0194dab56f403fdd709f,"
+      "bg.popup2": "S:b4c8096af6701caa99bb0194dab56f403fdd709f,",
+      "small-elements.badge.3": "S:42c16b9e6c26aceca967812a77526c5912da5a0f,"
     },
     "selectedTokenSets": {
       "7slots.default": "enabled"

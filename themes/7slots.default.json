@@ -372,7 +372,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.3}",
         "fontSize": "24",
-        "lineHeight": "29px"
+        "lineHeight": "32"
       },
       "type": "typography",
       "description": "welcome back popup submain header with bonus info"
