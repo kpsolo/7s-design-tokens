@@ -4546,7 +4546,7 @@
       "description": "for success bg"
     },
     "error-bg": {
-      "value": "#E09AA3",
+      "value": "#F8A7A7",
       "type": "color",
       "description": "for error bg"
     }
