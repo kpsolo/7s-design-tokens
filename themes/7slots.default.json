@@ -4337,6 +4337,11 @@
       "type": "color",
       "description": "for success bg"
     },
+    "error-bg": {
+      "value": "#E09AA3",
+      "type": "color",
+      "description": "for error bg"
+    },
     "dropdown-custom-fade": {
       "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
       "type": "color",
