@@ -4720,7 +4720,7 @@
       "description": "also use for win tickets in lottery results"
     },
     "link-alternative": {
-      "value": "{text.secondary}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for links on lighter bg (notifications), game page"
     },
