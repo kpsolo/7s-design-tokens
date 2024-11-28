@@ -4328,7 +4328,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg-additional": {
-        "value": "#F4F7FB",
+        "value": "#868484",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
