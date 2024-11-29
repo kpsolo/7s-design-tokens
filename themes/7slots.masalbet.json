@@ -2100,6 +2100,11 @@
         "value": "{bg.overlay.2}",
         "type": "color",
         "description": "use in registration bonus cards"
+      },
+      "filltooltip": {
+        "value": "#03449F",
+        "type": "color",
+        "description": "fill border tooltip"
       }
     },
     "gradient": {
@@ -5778,17 +5783,6 @@
       "value": "24px",
       "type": "dimension",
       "description": "use for top padding in gameshall"
-    }
-  },
-  "fill border": {
-    "tooltip": {
-      "value": {
-        "color": "#cccccc",
-        "width": "",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "fill border for tooltips"
     }
   }
 }

@@ -1713,17 +1713,6 @@
       "description": "use for border in tournament/lottery mob tabs"
     }
   },
-  "fill border": {
-    "tooltip": {
-      "value": {
-        "color": "#cccccc",
-        "width": "",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "fill border for tooltips"
-    }
-  },
   "base spacing": {
     "smallest": {
       "value": "2px",
@@ -2161,6 +2150,11 @@
         "value": "#03449F",
         "type": "color",
         "description": "Bg for background popup on strip desktop"
+      },
+      "filltooltip": {
+        "value": "#CCCCCC",
+        "type": "color",
+        "description": "fill border tooltip"
       }
     },
     "top-surface": {
