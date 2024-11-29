@@ -1718,7 +1718,7 @@
     },
     "tooltip": {
       "value": {
-        "color": "#fff",
+        "color": "{bg.other.filltooltip}",
         "width": "1px",
         "style": "solid"
       },
@@ -2340,7 +2340,7 @@
         "description": "use in registration bonus cards"
       },
       "filltooltip": {
-        "value": "#03449F",
+        "value": "#fff",
         "type": "color",
         "description": "fill border tooltip"
       }
