@@ -5784,5 +5784,16 @@
       "type": "dimension",
       "description": "use in homegage games hall"
     }
+  },
+  "fill border": {
+    "tooltip": {
+      "value": {
+        "color": "#cccccc",
+        "width": "",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "fill border for tooltips"
+    }
   }
 }

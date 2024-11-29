@@ -5762,5 +5762,16 @@
       "type": "dimension",
       "description": "use for top padding in gameshall"
     }
+  },
+  "fill border": {
+    "tooltip": {
+      "value": {
+        "color": "#cccccc",
+        "width": "",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "fill border for tooltips"
+    }
   }
 }

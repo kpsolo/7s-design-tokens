@@ -1713,6 +1713,17 @@
       "description": "use for border in tournament/lottery mob tabs"
     }
   },
+  "fill border": {
+    "tooltip": {
+      "value": {
+        "color": "#cccccc",
+        "width": "",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "fill border for tooltips"
+    }
+  },
   "base spacing": {
     "smallest": {
       "value": "2px",
