@@ -1328,7 +1328,7 @@
           "y": "0",
           "blur": "16",
           "spread": "0",
-          "color": "rgba(255, 150, 45, 0.6)",
+          "color": "rgba(255, 70, 45, 0.6)",
           "type": "dropShadow"
         },
         {
@@ -1336,7 +1336,7 @@
           "y": "0",
           "blur": "9",
           "spread": "0",
-          "color": "rgba(255, 219, 153, 1)",
+          "color": "rgba(255, 70, 45, 1)",
           "type": "innerShadow"
         },
         {
@@ -1344,7 +1344,7 @@
           "y": "0",
           "blur": "45",
           "spread": "0",
-          "color": "rgba(254, 182, 0, 0.45)",
+          "color": "rgba(255, 70, 45, 0.45)",
           "type": "innerShadow"
         }
       ],
@@ -5792,7 +5792,7 @@
   },
   "News": {
     "bg blur": {
-      "value": "#1C212E",
+      "value": "rgba(0, 120, 176, 1)",
       "type": "color"
     },
     "bg card": {
@@ -5801,7 +5801,7 @@
       "description": "bg news card"
     },
     "bg cards": {
-      "value": "linear-gradient(151deg, #4D3175 7.95%, #452A54 31.5%, #261D28 50.84%, #1C212E 92.05%)",
+      "value": "linear-gradient(148.34deg, #571E1E 9.9%, #571E1E 17.01%, #231E1B 47.19%, #1B1B23 80.93%)",
       "type": "color",
       "description": "bg news card"
     }
