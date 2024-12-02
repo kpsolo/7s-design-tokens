@@ -5759,5 +5759,11 @@
       "type": "dimension",
       "description": "use for top padding in gameshall"
     }
+  },
+  "News": {
+    "bg blur": {
+      "value": "#1C212E",
+      "type": "color"
+    }
   }
 }

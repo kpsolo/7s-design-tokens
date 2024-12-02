@@ -5789,5 +5789,12 @@
       "type": "dimension",
       "description": "use in homegage games hall"
     }
+  },
+  "News": {
+    "bg blur": {
+      "value": "linear-gradient(180deg, #F38209 0%, #89058D 100%)",
+      "type": "color",
+      "description": "bg under the news card"
+    }
   }
 }
