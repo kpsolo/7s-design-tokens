@@ -1247,6 +1247,36 @@
       ],
       "type": "boxShadow",
       "description": "shaddow on item hover state in desktop categories dropdown"
+    },
+    "card-news": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "16",
+          "spread": "0",
+          "color": "rgba(255, 150, 45, 0.6)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "9",
+          "spread": "0",
+          "color": "rgba(255, 219, 153, 1)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "45",
+          "spread": "0",
+          "color": "rgba(254, 182, 0, 0.45)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "use for cards news"
     }
   },
   "border": {
@@ -5789,6 +5819,16 @@
     "bg blur": {
       "value": "#1C212E",
       "type": "color"
+    },
+    "bg card": {
+      "value": "linear-gradient(180deg, #F38209 0%, #89058D 100%)",
+      "type": "color",
+      "description": "bg news card"
+    },
+    "bg cards": {
+      "value": "linear-gradient(151deg, #4D3175 7.95%, #452A54 31.5%, #261D28 50.84%, #1C212E 92.05%)",
+      "type": "color",
+      "description": "bg news card"
     }
   }
 }
