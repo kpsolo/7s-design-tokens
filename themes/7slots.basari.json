@@ -5795,11 +5795,6 @@
       "value": "rgba(0, 120, 176, 1)",
       "type": "color"
     },
-    "bg card": {
-      "value": "linear-gradient(180deg, #F38209 0%, #89058D 100%)",
-      "type": "color",
-      "description": "bg news card"
-    },
     "bg cards": {
       "value": "linear-gradient(148.34deg, #571E1E 9.9%, #571E1E 17.01%, #231E1B 47.19%, #1B1B23 80.93%)",
       "type": "color",
