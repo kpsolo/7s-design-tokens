@@ -5800,7 +5800,7 @@
   },
   "News": {
     "bg blur": {
-      "value": "rgba(242, 255, 68, 1);",
+      "value": "rgba(242, 255, 68, 1)",
       "type": "color"
     },
     "bg cards": {
