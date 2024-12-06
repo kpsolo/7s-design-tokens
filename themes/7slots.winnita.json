@@ -3627,7 +3627,7 @@
       "description": "Success icon"
     },
     "warning": {
-      "value": "{base.warning}",
+      "value": "#F5BC00",
       "type": "color",
       "description": "Color of warning icon"
     },
