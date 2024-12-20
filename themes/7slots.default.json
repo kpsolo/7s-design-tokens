@@ -2951,6 +2951,20 @@
         "value": "#43B183",
         "type": "color",
         "description": "Background for button in ingame sticky menu"
+      },
+      "extra-pressed": {
+        "value": "{button.bg.extra}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "Background for button pressed state in ingame sticky menu"
       }
     },
     "icon": {
