@@ -2882,6 +2882,11 @@
         "value": "linear-gradient(160deg, rgba(251, 60, 60, 0.60) 0%, rgba(136, 3, 3, 0.60) 100%)",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
+      },
+      "extra": {
+        "value": "{button.bg.secondary}",
+        "type": "color",
+        "description": "Background for button in ingame sticky menu"
       }
     },
     "icon": {

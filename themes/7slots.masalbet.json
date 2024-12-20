@@ -2812,6 +2812,11 @@
         "value": "#D9D9D9",
         "type": "color",
         "description": "Background for primary disabled button for lighgt bg"
+      },
+      "extra": {
+        "value": "#43B183",
+        "type": "color",
+        "description": "Background for button in ingame sticky menu"
       }
     },
     "icon": {
