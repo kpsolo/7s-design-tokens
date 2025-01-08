@@ -15,7 +15,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.sm}",
+        "lineHeight": "{line-height.xs}",
         "fontSize": "{font-size.2}"
       },
       "type": "typography",
@@ -5176,6 +5176,11 @@
     "select card": {
       "value": "#076DEA",
       "type": "color"
+    },
+    "widget bg": {
+      "value": "#132C6C",
+      "type": "color",
+      "description": "overlay bg betting.widget out img"
     }
   },
   "tab": {

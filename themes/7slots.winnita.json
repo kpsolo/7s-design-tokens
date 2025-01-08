@@ -4955,6 +4955,11 @@
     "accent": {
       "value": "{text.accent-additional}",
       "type": "color"
+    },
+    "widget bg": {
+      "value": "#132C6C",
+      "type": "color",
+      "description": "bg betting.widget out img"
     }
   },
   "strip": {
