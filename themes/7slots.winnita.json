@@ -15,7 +15,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.s}",
+        "lineHeight": "{line-height.xs}",
         "fontSize": "{font-size.3}"
       },
       "type": "typography",
@@ -4957,7 +4957,7 @@
       "type": "color"
     },
     "widget bg": {
-      "value": "#132C6C",
+      "value": "#fff",
       "type": "color",
       "description": "bg betting.widget out img"
     }
