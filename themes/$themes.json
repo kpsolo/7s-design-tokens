@@ -4745,7 +4745,16 @@
       "wheel.bg.picker": "S:b69238a9672fa3bdf2fa8ec783d4af8721cdd0d7,",
       "small-elements.chips.border": "S:a6c3f74cac84d5511f10b4cc04dd9dbe925bdd58,",
       "shadow.accent-unic": "S:21ba5ccd8a4d85155b6d5974a0fc0eb3a7b1f82b,",
-      "bg.popup2": "S:b62be62cbb07c2b9aed09284d1f00244e26023e3,"
+      "bg.popup2": "S:b62be62cbb07c2b9aed09284d1f00244e26023e3,",
+      "bg.other.filltooltip": "S:a70b77db742e58fe2f59c5081e7fb238442923ff,",
+      "button.bg.extra": "S:c6ef0623af946d50e25b592b2853463a6a9aad3b,",
+      "button.bg.extra-pressed": "S:8ac50da73625ba1fa10fbae675c1e1f0a4c14c7f,",
+      "small-elements.badge.3": "S:17b575b17b5bbe16de3de2b60d57cf718a1b4db3,",
+      "special-blocks.error-bg": "S:fc83627c96f6bf611f5800ac217fe3c5ca11a552,",
+      "betting.widget bg": "S:fad4d6740289aeb27e2f71eb5ef950be2ba2aa4d,",
+      "News.bg blur": "S:fdbc51b681e620be852f1c92aca1fcc2c2fd7714,",
+      "News.bg cards": "S:af6d31e2c963bc944163831935edc9624411a405,",
+      "shadow.card-news": "S:d4f1abb52fbea5e17ba1b9248c1a44038af05d6b,"
     },
     "selectedTokenSets": {
       "7slots.abebet": "enabled"
