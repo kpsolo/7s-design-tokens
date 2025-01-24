@@ -2240,6 +2240,11 @@
         "type": "color",
         "description": "for cashbox bonus popup"
       },
+      "cashbox-bonus-AB": {
+        "value": "linear-gradient(180deg, #36315E 0%, #292544 65%, #232138 100%)",
+        "type": "color",
+        "description": "for cashbox bonus popup AB test"
+      },
       "cashbox-bonus-content": {
         "value": "{base.light}",
         "type": "color",
