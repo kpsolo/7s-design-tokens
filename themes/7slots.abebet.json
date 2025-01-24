@@ -2160,7 +2160,7 @@
         "description": "fill border tooltip"
       },
       "cashbox-bonus-AB": {
-        "value": "linear-gradient(110deg, #517AB0 1.8%, #255480 98.04%)",
+        "value": "linear-gradient(118deg, #912266 -5.85%, #461B52 64.38%, #331848 96.78%);",
         "type": "color",
         "description": "for cashbox bonus popup AB test"
       }
