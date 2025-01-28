@@ -2019,6 +2019,11 @@
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
+    "custom": {
+      "value": "radial-gradient(151.6% 45.05% at 53.19% 37.01%, #FF983F 0.42%, #C65139 16%, #7F291C 36%, rgba(26, 17, 15, 0.64) 81.7%, rgba(22, 20, 27, 0.16) 100%)",
+      "type": "color",
+      "description": "bg for fun page"
+    },
     "other": {
       "404": {
         "value": "linear-gradient(180deg, #2C0202 0.06%, #930101 99.97%)",
