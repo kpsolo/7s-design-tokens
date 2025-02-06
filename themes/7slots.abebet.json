@@ -1908,7 +1908,7 @@
       "description": "Radius for pagination buttons in 1st deposit page"
     },
     "button-extra": {
-      "value": "8px",
+      "value": "44px",
       "type": "borderRadius",
       "description": "Radius for extrasmall buttons in gamepage"
     },
