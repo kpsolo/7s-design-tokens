@@ -703,11 +703,11 @@
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
-          "fontSize": "21",
-          "lineHeight": "26"
+          "fontSize": "25",
+          "lineHeight": "25"
         },
         "type": "typography",
-        "description": "welcome bonus timer title"
+        "description": "Slotmachine  title"
       }
     },
     "title-small-fun": {
@@ -1205,15 +1205,15 @@
             "y": "0.84",
             "blur": "0.84",
             "spread": "0",
-            "color": "rgba(0, 108, 255, 1)",
+            "color": "rgba(236, 53, 53, 1)",
             "type": "innerShadow"
           },
           {
             "x": "0",
             "y": "0",
-            "blur": "6.74",
+            "blur": "3.37",
             "spread": "0",
-            "color": "rgba(0, 108, 255, 1)",
+            "color": "rgba(79, 114, 232, 1)",
             "type": "dropShadow"
           },
           {
@@ -1221,7 +1221,7 @@
             "y": "0",
             "blur": "13.48",
             "spread": "0",
-            "color": "rgba(0, 108, 255, 1)",
+            "color": "rgba(236, 53, 53, 1)",
             "type": "dropShadow"
           }
         ],
