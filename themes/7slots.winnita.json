@@ -713,6 +713,16 @@
         },
         "type": "typography",
         "description": "numbers mob app"
+      },
+      "titlemob-slotmachine": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "fontSize": "21",
+          "lineHeight": "26"
+        },
+        "type": "typography",
+        "description": "welcome bonus timer title"
       }
     },
     "link-xs": {
@@ -1207,6 +1217,36 @@
         ],
         "type": "boxShadow",
         "description": "for mob main banner shaddow"
+      },
+      "textslotmachine": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0.84",
+            "blur": "0.84",
+            "spread": "0",
+            "color": "rgba(0, 108, 255, 1)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "6.74",
+            "spread": "0",
+            "color": "rgba(0, 108, 255, 1)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "13.48",
+            "spread": "0",
+            "color": "rgba(0, 108, 255, 1)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "use as inner shaddow on text slot machine"
       }
     },
     "card-additional-3": {
