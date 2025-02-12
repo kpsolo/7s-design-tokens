@@ -733,7 +733,7 @@
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
           "fontSize": "21",
-          "lineHeight": "26"
+          "lineHeight": "26px"
         },
         "type": "typography",
         "description": "welcome bonus timer title"
@@ -743,17 +743,7 @@
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
           "fontSize": "18",
-          "lineHeight": "22"
-        },
-        "type": "typography",
-        "description": "Slot machine small title"
-      },
-      "titlemob-slotmachineS-copy": {
-        "value": {
-          "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
-          "fontSize": "18",
-          "lineHeight": "22"
+          "lineHeight": "22px"
         },
         "type": "typography",
         "description": "Slot machine small title"

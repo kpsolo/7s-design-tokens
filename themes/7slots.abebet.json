@@ -774,7 +774,7 @@
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
-          "lineHeight": "25",
+          "lineHeight": "25px",
           "fontSize": "24"
         },
         "type": "typography",
@@ -785,7 +785,7 @@
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
           "fontSize": "18",
-          "lineHeight": "22"
+          "lineHeight": "22px"
         },
         "type": "typography",
         "description": "Slot machine small title"
