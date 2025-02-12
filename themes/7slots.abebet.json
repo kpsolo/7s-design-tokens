@@ -779,6 +779,16 @@
         },
         "type": "typography",
         "description": "slot machine title"
+      },
+      "titlemob-slotmachineS": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "fontSize": "18",
+          "lineHeight": "22"
+        },
+        "type": "typography",
+        "description": "Slot machine small title"
       }
     }
   },

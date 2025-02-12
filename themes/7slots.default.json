@@ -738,6 +738,16 @@
         "type": "typography",
         "description": "welcome bonus timer title"
       },
+      "titlemob-slotmachineS": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "fontSize": "18",
+          "lineHeight": "22"
+        },
+        "type": "typography",
+        "description": "Slot machine small title"
+      },
       "numbersmob-app": {
         "value": {
           "fontFamily": "{font-family.accent}",
