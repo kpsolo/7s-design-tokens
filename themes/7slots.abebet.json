@@ -3643,6 +3643,13 @@
       "value": "#E1E9F5",
       "type": "color",
       "description": "icon color in pagination"
+    },
+    "widget": {
+      "complete": {
+        "value": "linear-gradient(180deg, #FFDF9E 0%, #FFA200 100%)",
+        "type": "color",
+        "description": "Color for widget reg"
+      }
     }
   },
   "icon": {
