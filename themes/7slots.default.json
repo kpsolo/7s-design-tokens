@@ -3794,15 +3794,15 @@
       },
       "description": "use for disabled icons in lists (loyalty)"
     },
-    "ghost-4": {
-      "value": "#000",
-      "type": "color",
-      "description": "use for message icon in desktop header"
-    },
     "secondary": {
       "value": "{base.dark}",
       "type": "color",
       "description": "menu, bottom sheet"
+    },
+    "ghost-4": {
+      "value": "#000",
+      "type": "color",
+      "description": "use for message icon in desktop header"
     },
     "primary": {
       "value": "{base.primary}",
