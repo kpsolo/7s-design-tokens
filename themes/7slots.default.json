@@ -1611,6 +1611,15 @@
       "type": "border",
       "description": "border for provider filter card"
     },
+    "provider2": {
+      "value": {
+        "color": "rgba(255, 255, 255, 0.04)",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for provider search and ingame card"
+    },
     "right-menu": {
       "value": {
         "color": "rgba(0,0,0,0.6)",
@@ -2598,6 +2607,11 @@
           "value": "{bg.additional}",
           "type": "color",
           "description": "shop card bg"
+        },
+        "4": {
+          "value": "#3B4968",
+          "type": "color",
+          "description": "bg for provider card search and ingame"
         },
         "fun": {
           "value": "linear-gradient(151deg, rgba(96, 59, 157, 0.64) 0%, rgba(69, 42, 84, 0.64) 28%, rgba(29, 32, 40, 0.64) 51%, rgba(28, 33, 46, 0.64) 100%)",

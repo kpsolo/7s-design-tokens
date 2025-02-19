@@ -1775,6 +1775,15 @@
       },
       "type": "border",
       "description": "use for border in tournament/lottery mob tabs"
+    },
+    "provider2": {
+      "value": {
+        "color": "rgba(255, 255, 255, 0.04)",
+        "width": "1px",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border for provider search and ingame card"
     }
   },
   "base spacing": {
@@ -2520,6 +2529,11 @@
           "value": "{bg.additional}",
           "type": "color",
           "description": "shop card bg"
+        },
+        "4": {
+          "value": "3B4968",
+          "type": "color",
+          "description": "bg for provider card search and ingame"
         }
       },
       "border": {
