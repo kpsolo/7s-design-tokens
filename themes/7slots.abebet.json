@@ -2588,7 +2588,7 @@
           "description": "shop card bg"
         },
         "4": {
-          "value": "3B4968",
+          "value": "#362C58",
           "type": "color",
           "description": "bg for provider card search and ingame"
         }
