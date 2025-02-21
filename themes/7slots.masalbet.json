@@ -4301,7 +4301,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "accent": {
-        "value": "#FAA500",
+        "value": "{base.accent-light}",
         "type": "color",
         "description": "use for accent elements ( button, number)"
       },
