@@ -4412,7 +4412,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "accent": {
-        "value": "{base.accent-light}",
+        "value": "{base.accent-secondary}",
         "type": "color",
         "description": "use for accent elements ( button, number)"
       },
