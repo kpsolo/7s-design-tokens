@@ -2534,6 +2534,21 @@
           "value": "#213068",
           "type": "color",
           "description": "bg for provider card search and ingame"
+        },
+        "balances-no-active": {
+          "value": "#163486",
+          "type": "color",
+          "description": "No active bonus balances"
+        },
+        "balances-casino-active": {
+          "value": "#1E4EAE",
+          "type": "color",
+          "description": "active casino balance"
+        },
+        "balances-sport-active": {
+          "value": "#288B3D",
+          "type": "color",
+          "description": "active casino balance"
         }
       },
       "border": {
@@ -2585,6 +2600,16 @@
       "value": "radial-gradient(151.6% 45.05% at 53.19% 37.01%, #FF983F 0.42%, #C65139 16%, #7F291C 36%, rgba(26, 17, 15, 0.64) 81.7%, rgba(22, 20, 27, 0.16) 100%)",
       "type": "color",
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
+    },
+    "balance-casino-active": {
+      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
+      "type": "color",
+      "description": "use for active bonus balance"
+    },
+    "balance-sport-active": {
+      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
+      "type": "color",
+      "description": "use for active bonus balance"
     }
   },
   "nav": {
