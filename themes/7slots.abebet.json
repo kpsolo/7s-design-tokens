@@ -2591,21 +2591,6 @@
           "value": "#362C58",
           "type": "color",
           "description": "bg for provider card search and ingame"
-        },
-        "balances-no-active": {
-          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
-          "type": "color",
-          "description": "No active bonus balances"
-        },
-        "balances-casino-active": {
-          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
-          "type": "color",
-          "description": "active casino balance"
-        },
-        "balances-sport-active": {
-          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
-          "type": "color",
-          "description": "active casino balance"
         }
       },
       "border": {
@@ -2657,11 +2642,6 @@
       },
       "description": "use for bg under social icons in mob menu - hover state"
     },
-    "balance-active": {
-      "value": "linear-gradient(118deg, #912266 -5.85%, #461B52 64.38%, #331848 96.78%)",
-      "type": "color",
-      "description": "use for active bonus balance"
-    },
     "balance-default": {
       "value": "#453D5B",
       "type": "color",
@@ -2678,12 +2658,12 @@
       "description": "bg for element above primary/secondary bg (winning now zone, game empty thumb, player status)"
     },
     "balance-casino-active": {
-      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
+      "value": "linear-gradient(118deg, #912266 -5.85%, #461B52 64.38%, #331848 96.78%)",
       "type": "color",
       "description": "use for active bonus balance"
     },
     "balance-sport-active": {
-      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
+      "value": "linear-gradient(118deg, #108181 20.3%, #1A6161 57.65%, #21565D 74.87%)",
       "type": "color",
       "description": "use for active bonus balance"
     }

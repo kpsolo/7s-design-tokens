@@ -2658,21 +2658,6 @@
           "value": "#2B2220",
           "type": "color",
           "description": "bg for provider card"
-        },
-        "balances-no-active": {
-          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
-          "type": "color",
-          "description": "No active bonus balances"
-        },
-        "balances-casino-active": {
-          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
-          "type": "color",
-          "description": "active casino balance"
-        },
-        "balances-sport-active": {
-          "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
-          "type": "color",
-          "description": "active casino balance"
         }
       },
       "border": {
@@ -2744,11 +2729,6 @@
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
-    "balance-active": {
-      "value": "linear-gradient(287deg, #8D262B 3.95%, #440D10 100%)",
-      "type": "color",
-      "description": "use for active bonus balance "
-    },
     "balance-default": {
       "value": "#3B3B3B",
       "type": "color",
@@ -2770,12 +2750,12 @@
       "description": "bg for timer-welcome-bonus "
     },
     "balance-casino-active": {
-      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
+      "value": "linear-gradient(287deg, #8D262B 3.95%, #440D10 100%)",
       "type": "color",
       "description": "use for active bonus balance"
     },
     "balance-sport-active": {
-      "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
+      "value": "linear-gradient(287deg, #C96D2A 3.95%, #59230C 100%)",
       "type": "color",
       "description": "use for active bonus balance"
     }
