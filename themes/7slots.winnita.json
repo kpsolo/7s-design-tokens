@@ -2572,7 +2572,7 @@
       "description": "use for bg blue in provider filter cards"
     },
     "balance-default": {
-      "value": "#163486",
+      "value": "#5A6A88",
       "type": "color",
       "description": "use for bonus balance"
     },
