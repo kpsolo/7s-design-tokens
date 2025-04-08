@@ -2648,9 +2648,9 @@
       "description": "Indication of unsuccess transactions"
     },
     "warning": {
-      "value": "#FFCB11",
+      "value": "#FF9B25",
       "type": "color",
-      "description": "Indication of warning"
+      "description": "Indication of warning (old #FFCB11)"
     },
     "gold": {
       "value": "#FFC13B",
