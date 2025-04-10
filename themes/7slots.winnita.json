@@ -3379,7 +3379,7 @@
         "description": "for payments bg"
       },
       "dropdown": {
-        "value": "rgba(255, 255, 255, 0.10)",
+        "value": "{small-elements.footer.bg-social}",
         "type": "color",
         "description": "Background for payment dropdown element"
       }
