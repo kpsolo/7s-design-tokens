@@ -3385,7 +3385,7 @@
         "description": "for payments bg"
       },
       "dropdown": {
-        "value": "{bg.overlay.2}",
+        "value": "{small-elements.footer.bg-social}",
         "type": "color",
         "description": "Background for payment dropdown element"
       },

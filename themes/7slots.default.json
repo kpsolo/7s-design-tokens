@@ -3528,18 +3528,9 @@
         "description": "for payments bg"
       },
       "dropdown": {
-        "value": "rgba(255, 255, 255, 0.08)",
+        "value": "rgba(41, 52, 75, 1)",
         "type": "color",
-        "description": "Background for payment dropdown element",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        }
+        "description": "Background for Providers button"
       },
       "bg-social-additional": {
         "value": "{small-elements.footer.bg-social}",
