@@ -2283,6 +2283,15 @@
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
+      "exhange-point-table": {
+        "value": "rgba(28, 33, 46, 0.40)",
+        "type": "color",
+        "description": "bg for status tournament inside rules of tournament/lottery"
+      },
+      "exhange-point-banner": {
+        "value": "linear-gradient(213deg, #3A5379 23.28%, #1C212E 83.62%)",
+        "type": "color"
+      },
       "cashbox-bonus": {
         "value": "linear-gradient(110deg, #517AB0 1.8%, #255480 98.04%)",
         "type": "color",
@@ -4909,6 +4918,10 @@
     },
     "error": {
       "value": "{base.error}",
+      "type": "color"
+    },
+    "error-2": {
+      "value": "#cf3422",
       "type": "color"
     },
     "success": {

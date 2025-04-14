@@ -2257,6 +2257,15 @@
         "value": "linear-gradient(180deg, #4D4D4D 0%, #474747 47.5%, #373737 100%)",
         "type": "color",
         "description": "for cashbox bonus popup AB test"
+      },
+      "exhange-point-table": {
+        "value": "{bg.secondary}",
+        "type": "color",
+        "description": "bg for status tournament inside rules of tournament/lottery"
+      },
+      "exhange-point-banner": {
+        "value": "linear-gradient(176deg, #711919 4%, #771F1E 34%, #521A19 62%, #31090B 84%, #31090B 94%)",
+        "type": "color"
       }
     },
     "gradient": {
@@ -5019,6 +5028,10 @@
       "value": "#FFBD3C",
       "type": "color",
       "description": "use for accent text in welcome popup"
+    },
+    "error-2": {
+      "value": "#FB3C3C",
+      "type": "color"
     }
   },
   "menu": {

@@ -2233,6 +2233,15 @@
         "value": "#173A86",
         "type": "color",
         "description": "for cashbox bonus popup AB test"
+      },
+      "exhange-point-table": {
+        "value": "rgba({base.dark}, 0.06)",
+        "type": "color",
+        "description": "bg for status tournament inside rules of tournament/lottery"
+      },
+      "exhange-point-banner": {
+        "value": "#294CAA",
+        "type": "color"
       }
     },
     "top-surface": {
@@ -4884,6 +4893,10 @@
         "type": "color",
         "description": "Title for winner card on a main page"
       }
+    },
+    "error-2": {
+      "value": "{base.error}",
+      "type": "color"
     }
   },
   "menu": {
