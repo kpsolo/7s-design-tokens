@@ -4899,7 +4899,7 @@
       "type": "color"
     },
     "timer-gift-mob": {
-      "value": "{base.accent-secondary}",
+      "value": "{base.success}",
       "type": "color",
       "description": "use for accent text in welcome popup and deposit form"
     }
