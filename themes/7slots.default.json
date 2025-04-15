@@ -2401,6 +2401,11 @@
         "type": "color",
         "description": "bg.other.lootboxes-cof-selected"
       },
+      "deposit form": {
+        "value": "linear-gradient(96.45deg, #009BA1 0.33%, #68D79A 99.7%)",
+        "type": "color",
+        "description": "bg.other.deposit form"
+      },
       "categories-nav": {
         "value": "#1C212E",
         "type": "color",

@@ -2215,6 +2215,11 @@
       "exhange-point-banner": {
         "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
         "type": "color"
+      },
+      "deposit form": {
+        "value": "linear-gradient(96.45deg, #009BA1 0.33%, #68D79A 99.7%)",
+        "type": "color",
+        "description": "bg.other.deposit form"
       }
     },
     "gradient": {
