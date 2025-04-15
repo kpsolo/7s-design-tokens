@@ -2675,6 +2675,21 @@
       "value": "linear-gradient(118deg, #108181 20.3%, #1A6161 57.65%, #21565D 74.87%)",
       "type": "color",
       "description": "use for active bonus balance"
+    },
+    "timer-welcome-bonus": {
+      "value": "#625A5A",
+      "type": "color",
+      "description": "bg for timer-welcome-bonus "
+    },
+    "timer-welcome-bonus-mob-small": {
+      "value": "rgba(255, 255, 255, 0.10)",
+      "type": "color",
+      "description": "bg for timer-welcome-bonus "
+    },
+    "timer-welcome-bonus-mob-copy": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "bg for timer-welcome-bonus "
     }
   },
   "nav": {

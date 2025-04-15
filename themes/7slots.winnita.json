@@ -2599,6 +2599,21 @@
       "value": "#288B3D",
       "type": "color",
       "description": "use for active bonus balance"
+    },
+    "timer-welcome-bonus": {
+      "value": "#625A5A",
+      "type": "color",
+      "description": "bg for timer-welcome-bonus "
+    },
+    "timer-welcome-bonus-mob-small": {
+      "value": "rgba(255, 255, 255, 0.10)",
+      "type": "color",
+      "description": "bg for timer-welcome-bonus "
+    },
+    "timer-welcome-bonus-mob-copy": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "bg for timer-welcome-bonus "
     }
   },
   "nav": {
