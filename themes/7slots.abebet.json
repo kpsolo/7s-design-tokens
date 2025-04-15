@@ -2217,7 +2217,7 @@
         "type": "color"
       },
       "deposit form": {
-        "value": "linear-gradient(96.45deg, #009BA1 0.33%, #68D79A 99.7%)",
+        "value": "linear-gradient(118deg, #D53C9A -5.85%, #561B66 64.38%, #4C1B71 96.78%)",
         "type": "color",
         "description": "bg.other.deposit form"
       }
