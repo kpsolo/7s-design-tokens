@@ -4897,6 +4897,11 @@
     "error-2": {
       "value": "{base.error}",
       "type": "color"
+    },
+    "timer-gift-mob": {
+      "value": "{base.accent-secondary}",
+      "type": "color",
+      "description": "use for accent text in welcome popup and deposit form"
     }
   },
   "menu": {

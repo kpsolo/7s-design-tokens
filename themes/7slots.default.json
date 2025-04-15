@@ -4855,6 +4855,11 @@
       "type": "color",
       "description": "use for accent text in welcome popup"
     },
+    "timer-gift-mob-copy": {
+      "value": "#3EC332",
+      "type": "color",
+      "description": "use for accent text in welcome popup and deposit form"
+    },
     "primary": {
       "value": "{base.primary}",
       "type": "color",
