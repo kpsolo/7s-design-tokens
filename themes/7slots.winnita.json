@@ -2240,7 +2240,7 @@
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
       "exhange-point-banner": {
-        "value": "#294CAA",
+        "value": "#1A3271",
         "type": "color"
       }
     },
