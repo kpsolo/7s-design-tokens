@@ -1664,6 +1664,14 @@
       },
       "type": "border"
     },
+    "nav-promo": {
+      "value": {
+        "color": "{special-blocks.promo.categories.border.nav}",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border"
+    },
     "input-focus": {
       "value": {
         "color": "{base.accent-primary}",
@@ -4707,6 +4715,22 @@
         "value": "linear-gradient(0deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
         "type": "color",
         "description": "bg QRcod off"
+      }
+    },
+    "promo": {
+      "categories": {
+        "bg": {
+          "main": {
+            "value": "linear-gradient(135deg, #36538B 0%, #38558E 34.31%, #26314A 49.13%, #22335B 100%)",
+            "type": "color"
+          }
+        },
+        "border": {
+          "nav": {
+            "value": "linear-gradient(180deg, #2DD890 0%, rgba(45, 216, 144, 0) 109.03%);",
+            "type": "color"
+          }
+        }
       }
     }
   },
