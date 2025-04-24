@@ -718,6 +718,16 @@
         },
         "type": "typography",
         "description": "Slot machine small title"
+      },
+      "promolanding-1place": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "32px",
+          "fontSize": "22px"
+        },
+        "type": "typography",
+        "description": "Promo lending 1 Place "
       }
     },
     "title-small-fun": {
@@ -1251,6 +1261,36 @@
         ],
         "type": "boxShadow",
         "description": "use as inner shaddow on text slot machine"
+      },
+      "promo-1prize": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "7",
+            "spread": "0",
+            "color": "#2DD890",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "14",
+            "spread": "0",
+            "color": "#2DD890",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "0",
+            "color": "#006CFF",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "Shadow for 1Prize "
       }
     },
     "header-additional": {
@@ -4684,6 +4724,18 @@
       "value": "#EDAAAA",
       "type": "color",
       "description": "for error bg"
+    },
+    "promo": {
+      "stroke": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Promo lending Stroke tickets"
+      },
+      "line": {
+        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
+        "type": "color",
+        "description": "Promo lending line 1place"
+      }
     }
   },
   "filed spacing": {

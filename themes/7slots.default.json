@@ -758,6 +758,16 @@
         "type": "typography",
         "description": "numbers mob app"
       },
+      "promolanding-1place": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "32px",
+          "fontSize": "22px"
+        },
+        "type": "typography",
+        "description": "Promo lending 1 Place "
+      },
       "verification-card-text": {
         "value": {
           "fontFamily": "{font-family.main}",
@@ -1237,6 +1247,36 @@
         ],
         "type": "boxShadow",
         "description": "Shadow for Prize widget container"
+      },
+      "promo-1prize": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "7",
+            "spread": "0",
+            "color": "#2DD890",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "14",
+            "spread": "0",
+            "color": "#2DD890",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "0",
+            "color": "#006CFF",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "Shadow for 1Prize "
       },
       "jackpot-amount": {
         "value": [
@@ -4765,6 +4805,16 @@
       "lottery-timer-bg": {
         "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 7.95%, rgba(59, 92, 157, 0.64) 31.5%, rgba(29, 32, 40, 0.64) 50.84%, rgba(25, 42, 87, 0.64) 92.05%);",
         "type": "color"
+      },
+      "stroke": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Promo lending Stroke tickets"
+      },
+      "line": {
+        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
+        "type": "color",
+        "description": "Promo lending line 1place"
       }
     }
   },
