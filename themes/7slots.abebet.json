@@ -4777,8 +4777,8 @@
       },
       "categories": {
         "bg": {
-          "main-copy": {
-            "value": "linear-gradient(90deg, rgba(225, 0, 255, 0) 0%, rgba(191, 0, 223, 0.15) 29%, rgba(98, 0, 134, 0.57) 69%, #03002B 100%);",
+          "main": {
+            "value": "linear-gradient(92.56deg, #2B0C40 0%, #5E1D81 51.29%, #2C053D 100%);",
             "type": "color"
           }
         },
