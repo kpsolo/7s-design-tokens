@@ -4765,6 +4765,11 @@
         "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
         "type": "color",
         "description": "Promo lending line 1place"
+      },
+      "place-color": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Promo lending place color text"
       }
     }
   },

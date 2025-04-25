@@ -1097,25 +1097,25 @@
           {
             "x": "0",
             "y": "0",
-            "blur": "7",
+            "blur": "16",
             "spread": "0",
-            "color": "#0A5AC9",
+            "color": "#006CFF",
             "type": "dropShadow"
           },
           {
             "x": "0",
             "y": "0",
-            "blur": "14",
+            "blur": "16",
             "spread": "0",
-            "color": "#0A5AC9",
+            "color": "#006CFF",
             "type": "dropShadow"
           },
           {
             "x": "0",
-            "y": "0.8",
-            "blur": "0.8",
+            "y": "1",
+            "blur": "1",
             "spread": "0",
-            "color": "#0A5AC9",
+            "color": "#006CFF",
             "type": "innerShadow"
           }
         ],
@@ -4641,7 +4641,7 @@
     },
     "promo": {
       "stroke": {
-        "value": "{base.accent-primary}",
+        "value": "{button.bg.primary}",
         "type": "color",
         "description": "Promo lending Stroke tickets"
       },
@@ -4664,9 +4664,10 @@
           }
         }
       },
-      "lottery-timer-bg": {
+      "place-color": {
         "value": "{base.light}",
-        "type": "color"
+        "type": "color",
+        "description": "Promo lending place color text"
       }
     }
   },
