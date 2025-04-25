@@ -4668,6 +4668,11 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Promo lending place color text"
+      },
+      "place-color-copy": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Promo lending place color text"
       }
     }
   },
