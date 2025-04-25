@@ -1286,26 +1286,10 @@
         "value": [
           {
             "x": "0",
-            "y": "0",
-            "blur": "7",
+            "y": "",
+            "blur": "",
             "spread": "0",
-            "color": "#2DD890",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "14",
-            "spread": "0",
-            "color": "#2DD890",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "1",
-            "blur": "1",
-            "spread": "0",
-            "color": "#006CFF",
+            "color": "",
             "type": "innerShadow"
           }
         ],
@@ -4665,12 +4649,7 @@
         }
       },
       "place-color": {
-        "value": "{base.light}",
-        "type": "color",
-        "description": "Promo lending place color text"
-      },
-      "place-color-copy": {
-        "value": "{base.light}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "Promo lending place color text"
       }
