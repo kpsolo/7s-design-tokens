@@ -4641,6 +4641,20 @@
         "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
         "type": "color",
         "description": "Promo lending line 1place"
+      },
+      "categories": {
+        "bg": {
+          "main": {
+            "value": "#E3F9FF",
+            "type": "color"
+          }
+        },
+        "border": {
+          "nav": {
+            "value": "linear-gradient(180deg, #0A5AC9 0%, #0A5AC9 24.92%, #0A5AC9 69.4%, #FFFFFF 113.28%)",
+            "type": "color"
+          }
+        }
       }
     }
   },
