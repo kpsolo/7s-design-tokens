@@ -4747,14 +4747,14 @@
       },
       "categories": {
         "bg": {
-          "main-copy": {
-            "value": "linear-gradient(90deg, rgba(225, 0, 255, 0) 0%, rgba(191, 0, 223, 0.15) 29%, rgba(98, 0, 134, 0.57) 69%, #03002B 100%);",
+          "main": {
+            "value": "linear-gradient(92.56deg, #310404 0%, #631616 52.16%, #340404 100%);",
             "type": "color"
           }
         },
         "border": {
           "nav-copy": {
-            "value": "linear-gradient(180deg, #E100FF 0%, #B63BC6 24.92%, #6E2877 69.4%, #411A46 113.28%);",
+            "value": "linear-gradient(180deg, #B50808 0%, #B50808 24.92%, #910404 69.4%, #1E1D1D 113.28%)",
             "type": "color"
           }
         }
