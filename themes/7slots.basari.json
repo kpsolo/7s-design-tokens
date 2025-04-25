@@ -4744,6 +4744,20 @@
       "lottery-timer-bg-copy": {
         "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 14.63%, rgba(59, 92, 157, 0.64) 34.44%, rgba(29, 32, 40, 0.64) 50.71%, rgba(25, 42, 87, 0.64) 85.37%);",
         "type": "color"
+      },
+      "categories": {
+        "bg": {
+          "main-copy": {
+            "value": "linear-gradient(90deg, rgba(225, 0, 255, 0) 0%, rgba(191, 0, 223, 0.15) 29%, rgba(98, 0, 134, 0.57) 69%, #03002B 100%);",
+            "type": "color"
+          }
+        },
+        "border": {
+          "nav-copy": {
+            "value": "linear-gradient(180deg, #E100FF 0%, #B63BC6 24.92%, #6E2877 69.4%, #411A46 113.28%);",
+            "type": "color"
+          }
+        }
       }
     }
   },
