@@ -4654,7 +4654,7 @@
         "description": "Promo lending place color text"
       },
       "lottery-timer-bg": {
-        "value": "{base.light}",
+        "value": "{base.accent-light}",
         "type": "color"
       }
     }
