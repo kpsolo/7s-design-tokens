@@ -1854,6 +1854,14 @@
       },
       "type": "border",
       "description": "border for provider search and ingame card"
+    },
+    "nav-promo": {
+      "value": {
+        "color": "{special-blocks.promo.categories.border.nav}",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "base spacing": {
