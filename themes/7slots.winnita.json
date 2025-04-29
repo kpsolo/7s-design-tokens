@@ -4625,19 +4625,19 @@
     },
     "promo": {
       "stroke": {
-        "value": "{base.accent-primary}",
+        "value": "{button.bg.primary}",
         "type": "color",
         "description": "Promo lending Stroke tickets"
       },
       "line": {
-        "value": "linear-gradient(180deg, rgba(10, 90, 201, 0) 0%, #0A5AC9 100%)",
+        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
         "type": "color",
         "description": "Promo lending line 1place"
       },
       "categories": {
         "bg": {
           "main": {
-            "value": "#E2EEFF",
+            "value": "#E3F9FF",
             "type": "color"
           }
         },
@@ -4653,8 +4653,8 @@
         "type": "color",
         "description": "Promo lending place color text"
       },
-      "lottery-timer-bg": {
-        "value": "{base.accent-light}",
+      "lottery-timer-bg-copy": {
+        "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 7.95%, rgba(59, 92, 157, 0.64) 31.5%, rgba(29, 32, 40, 0.64) 50.84%, rgba(25, 42, 87, 0.64) 92.05%);",
         "type": "color"
       }
     }

@@ -1269,7 +1269,7 @@
             "y": "0",
             "blur": "7",
             "spread": "0",
-            "color": "#B50808",
+            "color": "#2DD890",
             "type": "dropShadow"
           },
           {
@@ -1277,7 +1277,7 @@
             "y": "0",
             "blur": "14",
             "spread": "0",
-            "color": "#B50808",
+            "color": "#2DD890",
             "type": "dropShadow"
           },
           {
@@ -1285,7 +1285,7 @@
             "y": "1",
             "blur": "1",
             "spread": "0",
-            "color": "#B50808",
+            "color": "#006CFF",
             "type": "innerShadow"
           }
         ],
@@ -4732,7 +4732,7 @@
         "description": "Promo lending Stroke tickets"
       },
       "line": {
-        "value": "linear-gradient(180deg, rgba(181, 8, 8, 0) 0%, #B50808 100%)",
+        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
         "type": "color",
         "description": "Promo lending line 1place"
       },
@@ -4742,22 +4742,8 @@
         "description": "Promo lending place color text"
       },
       "lottery-timer-bg-copy": {
-        "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 14.63%, rgba(59, 92, 157, 0.64) 34.44%, rgba(29, 32, 40, 0.64) 50.71%, rgba(25, 42, 87, 0.64) 85.37%);",
+        "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 7.95%, rgba(59, 92, 157, 0.64) 31.5%, rgba(29, 32, 40, 0.64) 50.84%, rgba(25, 42, 87, 0.64) 92.05%);",
         "type": "color"
-      },
-      "categories": {
-        "bg": {
-          "main": {
-            "value": "linear-gradient(92.56deg, #310404 0%, #631616 52.16%, #340404 100%);",
-            "type": "color"
-          }
-        },
-        "border": {
-          "nav-copy": {
-            "value": "linear-gradient(180deg, #B50808 0%, #B50808 24.92%, #910404 69.4%, #1E1D1D 113.28%)",
-            "type": "color"
-          }
-        }
       }
     }
   },
