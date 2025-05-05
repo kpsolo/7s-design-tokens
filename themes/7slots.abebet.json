@@ -5216,7 +5216,7 @@
       "description": "Color of icon and text inside active item menu"
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "#DD56BA",
       "type": "color",
       "description": "Color of icon and text inside active item menu"
     },
