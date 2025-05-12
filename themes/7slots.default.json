@@ -4631,6 +4631,11 @@
           "type": "color",
           "description": "border for win card"
         },
+        "mobapp": {
+          "value": "#3BA0C6",
+          "type": "color",
+          "description": "border for mobapp card"
+        },
         "achievements": {
           "value": "linear-gradient(158deg, #8679D5 15.68%, rgba(112, 103, 215, 0.43) 48.53%, #685FCA 74.32%)",
           "type": "color",
@@ -4733,6 +4738,11 @@
           "value": "linear-gradient(132deg, rgba(165, 59, 170, 0.54) 13.69%, rgba(165, 59, 170, 0.16) 38.75%, rgba(165, 59, 170, 0.00) 57.67%), rgba(0, 0, 0, 0.16)",
           "type": "color",
           "description": "bg for win cards"
+        },
+        "mobapp": {
+          "value": "linear-gradient(132deg, rgba(59, 160, 198, 0.54) 15.4%, rgba(59, 160, 198, 0.16) 39.28%, rgba(59, 160, 198, 0.00) 57.31%);",
+          "type": "color",
+          "description": "bg for mobapp cards"
         },
         "first-deposit": {
           "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 4.73%, rgba(39, 85, 101, 0.00) 88.99%)",
