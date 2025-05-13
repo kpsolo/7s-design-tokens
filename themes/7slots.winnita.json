@@ -5026,7 +5026,7 @@
       "description": "use for accent text in welcome popup and deposit form"
     },
     "link-hover": {
-      "value": "{text.accent-additional}",
+      "value": "#D2E5FF",
       "type": "color",
       "description": "hover link (?also use for win tickets in lottery results?)"
     }
