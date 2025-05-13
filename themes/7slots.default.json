@@ -4632,7 +4632,7 @@
           "description": "border for win card"
         },
         "mobapp": {
-          "value": "#3BA0C6",
+          "value": "linear-gradient(170.92deg, #3BA0C6 11.97%, rgba(59, 160, 198, 0.43) 48.37%, #3BA0C6 76.95%);",
           "type": "color",
           "description": "border for mobapp card"
         },
