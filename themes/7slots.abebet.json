@@ -800,6 +800,16 @@
         "type": "typography",
         "description": "Promo lending 1 Place "
       }
+    },
+    "timer-welcome-bonus-stronger": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "timer-welcome-bonus-stronger - text bonus"
     }
   },
   "shadow": {
