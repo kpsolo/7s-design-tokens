@@ -5832,6 +5832,11 @@
         "value": "#849DC3",
         "type": "color",
         "description": "use for wheel border (outside) in wheel icon in menu"
+      },
+      "bottomVIP": {
+        "value": "#FDB045",
+        "type": "color",
+        "description": "use as bg under vip wheel main border"
       }
     }
   },

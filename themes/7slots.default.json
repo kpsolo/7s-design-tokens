@@ -5661,6 +5661,11 @@
         "type": "color",
         "description": "use as bg under wheel main border"
       },
+      "bottomVIP": {
+        "value": "#FFDD9D",
+        "type": "color",
+        "description": "use as bg under vip wheel main border"
+      },
       "main-extra": {
         "value": "#7E898D",
         "type": "color",

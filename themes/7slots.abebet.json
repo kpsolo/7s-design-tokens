@@ -5591,6 +5591,11 @@
         "value": "transparent",
         "type": "color",
         "description": "use as bg under wheel main border"
+      },
+      "bottomVIP": {
+        "value": "#FD850D",
+        "type": "color",
+        "description": "use as bg under vip wheel main border"
       }
     }
   },
