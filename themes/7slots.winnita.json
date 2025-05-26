@@ -3993,17 +3993,8 @@
         "description": "use for text in error field hint"
       },
       "disabled-value": {
-        "value": "{input.text.value-main}",
+        "value": "rgba(20, 33, 58, 0.65)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.65",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for text in disabled field "
       },
       "disabled-label": {
