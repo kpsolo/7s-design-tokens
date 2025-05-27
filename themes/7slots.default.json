@@ -1525,20 +1525,6 @@
       ],
       "type": "boxShadow",
       "description": "shaddow on item hover state in desktop categories dropdown"
-    },
-    "datepicker": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "6",
-          "spread": "0",
-          "color": "rgba(27, 49, 83, 0.32)",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for cards news"
     }
   },
   "border": {
