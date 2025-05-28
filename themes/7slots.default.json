@@ -5662,7 +5662,7 @@
         "description": "use as bg under wheel main border"
       },
       "bottomVIP": {
-        "value": "#FFDD9D",
+        "value": "#FDB045",
         "type": "color",
         "description": "use as bg under vip wheel main border"
       },
