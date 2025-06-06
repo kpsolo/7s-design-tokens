@@ -2339,17 +2339,8 @@
     },
     "overlay": {
       "1": {
-        "value": "{base.primary}",
+        "value": "#ffffff12",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.07",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for static table header\npricepoints bg in betting\nbutton bg in mob app page"
       },
       "2": {
@@ -2381,7 +2372,7 @@
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
-        "value": "rgba({base.dark}, 0.16)",
+        "value": "#0c050e29",
         "type": "color",
         "description": "use for bg in cashbox transaction"
       },

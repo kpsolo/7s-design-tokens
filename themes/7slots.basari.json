@@ -2385,17 +2385,8 @@
     },
     "overlay": {
       "1": {
-        "value": "{base.primary}",
+        "value": "#ffffff1a",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.10",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for static table headet"
       },
       "2": {
@@ -2427,7 +2418,7 @@
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
-        "value": "rgba({base.dark}, 0.16)",
+        "value": "#00000029",
         "type": "color",
         "description": "use for bg in cashbox transaction"
       },
