@@ -2642,6 +2642,11 @@
       "value": "radial-gradient(152.68% 109.43% at 95.93% 47.34%, #0C6174 0%, #008A99 100%)",
       "type": "color",
       "description": "use for active bonus balance"
+    },
+    "technical2": {
+      "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
+      "type": "color",
+      "description": "for set by admin (card of Free Bets)"
     }
   },
   "nav": {

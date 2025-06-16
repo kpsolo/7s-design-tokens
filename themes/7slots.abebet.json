@@ -2766,6 +2766,11 @@
       "value": "#ffffff",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
+    },
+    "technical2": {
+      "value": "linear-gradient(118deg, #662A93 11.87%, #662A93 26.1%, #471D65 42.35%, #381E49 79.7%)",
+      "type": "color",
+      "description": "for set by admin (card of Free Bets)"
     }
   },
   "nav": {

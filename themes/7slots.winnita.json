@@ -2337,9 +2337,9 @@
       "description": "use for popups bg"
     },
     "technical": {
-      "value": "#133a90",
+      "value": "linear-gradient(270deg, #00539F 0%, #0C509D 27.23%, #002B71 100%);",
       "type": "color",
-      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news) (old #133a90)"
     },
     "widget-disabled": {
       "value": "#9EB3E0",
@@ -2676,6 +2676,11 @@
       "value": "#ffffff",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
+    },
+    "technical2": {
+      "value": "linear-gradient(270deg, #00539F 0%, #0C509D 27.23%, #002B71 100%);",
+      "type": "color",
+      "description": "for set by admin (card of Free Bets)"
     }
   },
   "nav": {

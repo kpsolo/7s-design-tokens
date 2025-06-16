@@ -2202,6 +2202,11 @@
       "type": "color",
       "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
     },
+    "technical2": {
+      "value": "linear-gradient(180deg, #237C8B 0%, #0D4551 100%)",
+      "type": "color",
+      "description": "for set by admin (card of Free Bets)"
+    },
     "technical-fun": {
       "value": "linear-gradient(180deg, #885FBC 0%, #2F456E 100%)",
       "type": "color",
