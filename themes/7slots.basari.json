@@ -1079,7 +1079,7 @@
           "y": "0",
           "blur": "24",
           "spread": "0",
-          "color": "rgba({base.light}, 0.3)",
+          "color": "rgba(255, 255, 255, 0.30)",
           "type": "dropShadow"
         },
         "type": "boxShadow",
@@ -1477,7 +1477,7 @@
     },
     "ghost-3": {
       "value": {
-        "color": "rgba({base.light}, 0.16)",
+        "color": "rgba(255, 255, 255, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -1495,7 +1495,7 @@
     },
     "chips-default": {
       "value": {
-        "color": "rgba({base.dark} , 0.16)",
+        "color": "rgba(0, 0, 0, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -2203,7 +2203,7 @@
         "description": "color for desktop sidebar"
       },
       "hover-on-light": {
-        "value": "rgba({base.dark}, 0.06)",
+        "value": "rgba(0, 0, 0, 0.06);",
         "type": "color",
         "description": "use for hover state in calendar, cashbox filter"
       },
@@ -4941,7 +4941,7 @@
       "description": "(delete?)"
     },
     "content": {
-      "value": "rgba({base.primary},0.8)",
+      "value": "rgba(255, 255, 255, 0.80)",
       "type": "color",
       "description": "use for large text blocks\n\n(delete?) Maybe for small items with darker background?(labels, crypto on footer)"
     },
@@ -5662,17 +5662,8 @@
         "description": "use for icons in gamepage widget"
       },
       "additional-opacity": {
-        "value": "{text.opacity.light-2}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for content on widget fo gamepage"
       }
     },
@@ -5714,17 +5705,8 @@
         "description": "bg under star"
       },
       "extra-additional": {
-        "value": "{gamepage.bg.extra}",
+        "value": "rgba(0, 0, 0, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg under star"
       },
       "tertiary": {

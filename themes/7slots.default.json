@@ -1548,7 +1548,7 @@
     },
     "ghost-3": {
       "value": {
-        "color": "rgba({base.light}, 0.16)",
+        "color": "rgba(255, 255, 255, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -1620,7 +1620,7 @@
     },
     "chips-default": {
       "value": {
-        "color": "rgba({base.dark} , 0.16)",
+        "color": "#1c212e29",
         "width": "1",
         "style": "solid"
       },
@@ -2431,7 +2431,7 @@
         "description": "color for desktop sidebar"
       },
       "hover-on-light": {
-        "value": "rgba({base.dark}, 0.06)",
+        "value": "rgba(28, 33, 46, 0.06)",
         "type": "color",
         "description": "use for hover state in calendar, cashbox filter"
       },
@@ -2546,17 +2546,8 @@
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
-        "value": "{text.content}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
@@ -2670,17 +2661,8 @@
         "description": "use for gradient over picture on right tournament panel"
       },
       "2-additional": {
-        "value": "{bg.overlay.2}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg for social buttons in header - hover state"
       }
     },

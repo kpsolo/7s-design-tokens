@@ -2199,7 +2199,7 @@
         "description": "color for desktop sidebar"
       },
       "hover-on-light": {
-        "value": "rgba({base.dark}, 0.06)",
+        "value": "rgba(20, 33, 58, 0.06)",
         "type": "color",
         "description": "use for hover state in calendar, cashbox filter"
       },
@@ -2297,7 +2297,7 @@
         "description": "for cashbox bonus popup AB test"
       },
       "exhange-point-table": {
-        "value": "rgba({base.dark}, 0.06)",
+        "value": "rgba(20, 33, 58, 0.06)",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
@@ -4003,17 +4003,8 @@
         "description": "use for text in disabled field "
       },
       "disabled-label": {
-        "value": "{input.text.label}",
+        "value": "rgba(34, 46, 70, 0.65)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.65",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for text in confirmed field hint"
       }
     }

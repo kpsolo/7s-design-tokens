@@ -1473,7 +1473,7 @@
     },
     "chips-default": {
       "value": {
-        "color": "rgba({base.dark} , 0.16)",
+        "color": "rgba(12, 5, 14, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -2162,7 +2162,7 @@
         "description": "color for desktop sidebar"
       },
       "hover-on-light": {
-        "value": "rgba({base.dark}, 0.06)",
+        "value": "#0c050e0f",
         "type": "color",
         "description": "use for hover state in calendar, cashbox filter"
       },
@@ -2500,17 +2500,8 @@
         "description": "mob app slideshow bg"
       },
       "2-additional": {
-        "value": "{bg.overlay.2}",
+        "value": "#b3b3b314",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg for social buttons in header - hover state"
       }
     },
@@ -3495,17 +3486,8 @@
         "description": "Background for payment dropdown element"
       },
       "bg-social-additional": {
-        "value": "{small-elements.footer.bg-social}",
+        "value": "#b3b3b30f",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for social icons bg hover State "
       }
     },
@@ -5686,17 +5668,8 @@
         "description": "use for icons in gamepage widget"
       },
       "additional-opacity": {
-        "value": "{text.opacity.light-2}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for content on widget fo gamepage"
       }
     },
