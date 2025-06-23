@@ -4584,6 +4584,11 @@
           "type": "color",
           "description": "border for activity card"
         },
+        "activity-copy": {
+          "value": "linear-gradient(158deg, #4A80C5 18.13%, #A0A9B6 48.78%, #4A80C5 76.69%);",
+          "type": "color",
+          "description": "border for default card"
+        },
         "main": {
           "value": "linear-gradient(178deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
           "type": "color",
@@ -4613,6 +4618,11 @@
           "value": "linear-gradient(170.92deg, #3BA0C6 11.97%, rgba(59, 160, 198, 0.43) 48.37%, #3BA0C6 76.95%);",
           "type": "color",
           "description": "border for mobapp card"
+        },
+        "default": {
+          "value": "#3A394E",
+          "type": "color",
+          "description": "border for default card"
         },
         "achievements": {
           "value": "linear-gradient(158deg, #8679D5 15.68%, rgba(112, 103, 215, 0.43) 48.53%, #685FCA 74.32%)",
@@ -4721,6 +4731,11 @@
           "value": "linear-gradient(132deg, rgba(59, 160, 198, 0.54) 15.4%, rgba(59, 160, 198, 0.16) 39.28%, rgba(59, 160, 198, 0.00) 57.31%);",
           "type": "color",
           "description": "bg for mobapp cards"
+        },
+        "default": {
+          "value": "rgba(151, 151, 151, 0.10",
+          "type": "color",
+          "description": "bg for default cards"
         },
         "first-deposit": {
           "value": "linear-gradient(178deg, rgba(35, 97, 118, 0.89) 4.73%, rgba(39, 85, 101, 0.00) 88.99%)",
