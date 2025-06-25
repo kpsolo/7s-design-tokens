@@ -2519,7 +2519,7 @@
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba({bg.additional}, 0.00) 0%, {bg.additional} 100%)",
+        "value": "linear-gradient(180deg, #ecf4ff00 0%, #ECF4FF 100%)",
         "type": "color",
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },

@@ -2507,7 +2507,7 @@
     },
     "overlay-gradient": {
       "1": {
-        "value": "linear-gradient(180deg, {base.dark} 0%, rgba({base.dark}, 0.00) 45%)",
+        "value": "linear-gradient(180deg, #0C050E 0%, #0c050e00 45%)",
         "type": "color",
         "description": "use for menu banner overlay gradient under title"
       },
@@ -2527,12 +2527,12 @@
         "description": "use for coin in lootboxes"
       },
       "5": {
-        "value": "linear-gradient(180deg, rgba({bg.secondary}, 0.00) 0%, {bg.secondary} 100%)",
+        "value": "linear-gradient(180deg, #33184800 0%, #331848 100%)",
         "type": "color",
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba({bg.primary}, 0.00) 0%, {bg.primary} 100%)",
+        "value": "linear-gradient(180deg, #101a3200 0%, #101A32 100%)",
         "type": "color",
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },

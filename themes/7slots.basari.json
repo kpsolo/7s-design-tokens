@@ -2553,17 +2553,17 @@
     },
     "overlay-gradient": {
       "1": {
-        "value": "linear-gradient(180deg, {base.dark} 0%, rgba({base.dark}, 0.00) 45%)",
+        "value": "linear-gradient(180deg, #000000 0%, #00000000 45%)",
         "type": "color",
         "description": "use for menu banner overlay gradient under title"
       },
       "2": {
-        "value": "linear-gradient(180deg, {bg.tertiary} 0%, rgba({bg.tertiary}, 0.65) 64%, rgba({bg.tertiary}, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #2d2d2d 0%, #2d2d2da6 64%, #2d2d2d00 100%)",
         "type": "color",
         "description": "use as overlay on messages picture, news cards picture"
       },
       "3": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary} , 0.00) 0%, rgba({bg.primary}, 0.76) 41.15%, {bg.primary} 100%)",
+        "value": "linear-gradient(180deg, #13131300 0%, #131313c2 41.15%, #131313 100%)",
         "type": "color",
         "description": "use under link in messages\n\n[based on primary bg]"
       },
@@ -2573,12 +2573,12 @@
         "description": "use for coin in lootboxes"
       },
       "5": {
-        "value": "linear-gradient(180deg, rgba({bg.secondary}, 0.00) 0%, {bg.secondary} 100%)",
+        "value": "linear-gradient(180deg, #37373700 0%, #373737 100%)",
         "type": "color",
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba({bg.additional}, 0.00) 0%, {bg.additional} 100%)",
+        "value": "linear-gradient(180deg, #24242400 0%, #242424 100%)",
         "type": "color",
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
@@ -3424,7 +3424,7 @@
       }
     },
     "fade-tertiary": {
-      "value": "linear-gradient(270deg, {bg.tertiary} 0%, rgba({bg.tertiary} , 0.00) 100%)",
+      "value": "linear-gradient(270deg, #2d2d2d 0%, #2d2d2d00 100%)",
       "type": "color",
       "description": "Fade on tertiary backgrounds"
     },
