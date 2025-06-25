@@ -1566,7 +1566,7 @@
     },
     "ghost-4": {
       "value": {
-        "color": "rgba( {base.primary} , 0.16)",
+        "color": "rgba(255, 255, 255, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -2781,7 +2781,7 @@
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
       "8": {
-        "value": "linear-gradient(180deg, rgba( {nav.tab.stop} , 0.00) 0%, rgba( {nav.tab.stop}, 0.76) 41.15%, {nav.tab.stop} 100%)",
+        "value": "linear-gradient(180deg, #252d4000 0%, #252d40c2 41%, #252D40 100%)",
         "type": "color",
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
@@ -2801,12 +2801,12 @@
         "description": "use for overlay under button in welcome popup"
       },
       "footer": {
-        "value": "linear-gradient(90deg, rgba( {bg.other.footer} , 0.00) 0%, {bg.other.footer} 100%)",
+        "value": "linear-gradient(90deg, #252d4000 0%, #252D40 100%)",
         "type": "color",
         "description": "use as overlay on footer"
       },
       "strip": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary}, 0.00) 0%, rgba( {bg.primary}, 0.2) 100%)",
+        "value": "linear-gradient(180deg, #252d4000 0%, #252d4033 100%)",
         "type": "color",
         "description": "strip bg card\n\n[based on primary bg]"
       }
@@ -4528,7 +4528,7 @@
       "description": "for error bg"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
+      "value": "linear-gradient(180deg, #1c212e00 0%, #1C212E 100%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },

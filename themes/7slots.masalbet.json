@@ -1351,7 +1351,7 @@
     },
     "ghost-4": {
       "value": {
-        "color": "rgba( {base.primary} , 0.16)",
+        "color": "rgba(255, 255, 255, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -2419,7 +2419,7 @@
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
       "8": {
-        "value": "linear-gradient(180deg, rgba( {nav.tab.stop} , 0.00) 0%, rgba( {nav.tab.stop}, 0.76) 41.15%, {nav.tab.stop} 100%)",
+        "value": "linear-gradient(180deg, #22222200 0%, #222222c2 41%, #222 100%)",
         "type": "color",
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
@@ -2439,12 +2439,12 @@
         "description": "use for overlay under button in welcome popup"
       },
       "footer": {
-        "value": "linear-gradient(90deg, rgba( {bg.other.footer} , 0.00) 0%, {bg.other.footer} 100%)",
+        "value": "linear-gradient(90deg, #15151500 0%, #151515 100%)",
         "type": "color",
         "description": "use as overlay on footer"
       },
       "strip": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary}, 0.00) 0%, rgba( {bg.primary}, 0.2) 100%)",
+        "value": "linear-gradient(180deg, #13131300 0%, #13131333 100%)",
         "type": "color",
         "description": "strip bg card\n\n[based on primary bg]"
       }
@@ -3367,7 +3367,7 @@
         "description": "use for check box in lottery"
       },
       "default": {
-        "value": "rgba( {base.primary},0.2)",
+        "value": "#ffffff33",
         "type": "color",
         "description": "use for border in default state"
       }
@@ -3691,7 +3691,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "rgba( {base.primary} ,0.6)",
+      "value": "#ffffff99",
       "type": "color",
       "description": "for main icons in navbar"
     },
@@ -4250,7 +4250,7 @@
       "description": "Background for jackpot widget"
     },
     "jackpot-line": {
-      "value": "linear-gradient(180deg, rgba( {base.accent-secondary} , 0.39) 0%, {base.accent-secondary} 49.48%, rgba( {base.accent-secondary} , 0.39) 100%)",
+      "value": "linear-gradient(180deg, #ffc90863 0%, #FFC908 49%, #ffc90863 100%)",
       "type": "color",
       "description": "Color for jackpot widget separate line"
     },
@@ -4260,7 +4260,7 @@
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
+      "value": "linear-gradient(180deg, #29292900 0%, #292929 100%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },

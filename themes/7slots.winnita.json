@@ -1438,7 +1438,7 @@
     },
     "ghost-4": {
       "value": {
-        "color": "rgba( {base.primary} , 0.16)",
+        "color": "rgba(25, 41, 71, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -2529,17 +2529,17 @@
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
       "8": {
-        "value": "linear-gradient(180deg, rgba( {nav.tab.stop} , 0.00) 0%, rgba( {nav.tab.stop}, 0.76) 41.15%, {nav.tab.stop} 100%)",
+        "value": "linear-gradient(180deg, #ffffff00 0%, #ffffffc2 41%, #fff 100%)",
         "type": "color",
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
       "9": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary} , 0.00) 0%, rgba( {bg.primary}, 0.76) 41.15%, {bg.primary} 100%)",
+        "value": "linear-gradient(180deg, #ffffff00 0%, #ffffffc2 41%, #fff 100%)",
         "type": "color",
         "description": "use on message page under bottom link "
       },
       "10": {
-        "value": "linear-gradient(180deg, rgba( {nav.tab.stop} , 0.00) 0%, rgba( {nav.tab.stop}, 0.76) 41.15%, {nav.tab.stop} 100%)",
+        "value": "linear-gradient(180deg, #ffffff00 0%, #ffffffc2 41%, #fff 100%)",
         "type": "color",
         "description": "mask in search dropdown in mob homepage"
       },
@@ -2554,7 +2554,7 @@
         "description": "use as overlay on footer"
       },
       "strip": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary}, 0.00) 0%, rgba( {bg.primary}, 0.2) 100%)",
+        "value": "linear-gradient(180deg, #ffffff00 0%, #ffffff33 100%)",
         "type": "color",
         "description": "strip bg card\n\n[based on primary bg]"
       }

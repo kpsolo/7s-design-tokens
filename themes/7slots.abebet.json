@@ -1464,7 +1464,7 @@
     },
     "ghost-4": {
       "value": {
-        "color": "rgba( {base.primary} , 0.16)",
+        "color": "rgba(255, 255, 255, 0.16)",
         "width": "1",
         "style": "solid"
       },
@@ -2542,7 +2542,7 @@
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
       "8": {
-        "value": "linear-gradient(180deg, rgba( {nav.tab.stop} , 0.00) 0%, rgba( {nav.tab.stop}, 0.76) 41.15%, {nav.tab.stop} 100%)",
+        "value": "linear-gradient(180deg, #27174300 0%, #271743c2 41%, #271743 100%)",
         "type": "color",
         "description": "use on bottom of popups\n[based on nav.tab.stop ]"
       },
@@ -2562,12 +2562,12 @@
         "description": "use for overlay under button in welcome popup"
       },
       "footer": {
-        "value": "linear-gradient(90deg, rgba( {bg.other.footer} , 0.00) 0%, {bg.other.footer} 100%)",
+        "value": "linear-gradient(90deg, #0d152700 0%, #0D1527 100%)",
         "type": "color",
         "description": "use as overlay on footer"
       },
       "strip": {
-        "value": "linear-gradient(180deg, rgba( {bg.primary}, 0.00) 0%, rgba( {bg.primary}, 0.2) 100%)",
+        "value": "linear-gradient(180deg, #101a3200 0%, #101a3233 100%)",
         "type": "color",
         "description": "strip bg card\n\n[based on primary bg]"
       }
@@ -3824,7 +3824,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "rgba( {base.primary} ,0.6)",
+      "value": "#ffffff99",
       "type": "color",
       "description": "for main icons in navbar"
     },
@@ -4383,7 +4383,7 @@
       "description": "Background for jackpot widget"
     },
     "jackpot-line": {
-      "value": "linear-gradient(180deg, rgba( {base.accent-primary} , 0.39) 0%, {base.accent-primary} 49.48%, rgba( {base.accent-primary} , 0.39) 100%)",
+      "value": "linear-gradient(180deg, #f2ff4463 0%, #F2FF44 49%, #f2ff4463 100%)",
       "type": "color",
       "description": "Color for jackpot widget separate line"
     },
@@ -4393,7 +4393,7 @@
       "description": "For bg on filter dropdown and language dropdown"
     },
     "dropdown-custom-fade": {
-      "value": "linear-gradient(180deg, rgba( {special-blocks.dropdown-custom} , 0.00) 0%, {special-blocks.dropdown-custom} 100%)",
+      "value": "linear-gradient(180deg, #111c3400 0%, #111C34 100%)",
       "type": "color",
       "description": "For bg on filter dropdown and language dropdown"
     },
