@@ -2766,7 +2766,7 @@
         "description": "use for coin in lootboxes"
       },
       "5": {
-        "value": "linear-gradient(180deg, rgba({bg.secondary}, 0.00) 0%, {bg.secondary} 100%)",
+        "value": "linear-gradient(180deg, #374c6d00 0%, #374C6D 100%)",
         "type": "color",
         "description": "use under title in news card on inner page\n\n[based on secondary bg]"
       },
