@@ -2485,17 +2485,8 @@
         "description": "Use for game page background on right filter sidebar (under icons)"
       },
       "light-1": {
-        "value": "{base.light}",
+        "value": "#ffffff1a",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for bg under status in menu top part"
       },
       "light-2": {
@@ -4836,17 +4827,8 @@
   "header": {
     "bg": {
       "balance": {
-        "value": "{base.light}",
+        "value": "#ffffff1a",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for bg under balance amount"
       },
       "main": {
