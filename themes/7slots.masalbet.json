@@ -2244,17 +2244,8 @@
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
-        "value": "{base.primary}",
+        "value": "rgba(255, 255, 255, 0.15)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.15",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {

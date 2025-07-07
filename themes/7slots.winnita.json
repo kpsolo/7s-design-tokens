@@ -2372,17 +2372,8 @@
         "description": "bg for social buttons in header"
       },
       "3": {
-        "value": "{text.content}",
+        "value": "rgba(20, 33, 58, 0.06)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.06",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for bullets bg in text, bg under number bullets in tournaments/lottery winners list, bg under prizes in prize tab in tournaments/lottery"
       },
       "4": {
