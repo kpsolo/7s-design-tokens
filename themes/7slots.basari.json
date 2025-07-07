@@ -2831,7 +2831,7 @@
       "description": "use for active bonus balance"
     },
     "technical2": {
-      "value": "linear-gradient(176deg, #237C8B 6.8%, #237C8B 34.97%, #135867 61.27%, #0D4551 81.93%, #0D4551 91.33%);",
+      "value": "linear-gradient(180deg, #19714E 0%, #062A1C 100%), #D9D9D9",
       "type": "color",
       "description": "for set by admin (card of Free Bets)"
     }
