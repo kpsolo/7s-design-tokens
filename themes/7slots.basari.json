@@ -2369,9 +2369,9 @@
       "description": "bg for menu, bottom sheets,dropdown"
     },
     "technical": {
-      "value": "linear-gradient(176deg, #711919 4%, #771F1E 34%, #521A19 62%, #31090B 84%, #31090B 94%)",
+      "value": "linear-gradient(176deg, #237C8B 3.04%, #0D4551 96.96%), #D9D9D9;",
       "type": "color",
-      "description": "for set by admin (card of collection,deals, tournament, lottery,news)"
+      "description": "for set by admin (card of collection,deals, tournament, lottery,news) (old color linear-gradient(176deg, #711919 4%, #771F1E 34%, #521A19 62%, #31090B 84%, #31090B 94%))"
     },
     "widget-disabled": {
       "value": "linear-gradient(114deg, rgba(157, 157, 157, 0.60) 23.29%, rgba(57, 57, 57, 0.60) 98.01%)",
