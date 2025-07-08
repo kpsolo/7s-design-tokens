@@ -2390,17 +2390,8 @@
         "description": "for static table headet"
       },
       "2": {
-        "value": "{base.primary}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "social icons bg in desktop header/ mob registration/gamepage left sidebar"
       },
       "3": {
@@ -4020,17 +4011,8 @@
         "description": "Accent background for input"
       },
       "hover": {
-        "value": "{base.dark}",
+        "value": "rgba(230, 230, 230, 1)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Hover background for input"
       }
     },
