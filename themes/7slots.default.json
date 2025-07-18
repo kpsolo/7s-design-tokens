@@ -4733,7 +4733,7 @@
           "description": "bg for mobapp cards"
         },
         "default": {
-          "value": "rgba(151, 151, 151, 0.10",
+          "value": "rgba(151, 151, 151, 0.10)",
           "type": "color",
           "description": "bg for default cards"
         },

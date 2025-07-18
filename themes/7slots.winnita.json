@@ -5549,7 +5549,7 @@
         "description": "use for sectors bg (type3) - win sector - stop"
       },
       "border-sector": {
-        "value": "transparet",
+        "value": "transparent",
         "type": "color",
         "description": "use for borders in sectors"
       },
