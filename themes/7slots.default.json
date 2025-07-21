@@ -2590,17 +2590,8 @@
         "description": "use for results inner tournament card"
       },
       "ghost-2": {
-        "value": "#00000000",
+        "value": "rgba(0,0,0,0.8)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Use for underlay of elements on top (star, counter)\ningame back button bg\npopups underlay\n"
       },
       "slider": {
