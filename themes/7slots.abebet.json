@@ -2627,7 +2627,7 @@
           "description": "1st deopsit card bg"
         },
         "2": {
-          "value": "linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)",
+          "value": "linear-gradient(138deg, #75387F 2.36%, #53356A 23.94%, #2F2751 37.59%, #2E2759 64.47%, #2E2759 75.77%, #2E2759 97.64%)",
           "type": "color",
           "description": "bg for provider card"
         },
