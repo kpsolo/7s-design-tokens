@@ -3486,17 +3486,8 @@
         "description": "Background for Providers button"
       },
       "bg-social-additional": {
-        "value": "{small-elements.footer.bg-social}",
+        "value": "#161B25",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for social icons bg hover State "
       }
     },
@@ -3512,17 +3503,8 @@
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
-        "value": "{small-elements.check-box.accent}",
+        "value": "rgba(43, 216, 145, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "lch"
-            }
-          }
-        },
         "description": "use for border in default state"
       }
     },
@@ -3730,17 +3712,8 @@
   },
   "icon": {
     "alternative-disabled": {
-      "value": "{text.primary}",
+      "value": "rgba(255, 255, 255, 0.60)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "lch"
-          }
-        }
-      },
       "description": "use for disabled icons in lists (loyalty)"
     },
     "secondary": {
@@ -3759,17 +3732,8 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(28, 33, 46, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
@@ -3961,17 +3925,8 @@
     },
     "text": {
       "label": {
-        "value": "{base.dark}",
+        "value": "#494E58",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Label color"
       },
       "value-main": {
@@ -3985,17 +3940,8 @@
         "description": "Input warning text color"
       },
       "value-submain": {
-        "value": "{base.dark}",
+        "value": "#A4A6AB",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Input value text color"
       },
       "accent": {
@@ -4422,17 +4368,8 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg": {
-        "value": "{bg.secondary}",
+        "value": "rgba(55, 76, 109, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for numbers gradient in conditions"
       },
       "accent": {
@@ -4875,17 +4812,8 @@
       "description": "use for menu items text, 1click text, footer all button"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(28, 33, 46, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "(delete?)"
     },
     "content": {
@@ -4973,45 +4901,18 @@
     },
     "opacity": {
       "1": {
-        "value": "{text.primary}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo header text, "
       },
       "2": {
-        "value": "{text.primary}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(255, 255, 255, 0.40)",
+        "type": "color"
       },
       "4": {
         "value": "{text.primary}",
