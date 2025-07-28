@@ -2023,17 +2023,8 @@
         "description": "for cashbox bonus popup content"
       },
       "cashbox-bonus-content-opacity": {
-        "value": "{base.dark}",
+        "value": "rgba(0, 0, 0, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for cashbox bonus popup content"
       },
       "promo": {
@@ -2264,17 +2255,8 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "7": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.02)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.02",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for stable in first deposite page"
       },
       "8": {
@@ -2564,17 +2546,8 @@
       "description": "use for bg blue in provider filter cards"
     },
     "social-icons-additional": {
-      "value": "{bg.social-icons}",
+      "value": "rgba(26, 26, 26, 0.00)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for bg under social icons in mob menu - hover state"
     },
     "balance-active": {
@@ -2721,17 +2694,8 @@
         "description": "use for buttton color on main tapbar"
       },
       "button-icon": {
-        "value": "{base.dark}",
+        "value": "rgba(0, 0, 0, 0.90)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Color of icon on big button in tapbar"
       }
     },
@@ -2749,31 +2713,13 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "{button.bg.primary}",
+        "value": "#FFD439",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "{button.bg.primary}",
+        "value": "#CCA106",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary pressed"
       },
       "primary-disabled": {
@@ -2807,31 +2753,13 @@
         "description": "Background for bottom part and button in pregame modal"
       },
       "app-hover": {
-        "value": "{button.bg.app-default}",
+        "value": "#BBBBBB",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for hovered button in pregame modal"
       },
       "app-pressed": {
-        "value": "{button.bg.app-default}",
+        "value": "#D3D3D3",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for pressed button in pregame modal"
       },
       "ghost": {
@@ -2850,17 +2778,8 @@
         "description": "Background for button in ingame sticky menu"
       },
       "extra-pressed": {
-        "value": "{button.bg.extra}",
+        "value": "#368E69",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for button pressed state in ingame sticky menu"
       }
     },
@@ -2948,31 +2867,13 @@
         "description": "border color for buttons default in cards"
       },
       "tertiary-light-hover": {
-        "value": "{button.border.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.90)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons hover"
       },
       "tertiary-light-pressed": {
-        "value": "{button.text.tertiary}",
+        "value": "rgba(255, 255, 255, 0.70)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons pressed"
       },
       "tertiary-light-disabled": {
@@ -3033,17 +2934,8 @@
         "description": "color on tertiary buttons on cards"
       },
       "tertiary-light-disabled": {
-        "value": "{button.text.tertiary}",
+        "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Text color on tertiary disabled button"
       }
     }
