@@ -3034,31 +3034,13 @@
         "description": "desktop registration popup bottom link top separator/ tab separator"
       },
       "additional": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for info inside transaction, separator in tables in static page"
       },
       "extra": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "separator in filter provider item"
       }
     },
@@ -3076,17 +3058,8 @@
       "type": "color"
     },
     "slider": {
-      "value": "{base.accent-secondary}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.2",
-            "space": "srgb"
-          }
-        }
-      }
+      "value": "rgba(255, 201, 8, 0.20)",
+      "type": "color"
     },
     "fade-additional": {
       "value": "linear-gradient(270deg, #976E2D 0%, rgba(151, 110, 45, 0.00) 100%)",
@@ -3136,17 +3109,8 @@
         "description": "for social icons bg"
       },
       "bg-payments": {
-        "value": "{bg.secondary}",
+        "value": "rgba(55, 55, 55, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for payments bg"
       },
       "dropdown": {
@@ -3270,18 +3234,9 @@
         "description": "Bg on default on floating button"
       },
       "border": {
-        "value": "{base.surface}",
+        "value": "rgba(19, 19, 19, 0.40)",
         "type": "color",
-        "description": "border on default on floating button",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "description": "border on default on floating button"
       },
       "hover-icon": {
         "value": "{icon.secondary}",
@@ -3321,17 +3276,8 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bg": {
-      "value": "{base.accent-light}",
+      "value": "rgba(237, 237, 237, 0.10)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "bg for progressbar in loyalty"
     },
     "progress-bg-additional": {
@@ -3457,17 +3403,8 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(0, 0, 0, 0.40)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.4",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
@@ -3553,17 +3490,8 @@
       "description": "use for message icon in desktop header"
     },
     "alternative-disabled": {
-      "value": "{text.primary}",
+      "value": "rgba(255, 255, 255, 0.60)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for disabled icons in lists (loyalty)"
     },
     "ghost-5": {
@@ -3575,17 +3503,8 @@
   "input": {
     "border": {
       "default": {
-        "value": "{base.dark}",
+        "value": "#E6E6E6",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Border color for default inputs"
       },
       "focus": {
@@ -3636,17 +3555,8 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "{base.accent-secondary}",
+        "value": "#FFE99C",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Accent background for input"
       },
       "hover": {
@@ -3657,17 +3567,8 @@
     },
     "text": {
       "label": {
-        "value": "{base.dark}",
+        "value": "#333333",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Label color"
       },
       "value-main": {
@@ -3681,17 +3582,8 @@
         "description": "Input warning text color"
       },
       "value-submain": {
-        "value": "{base.dark}",
+        "value": "#999999",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Input value text color"
       },
       "accent": {
