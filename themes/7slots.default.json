@@ -4915,44 +4915,17 @@
         "type": "color"
       },
       "4": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(255, 255, 255, 0.70)",
+        "type": "color"
       },
       "light-1": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)"
       },
       "light-2": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for time in messages, secondary small titles on cards and tables on color backgrounds"
       }
     },
@@ -5020,17 +4993,8 @@
         "description": "bg for menu\n\n(delete?)"
       },
       "item-hover": {
-        "value": "{base.dark}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(28, 33, 46, 0.10)",
+        "type": "color"
       },
       "item-active": {
         "value": "linear-gradient(0deg, rgba(45, 216, 144, 0.10) 0%, rgba(45, 216, 144, 0.10) 100%), #FFF;",
@@ -5063,17 +5027,8 @@
       "description": "Color of icon and text inside active item menu"
     },
     "content": {
-      "value": "{text.light}",
+      "value": "rgba(255, 255, 255, 0.80",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "Color for status and %"
     },
     "accent-additional": {
@@ -5107,30 +5062,12 @@
       "type": "color"
     },
     "green": {
-      "value": "{base.success}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      }
+      "value": "#42DC9B",
+      "type": "color"
     },
     "accent": {
-      "value": "{text.accent-additional}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      }
+      "value": "#42DC9B",
+      "type": "color"
     },
     "red": {
       "value": "{base.error}",
@@ -5473,17 +5410,8 @@
       "description": "use for icons border on gamepage widget"
     },
     "bg-progress": {
-      "value": "{bg.secondary}",
+      "value": "rgba(55, 76, 109, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "bg in brogress bar "
     },
     "overlay": {
@@ -5614,17 +5542,8 @@
         }
       },
       "secondary": {
-        "value": "{base.light}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(255, 255, 255, 0.80)",
+        "type": "color"
       },
       "tertiary": {
         "value": "#FFFFFF",
