@@ -3109,17 +3109,8 @@
         "description": "Color for label thumb"
       },
       "counter-color": {
-        "value": "{base.dark}",
+        "value": "#E7E6E7",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
@@ -3130,45 +3121,18 @@
     },
     "scrollbar": {
       "dark": {
-        "value": "{base.dark}",
+        "value": "rgba(12, 5, 14, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for scrollbar on light bg (dropdown)"
       },
       "light": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for dark bg (regular popups)"
       },
       "primary": {
-        "value": "{base.primary}",
+        "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "base on primary color (change in themes)"
       }
     },
@@ -3202,17 +3166,8 @@
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "item": {
-        "value": "{base.dark}",
+        "value": "rgba(12, 5, 14, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for line separator in menu/ dropdown with light bg"
       },
       "secondary": {
@@ -3230,31 +3185,13 @@
         "description": "desktop registration popup bottom link top separator/ tab separator"
       },
       "additional": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for info inside transaction, separator in tables in static page"
       },
       "extra": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "separator in filter provider item"
       }
     },
@@ -3535,18 +3472,9 @@
         "description": "Bg on default on floating button"
       },
       "border": {
-        "value": "{base.surface}",
+        "value": "rgba(16, 26, 50, 0.40)",
         "type": "color",
-        "description": "border on default on floating button",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "description": "border on default on floating button"
       },
       "hover-icon": {
         "value": "{icon.secondary}",
@@ -3591,17 +3519,8 @@
       "description": "Color of progress for strip, gamepage(desktop)"
     },
     "progress-bg": {
-      "value": "{base.accent-light}",
+      "value": "rgba(225, 217, 250, 0.10)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "bg for progressbar in loyalty"
     },
     "progress-bg-additional": {
