@@ -3644,17 +3644,8 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(0, 0, 0, 0.40)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.4",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
@@ -3740,17 +3731,8 @@
       "description": "use for message icon in desktop header"
     },
     "alternative-disabled": {
-      "value": "{text.primary}",
+      "value": "rgba(255, 255, 255, 0.60)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for disabled icons in lists (loyalty)"
     },
     "ghost-5": {
@@ -3774,17 +3756,8 @@
   "input": {
     "border": {
       "default": {
-        "value": "{base.dark}",
+        "value": "#E6E6E6",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Border color for default inputs"
       },
       "focus": {
@@ -3844,17 +3817,8 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#FED8D8",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Accent background for input"
       },
       "hover": {
@@ -3865,17 +3829,8 @@
     },
     "text": {
       "label": {
-        "value": "{base.dark}",
+        "value": "#333333",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Label color"
       },
       "value-main": {
@@ -3889,17 +3844,8 @@
         "description": "Input warning text color"
       },
       "value-submain": {
-        "value": "{base.dark}",
+        "value": "#999999",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Input value text color"
       },
       "accent": {
@@ -3918,18 +3864,9 @@
         "description": "use for text in disabled field "
       },
       "disabled-label": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "description": "use for text in confirmed field hint",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        }
+        "description": "use for text in confirmed field hint"
       }
     }
   },
@@ -4729,17 +4666,8 @@
       "description": "use for menu items text, 1click text, footer all button"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(0, 0, 0, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "(delete?)"
     },
     "content": {
@@ -4792,85 +4720,31 @@
     },
     "opacity": {
       "1": {
-        "value": "{text.primary}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo header text, "
       },
       "2": {
-        "value": "{text.primary}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(255, 255, 255, 0.40)",
+        "type": "color"
       },
       "4": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(255, 255, 255, 0.90)",
+        "type": "color"
       },
       "light-1": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)"
       },
       "light-2": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.70)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for time in messages, secondary small titles on cards and tables on color backgrounds"
       }
     },
