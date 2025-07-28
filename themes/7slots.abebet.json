@@ -3563,17 +3563,8 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(12, 5, 14, 0.60)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
@@ -3659,17 +3650,8 @@
       "description": "use for message icon in desktop header"
     },
     "alternative-disabled": {
-      "value": "{text.primary}",
+      "value": "rgba(255, 255, 255, 0.60)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for disabled icons in lists (loyalty)"
     },
     "ghost-5": {
@@ -3681,17 +3663,8 @@
   "input": {
     "border": {
       "default": {
-        "value": "{base.dark}",
+        "value": "#E7E6E7",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Border color for default inputs"
       },
       "focus": {
@@ -3742,17 +3715,8 @@
         "description": "Backgrounds for confirmed inputs"
       },
       "accent": {
-        "value": "{base.accent-primary}",
+        "value": "#FAFFB4",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Accent background for input"
       },
       "hover": {
@@ -3763,17 +3727,8 @@
     },
     "text": {
       "label": {
-        "value": "{base.dark}",
+        "value": "#3D373E",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Label color"
       },
       "value-main": {
@@ -3787,17 +3742,8 @@
         "description": "Input warning text color"
       },
       "value-submain": {
-        "value": "{base.dark}",
+        "value": "#9E9B9F",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Input value text color"
       },
       "accent": {
@@ -3816,18 +3762,9 @@
         "description": "use for text in disabled field "
       },
       "disabled-label": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "description": "use for text in confirmed field hint",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        }
+        "description": "use for text in confirmed field hint"
       }
     }
   },
