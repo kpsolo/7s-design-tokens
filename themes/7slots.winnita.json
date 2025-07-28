@@ -4670,17 +4670,8 @@
         "description": "bg for menu\n\n(delete?)"
       },
       "item-hover": {
-        "value": "{base.dark}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(20, 33, 58, 0.10)",
+        "type": "color"
       },
       "item-active": {
         "value": "linear-gradient(0deg, rgba(45, 216, 144, 0.10) 0%, rgba(45, 216, 144, 0.10) 100%), #FFF;",
@@ -4748,17 +4739,8 @@
       "type": "color"
     },
     "green": {
-      "value": "{base.success}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      }
+      "value": "#23B944",
+      "type": "color"
     },
     "red": {
       "value": "{base.error}",
@@ -4778,17 +4760,8 @@
       "description": "cashout bg/ "
     },
     "hover card": {
-      "value": "{betting.card}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      }
+      "value": "#D9DEE6",
+      "type": "color"
     },
     "select card": {
       "value": "{base.accent-primary}",
@@ -4842,17 +4815,8 @@
         "description": "use for content on widget fo gamepage"
       },
       "additional-opacity": {
-        "value": "{base.dark}",
+        "value": "rgba(20, 33, 58, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for content on widget fo gamepage"
       },
       "accent-additional": {
@@ -4983,17 +4947,8 @@
         "description": "use for close icon in right sidebar"
       },
       "tertiary": {
-        "value": "{text.primary}",
+        "value": "rgba(25, 41, 71, 0.90)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "lch"
-            }
-          }
-        },
         "description": "use for headers in tournament widget"
       },
       "additional": {
