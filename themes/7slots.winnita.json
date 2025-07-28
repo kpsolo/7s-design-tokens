@@ -2253,17 +2253,8 @@
         "description": "use as bg for welcome popup"
       },
       "welcome-2": {
-        "value": "{bg.other.welcome}",
+        "value": "#153479",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use as bg for welcome popup timer widget"
       },
       "lootboxes-cell-selected": {
@@ -2392,17 +2383,8 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "7": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.02)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.02",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for stable in first deposite page"
       },
       "8": {
@@ -2469,17 +2451,8 @@
         "description": "use for gradient over picture on right tournament panel"
       },
       "slider": {
-        "value": "{bg.additional}",
+        "value": "rgba(236, 244, 255, 0.70)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "mob app slideshow bg"
       }
     },
@@ -2829,31 +2802,13 @@
         "description": "Background for primary buttons"
       },
       "primary-hover": {
-        "value": "{button.bg.primary}",
+        "value": "#4DD16A",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
-        "value": "{button.bg.primary}",
+        "value": "#33B850",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
@@ -2862,17 +2817,8 @@
         "description": "Background for primary disabled button for lighgt bg"
       },
       "primary-disabled": {
-        "value": "{button.bg.primary}",
+        "value": "rgba(57, 204, 89, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary buttons disabled"
       },
       "secondary": {
@@ -2881,45 +2827,18 @@
         "description": "Background for secondary buttons"
       },
       "secondary-hover": {
-        "value": "{button.bg.secondary}",
+        "value": "#FF6161",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
-        "value": "{button.bg.secondary}",
+        "value": "#E64848",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
-        "value": "{button.bg.secondary}",
+        "value": "rgba(255, 80, 80, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
@@ -2928,31 +2847,13 @@
         "description": "Background for bottom part and button in pregame modal"
       },
       "app-hover": {
-        "value": "{button.bg.app-default}",
+        "value": "#DEE8FF",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for hovered button in pregame modal"
       },
       "app-pressed": {
-        "value": "{button.bg.app-default}",
+        "value": "#C4CEE6",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for pressed button in pregame modal"
       },
       "ghost": {
@@ -2966,17 +2867,8 @@
         "description": "Background for button in ingame sticky menu"
       },
       "extra-pressed": {
-        "value": "{button.bg.extra}",
+        "value": "#368E69",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for button pressed state in ingame sticky menu"
       }
     },
@@ -3012,17 +2904,8 @@
         "description": "Icon color on a secondary disabled button"
       },
       "tertiary-disabled": {
-        "value": "{button.text.tertiary}",
+        "value": "rgba(51, 179, 79, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Icon color on a tertiary disabled button"
       },
       "ghost-disabled": {
@@ -3043,59 +2926,23 @@
         "description": "border color for buttons default in cards"
       },
       "tertiary-hover": {
-        "value": "{button.border.tertiary}",
+        "value": "#70CA84",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons hover"
       },
       "tertiary-light-hover": {
-        "value": "{button.border.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.90)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons hover"
       },
       "tertiary-pressed": {
-        "value": "{button.text.tertiary}",
+        "value": "#298F3F",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons pressed"
       },
       "tertiary-light-pressed": {
-        "value": "{button.text.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.70)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons pressed"
       },
       "tertiary-disabled": {
@@ -3166,31 +3013,13 @@
         "description": "Text color on secondary disabled button"
       },
       "tertiary-disabled": {
-        "value": "{button.text.tertiary}",
+        "value": "rgba(51, 179, 79, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Text color on tertiary disabled button"
       },
       "tertiary-light-disabled": {
-        "value": "{button.text.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Text color on tertiary disabled button"
       },
       "ghost-disabled": {
