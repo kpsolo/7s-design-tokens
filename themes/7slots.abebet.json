@@ -4670,17 +4670,8 @@
       "description": "use for menu items text, 1click text, footer all button"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(12, 5, 14, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "(delete?)"
     },
     "content": {
@@ -4733,85 +4724,31 @@
     },
     "opacity": {
       "1": {
-        "value": "{text.primary}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo header text, "
       },
       "2": {
-        "value": "#fff",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(255, 255, 255, 0.40)",
+        "type": "color"
       },
       "4": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(255, 255, 255, 0.90)",
+        "type": "color"
       },
       "light-1": {
-        "value": "#FFF",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)"
       },
       "light-2": {
-        "value": "#fff",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for time in messages, secondary small titles on cards and tables on color backgrounds"
       }
     },
@@ -4893,17 +4830,8 @@
         "description": "bg for menu\n\n(delete?)"
       },
       "item-hover": {
-        "value": "{base.dark}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(12, 5, 14, 0.10)",
+        "type": "color"
       },
       "item-active": {
         "value": "transparent",
@@ -5423,17 +5351,8 @@
         "description": "bg under star"
       },
       "extra-additional": {
-        "value": "{gamepage.bg.extra}",
+        "value": "rgba(90, 90, 90, 0.40)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "bg under star"
       },
       "tertiary": {
