@@ -2566,17 +2566,8 @@
         "description": "use for bg under tournament/lottery tabs"
       },
       "7": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.02)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.02",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for stable in first deposite page"
       },
       "8": {
@@ -2838,17 +2829,8 @@
       "description": "use for bottom block in profile "
     },
     "social-icons-additional": {
-      "value": "{bg.social-icons}",
+      "value": "rgba(84, 124, 183, 0.10)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for bg under social icons in mob menu - hover state"
     },
     "custom": {
@@ -3079,15 +3061,6 @@
       "extra-pressed": {
         "value": "{button.bg.extra}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for button pressed state in ingame sticky menu"
       }
     },
@@ -3175,31 +3148,13 @@
         "description": "border color for buttons default in cards"
       },
       "tertiary-light-hover": {
-        "value": "{button.border.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.90)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons hover"
       },
       "tertiary-light-pressed": {
-        "value": "{button.text.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.70)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.7",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for buttons pressed"
       },
       "tertiary-light-disabled": {
@@ -3260,17 +3215,8 @@
         "description": "color on tertiary buttons on cards"
       },
       "tertiary-light-disabled": {
-        "value": "{button.text.tertiary-light}",
+        "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Text color on tertiary disabled button"
       }
     }
@@ -3298,17 +3244,8 @@
         "description": "Color for label thumb"
       },
       "counter-color": {
-        "value": "{base.dark}",
+        "value": "#E8E9EA",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
@@ -3326,31 +3263,13 @@
     },
     "scrollbar": {
       "dark": {
-        "value": "{base.dark}",
+        "value": "rgba(28, 33, 46, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for scrollbar on light bg (dropdown)"
       },
       "light": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for dark bg (regular popups)"
       },
       "primary": {
@@ -3384,17 +3303,8 @@
         "description": "border color for separating groups in footer, registration under tabs"
       },
       "item": {
-        "value": "{base.dark}",
+        "value": "rgba(28, 33, 46, 0.06)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.06",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
       "tertiary": {
@@ -3426,31 +3336,13 @@
         "description": "use in mob registation tabs"
       },
       "additional": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border color for info inside transaction/ separator for items in tables in static page"
       },
       "extra": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.08)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "separator in filter provider item"
       }
     },
