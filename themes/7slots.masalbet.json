@@ -2958,17 +2958,8 @@
         "description": "Color for label thumb"
       },
       "counter-color": {
-        "value": "{base.dark}",
+        "value": "#E6E6E6",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
@@ -2979,45 +2970,18 @@
     },
     "scrollbar": {
       "dark": {
-        "value": "{base.dark}",
+        "value": "rgba(0, 0, 0, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for scrollbar on light bg (dropdown)"
       },
       "light": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for dark bg (regular popups)"
       },
       "primary": {
-        "value": "{base.primary}",
+        "value": "rgba(255, 255, 255, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "base on primary color (change in themes)"
       }
     },
@@ -3051,17 +3015,8 @@
         "description": "separator for dark bg (mob dropdown providers)"
       },
       "item": {
-        "value": "{base.dark}",
+        "value": "rgba(0, 0, 0, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for line separator in menu/ dropdown with light bg"
       },
       "secondary": {
