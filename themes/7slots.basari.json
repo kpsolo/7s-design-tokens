@@ -4834,17 +4834,8 @@
         "description": "bg for menu\n\n(delete?)"
       },
       "item-hover": {
-        "value": "{base.dark}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(0, 0, 0, 0.10)",
+        "type": "color"
       },
       "item-active": {
         "value": "#FFC56D",
@@ -4877,17 +4868,8 @@
       "description": "Color of icon and text inside active item menu"
     },
     "content": {
-      "value": "{text.light}",
+      "value": "rgba(255, 255, 255, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "Color for status and %"
     },
     "accent-additional": {
@@ -4921,17 +4903,8 @@
       "type": "color"
     },
     "green": {
-      "value": "{base.success}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.1",
-            "space": "srgb"
-          }
-        }
-      }
+      "value": "#20A81B",
+      "type": "color"
     },
     "red": {
       "value": "{base.accent-primary}",
