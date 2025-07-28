@@ -3047,17 +3047,8 @@
         "description": "Color for label thumb"
       },
       "counter-color": {
-        "value": "{base.dark}",
+        "value": "#E8E9EB",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Color of counter on header of game block"
       },
       "label-thumb-text": {
@@ -3068,31 +3059,13 @@
     },
     "scrollbar": {
       "dark": {
-        "value": "{base.dark}",
+        "value": "rgba(20, 33, 58, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for scrollbar on light bg (dropdown)"
       },
       "light": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for dark bg (regular popups)"
       },
       "primary": {
@@ -3155,17 +3128,8 @@
         "description": "use in mob registation tabs"
       },
       "extra": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.10)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.10",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "separator in filter provider item"
       }
     },
@@ -3262,17 +3226,8 @@
         "description": "for social icons bg"
       },
       "bg-social-additional": {
-        "value": "{small-elements.footer.bg-social}",
+        "value": "#20366E",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "for social icons bg hover State "
       },
       "bg-payments": {
@@ -3313,17 +3268,8 @@
         "description": "radio-button/check-box in lottery/shop cards desktop"
       },
       "default": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.20)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for border in default state"
       }
     },
@@ -3414,17 +3360,8 @@
         "description": "Bg on default on floating button"
       },
       "border": {
-        "value": "{small-elements.up-button.accent}",
+        "value": "rgba(64, 144, 255, 0.30)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.3",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "border on default on floating button"
       },
       "hover-icon": {
@@ -3570,17 +3507,8 @@
       "type": "color"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(20, 33, 58, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
@@ -3599,17 +3527,8 @@
       "description": "use for icons in lists (different from accent icons)"
     },
     "alternative-disabled": {
-      "value": "{text.primary}",
+      "value": "rgba(25, 41, 71, 0.60)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.6",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "use for disabled icons in lists (loyalty)"
     },
     "success": {
@@ -3698,17 +3617,8 @@
         "description": "Color border for focused input"
       },
       "disabled": {
-        "value": "{input.border.default}",
+        "value": "rgba(198, 204, 224, 0.50)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.5",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Color border for disabled input"
       },
       "error": {
@@ -3761,17 +3671,8 @@
     },
     "text": {
       "label": {
-        "value": "{base.dark}",
+        "value": "#222E46",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.06",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Label color"
       },
       "value-main": {
@@ -3785,17 +3686,8 @@
         "description": "Input warning text color"
       },
       "value-submain": {
-        "value": "{base.dark}",
+        "value": "#A1A6B0",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Input value text color"
       },
       "accent": {
@@ -4626,17 +4518,8 @@
       "description": "use for menu items text, 1click text, footer all button"
     },
     "tertiary": {
-      "value": "{base.dark}",
+      "value": "rgba(20, 33, 58, 0.80)",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "srgb"
-          }
-        }
-      },
       "description": "(delete?)"
     },
     "content": {
@@ -4695,85 +4578,31 @@
     },
     "opacity": {
       "1": {
-        "value": "{base.dark}",
+        "value": "rgba(20, 33, 58, 0.90)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.9",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo header text, "
       },
       "2": {
-        "value": "{text.primary}",
+        "value": "rgba(25, 41, 71, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "footer seo text, prize in tournament/lottery list"
       },
       "3": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(25, 41, 71, 0.40)",
+        "type": "color"
       },
       "4": {
-        "value": "{text.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        }
+        "value": "rgba(25, 41, 71, 0.80)",
+        "type": "color"
       },
       "light-1": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for crypto in footer, for small caption under title on color background(progress-desktop)"
       },
       "light-2": {
-        "value": "{base.light}",
+        "value": "rgba(255, 255, 255, 0.80)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "use for time in messages, secondary small titles on cards and tables on color backgrounds"
       }
     },
