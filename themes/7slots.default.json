@@ -1218,35 +1218,27 @@
         "type": "boxShadow",
         "description": "Shadow for Jackpot widget container"
       },
-      "promo-prize": {
+      "viplanding-card": {
         "value": [
           {
-            "x": "0",
-            "y": "0",
-            "blur": "16",
+            "x": "28",
+            "y": "-28",
+            "blur": "28",
             "spread": "0",
-            "color": "#006CFF",
-            "type": "dropShadow"
+            "color": "rgba(194, 194, 194, 0.03)",
+            "type": "innerShadow"
           },
           {
-            "x": "0",
-            "y": "0",
-            "blur": "16",
+            "x": "-28",
+            "y": "28",
+            "blur": "28",
             "spread": "0",
-            "color": "#006CFF",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "1",
-            "blur": "1",
-            "spread": "0",
-            "color": "#006CFF",
+            "color": "rgba(255, 255, 255, 0.03)",
             "type": "innerShadow"
           }
         ],
         "type": "boxShadow",
-        "description": "Shadow for Prize widget container"
+        "description": "Shadow for Vip landing card "
       },
       "promo-1prize": {
         "value": [
@@ -4623,6 +4615,47 @@
             "value": "linear-gradient(180deg, #2DD890 0%, rgba(45, 216, 144, 0) 109.03%);",
             "type": "color"
           }
+        }
+      },
+      "lottery-timer-bg": {
+        "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 7.95%, rgba(59, 92, 157, 0.64) 31.5%, rgba(29, 32, 40, 0.64) 50.84%, rgba(25, 42, 87, 0.64) 92.05%);",
+        "type": "color"
+      },
+      "stroke": {
+        "value": "{button.bg.primary}",
+        "type": "color",
+        "description": "Promo lending Stroke tickets"
+      },
+      "place-color": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Promo lending place color text"
+      },
+      "line": {
+        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
+        "type": "color",
+        "description": "Promo lending line 1place"
+      }
+    },
+    "VIPLanding": {
+      "categories": {
+        "bg": {
+          "1main": {
+            "value": "linear-gradient(135deg, #287D86 1.26%, #20656E 5.99%, #17333D 38.92%, #181F27 63.16%)",
+            "type": "color"
+          },
+          "2main": {
+            "value": "linear-gradient(350deg, #255761 2%, #194953 9.48%, #14323C 46.6%, #252B32 100%);",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "#111A1D",
+            "type": "color"
+          }
+        },
+        "border": {
+          "value": "linear-gradient(148deg, #222E31 23.12%, #142E28 89.32%)",
+          "type": "color"
         }
       },
       "lottery-timer-bg": {
