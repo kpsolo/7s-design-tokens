@@ -658,6 +658,16 @@
         "type": "typography",
         "description": "for jackpot amount on mane page desktop"
       },
+      "VIPbonus": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "34px",
+          "fontSize": "28px"
+        },
+        "type": "typography",
+        "description": "for jackpot amount on mane page desktop"
+      },
       "jackpot-amount-desktop-light": {
         "value": {
           "fontFamily": "{font-family.main}",
@@ -4658,8 +4668,8 @@
           "type": "color"
         }
       },
-      "lottery-timer-bg": {
-        "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 7.95%, rgba(59, 92, 157, 0.64) 31.5%, rgba(29, 32, 40, 0.64) 50.84%, rgba(25, 42, 87, 0.64) 92.05%);",
+      "promotion-bg": {
+        "value": "linear-gradient(157deg, #3B6E73 3.93%, #376469 10.11%, #2F494F 40.77%, #323B3D 84.88%);",
         "type": "color"
       },
       "stroke": {
