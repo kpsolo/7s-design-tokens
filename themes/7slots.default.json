@@ -661,12 +661,12 @@
       "VIPbonus": {
         "value": {
           "fontFamily": "{font-family.accent}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.1}",
           "lineHeight": "34px",
           "fontSize": "28px"
         },
         "type": "typography",
-        "description": "for jackpot amount on mane page desktop"
+        "description": "VIPbonus title"
       },
       "VIPSpace": {
         "value": {
