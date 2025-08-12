@@ -4682,20 +4682,10 @@
         "value": "linear-gradient(157deg, #3B6E73 3.93%, #376469 10.11%, #2F494F 40.77%, #323B3D 84.88%);",
         "type": "color"
       },
-      "stroke": {
-        "value": "{button.bg.primary}",
+      "bg": {
+        "value": "#0E0F12",
         "type": "color",
-        "description": "Promo lending Stroke tickets"
-      },
-      "place-color": {
-        "value": "{base.light}",
-        "type": "color",
-        "description": "Promo lending place color text"
-      },
-      "line": {
-        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
-        "type": "color",
-        "description": "Promo lending line 1place"
+        "description": "main bg VIPLanding"
       }
     }
   },
