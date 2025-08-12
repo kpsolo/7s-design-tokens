@@ -732,7 +732,7 @@
       "VIPSpace": {
         "value": {
           "fontFamily": "{font-family.accent}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "48px",
           "fontSize": "48px"
         },
