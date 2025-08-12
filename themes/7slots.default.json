@@ -668,6 +668,16 @@
         "type": "typography",
         "description": "for jackpot amount on mane page desktop"
       },
+      "VIPSpace": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "48px",
+          "fontSize": "48px"
+        },
+        "type": "typography",
+        "description": "Title VIP Space"
+      },
       "jackpot-amount-desktop-light": {
         "value": {
           "fontFamily": "{font-family.main}",
