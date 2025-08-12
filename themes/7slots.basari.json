@@ -4546,7 +4546,7 @@
         "type": "color"
       },
       "bg": {
-        "value": "#0E0F12",
+        "value": "#131313",
         "type": "color",
         "description": "main bg VIPLanding"
       }
