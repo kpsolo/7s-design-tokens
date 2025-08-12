@@ -4396,12 +4396,8 @@
         },
         "border": {
           "value": "{base.light}",
-          "type": "color"
-        },
-        "border main": {
-          "value": "{base.light}",
           "type": "color",
-          "description": "VIPLanding.categories.border main card"
+          "description": "VIPLanding.categories.border card"
         }
       },
       "promotion-bg": {
