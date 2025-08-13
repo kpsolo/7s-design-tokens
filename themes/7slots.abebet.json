@@ -4519,21 +4519,17 @@
       "categories": {
         "bg": {
           "1main": {
-            "value": "linear-gradient(135deg, #287D86 1.26%, #20656E 5.99%, #17333D 38.92%, #181F27 63.16%)",
+            "value": "linear-gradient(118deg, #912266 20.3%, #4D1C73 74.87%);",
             "type": "color"
           },
           "2main": {
-            "value": "linear-gradient(350deg, #255761 2%, #194953 9.48%, #14323C 46.6%, #252B32 100%);",
+            "value": "linear-gradient(317deg, #7B2191 15.47%, #4D1C73 79.88%)",
             "type": "color"
           },
           "secondary": {
-            "value": "#111A1D",
+            "value": "#501C72",
             "type": "color"
           }
-        },
-        "border": {
-          "value": "linear-gradient(148deg, #222E31 23.12%, #142E28 89.32%)",
-          "type": "color"
         },
         "border main": {
           "value": "linear-gradient(143deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.08) 100%)",
@@ -4542,7 +4538,7 @@
         }
       },
       "promotion-bg": {
-        "value": "linear-gradient(157deg, #3B6E73 3.93%, #376469 10.11%, #2F494F 40.77%, #323B3D 84.88%);",
+        "value": "linear-gradient(118deg, #912266 20.3%, #4D1C73 74.87%)",
         "type": "color"
       },
       "bg": {
