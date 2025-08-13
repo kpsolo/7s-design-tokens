@@ -819,6 +819,16 @@
         },
         "type": "typography",
         "description": "VIPbonus title"
+      },
+      "VIPbonus web": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.1}",
+          "lineHeight": "38px",
+          "fontSize": "32px"
+        },
+        "type": "typography",
+        "description": "VIPBonus title mob"
       }
     },
     "timer-welcome-bonus-stronger": {

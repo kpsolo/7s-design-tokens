@@ -658,7 +658,7 @@
         "type": "typography",
         "description": "for jackpot amount on mane page desktop"
       },
-      "VIPbonus": {
+      "VIPbonus mob": {
         "value": {
           "fontFamily": "{font-family.accent}",
           "fontWeight": "{font-weight.1}",
@@ -666,7 +666,17 @@
           "fontSize": "28px"
         },
         "type": "typography",
-        "description": "VIPbonus title"
+        "description": "VIPBonus title mob"
+      },
+      "VIPbonus web": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "38px",
+          "fontSize": "32px"
+        },
+        "type": "typography",
+        "description": "VIPBonus title mob"
       },
       "VIPSpace": {
         "value": {
