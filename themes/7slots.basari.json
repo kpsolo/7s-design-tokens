@@ -4534,11 +4534,11 @@
       "categories": {
         "bg": {
           "1main": {
-            "value": "linear-gradient(135deg, #751E3D 1.26%, #5B1F35 5.99%, #312428 38.92%, #272525 63.16%);",
+            "value": "linear-gradient(135deg, #711919 1.26%, #601414 5.99%, #312428 38.92%, #272525 63.16%)",
             "type": "color"
           },
           "2main": {
-            "value": "linear-gradient(350deg, #461225 7.93%, #3E232C 14.48%, #272525 47.02%, #282626 93.83%);",
+            "value": "linear-gradient(350deg, #711919 13.12%, #572020 18.87%, #272525 47.39%, #282626 88.42%)",
             "type": "color"
           },
           "secondary": {
