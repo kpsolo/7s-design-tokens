@@ -573,9 +573,9 @@
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
-          "lineHeight": "50px",
-          "fontSize": "50px",
-          "letterSpacing": "-5px",
+          "lineHeight": "54px",
+          "fontSize": "54px",
+          "letterSpacing": "-1px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -587,7 +587,7 @@
           "fontWeight": "{font-weight.3}",
           "lineHeight": "36px",
           "fontSize": "32px",
-          "letterSpacing": "-2px",
+          "letterSpacing": "-1px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -631,8 +631,8 @@
           "fontFamily": "{font-family.accent}",
           "fontWeight": "{font-weight.2}",
           "lineHeight": "70px",
-          "fontSize": "64px",
-          "letterSpacing": "-3px"
+          "fontSize": "60px",
+          "letterSpacing": "-1px"
         },
         "type": "typography",
         "description": "Amount of prize on jackpot widget"

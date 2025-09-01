@@ -485,7 +485,7 @@
           "fontWeight": "{font-weight.3}",
           "lineHeight": "58px",
           "fontSize": "58px",
-          "letterSpacing": "-3%",
+          "letterSpacing": "-1px",
           "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
@@ -507,7 +507,7 @@
           "fontWeight": "{font-weight.2}",
           "lineHeight": "70px",
           "fontSize": "48px",
-          "letterSpacing": "-5%",
+          "letterSpacing": "-1px",
           "textCase": "{text-case.none}"
         },
         "type": "typography",
@@ -686,7 +686,7 @@
           "fontWeight": "{font-weight.2}",
           "lineHeight": "70px",
           "fontSize": "48px",
-          "letterSpacing": "-5%",
+          "letterSpacing": "-1px",
           "textCase": "{text-case.none}"
         },
         "type": "typography",
