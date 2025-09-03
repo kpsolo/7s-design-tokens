@@ -2504,6 +2504,11 @@
           "type": "color",
           "description": "shop card bg"
         },
+        "4": {
+          "value": "#434048",
+          "type": "color",
+          "description": "bg for provider card search and ingame"
+        },
         "balances-casino-active": {
           "value": "linear-gradient(180deg, rgba(255, 213, 132, 0.32) 0%, rgba(230, 121, 41, 0.32) 100%)",
           "type": "color",
