@@ -810,7 +810,7 @@
         "type": "typography",
         "description": "Title VIP Space"
       },
-      "VIPbonus": {
+      "VIPbonus-mob": {
         "value": {
           "fontFamily": "{font-family.accent}",
           "fontWeight": "{font-weight.3}",
@@ -818,9 +818,9 @@
           "fontSize": "28px"
         },
         "type": "typography",
-        "description": "VIPbonus title"
+        "description": "VIPbonus title mob"
       },
-      "VIPbonus web": {
+      "VIPbonus-web": {
         "value": {
           "fontFamily": "{font-family.accent}",
           "fontWeight": "{font-weight.1}",
@@ -828,7 +828,7 @@
           "fontSize": "32px"
         },
         "type": "typography",
-        "description": "VIPBonus title mob"
+        "description": "VIPBonus title web"
       }
     },
     "timer-welcome-bonus-stronger": {
