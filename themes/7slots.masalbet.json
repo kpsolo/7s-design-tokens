@@ -4615,7 +4615,7 @@
     },
     "bonus-block": {
       "accent": {
-        "value": "#FCFF71",
+        "value": "{base.accent-secondary}",
         "type": "color"
       }
     }
