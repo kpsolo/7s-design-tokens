@@ -5019,6 +5019,12 @@
         "description": "1st deposit accent color in text and tabs"
       }
     },
+    "bonus-block": {
+      "accent": {
+        "value": "#FCFF71",
+        "type": "color"
+      }
+    },
     "link-additional": {
       "value": "{text.link}",
       "type": "color",

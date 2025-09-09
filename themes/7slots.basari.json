@@ -4886,6 +4886,12 @@
       "value": "{text.link-alternative}",
       "type": "color",
       "description": "hover link (?also use for win tickets in lottery results?)"
+    },
+    "bonus-block": {
+      "accent": {
+        "value": "{base.accent-secondary}",
+        "type": "color"
+      }
     }
   },
   "menu": {
