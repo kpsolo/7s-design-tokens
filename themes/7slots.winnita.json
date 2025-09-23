@@ -4451,9 +4451,9 @@
       }
     },
     "confirm-bg": {
-      "value": "#B3C5DF",
+      "value": "#202830",
       "type": "color",
-      "description": "for success bg"
+      "description": "for confirm bg"
     }
   },
   "filed spacing": {
@@ -4759,6 +4759,11 @@
         "value": "{base.accent-primary}",
         "type": "color"
       }
+    },
+    "quaternary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "text in confirm widget"
     }
   },
   "menu": {

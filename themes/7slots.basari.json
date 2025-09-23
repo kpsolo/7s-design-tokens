@@ -4927,6 +4927,11 @@
         "value": "{base.accent-secondary}",
         "type": "color"
       }
+    },
+    "quaternary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "text in confirm widget"
     }
   },
   "menu": {

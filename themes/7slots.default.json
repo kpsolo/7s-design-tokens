@@ -4905,6 +4905,11 @@
       "type": "color",
       "description": "(delete?)"
     },
+    "quaternary": {
+      "value": "{base.dark}",
+      "type": "color",
+      "description": "text in confirm widget"
+    },
     "content": {
       "value": "#FFF",
       "type": "color",
