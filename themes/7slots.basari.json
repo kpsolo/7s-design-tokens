@@ -4595,6 +4595,11 @@
         "type": "color",
         "description": "main bg VIPLanding"
       }
+    },
+    "confirm-bg": {
+      "value": "#B3C5DF",
+      "type": "color",
+      "description": "for success bg"
     }
   },
   "filed spacing": {

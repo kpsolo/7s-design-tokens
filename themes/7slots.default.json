@@ -4403,6 +4403,11 @@
       "type": "color",
       "description": "for success bg"
     },
+    "confirm-bg": {
+      "value": "#B3C5DF",
+      "type": "color",
+      "description": "for success bg"
+    },
     "error-bg": {
       "value": "#E09AA3",
       "type": "color",
