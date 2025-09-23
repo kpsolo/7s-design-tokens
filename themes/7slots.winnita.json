@@ -4761,7 +4761,7 @@
       }
     },
     "quaternary": {
-      "value": "{base.dark}",
+      "value": "{base.light}",
       "type": "color",
       "description": "text in confirm widget"
     }
