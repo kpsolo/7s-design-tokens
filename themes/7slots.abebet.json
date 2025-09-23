@@ -4588,7 +4588,7 @@
       }
     },
     "confirm-bg": {
-      "value": "#B3C5DF",
+      "value": "#641C5C",
       "type": "color",
       "description": "for success bg"
     }
@@ -4921,7 +4921,7 @@
       }
     },
     "quaternary": {
-      "value": "{base.dark}",
+      "value": "{base.primary}",
       "type": "color",
       "description": "text in confirm widget"
     }
