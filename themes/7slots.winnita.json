@@ -2999,6 +2999,26 @@
         "value": "#3EA379",
         "type": "color",
         "description": "border color for ghost buttons pressed state (use in menu)"
+      },
+      "quaternary": {
+        "value": "#000",
+        "type": "color",
+        "description": "border color for buttons quaternary"
+      },
+      "quaternary-hover": {
+        "value": "#222222",
+        "type": "color",
+        "description": "border color for quaternary buttons hover"
+      },
+      "quaternary-pressed": {
+        "value": "#3F3E3E",
+        "type": "color",
+        "description": "border color for quaternary buttons pressed"
+      },
+      "quaternary-disabled": {
+        "value": "rgba(0,0,0,0.5)",
+        "type": "color",
+        "description": "border color for quaternary buttons disabled"
       }
     },
     "text": {
@@ -3056,6 +3076,16 @@
         "value": "{button.text.tertiary-disabled}",
         "type": "color",
         "description": "Text color on ghost disabled button"
+      },
+      "quaternary": {
+        "value": "#000",
+        "type": "color",
+        "description": "color on quaternary buttons"
+      },
+      "quaternary-disabled": {
+        "value": "rgba(0,0,0,0.5)",
+        "type": "color",
+        "description": "Text color on quaternary disabled button"
       }
     }
   },

@@ -3134,20 +3134,40 @@
         "type": "color",
         "description": "border color for buttons default"
       },
+      "quaternary": {
+        "value": "#000",
+        "type": "color",
+        "description": "border color for buttons quaternary"
+      },
       "tertiary-hover": {
         "value": "#e9e9e9",
         "type": "color",
         "description": "border color for buttons hover"
+      },
+      "quaternary-hover": {
+        "value": "#222222",
+        "type": "color",
+        "description": "border color for quaternary buttons hover"
       },
       "tertiary-pressed": {
         "value": "#d3d3d3",
         "type": "color",
         "description": "border color for buttons pressed"
       },
+      "quaternary-pressed": {
+        "value": "#3F3E3E",
+        "type": "color",
+        "description": "border color for quaternary buttons pressed"
+      },
       "tertiary-disabled": {
         "value": "rgba(255,255,255,0.6)",
         "type": "color",
         "description": "border color for buttons disabled"
+      },
+      "quaternary-disabled": {
+        "value": "rgba(0,0,0,0.5)",
+        "type": "color",
+        "description": "border color for quaternary buttons disabled"
       },
       "ghost": {
         "value": "{button.text.light-bg}",
@@ -3206,6 +3226,11 @@
         "type": "color",
         "description": "color on tertiary buttons"
       },
+      "quaternary": {
+        "value": "#000",
+        "type": "color",
+        "description": "color on quaternary buttons"
+      },
       "ghost": {
         "value": "#43B183",
         "type": "color",
@@ -3215,6 +3240,11 @@
         "value": "#ffffff80",
         "type": "color",
         "description": "Text color on primary disabled button"
+      },
+      "quaternary-disabled": {
+        "value": "rgba(0,0,0,0.5)",
+        "type": "color",
+        "description": "Text color on quaternary disabled button"
       },
       "secondary-disabled": {
         "value": "#ffffff80",
