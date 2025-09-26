@@ -4497,7 +4497,7 @@
           "description": "border for mobapp card"
         },
         "default": {
-          "value": "#3A394E",
+          "value": "rgba(255, 255, 255, 0.3)",
           "type": "color",
           "description": "border for default card"
         },
