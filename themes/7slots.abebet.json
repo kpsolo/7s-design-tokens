@@ -753,12 +753,12 @@
       "titlemob-app": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.0}",
-          "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size.3}"
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "48",
+          "fontSize": "40"
         },
         "type": "typography",
-        "description": "welcome bonus timer title"
+        "description": ".titlemob-app"
       },
       "numbersmob-app": {
         "value": {
