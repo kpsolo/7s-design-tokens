@@ -2275,9 +2275,19 @@
       "description": "use for secret mirror popups bg gradient"
     },
     "balance-default": {
-      "value": "#31425E",
+      "value": "#354867",
       "type": "color",
       "description": "use for bonus balance"
+    },
+    "tabs-default": {
+      "value": "#354867",
+      "type": "color",
+      "description": "use for Vertical Tabs default"
+    },
+    "tabs-active": {
+      "value": "#101827",
+      "type": "color",
+      "description": "use for Vertical Tabs active"
     },
     "balance-casino-active": {
       "value": "linear-gradient(110deg, #517AB0 -60%, #255480 160%)",

@@ -2747,6 +2747,16 @@
       "value": "linear-gradient(118deg, #662A93 11.87%, #662A93 26.1%, #471D65 42.35%, #381E49 79.7%)",
       "type": "color",
       "description": "for set by admin (card of Free Bets)"
+    },
+    "tabs-default": {
+      "value": "#31425E",
+      "type": "color",
+      "description": "use for Vertical Tabs default"
+    },
+    "tabs-active": {
+      "value": "#101827",
+      "type": "color",
+      "description": "use for Vertical Tabs active"
     }
   },
   "nav": {
