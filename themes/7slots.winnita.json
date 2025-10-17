@@ -2677,12 +2677,12 @@
       "description": "for set by admin (card of Free Bets)"
     },
     "tabs-default": {
-      "value": "#31425E",
+      "value": "{base.light}",
       "type": "color",
       "description": "use for Vertical Tabs default"
     },
     "tabs-active": {
-      "value": "#101827",
+      "value": "{bg.gradient-additional}",
       "type": "color",
       "description": "use for Vertical Tabs active"
     },
