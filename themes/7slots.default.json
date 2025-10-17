@@ -2329,6 +2329,11 @@
       "type": "color",
       "description": "use for profile popups border "
     },
+    "border secondary": {
+      "value": "rgba(255, 255, 255, 0.2)",
+      "type": "color",
+      "description": "use for tabs popups border "
+    },
     "top-surface-additional": {
       "value": "{base.light}",
       "type": "color",
