@@ -2834,6 +2834,11 @@
       "value": "rgba(255, 255, 255, 0.2)",
       "type": "color",
       "description": "use for tabs popups border "
+    },
+    "popup-secondary": {
+      "value": "#0A5AC9",
+      "type": "color",
+      "description": "use for cash popups bg"
     }
   },
   "nav": {

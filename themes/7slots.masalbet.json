@@ -2589,6 +2589,11 @@
       "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
       "type": "color",
       "description": "for set by admin (card of Free Bets)"
+    },
+    "popup-secondary": {
+      "value": "#0A5AC9",
+      "type": "color",
+      "description": "use for cash popups bg"
     }
   },
   "nav": {

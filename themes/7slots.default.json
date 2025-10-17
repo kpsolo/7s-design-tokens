@@ -2904,6 +2904,11 @@
       "value": "radial-gradient(151.6% 45.05% at 53.19% 37.01%, rgba(246, 186, 76, 0.80) 0.42%, rgba(192, 104, 10, 0.80) 15.71%, rgba(130, 64, 38, 0.80) 28.3%, rgba(60, 30, 46, 0.80) 58.15%, rgba(41, 30, 60, 0.51) 81.7%, rgba(39, 30, 60, 0.13) 100%)",
       "type": "color",
       "description": "bg for fun page"
+    },
+    "popup-secondary": {
+      "value": "#0A5AC9",
+      "type": "color",
+      "description": "use for cash popups bg"
     }
   },
   "nav": {

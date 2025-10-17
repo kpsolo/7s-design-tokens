@@ -2099,6 +2099,11 @@
       "type": "color",
       "description": "use for popups bg"
     },
+    "popup-secondary": {
+      "value": "#1A3271",
+      "type": "color",
+      "description": "use for cash popups bg"
+    },
     "widget-bonus": {
       "value": "#264BAC",
       "type": "color",
