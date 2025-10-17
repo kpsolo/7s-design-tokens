@@ -2836,7 +2836,7 @@
       "description": "use for tabs popups border "
     },
     "popup-secondary": {
-      "value": "#0A5AC9",
+      "value": "#2D2D2D",
       "type": "color",
       "description": "use for cash popups bg"
     }
