@@ -2749,7 +2749,7 @@
       "description": "for set by admin (card of Free Bets)"
     },
     "tabs-default": {
-      "value": "{bg.gradient-additional}",
+      "value": "{bg.card.bg.4}",
       "type": "color",
       "description": "use for Vertical Tabs default"
     },
@@ -2764,7 +2764,7 @@
       "description": "use for tabs popups border "
     },
     "popup-secondary": {
-      "value": "#30185A",
+      "value": "#271743",
       "type": "color",
       "description": "use for cash popups bg"
     }
