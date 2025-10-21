@@ -2821,7 +2821,7 @@
       "description": "for set by admin (card of Free Bets)"
     },
     "tabs-default": {
-      "value": "#464646",
+      "value": "#585656",
       "type": "color",
       "description": "use for Vertical Tabs default"
     },
