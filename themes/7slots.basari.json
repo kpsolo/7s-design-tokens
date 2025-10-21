@@ -3491,6 +3491,11 @@
         "value": "{bg.overlay.1}",
         "type": "color",
         "description": "use for deny label in cashbox transactions"
+      },
+      "cardshop": {
+        "value": "linear-gradient(90deg, rgba(83, 154, 207, 0.60) 0%, rgba(81, 127, 192, 0.60) 100%)",
+        "type": "color",
+        "description": "use for label in cards shop"
       }
     },
     "timer": {
