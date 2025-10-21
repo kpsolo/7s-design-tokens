@@ -5619,7 +5619,7 @@
       }
     },
     "gamehall": {
-      "value": "0px",
+      "value": "{spacing.pregame.main}",
       "type": "dimension",
       "description": "use for top padding in homepage"
     }
