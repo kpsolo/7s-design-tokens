@@ -2682,7 +2682,7 @@
       "description": "for set by admin (card of Free Bets)"
     },
     "tabs-default": {
-      "value": "{bg.gradient-additional}",
+      "value": "#E8EEFF",
       "type": "color",
       "description": "use for Vertical Tabs default"
     },
