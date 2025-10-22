@@ -3729,6 +3729,11 @@
         "type": "color",
         "description": "use for label in cards shop"
       },
+      "cardshop-timer": {
+        "value": "rgba(42, 61, 92, 0.80)",
+        "type": "color",
+        "description": "use for label timer in cards shop"
+      },
       "deny": {
         "value": "rgba(182, 45, 62, 0.56)",
         "type": "color",
