@@ -3584,6 +3584,11 @@
         "type": "color",
         "description": "Color for widget reg"
       }
+    },
+    "selection-checkmark": {
+      "value": "rgba(0, 0, 0, 0.25)",
+      "type": "color",
+      "description": "Selection checkmark in price selection buttons card shop "
     }
   },
   "icon": {

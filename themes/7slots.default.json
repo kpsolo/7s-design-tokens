@@ -3520,6 +3520,11 @@
       "value": "rgba(66, 114, 183, 0.40)",
       "type": "color"
     },
+    "selection-checkmark": {
+      "value": "rgba(35, 49, 71, 0.30)",
+      "type": "color",
+      "description": "Selection checkmark in price selection buttons card shop "
+    },
     "slider-additional": {
       "value": "#BB715D",
       "type": "color",
