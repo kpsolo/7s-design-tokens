@@ -3036,6 +3036,11 @@
         "value": "linear-gradient(177deg, #F4F4F4 4.27%, #DCDCDC 97.64%)",
         "type": "color",
         "description": "Background for button pressed state in ingame sticky menu"
+      },
+      "selection-buttons": {
+        "value": "{categories.bg.main}",
+        "type": "color",
+        "description": "Background for shop  price selection buttons "
       }
     },
     "icon": {
@@ -3155,6 +3160,16 @@
         "value": "{button.border.tertiary-light-pressed}",
         "type": "color",
         "description": "border color for quaternary buttons pressed"
+      },
+      "selection-buttons-active": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "border color for shop selection buttons active "
+      },
+      "selection-buttons": {
+        "value": "rgba(255, 255, 255, 0.12)",
+        "type": "color",
+        "description": "border color for shop selection buttons"
       }
     },
     "text": {

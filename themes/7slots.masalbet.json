@@ -2890,6 +2890,11 @@
         "value": "{button.text.tertiary-light-disabled}",
         "type": "color",
         "description": "border color for buttons disabled"
+      },
+      "selection-buttons": {
+        "value": "rgba(255, 255, 255, 0.12)",
+        "type": "color",
+        "description": "border color for shop selection buttons"
       }
     },
     "text": {
