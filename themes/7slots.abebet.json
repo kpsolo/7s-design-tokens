@@ -3090,7 +3090,7 @@
         "description": "border color for quaternary buttons pressed"
       },
       "selection-buttons": {
-        "value": "rgba(255, 255, 255, 0.12)",
+        "value": "rgba(255, 255, 255, 0.16)",
         "type": "color",
         "description": "border color for shop selection buttons"
       },

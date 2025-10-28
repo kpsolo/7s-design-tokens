@@ -3046,7 +3046,7 @@
         "description": "border color for quaternary buttons disabled"
       },
       "selection-buttons": {
-        "value": "rgba(255, 255, 255, 0.12)",
+        "value": "#CAD5F4",
         "type": "color",
         "description": "border color for shop selection buttons"
       },
@@ -3601,7 +3601,7 @@
       }
     },
     "selection-checkmark": {
-      "value": "rgba(0, 0, 0, 0.25)",
+      "value": "rgba(10, 90, 201, 0.10)",
       "type": "color",
       "description": "Selection checkmark in price selection buttons card shop "
     }
