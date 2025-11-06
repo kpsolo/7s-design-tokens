@@ -4510,6 +4510,11 @@
           "value": "{base.light}",
           "type": "color",
           "description": "VIPLanding.categories.border card"
+        },
+        "border main": {
+          "value": "rgba(255, 255, 255, 0.30)",
+          "type": "color",
+          "description": "VIPLanding.categories.border main card"
         }
       },
       "promotion-bg": {

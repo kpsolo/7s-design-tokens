@@ -4802,6 +4802,11 @@
           "value": "linear-gradient(143deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0.08) 100%)",
           "type": "color",
           "description": "VIPLanding.categories.border card"
+        },
+        "border main": {
+          "value": "rgba(255, 255, 255, 0.10)",
+          "type": "color",
+          "description": "VIPLanding.categories.border main card"
         }
       },
       "promotion-bg": {
