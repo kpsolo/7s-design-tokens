@@ -4127,7 +4127,7 @@
       "type": "sizing"
     },
     "button-m-small": {
-      "value": "48px",
+      "value": "40px",
       "type": "sizing",
       "description": "use on mainpage mob slider "
     },
@@ -4744,9 +4744,9 @@
       }
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "{base.light}",
       "type": "color",
-      "description": "use for game catwgories bg"
+      "description": "use for game categories bg"
     },
     "item": {
       "value": "{text.primary}",
