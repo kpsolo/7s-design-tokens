@@ -1681,7 +1681,7 @@
     },
     "nav-active": {
       "value": {
-        "color": "{base.accent-primary}",
+        "color": "{base.light}",
         "width": "{border-width.nav}",
         "style": "solid"
       },
