@@ -1780,7 +1780,7 @@
     },
     "nav-active": {
       "value": {
-        "color": "{base.accent-primary}",
+        "color": "{base.primary}",
         "width": "{border-width.nav}",
         "style": "solid"
       },
