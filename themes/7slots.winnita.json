@@ -3620,6 +3620,11 @@
         "value": "#EB8426",
         "type": "color",
         "description": "Color for widget reg"
+      },
+      "complete-bg": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "Color for bg widget reg"
       }
     },
     "selection-checkmark": {

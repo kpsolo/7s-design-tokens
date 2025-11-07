@@ -3373,9 +3373,14 @@
     },
     "widget": {
       "complete": {
-        "value": "linear-gradient(180deg, #FFDF9E 0%, #FFA200 100%)",
+        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
         "type": "color",
         "description": "Color for widget reg"
+      },
+      "complete-bg": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "Color for bg widget reg"
       }
     },
     "scrollbar": {
