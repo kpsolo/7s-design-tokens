@@ -3535,7 +3535,7 @@
         "description": "use for label in cards shop"
       },
       "cardshop-timer": {
-        "value": "#262626",
+        "value": "#171717",
         "type": "color",
         "description": "use for label timer in cards shop"
       }
