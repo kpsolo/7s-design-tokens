@@ -3424,12 +3424,12 @@
         "description": "use for deny label text in cashbox transactions"
       },
       "cardshop": {
-        "value": "rgba(255, 255, 255, 0.30)",
+        "value": "rgba(190, 211, 255, 0.60)",
         "type": "color",
         "description": "use for label in cards shop"
       },
       "cardshop-timer": {
-        "value": "rgba(49, 30, 14, 0.60)",
+        "value": "rgba(255, 255, 255, 0.60)",
         "type": "color",
         "description": "use for label timer in cards shop"
       }
