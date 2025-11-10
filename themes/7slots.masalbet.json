@@ -4385,7 +4385,7 @@
       }
     },
     "accent": {
-      "value": "{base.accent-primary}",
+      "value": "{base.primary}",
       "type": "color",
       "description": "use for game catwgories bg"
     },
