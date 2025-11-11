@@ -2352,6 +2352,11 @@
         "value": "linear-gradient(118deg, #D53C9A -5.85%, #561B66 64.38%, #4C1B71 96.78%)",
         "type": "color",
         "description": "bg.other.deposit form"
+      },
+      "my-status-bg": {
+        "value": "rgba(22, 8, 40, 0.75)",
+        "type": "color",
+        "description": "bg for my status tournament inside rules of tournament"
       }
     },
     "gradient": {

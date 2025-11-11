@@ -2352,6 +2352,11 @@
       "exhange-point-banner": {
         "value": "#1A3271",
         "type": "color"
+      },
+      "my-status-bg": {
+        "value": "rgba(87, 208, 146, 0.10)",
+        "type": "color",
+        "description": "bg for my status tournament inside rules of tournament"
       }
     },
     "top-surface": {

@@ -2200,6 +2200,11 @@
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
+      "my-status-bg": {
+        "value": "rgba(30, 27, 26, 0.80)",
+        "type": "color",
+        "description": "bg for my status tournament inside rules of tournament"
+      },
       "cashbox-bonus": {
         "value": "linear-gradient(140deg, #FCFCFC 15.06%, #EAE9E9 36.26%, #DBDBDB 54.3%, #D9D9D9 73.55%, #D0D0D0 92.34%)",
         "type": "color",
