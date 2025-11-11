@@ -2354,7 +2354,7 @@
         "type": "color"
       },
       "my-status-bg": {
-        "value": "rgba(87, 208, 146, 0.10)",
+        "value": "#DAE6FF",
         "type": "color",
         "description": "bg for my status tournament inside rules of tournament"
       }
