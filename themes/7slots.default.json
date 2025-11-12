@@ -4890,10 +4890,15 @@
       "type": "color",
       "description": "use for desktop categories"
     },
-    "accent": {
+    "accent-login": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "use for login game categories bg"
+    },
+    "accent-logout": {
       "value": "{base.light}",
       "type": "color",
-      "description": "use for game catwgories bg"
+      "description": "use for logout game categories bg"
     },
     "item-active": {
       "value": "{base.accent-primary}",

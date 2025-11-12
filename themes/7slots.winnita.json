@@ -4612,6 +4612,11 @@
         "type": "color",
         "description": "use for navbar border"
       }
+    },
+    "accent-logout": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for logout game categories bg"
     }
   },
   "header": {

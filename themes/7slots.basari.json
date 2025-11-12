@@ -4762,6 +4762,11 @@
       "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for active desktop categories items"
+    },
+    "accent-logout": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "use for logout game categories bg"
     }
   },
   "header": {
