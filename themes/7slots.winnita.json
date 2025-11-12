@@ -4591,10 +4591,10 @@
         "description": "use for search bg in categories"
       }
     },
-    "accent": {
+    "accent-login": {
       "value": "{base.accent-primary}",
       "type": "color",
-      "description": "use for game catwgories bg"
+      "description": "use for login game categories bg"
     },
     "item": {
       "value": "#525252",
@@ -4614,7 +4614,7 @@
       }
     },
     "accent-logout": {
-      "value": "{base.light}",
+      "value": "{base.accent-primary}",
       "type": "color",
       "description": "use for logout game categories bg"
     }
