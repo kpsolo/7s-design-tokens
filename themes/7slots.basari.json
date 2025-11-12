@@ -1946,6 +1946,23 @@
       },
       "type": "border",
       "description": "border for provider search and ingame card"
+    },
+    "nav-active-promo": {
+      "value": {
+        "color": "{special-blocks.promo.categories.border.nav}",
+        "width": "{border-width.button}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border promo lending active category "
+    },
+    "nav-promo-copy": {
+      "value": {
+        "color": "{special-blocks.promo.categories.border.nav}",
+        "width": "{border-width.nav}",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "base spacing": {
@@ -4640,6 +4657,20 @@
       "lottery-timer-bg-copy": {
         "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 7.95%, rgba(59, 92, 157, 0.64) 31.5%, rgba(29, 32, 40, 0.64) 50.84%, rgba(25, 42, 87, 0.64) 92.05%);",
         "type": "color"
+      },
+      "categories": {
+        "bg": {
+          "main": {
+            "value": "#E3F9FF",
+            "type": "color"
+          }
+        },
+        "border": {
+          "nav": {
+            "value": "linear-gradient(180deg, #2DD890 0%, rgba(45, 216, 144, 0) 109.03%);",
+            "type": "color"
+          }
+        }
       }
     },
     "VIPLanding": {

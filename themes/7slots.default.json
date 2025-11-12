@@ -1794,6 +1794,15 @@
       },
       "type": "border"
     },
+    "nav-active-promo": {
+      "value": {
+        "color": "{special-blocks.promo.categories.border.nav}",
+        "width": "{border-width.button}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "border promo lending active category "
+    },
     "input-focus": {
       "value": {
         "color": "{base.accent-primary}",
