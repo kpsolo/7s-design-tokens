@@ -4748,10 +4748,10 @@
         "description": "use for navbar border"
       }
     },
-    "accent": {
-      "value": "{base.light}",
+    "accent-login": {
+      "value": "{base.accent-primary}",
       "type": "color",
-      "description": "use for game categories bg"
+      "description": "use for login active game categories bg"
     },
     "item": {
       "value": "{text.primary}",
