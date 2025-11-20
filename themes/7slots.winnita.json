@@ -1907,6 +1907,15 @@
       },
       "type": "border",
       "description": "border promo lending active category "
+    },
+    "input-search-default": {
+      "value": {
+        "color": "rgba(0, 0, 0, 0.20)",
+        "width": "{border-width.input}",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for inputs search default"
     }
   },
   "base spacing": {
