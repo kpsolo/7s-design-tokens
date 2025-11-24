@@ -2929,7 +2929,7 @@
       "description": "bg for fun page"
     },
     "popup-secondary": {
-      "value": "#0A5AC9",
+      "value": "#252D40",
       "type": "color",
       "description": "use for cash popups bg"
     }
