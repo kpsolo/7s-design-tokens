@@ -2358,7 +2358,7 @@
       "description": "bg for notifications"
     },
     "gradient-additional": {
-      "value": "{bg.popup}",
+      "value": "linear-gradient(180deg, #364C6C 0%, #262F42 47.94%, #252D40 100%);",
       "type": "color",
       "description": "Gradient for bg in bonus card in cashbox"
     },
