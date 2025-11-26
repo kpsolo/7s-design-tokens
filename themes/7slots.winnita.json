@@ -699,10 +699,11 @@
           "fontFamily": "{font-family.accent}",
           "fontWeight": "{font-weight.2}",
           "lineHeight": "48px",
-          "fontSize": "40px"
+          "fontSize": "40px",
+          "textCase": "{text-case.uppercase}"
         },
         "type": "typography",
-        "description": "welcome bonus timer title"
+        "description": "mob app page  title"
       },
       "numbersmob-app": {
         "value": {
