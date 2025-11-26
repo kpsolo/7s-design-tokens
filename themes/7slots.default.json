@@ -4179,7 +4179,7 @@
   },
   "width": {
     "nav": {
-      "value": "48",
+      "value": "56",
       "type": "sizing",
       "description": "use for top navbar items"
     },
