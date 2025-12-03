@@ -49,7 +49,7 @@
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.xs}",
+        "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.2}"
       },
       "type": "typography"
