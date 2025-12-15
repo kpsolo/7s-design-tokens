@@ -4670,7 +4670,7 @@
       "categories": {
         "bg": {
           "main": {
-            "value": "#E3F9FF",
+            "value": "linear-gradient(93deg, #310404 2.04%, #631616 52.07%, #340404 97.96%)",
             "type": "color"
           }
         },

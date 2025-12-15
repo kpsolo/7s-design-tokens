@@ -4665,7 +4665,7 @@
       "categories": {
         "bg": {
           "main": {
-            "value": "linear-gradient(93deg, #310404 2.04%, #631616 52.07%, #340404 97.96%)",
+            "value": "linear-gradient(93deg, #2B0C40 2.04%, #5E1D81 51.24%, #2C053D 97.96%), #D9D9D9;",
             "type": "color"
           }
         },
