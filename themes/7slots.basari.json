@@ -4676,7 +4676,7 @@
         },
         "border": {
           "nav": {
-            "value": "linear-gradient(180deg, #2DD890 0%, rgba(45, 216, 144, 0) 109.03%);",
+            "value": "linear-gradient(180deg, #B50808 0%, #B50808 24.92%, #910404 69.4%, #1E1D1D 113.28%)",
             "type": "color"
           }
         }
