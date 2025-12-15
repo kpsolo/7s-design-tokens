@@ -4663,7 +4663,7 @@
         "type": "color",
         "description": "Promo lending place color text"
       },
-      "lottery-timer-bg-copy": {
+      "lottery-timer-bg": {
         "value": "linear-gradient(151deg, rgba(59, 92, 157, 0.64) 7.95%, rgba(59, 92, 157, 0.64) 31.5%, rgba(29, 32, 40, 0.64) 50.84%, rgba(25, 42, 87, 0.64) 92.05%);",
         "type": "color"
       },
