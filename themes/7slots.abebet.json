@@ -1315,36 +1315,6 @@
         "type": "boxShadow",
         "description": "Shadow for Prize widget container"
       },
-      "promo-1prize": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "7",
-            "spread": "0",
-            "color": "#2DD890",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "14",
-            "spread": "0",
-            "color": "#2DD890",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "1",
-            "blur": "1",
-            "spread": "0",
-            "color": "#006CFF",
-            "type": "innerShadow"
-          }
-        ],
-        "type": "boxShadow",
-        "description": "Shadow for 1Prize "
-      },
       "viplanding-card": {
         "value": [
           {
@@ -1366,6 +1336,35 @@
         ],
         "type": "boxShadow",
         "description": "Shadow for Vip landing card "
+      },
+      "promo-1prize": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "7",
+            "spread": "",
+            "color": "#89058D",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "14",
+            "spread": "",
+            "color": "#89058D",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "1",
+            "spread": "",
+            "color": "#89058D",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "header-additional": {
