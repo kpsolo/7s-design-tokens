@@ -4654,7 +4654,7 @@
         "description": "Promo lending Stroke tickets"
       },
       "line": {
-        "value": "linear-gradient(180deg, rgba(92, 217, 149, 0) 0%, #5CD995 100%)",
+        "value": "linear-gradient(180deg, rgba(181, 8, 8, 0.00) 0%, #B50808 100%)",
         "type": "color",
         "description": "Promo lending line 1place"
       },
