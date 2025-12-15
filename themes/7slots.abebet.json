@@ -4644,7 +4644,7 @@
     },
     "promo": {
       "stroke": {
-        "value": "{button.bg.primary}",
+        "value": "#E100FF",
         "type": "color",
         "description": "Promo lending Stroke tickets"
       },
