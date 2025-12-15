@@ -5245,7 +5245,7 @@
       "description": "Color of icon and text inside active item menu"
     },
     "content": {
-      "value": "rgba(255, 255, 255, 0.80",
+      "value": "rgba(255, 255, 255, 0.80)",
       "type": "color",
       "description": "Color for status and %"
     },
