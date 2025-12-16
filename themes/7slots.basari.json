@@ -1331,14 +1331,6 @@
             "spread": "",
             "color": "#B50808",
             "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "1",
-            "blur": "1",
-            "spread": "",
-            "color": "#B50808",
-            "type": "innerShadow"
           }
         ],
         "type": "boxShadow"
