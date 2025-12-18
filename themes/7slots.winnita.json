@@ -4429,6 +4429,11 @@
           "value": "rgba(255, 255, 255,  0.10)",
           "type": "color",
           "description": "border for activity card"
+        },
+        "cardbenefit-additional": {
+          "value": "rgba(255, 255, 255, 0.10)",
+          "type": "color",
+          "description": "use as stroke in card benefit"
         }
       },
       "element": {

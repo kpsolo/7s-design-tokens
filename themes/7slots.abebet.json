@@ -4516,6 +4516,11 @@
           "value": "linear-gradient(158deg, #8679D5 15.68%, rgba(112, 103, 215, 0.43) 48.53%, #685FCA 74.32%)",
           "type": "color",
           "description": "border for win card"
+        },
+        "cardbenefit-additional": {
+          "value": "rgba(255, 255, 255, 0.10)",
+          "type": "color",
+          "description": "use as stroke in card benefit"
         }
       },
       "gradient": {
