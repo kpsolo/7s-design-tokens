@@ -3631,12 +3631,10 @@
         "description": "Bg on hover on floating button"
       }
     },
-    "tournament": {
-      "active-tab-content": {
-        "value": "{base.accent-primary}",
-        "type": "color",
-        "description": "color of text and icon on active tab"
-      }
+    "active-tab-content": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "color of text and icon on active tab"
     },
     "slider-curret": {
       "value": "#fff",
