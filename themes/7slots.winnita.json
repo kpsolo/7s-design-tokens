@@ -802,9 +802,9 @@
     "timer-welcome-bonus-text": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.4}"
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "timer-welcome-bonus "
