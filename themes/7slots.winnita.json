@@ -3800,6 +3800,13 @@
       "value": "{base.accent-primary}",
       "type": "color",
       "description": "For social icons in menu "
+    },
+    "timer-welcome-bonus": {
+      "default": {
+        "value": "rgba(255, 255, 255, 0.24)",
+        "type": "color",
+        "description": "use for icon button on navbar"
+      }
     }
   },
   "input": {
