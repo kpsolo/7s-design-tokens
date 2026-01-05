@@ -802,12 +802,22 @@
     "timer-welcome-bonus-text": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
+        "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "timer-welcome-bonus "
+    },
+    "timer-welcome-bonus-stronger": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "timer-welcome-bonus-stronger - text bonus"
     }
   },
   "shadow": {
