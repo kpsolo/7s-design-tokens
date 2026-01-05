@@ -2737,7 +2737,7 @@
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     },
-    "timer-welcome-bonus-mob-copy": {
+    "timer-welcome-bonus-mob": {
       "value": "#ffffff",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
