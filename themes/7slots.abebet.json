@@ -850,6 +850,25 @@
       },
       "type": "typography",
       "description": "timer-welcome-bonus "
+    },
+    "body-timer-welcome-bonus-desktop": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "Body"
+    },
+    "body-timer-welcome-bonus-desktop-stronger": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography"
     }
   },
   "shadow": {
@@ -2783,7 +2802,7 @@
       "description": "use for active bonus balance"
     },
     "timer-welcome-bonus": {
-      "value": "#2B1A47",
+      "value": "#912266",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     },

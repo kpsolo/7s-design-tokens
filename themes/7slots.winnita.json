@@ -818,6 +818,25 @@
       },
       "type": "typography",
       "description": "timer-welcome-bonus-stronger - text bonus"
+    },
+    "body-timer-welcome-bonus-desktop": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "Body"
+    },
+    "body-timer-welcome-bonus-desktop-stronger": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography"
     }
   },
   "shadow": {
