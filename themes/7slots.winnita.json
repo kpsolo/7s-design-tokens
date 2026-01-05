@@ -3806,6 +3806,11 @@
         "value": "rgba(255, 255, 255, 0.24)",
         "type": "color",
         "description": "use for icon button on navbar"
+      },
+      "hover": {
+        "value": "rgba(255, 255, 255, 0.4)",
+        "type": "color",
+        "description": "use for icon button on navbar"
       }
     }
   },
