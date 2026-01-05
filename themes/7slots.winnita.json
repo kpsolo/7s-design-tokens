@@ -798,6 +798,16 @@
       },
       "type": "typography",
       "description": "links in shop hover state"
+    },
+    "timer-welcome-bonus-text": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "timer-welcome-bonus "
     }
   },
   "shadow": {

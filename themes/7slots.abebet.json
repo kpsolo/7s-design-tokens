@@ -840,6 +840,16 @@
       },
       "type": "typography",
       "description": "timer-welcome-bonus-stronger - text bonus"
+    },
+    "timer-welcome-bonus-text": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "timer-welcome-bonus "
     }
   },
   "shadow": {
@@ -2773,7 +2783,7 @@
       "description": "use for active bonus balance"
     },
     "timer-welcome-bonus": {
-      "value": "#625A5A",
+      "value": "#2B1A47",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     },
