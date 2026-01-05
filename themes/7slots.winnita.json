@@ -804,7 +804,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.s}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "timer-welcome-bonus "
