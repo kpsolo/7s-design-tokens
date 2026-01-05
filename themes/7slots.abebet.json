@@ -5055,6 +5055,11 @@
       "value": "{base.primary}",
       "type": "color",
       "description": "text in confirm widget"
+    },
+    "timer-gift-desktop": {
+      "value": "{base.accent-primary}",
+      "type": "color",
+      "description": "use for accent text in welcome popup"
     }
   },
   "menu": {

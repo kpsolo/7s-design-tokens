@@ -4898,6 +4898,11 @@
       "value": "{base.light}",
       "type": "color",
       "description": "text in confirm widget"
+    },
+    "timer-gift-desktop": {
+      "value": "#39CC59",
+      "type": "color",
+      "description": "use for accent text in welcome popup"
     }
   },
   "menu": {
