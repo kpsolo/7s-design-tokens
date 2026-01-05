@@ -2718,7 +2718,7 @@
       "description": "use for active bonus balance"
     },
     "timer-welcome-bonus": {
-      "value": "#625A5A",
+      "value": "{bg.card.bg.2}",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     },
