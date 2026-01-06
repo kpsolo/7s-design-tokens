@@ -2844,11 +2844,6 @@
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     },
-    "timer-welcome-bonus-mob-copy": {
-      "value": "#ffffff",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
-    },
     "balance-casino-active": {
       "value": "linear-gradient(287deg, #8D262B 3.95%, #440D10 100%)",
       "type": "color",
