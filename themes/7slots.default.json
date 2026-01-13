@@ -3846,7 +3846,7 @@
     "active-tab-content": {
       "value": "{base.accent-primary}",
       "type": "color",
-      "description": "color of text and icon on active tab"
+      "description": "color of text and icon on active tab1"
     },
     "pagination": {
       "value": "{text.title.extra}",
