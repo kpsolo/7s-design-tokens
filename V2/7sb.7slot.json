@@ -4125,36 +4125,6 @@
       },
       "type": "typography"
     },
-    "link-sm": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-2}",
-        "lineHeight": "{xs}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
-    "link-md": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.normal}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{ml}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
-    "link-md-stronger": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
-        "fontSize": "{scale-3}",
-        "lineHeight": "{ml}",
-        "textDecoration": "{text-decoration.underline}"
-      },
-      "type": "typography"
-    },
     "normal": {
       "value": "{Regular}",
       "type": "fontWeights"
@@ -4945,6 +4915,11 @@
         "type": "color",
         "description": "basic.bronze"
       },
+      "accent-secondary": {
+        "value": "#FCFF71",
+        "type": "color",
+        "description": "basic.bronze"
+      },
       "validation": {
         "danger": {
           "value": "#B62D3E",
@@ -5327,11 +5302,11 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-10.400}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.additionals.accent-secondary}",
           "type": "color"
         },
         "on-brand": {
@@ -5414,6 +5389,24 @@
         },
         "static": {
           "value": "{core.validation.warning.600}",
+          "type": "color"
+        }
+      },
+      "banner-cart": {
+        "primary": {
+          "value": "{core.brand-60.800}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.brand-60.600}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.brand-60.400}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.600}",
           "type": "color"
         }
       }
