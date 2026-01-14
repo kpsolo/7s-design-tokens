@@ -82,15 +82,15 @@
     },
     "text-padding-horizontal": {
       "sm": {
-        "value": "{spacing.200}",
+        "value": "{spacing.100}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacing.200}",
+        "value": "{spacing.100}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{spacing.200}",
+        "value": "{spacing.100}",
         "type": "spacing"
       }
     },
