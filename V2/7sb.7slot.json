@@ -4475,40 +4475,40 @@
         "type": "color"
       },
       "100": {
-        "value": "{core.white.a0}",
+        "value": "#3B7BB5",
         "type": "color"
       },
       "200": {
-        "value": "{core.white.a0}",
+        "value": "#416FB4",
         "type": "color"
       },
       "300": {
-        "value": "{core.white.a0}",
+        "value": "#345CA8",
         "type": "color"
       },
       "400": {
-        "value": "#A29172",
+        "value": "#364C6C",
         "type": "color"
       },
       "500": {
-        "value": "#967E51",
+        "value": "#354867",
         "type": "color"
       },
       "600": {
-        "value": "#816737",
+        "value": "#2F456E",
         "type": "color"
       },
       "700": {
-        "value": "#6E521E",
+        "value": "#262F42",
         "type": "color"
       },
       "800": {
-        "value": "#593B03",
+        "value": "#00304A",
         "type": "color",
         "description": "basic.sand 900"
       },
       "900": {
-        "value": "#070703",
+        "value": "#0B2853",
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
@@ -4568,29 +4568,29 @@
         "description": "basic.sand 200"
       },
       "300": {
-        "value": "#49A8D4",
+        "value": "#52FFE0",
         "type": "color",
         "description": "basic.sand 300"
       },
       "400": {
-        "value": "#52ADFF",
+        "value": "#49A8D4",
         "type": "color"
       },
       "500": {
-        "value": "#4B9DE8",
+        "value": "#52ADFF",
         "type": "color"
       },
       "600": {
-        "value": "#3B7BB5",
+        "value": "#4B9DE8",
         "type": "color",
         "description": "basic.sand 400"
       },
       "700": {
-        "value": "#416FB4",
+        "value": "#387BE0",
         "type": "color"
       },
       "800": {
-        "value": "#345CA8",
+        "value": "#076DEA",
         "type": "color"
       },
       "900": {
