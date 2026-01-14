@@ -987,23 +987,23 @@
     },
     "input": {
       "default": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.md}",
         "type": "boxShadow"
       },
       "filled": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.md}",
         "type": "boxShadow"
       },
       "hover": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.md}",
         "type": "boxShadow"
       },
       "active": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.md}",
         "type": "boxShadow"
       },
       "validation": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.md}",
         "type": "boxShadow"
       },
       "disabled": {
@@ -1122,11 +1122,11 @@
       }
     },
     "dropdown menu": {
-      "value": "{shadow.drop.up}",
+      "value": "{shadow.drop.xl}",
       "type": "boxShadow"
     },
     "datepicker": {
-      "value": "{shadow.drop.small}",
+      "value": "{shadow.drop.md}",
       "type": "boxShadow"
     },
     "tooltip": {
@@ -1210,15 +1210,15 @@
       }
     },
     "popup": {
-      "value": "{shadow.drop.modal}",
+      "value": "{shadow.drop.sm}",
       "type": "boxShadow"
     },
     "popover": {
-      "value": "{shadow.drop.modal}",
+      "value": "{shadow.drop.sm}",
       "type": "boxShadow"
     },
     "notification": {
-      "value": "{shadow.drop.medium}",
+      "value": "{shadow.drop.ml}",
       "type": "boxShadow"
     },
     "filter&sorting": {
@@ -1317,12 +1317,12 @@
         "type": "boxShadow"
       },
       "collections": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.md}",
         "type": "boxShadow"
       },
       "slider": {
         "payment-block": {
-          "value": "{shadow.drop.small}",
+          "value": "{shadow.drop.md}",
           "type": "boxShadow"
         }
       }
@@ -1371,7 +1371,7 @@
     },
     "bonus": {
       "Slade": {
-        "value": "{shadow.drop.small}",
+        "value": "{shadow.drop.md}",
         "type": "boxShadow"
       }
     },
