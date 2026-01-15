@@ -202,7 +202,7 @@
         "type": "borderRadius"
       },
       "md": {
-        "value": "{border-radius.core.300}",
+        "value": "{border-radius.core.200}",
         "type": "borderRadius"
       }
     },
@@ -2105,7 +2105,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{core.grey.50a30}",
             "type": "color"
           }
         },
@@ -2115,7 +2115,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{semantic.text.static.tertiary}",
+            "value": "{core.grey.50a30}",
             "type": "color"
           },
           "invert": {
@@ -2135,7 +2135,7 @@
         },
         "helper-text": {
           "default": {
-            "value": "{semantic.text.static.secondary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "disabled": {
@@ -2260,12 +2260,8 @@
             "type": "color"
           }
         },
-        "disabled-primary": {
-          "value": "{semantic.icon.static.primary}",
-          "type": "color"
-        },
-        "disabled-tertiary": {
-          "value": "{semantic.icon.static.tertiary}",
+        "disabled": {
+          "value": "{core.grey.50a30}",
           "type": "color"
         }
       }
@@ -4401,6 +4397,19 @@
             }
           }
         }
+      },
+      "50a30": {
+        "value": "{core.grey.50}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "white": {
@@ -4696,12 +4705,21 @@
           "description": "Secondary.red 500"
         },
         "500": {
-          "value": "#FE4C25",
+          "value": "{core.additionals.validation.danger}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.red 500"
         },
         "600": {
-          "value": "#CB3D1E",
+          "value": "{core.additionals.validation.danger}",
           "type": "color",
           "description": "Secondary.red 600"
         },
