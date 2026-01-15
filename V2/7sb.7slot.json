@@ -852,34 +852,34 @@
     },
     "input": {
       "default": {
-        "value": "{shadow.drop.md}",
-        "type": "boxShadow"
-      },
-      "filled": {
-        "value": "{shadow.drop.md}",
-        "type": "boxShadow"
-      },
-      "hover": {
-        "value": "{shadow.drop.md}",
-        "type": "boxShadow"
-      },
-      "active": {
-        "value": "{shadow.drop.md}",
-        "type": "boxShadow"
-      },
-      "validation": {
-        "value": "{shadow.drop.md}",
-        "type": "boxShadow"
-      },
-      "disabled": {
         "value": {
-          "x": "{depth.0}",
-          "y": "{depth.0}",
-          "blur": "{depth.0}",
-          "spread": "{depth.0}",
+          "x": "0px",
+          "y": "0px",
+          "blur": "0px",
+          "spread": "0px",
           "color": "{core.white.a0}",
           "type": "dropShadow"
         },
+        "type": "boxShadow"
+      },
+      "filled": {
+        "value": "{shadow.input.default}",
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": "{shadow.input.default}",
+        "type": "boxShadow"
+      },
+      "active": {
+        "value": "{shadow.input.default}",
+        "type": "boxShadow"
+      },
+      "validation": {
+        "value": "{shadow.input.default}",
+        "type": "boxShadow"
+      },
+      "disabled": {
+        "value": "{shadow.input.default}",
         "type": "boxShadow",
         "description": "border.input.disabled"
       }
@@ -2176,7 +2176,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           }
         },
@@ -4492,6 +4492,20 @@
         },
         "description": "replaceble.sand 300 (25%)\n"
       },
+      "a40": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replaceble.sand 300 (25%)\n"
+      },
       "a90": {
         "value": "{core.white.a100}",
         "type": "color",
@@ -5532,7 +5546,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.white.a40}",
           "type": "color"
         }
       },
@@ -5582,7 +5596,7 @@
       },
       "modal": {
         "default": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "hover": {
