@@ -4431,20 +4431,6 @@
           }
         }
       },
-      "a8": {
-        "value": "{core.white.a100}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.08",
-              "space": "lch"
-            }
-          }
-        },
-        "description": "replaceble.white 8%\n"
-      },
       "a5": {
         "value": "{core.white.a100}",
         "type": "color",
@@ -4453,6 +4439,20 @@
             "modify": {
               "type": "alpha",
               "value": "0.05",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replaceble.white 8%\n"
+      },
+      "a8": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.08",
               "space": "lch"
             }
           }
@@ -4515,33 +4515,19 @@
         },
         "description": "replaceble.sand 300 (25%)\n"
       },
-      "a90": {
+      "a50": {
         "value": "{core.white.a100}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.9",
+              "value": "0.5",
               "space": "lch"
             }
           }
         },
-        "description": "\n"
-      },
-      "a80": {
-        "value": "{core.white.a100}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.8",
-              "space": "lch"
-            }
-          }
-        },
-        "description": "\n"
+        "description": "replaceble.white 80%"
       },
       "a60": {
         "value": "{core.white.a100}",
@@ -4557,19 +4543,61 @@
         },
         "description": "replaceble.white 80%"
       },
-      "a50": {
+      "a70": {
         "value": "{core.white.a100}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.5",
+              "value": "0.7",
               "space": "lch"
             }
           }
         },
         "description": "replaceble.white 80%"
+      },
+      "a80": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "\n"
+      },
+      "a85": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.85",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "\n"
+      },
+      "a90": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "\n"
       }
     },
     "brand-60": {
@@ -5320,15 +5348,15 @@
           "type": "color"
         },
         "primary": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a85}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.200}",
+          "value": "{core.white.a70}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.300}",
+          "value": "{core.white.a50}",
           "type": "color"
         }
       },
@@ -5598,41 +5626,27 @@
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         }
       },
       "accent": {
         "default": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{core.brand-30.50}",
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         }
       },
-      "modal": {
+      "static": {
         "default": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         },
         "hover": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
-        },
-        "disabled": {
-          "value": "{core.brand-60.500}",
-          "type": "color"
-        }
-      },
-      "emphasizing": {
-        "default": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{core.brand-60.200}",
           "type": "color"
         }
       }
