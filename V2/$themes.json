@@ -1803,7 +1803,14 @@
       "shadow.drop.lg": "S:71d866c39ae4a8bd1c7ff3a228088e1d95e234e7,",
       "shadow.drop.xl": "S:c6f745bdf54e46d04ac08cd4b937224a91841a2d,",
       "contextual.input.icon.disabled": "S:2aa22415ec8b8080e293be26f65d708eb729a1fd,",
-      "core.grey.50a30": "S:7509526b717c7023f649836f559b03cbe7ad9026,"
+      "core.grey.50a30": "S:7509526b717c7023f649836f559b03cbe7ad9026,",
+      "core.grey.900a80": "S:6ee7694d8fc2a9f8bd1a4da2b9e0078c1f98daa0,",
+      "core.grey.900a60": "S:d989660ba3cb43b248896725297b0e9077db4200,",
+      "core.grey.900a40": "S:c957ae553b4daaa0d5780fc80c676902a83934aa,",
+      "core.white.a70": "S:b703d81b16f4803f1ef8f2b6e59c7e435e230ac0,",
+      "core.white.a85": "S:df395760eea8935154e74b129f649f4404083e58,",
+      "semantic.link.static.default": "S:9473bcb1853f7d9c8676b54db1cb5ad7cb7093e1,",
+      "semantic.link.static.hover": "S:b7c0f4932ef16d629a7a4b5e16e58235cb5ab46e,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"

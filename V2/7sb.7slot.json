@@ -4372,6 +4372,45 @@
           }
         }
       },
+      "900a80": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.8",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "900a60": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "900a40": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "800a10": {
         "value": "{core.grey.800}",
         "type": "color",
@@ -5280,15 +5319,15 @@
     "icon": {
       "static": {
         "primary": {
-          "value": "{core.brand-60.800}",
+          "value": "{core.grey.900a80}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.600}",
+          "value": "{core.grey.900a60}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.400}",
+          "value": "{core.grey.900a40}",
           "type": "color"
         },
         "disabled": {
@@ -5302,19 +5341,19 @@
       },
       "default": {
         "primary": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.white.a85}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.a70}",
+          "value": "{core.white.a70}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.brand-60.a50}",
+          "value": "{core.white.a50}",
           "type": "color"
         },
         "disabled": {
-          "value": "{core.brand-60.a50}",
+          "value": "{core.white.a25}",
           "type": "color"
         }
       },
@@ -5410,11 +5449,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.900a80}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.500}",
+          "value": "{core.grey.900a60}",
           "type": "color"
         },
         "accent": {
@@ -5458,11 +5497,11 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.100}",
+          "value": "{core.white.a85}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.grey.200}",
+          "value": "{core.white.a70}",
           "type": "color"
         },
         "accent": {
