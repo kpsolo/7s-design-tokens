@@ -3476,7 +3476,7 @@
     },
     "footer": {
       "fill": {
-        "value": "{core.grey.900}",
+        "value": "{core.brand-60.700}",
         "type": "color"
       },
       "border": {
@@ -4188,31 +4188,25 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Regular}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{md}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{md}"
       },
       "type": "typography"
     },
     "lg-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-6}",
-        "lineHeight": "{lg}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{lg}"
       },
       "type": "typography"
     },
     "lg-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-6}",
-        "lineHeight": "{lg}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{lg}"
       },
       "type": "typography"
     },
@@ -4221,31 +4215,25 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Expanded}",
         "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{xl}"
       },
       "type": "typography"
     },
     "xl-strong": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Medium}",
         "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{xl}"
       },
       "type": "typography"
     },
     "xl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-7}",
-        "lineHeight": "{xl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{xl}"
       },
       "type": "typography"
     },
@@ -4254,20 +4242,16 @@
         "fontFamily": "{accent}",
         "fontWeight": "{Expanded}",
         "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{xxl}"
       },
       "type": "typography"
     },
     "xxl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-8}",
-        "lineHeight": "{xxl}",
-        "letterSpacing": "{letter-spacing.2}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{xxl}"
       },
       "type": "typography"
     }
@@ -5192,7 +5176,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "linear-gradient(180deg, #595045 0%, #55483A 33%, #413428 100%)",
+        "value": "linear-gradient(90deg, {core.brand-30.50} 0%, {core.brand-30.50} 18%, {core.brand-30.200} 46%, {core.brand-30.200} 60%, {core.brand-30.300} 74%)",
         "type": "color",
         "description": "gradients.Brown 600"
       },
