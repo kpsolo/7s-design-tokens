@@ -1823,7 +1823,8 @@
       "contextual.tag.icon.disabled": "S:05f4ff97ff6286180fad4e6f9f70dea20147af6d,",
       "contextual.tag.border.default": "S:3539f2ff16e4299a4f6d3ee6f73b668f1c579df3,",
       "contextual.tag.border.hover": "S:b22fd2fc2d1974f53e84884554dc76f1bcf80517,",
-      "contextual.tag.border.disabled": "S:cf5e8d6f5d991bb40e8c68c984d7072f48d3fcf9,"
+      "contextual.tag.border.disabled": "S:cf5e8d6f5d991bb40e8c68c984d7072f48d3fcf9,",
+      "semantic.background.page": "S:47e1b2833e2b3074641fe1b26fa29aaea674bb92,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
