@@ -2467,11 +2467,11 @@
     "tag": {
       "text": {
         "default": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         },
         "disabled": {
@@ -2499,11 +2499,11 @@
       },
       "icon": {
         "default": {
-          "value": "{semantic.icon.default.secondary}",
+          "value": "{semantic.icon.static.secondary}",
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.icon.default.secondary}",
+          "value": "{semantic.icon.static.secondary}",
           "type": "color"
         },
         "disabled": {
