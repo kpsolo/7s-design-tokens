@@ -2835,7 +2835,7 @@
     "homepage": {
       "nav-menu": {
         "fill": {
-          "value": "{semantic.gradients.9}",
+          "value": "{core.brand-60.500a40}",
           "type": "color"
         },
         "item": {
@@ -5176,7 +5176,7 @@
         "description": "gradients.Brown 550"
       },
       "9": {
-        "value": "linear-gradient(90deg, {core.brand-30.50} 0%, {core.brand-30.50} 18%, {core.brand-30.200} 46%, {core.brand-30.200} 60%, {core.brand-30.300} 74%)",
+        "value": "linear-gradient(90deg, {core.brand-30.800} 0%, {core.brand-30.800} 18%, {core.brand-30.700} 46%, {core.brand-30.700} 60%, {core.brand-30.600} 74%)",
         "type": "color",
         "description": "gradients.Brown 600"
       },
