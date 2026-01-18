@@ -2101,7 +2101,7 @@
       "text": {
         "label": {
           "default": {
-            "value": "{semantic.text.static.secondary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "disabled": {
@@ -2111,7 +2111,7 @@
         },
         "placeholder": {
           "default": {
-            "value": "{semantic.text.static.tertiary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           },
           "disabled": {
@@ -2129,7 +2129,7 @@
             }
           },
           "filled": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         },
@@ -2235,7 +2235,7 @@
       },
       "icon": {
         "primary": {
-          "value": "{semantic.icon.static.primary}",
+          "value": "{semantic.icon.default.secondary}",
           "type": "color"
         },
         "secodary": {
@@ -2243,7 +2243,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{semantic.icon.static.tertiary}",
+          "value": "{semantic.icon.default.tertiary}",
           "type": "color"
         },
         "invert": {
@@ -5243,7 +5243,7 @@
         "description": "gradient.Black 600"
       },
       "slate-1": {
-        "value": "{core.white.a100}",
+        "value": "{core.brand-60.700}",
         "type": "color",
         "description": "text input 1"
       },
@@ -5686,7 +5686,7 @@
       },
       "static": {
         "default": {
-          "value": "{core.white.a0}",
+          "value": "{core.white.a25}",
           "type": "color"
         },
         "filled": {
@@ -5706,7 +5706,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.a40}",
+          "value": "{core.white.a15}",
           "type": "color"
         }
       },
