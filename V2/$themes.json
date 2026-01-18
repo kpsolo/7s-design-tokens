@@ -1824,7 +1824,10 @@
       "contextual.tag.border.default": "S:3539f2ff16e4299a4f6d3ee6f73b668f1c579df3,",
       "contextual.tag.border.hover": "S:b22fd2fc2d1974f53e84884554dc76f1bcf80517,",
       "contextual.tag.border.disabled": "S:cf5e8d6f5d991bb40e8c68c984d7072f48d3fcf9,",
-      "semantic.background.page": "S:47e1b2833e2b3074641fe1b26fa29aaea674bb92,"
+      "semantic.background.page": "S:47e1b2833e2b3074641fe1b26fa29aaea674bb92,",
+      "contextual.homepage.banner.background.1": "S:5f6bd57a4345450a1163faae1b85341f143527a4,",
+      "contextual.homepage.banner.background.2": "S:524f8d446aae8490ccf668e60352656755dd9611,",
+      "core.brand-30.800a0": "S:2410979c8dc4fd3c64b6c10fe6536a4f1023a2de,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"

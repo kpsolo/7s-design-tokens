@@ -2835,7 +2835,7 @@
     "homepage": {
       "nav-menu": {
         "fill": {
-          "value": "{core.brand-60.500a40}",
+          "value": "{core.grey.900a40}",
           "type": "color"
         },
         "item": {
@@ -2914,6 +2914,18 @@
                 "type": "color"
               }
             }
+          }
+        }
+      },
+      "banner": {
+        "background": {
+          "1": {
+            "value": "linear-gradient(58deg, {core.brand-30.800} 0%, {core.brand-30.800a0} 20%)",
+            "type": "color"
+          },
+          "2": {
+            "value": "background: radial-gradient(88.83% 46.36% at 19.59% 44.53%, {core.brand-30.500} 0%, {core.brand-30.800} 100%)",
+            "type": "color"
           }
         }
       },
@@ -3368,7 +3380,7 @@
     },
     "popup": {
       "fill": {
-        "value": "{core.brand-30.50}",
+        "value": "{core.brand-60.700}",
         "type": "color"
       },
       "additional-block": {
@@ -4774,6 +4786,19 @@
       "900": {
         "value": "#193D84",
         "type": "color"
+      },
+      "800a0": {
+        "value": "{core.brand-30.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
       }
     },
     "validation": {
