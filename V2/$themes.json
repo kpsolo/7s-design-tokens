@@ -1855,7 +1855,9 @@
       "contextual.header.item.icon.active": "S:1137d737e0278790cae10de42d75983b045b050d,",
       "contextual.header.item.icon.disabled": "S:359f772104cfe12dbd1a0f695cdef7547ff745ea,",
       "contextual.lottery-tournament.cart.border": "S:9203be61a830b953fe5565ec2e6dbf12da0cb47b,",
-      "contextual.lottery-tournament.card.border": "S:4df6d3f182a7040b2ff5c7534ab2f0fe4c5394eb,"
+      "contextual.lottery-tournament.card.border": "S:4df6d3f182a7040b2ff5c7534ab2f0fe4c5394eb,",
+      "core.brand-30.800a50": "S:998d0dbc77499a417dbcfedfdde9527137cebac1,",
+      "semantic.gradients.13": "S:85eeb7e2449a35e38eb5af23a875db3b07dedc32,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
