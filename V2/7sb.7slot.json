@@ -1733,6 +1733,38 @@
         }
       }
     },
+    "badge": {
+      "warning": {
+        "fill": {
+          "value": "{core.validation.danger.600}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "fill": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "outlined": {
+        "border": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
+    },
     "progress-bar": {
       "normal": {
         "primary": {
@@ -5467,12 +5499,12 @@
   "semantic": {
     "gradients": {
       "1": {
-        "value": "linear-gradient(180deg, #FFF 0%, #FFF6EA 100%)",
+        "value": "linear-gradient(225deg, {core.brand-30.300} 0%, {core.brand-30.900} 100%)",
         "type": "color",
         "description": "gradients.yellow 50"
       },
       "2": {
-        "value": "linear-gradient(154deg, #FBF4E0 8%, #E7CF85 92%)",
+        "value": "linear-gradient(225deg, {core.brand-30.500} 0%, {core.brand-30.900} 100%)",
         "type": "color",
         "description": "gradients.yellow 200"
       },

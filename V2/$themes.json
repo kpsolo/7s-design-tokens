@@ -1886,7 +1886,13 @@
       "contextual.progress-bar.outline.primary.track": "S:354c05845c713f3565e29e10e253b331c6e054b6,",
       "contextual.progress-bar.outline.primary.container": "S:09dfc53f16a2b9ab7ab42ed31b5de6ba92664289,",
       "contextual.progress-bar.outline.static.track": "S:30b88ad903b202e4a00f9efcccaaec4e42e591a7,",
-      "contextual.progress-bar.outline.static.container": "S:9f7a248eba0a39cc279ce33c2930b6a2853e62a8,"
+      "contextual.progress-bar.outline.static.container": "S:9f7a248eba0a39cc279ce33c2930b6a2853e62a8,",
+      "contextual.badge.warning.fill": "S:77989e14d377e0ffc9eb01105cd1d03ec6b292e1,",
+      "contextual.badge.warning.text": "S:6c566d33d33347aed53b4027f84791bcbc0eab34,",
+      "contextual.badge.primary.fill": "S:1d8e147626538c7a0b80e7e5d93d676036489989,",
+      "contextual.badge.primary.text": "S:dc7dea0c0104673c17fde417271090e3ca02d350,",
+      "contextual.badge.outlined.border": "S:062beaba5896ff890a971e322fa9a23e5bcb6cba,",
+      "contextual.badge.outlined.text": "S:acab36293c3cc6b41d085761b0c88164419605cf,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
