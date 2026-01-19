@@ -206,6 +206,10 @@
         "type": "borderRadius"
       }
     },
+    "progress": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
+    },
     "tag": {
       "value": "{border-radius.core.100}",
       "type": "borderRadius"
