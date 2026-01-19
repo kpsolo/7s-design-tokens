@@ -1843,7 +1843,17 @@
       "contextual.menu-item.border.default": "S:0f7a3409f7e2fe5c103fe0cfe66c5a879b4fc458,",
       "contextual.menu-item.border.hover": "S:1d8aa15cd9c5286e31f93db433d00dabb7d7afad,",
       "contextual.menu-item.border.active": "S:bc78ee363516367202af1950eace19e7e5f74f3a,",
-      "contextual.menu-item.border.disabled": "S:49a6a187161765f04b4d6fbd63f39742b79e25ae,"
+      "contextual.menu-item.border.disabled": "S:49a6a187161765f04b4d6fbd63f39742b79e25ae,",
+      "contextual.header.item.text.default": "S:92752000d00b179cd66752452bdfebdd91d4aa5d,",
+      "contextual.header.item.text.hover": "S:6a9e7d67c65eccddef0401e29dd8083a401db182,",
+      "contextual.header.item.text.active": "S:57fc181a21ec35651cf1ff305514fa1fca2b86fd,",
+      "contextual.header.item.text.disabled": "S:803cddf80169ed315343a7d4a0414d37261b038c,",
+      "contextual.header.background.fill-current": "S:5f00ad3877c29caf9541f86ec5210b1b9e07c1b4,",
+      "core.brand-10.400a80": "S:ada50719d8cc25ee58eae1511a37c1778efacdb6,",
+      "contextual.header.item.icon.default": "S:5bd8991f913a9b1edea3001773d64328e1366e7a,",
+      "contextual.header.item.icon.hover": "S:44065598cfc87b3835f4e4c850bd9a27f734b74a,",
+      "contextual.header.item.icon.active": "S:1137d737e0278790cae10de42d75983b045b050d,",
+      "contextual.header.item.icon.disabled": "S:359f772104cfe12dbd1a0f695cdef7547ff745ea,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
