@@ -1875,7 +1875,18 @@
       "contextual.dropdown-menu.item.border.default": "S:3534e0660e9b366318f47221d4b4b1b136343585,",
       "contextual.dropdown-menu.item.border.selected": "S:c8772135f6b3a80ae2e4c5cc4acafdef6dfaf40b,",
       "contextual.dropdown-menu.item.border.hover": "S:83001e6222d5505341a05c92e73d1993ae8e08ed,",
-      "core.brand-60.700a0": "S:0721c12e2f8196c6b8a61f790dcf75fbcccdc454,"
+      "core.brand-60.700a0": "S:0721c12e2f8196c6b8a61f790dcf75fbcccdc454,",
+      "contextual.progress-bar.normal.primary.track": "S:a63df7d5c4c4e57df8a40d6388bf70f3f87e3e6c,",
+      "contextual.progress-bar.normal.primary.container": "S:929c5ad4c8a2a09822f5cdd8e4b9e56fece0c60f,",
+      "core.brand-60.500a10": "S:a120141d247f27c68f93e5727a4bd8f5bdba9cc5,",
+      "contextual.progress-bar.normal.secondary.track": "S:9cf6a9ae04c5db351af469b2202ecfc1e092f771,",
+      "contextual.progress-bar.normal.secondary.container": "S:7ece683dbf7fc601cf7a146a47767bf169a8be08,",
+      "contextual.progress-bar.normal.static.track": "S:86ecc211b906334336d826e31d0835df6d4cfaf6,",
+      "contextual.progress-bar.normal.static.container": "S:3f17386a2930d2c720d6e7f29af10109d2fb7eb4,",
+      "contextual.progress-bar.outline.primary.track": "S:354c05845c713f3565e29e10e253b331c6e054b6,",
+      "contextual.progress-bar.outline.primary.container": "S:09dfc53f16a2b9ab7ab42ed31b5de6ba92664289,",
+      "contextual.progress-bar.outline.static.track": "S:30b88ad903b202e4a00f9efcccaaec4e42e591a7,",
+      "contextual.progress-bar.outline.static.container": "S:9f7a248eba0a39cc279ce33c2930b6a2853e62a8,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"

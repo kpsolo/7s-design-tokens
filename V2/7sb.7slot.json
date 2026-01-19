@@ -1729,6 +1729,62 @@
         }
       }
     },
+    "progress-bar": {
+      "normal": {
+        "primary": {
+          "track": {
+            "value": "{core.brand-30.600}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "track": {
+            "value": "{core.white.a80}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        },
+        "static": {
+          "track": {
+            "value": "{core.brand-60.500a40}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{core.brand-60.500a10}",
+            "type": "color"
+          }
+        }
+      },
+      "outline": {
+        "primary": {
+          "track": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        },
+        "static": {
+          "track": {
+            "value": "{core.brand-60.500a10}",
+            "type": "color"
+          },
+          "container": {
+            "value": "{core.brand-60.500a10}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "footer": {
       "block": {
         "fill": {
@@ -4926,6 +4982,20 @@
             "modify": {
               "type": "alpha",
               "value": "0.4",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (15%)\n"
+      },
+      "500a10": {
+        "value": "{core.grey.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
               "space": "lch"
             }
           }
