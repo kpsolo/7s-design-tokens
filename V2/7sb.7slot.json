@@ -2836,31 +2836,85 @@
             "type": "color"
           },
           "selected": {
-            "value": "{core.brand-10.a10}",
+            "value": "{core.brand-10.400a10}",
             "type": "color"
           },
           "hover": {
-            "value": "rgba(234, 230, 225, 0.50)",
+            "value": "{core.brand-10.400a10}",
             "type": "color"
           }
-        },
-        "icon": {
-          "active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          }
-        },
-        "selected-indicator": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
         },
         "text": {
           "primary": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color"
+            "default": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{semantic.text.brand.primary}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            }
           },
           "secondary": {
-            "value": "{semantic.text.static.tertiary}",
+            "default": {
+              "value": "{semantic.icon.default.secondary}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{semantic.text.brand.primary}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.text.default.secondary}",
+              "type": "color"
+            }
+          }
+        },
+        "icon": {
+          "left": {
+            "default": {
+              "value": "{semantic.icon.default.secondary}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{semantic.text.brand.primary}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.icon.default.secondary}",
+              "type": "color"
+            }
+          },
+          "right": {
+            "default": {
+              "value": "{semantic.icon.default.secondary}",
+              "type": "color"
+            },
+            "selected": {
+              "value": "{semantic.text.brand.primary}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{semantic.icon.default.secondary}",
+              "type": "color"
+            }
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
             "type": "color"
           }
         }
@@ -2869,8 +2923,12 @@
         "value": "{semantic.background.slate-1}",
         "type": "color"
       },
+      "border": {
+        "value": "{core.white.a8}",
+        "type": "color"
+      },
       "ovelray-fill": {
-        "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, #FFF 50%)",
+        "value": "linear-gradient(180deg, {core.brand-60.700a0} 0%, {core.brand-60.700} 50%)",
         "type": "color"
       }
     },
@@ -4868,6 +4926,20 @@
             "modify": {
               "type": "alpha",
               "value": "0.4",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (15%)\n"
+      },
+      "700a0": {
+        "value": "{core.grey.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
               "space": "lch"
             }
           }

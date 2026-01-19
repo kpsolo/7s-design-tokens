@@ -1858,7 +1858,24 @@
       "contextual.lottery-tournament.card.border": "S:4df6d3f182a7040b2ff5c7534ab2f0fe4c5394eb,",
       "core.brand-30.800a50": "S:998d0dbc77499a417dbcfedfdde9527137cebac1,",
       "semantic.gradients.13": "S:85eeb7e2449a35e38eb5af23a875db3b07dedc32,",
-      "contextual.footer.block.fill": "S:3c142168b79ed31bf939845d66c661d8b286b596,"
+      "contextual.footer.block.fill": "S:3c142168b79ed31bf939845d66c661d8b286b596,",
+      "contextual.dropdown-menu.item.text.primary.default": "S:eeb55401e5dfc5ff722e2bf76cbe899c07891b7a,",
+      "contextual.dropdown-menu.item.text.primary.selected": "S:385a93b84f3c88cbd60698dfd8d39130463d39d7,",
+      "contextual.dropdown-menu.item.text.primary.hover": "S:7c2425522ec81753d8dc03ff8ba7aef9d143588a,",
+      "contextual.dropdown-menu.border": "S:ad7909f1e4a33852bc85a90dc4d8ed8a48c47d2b,",
+      "contextual.dropdown-menu.item.text.secondary.default": "S:f5b466a95b51df111c0abbb6715c5590408a6aca,",
+      "contextual.dropdown-menu.item.text.secondary.selected": "S:e41717bab1e068ea0dd377a67390a3b2fa05b4d9,",
+      "contextual.dropdown-menu.item.text.secondary.hover": "S:01a7ea56f50ae6aa0c7a100999349d79027fbc1a,",
+      "contextual.dropdown-menu.item.icon.left.default": "S:55f98ca19fb542d446e1b4c4613d618c49bda92d,",
+      "contextual.dropdown-menu.item.icon.left.selected": "S:85a8af07dec500b8405a73dfd9bcae001926bd16,",
+      "contextual.dropdown-menu.item.icon.left.hover": "S:c6f0acd6d44b590be8e9244c856e680eaccb4eae,",
+      "contextual.dropdown-menu.item.icon.right.default": "S:f9dbfa9f680f6b637bc33a2cf76b4f8c0d0ae13a,",
+      "contextual.dropdown-menu.item.icon.right.selected": "S:d2b91a806d10a4fedee76c9c116a56fe65c54385,",
+      "contextual.dropdown-menu.item.icon.right.hover": "S:208cad44e4df531bbe20b32ebe5c3c3a84e0cdce,",
+      "contextual.dropdown-menu.item.border.default": "S:3534e0660e9b366318f47221d4b4b1b136343585,",
+      "contextual.dropdown-menu.item.border.selected": "S:c8772135f6b3a80ae2e4c5cc4acafdef6dfaf40b,",
+      "contextual.dropdown-menu.item.border.hover": "S:83001e6222d5505341a05c92e73d1993ae8e08ed,",
+      "core.brand-60.700a0": "S:0721c12e2f8196c6b8a61f790dcf75fbcccdc454,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
