@@ -275,6 +275,10 @@
         }
       }
     },
+    "menu-item": {
+      "value": "{border-radius.core.200}",
+      "type": "borderRadius"
+    },
     "header": {
       "mobile-top-up": {
         "value": "{border-radius.core.200}",
@@ -3952,12 +3956,13 @@
       },
       "cart": {
         "fill": {
-          "value": "linear-gradient(90deg, {core.brand-60.800} 0%, {core.brand-60.800} 18%, {core.brand-60.400} 46%, {core.brand-60.400} 60%, {core.brand-60.400} 74%)",
-          "type": "color",
-          "description": "status-inactive"
-        },
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        }
+      },
+      "card": {
         "border": {
-          "value": "{core.white.a0}",
+          "value": "{core.white.a25}",
           "type": "color",
           "description": "status-inactive"
         }

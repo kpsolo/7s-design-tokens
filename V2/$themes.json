@@ -1854,7 +1854,8 @@
       "contextual.header.item.icon.hover": "S:44065598cfc87b3835f4e4c850bd9a27f734b74a,",
       "contextual.header.item.icon.active": "S:1137d737e0278790cae10de42d75983b045b050d,",
       "contextual.header.item.icon.disabled": "S:359f772104cfe12dbd1a0f695cdef7547ff745ea,",
-      "contextual.lottery-tournament.cart.border": "S:9203be61a830b953fe5565ec2e6dbf12da0cb47b,"
+      "contextual.lottery-tournament.cart.border": "S:9203be61a830b953fe5565ec2e6dbf12da0cb47b,",
+      "contextual.lottery-tournament.card.border": "S:4df6d3f182a7040b2ff5c7534ab2f0fe4c5394eb,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
@@ -2079,6 +2080,7 @@
       "Thumb-providers.sm.padding-bottom": "69862ba2a777ebcfd5472033d47783a8ecc7a41b",
       "Thumb-providers.sm.gap": "38736e2acadd883f3ef239c0cab2a4bda4364eda",
       "Thumb-providers.sm.gap-text": "e04bb8941086610198377faaf1b46c8f85d8955a",
+      "border-radius.menu-item": "91fd7cbcf004c96682735a01beb536050c0db521",
       "content.tab-bar.main-icon": "83d789394555c71c704eda7656f681e15962fc29"
     },
     "$figmaCollectionId": "VariableCollectionId:57560:290218",
