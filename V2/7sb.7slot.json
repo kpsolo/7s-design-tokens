@@ -4191,7 +4191,7 @@
         }
       }
     },
-    "thumb-games ": {
+    "thumb-games": {
       "label": {
         "fill": {
           "value": "{semantic.gradients.4}",
@@ -4208,48 +4208,30 @@
           "type": "color"
         }
       },
-      "empty": {
-        "fill": {
-          "value": "{semantic.gradients.8}",
-          "type": "color"
-        },
-        "fill-light": {
-          "value": "linear-gradient(180deg, #FBF4ED 0%, #EBE2DC 100%)",
-          "type": "color"
-        }
-      },
       "overlay": {
-        "value": "linear-gradient(0deg, #291C01 0%, rgba(57, 38, 2, 0.60) 79.69%, rgba(45, 30, 1, 0.35) 100%)",
+        "value": "linear-gradient(0deg, {core.grey.900a90} 0%, {core.brand-60.a60} 79.69%, {core.brand-60.600a30} 100%)",
         "type": "color"
       },
       "show-more": {
         "normal": {
+          "content": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
           "fill": {
-            "value": "{core.brand-60.a25}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.brand-10.500}",
+            "value": "{core.grey.900a40}",
             "type": "color"
           }
+        }
+      },
+      "empty": {
+        "content": {
+          "value": "{core.white.a100}",
+          "type": "color"
         },
-        "smaller": {
-          "fill": {
-            "value": "rgba(27, 24, 19, 0.40)",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-60.700}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          }
+        "fill": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
         }
       },
       "text": {
@@ -4758,6 +4740,19 @@
           }
         }
       },
+      "900a90": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "900a80": {
         "value": "{core.grey.900}",
         "type": "color",
@@ -5068,6 +5063,48 @@
         "type": "color",
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
+      "700a0": {
+        "value": "{core.grey.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (15%)\n"
+      },
+      "700a60": {
+        "value": "{core.grey.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (15%)\n"
+      },
+      "600a30": {
+        "value": "{core.grey.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (15%)\n"
+      },
       "500a40": {
         "value": "{core.grey.500}",
         "type": "color",
@@ -5090,20 +5127,6 @@
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
-            }
-          }
-        },
-        "description": "replacement.sand 300 (15%)\n"
-      },
-      "700a0": {
-        "value": "{core.grey.700}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0",
               "space": "lch"
             }
           }

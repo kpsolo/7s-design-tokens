@@ -1904,7 +1904,20 @@
       "contextual.label.sale.icon": "S:f7cd95b9af1ea91de9a76fe7109e81fa11a7278e,",
       "contextual.label.secondary.fill": "S:92c561d10a367e0ebec4fe2b8404012b504d9ab9,",
       "contextual.label.secondary.text": "S:fe1896d244d62cc89a384b79171eedaff473fc11,",
-      "contextual.label.secondary.icon": "S:08e9861e378b034af55cb9d1bcb6e866f06cee9b,"
+      "contextual.label.secondary.icon": "S:08e9861e378b034af55cb9d1bcb6e866f06cee9b,",
+      "contextual.thumb-games.empty.content": "S:c141a437c11b7c2ead1525bf0da579864528c219,",
+      "contextual.thumb-games.empty.fill": "S:0cc9f2a1f4336579635f72460e5c9bd7c6defefb,",
+      "core.grey.900a90": "S:cb49d6677991ac2c12a049c1282ede957438ccc2,",
+      "core.brand-60.700a60": "S:c6e765536772616cdb25b53b165c869586b0641d,",
+      "core.brand-60.600a30": "S:f89fc9b27a686f3ce1efed52fc5fc3ea139a23d5,",
+      "contextual.thumb-games.label.fill": "S:68990a42f090771b3e6363128e7cae9e2b4c3ebb,",
+      "contextual.thumb-games.label.text": "S:d342165b2c02e11e265a90bc1823187c59265ddc,",
+      "contextual.thumb-games.label-providers.fill": "S:c6fffce3daca219222977499d6a43e22dca67a52,",
+      "contextual.thumb-games.overlay": "S:0b99542e53a5c0951d50c908e172961f3c3aa8e5,",
+      "contextual.thumb-games.show-more.normal.content": "S:4d4758d3754b45d339da545e16feb3178e6bfe2e,",
+      "contextual.thumb-games.show-more.normal.fill": "S:9d552ed7af8b809a2496c02063b784fa838aa6af,",
+      "contextual.thumb-games.text.primary": "S:c0b7bdbd2910d4f7f83897c5c4d85e5e0be8a038,",
+      "contextual.thumb-games.text.accent": "S:edc0f7800eb6848704e6c29c0fb6b99e6574e189,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
