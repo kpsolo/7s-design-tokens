@@ -1857,7 +1857,8 @@
       "contextual.lottery-tournament.cart.border": "S:9203be61a830b953fe5565ec2e6dbf12da0cb47b,",
       "contextual.lottery-tournament.card.border": "S:4df6d3f182a7040b2ff5c7534ab2f0fe4c5394eb,",
       "core.brand-30.800a50": "S:998d0dbc77499a417dbcfedfdde9527137cebac1,",
-      "semantic.gradients.13": "S:85eeb7e2449a35e38eb5af23a875db3b07dedc32,"
+      "semantic.gradients.13": "S:85eeb7e2449a35e38eb5af23a875db3b07dedc32,",
+      "contextual.footer.block.fill": "S:3c142168b79ed31bf939845d66c661d8b286b596,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
