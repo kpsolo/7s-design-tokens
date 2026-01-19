@@ -1853,7 +1853,8 @@
       "contextual.header.item.icon.default": "S:5bd8991f913a9b1edea3001773d64328e1366e7a,",
       "contextual.header.item.icon.hover": "S:44065598cfc87b3835f4e4c850bd9a27f734b74a,",
       "contextual.header.item.icon.active": "S:1137d737e0278790cae10de42d75983b045b050d,",
-      "contextual.header.item.icon.disabled": "S:359f772104cfe12dbd1a0f695cdef7547ff745ea,"
+      "contextual.header.item.icon.disabled": "S:359f772104cfe12dbd1a0f695cdef7547ff745ea,",
+      "contextual.lottery-tournament.cart.border": "S:9203be61a830b953fe5565ec2e6dbf12da0cb47b,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
