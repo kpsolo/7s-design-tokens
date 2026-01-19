@@ -1892,7 +1892,19 @@
       "contextual.badge.primary.fill": "S:1d8e147626538c7a0b80e7e5d93d676036489989,",
       "contextual.badge.primary.text": "S:dc7dea0c0104673c17fde417271090e3ca02d350,",
       "contextual.badge.outlined.border": "S:062beaba5896ff890a971e322fa9a23e5bcb6cba,",
-      "contextual.badge.outlined.text": "S:acab36293c3cc6b41d085761b0c88164419605cf,"
+      "contextual.badge.outlined.text": "S:acab36293c3cc6b41d085761b0c88164419605cf,",
+      "contextual.label.primary.fill": "S:39c1a41c7dcf2713bdd0e344091931ff8298af42,",
+      "contextual.label.primary.text": "S:044da1703d98622fc72645c95a83e14837b89ee1,",
+      "contextual.label.primary.icon": "S:11d6eec3baf26b7bfff26d5c33c91af6e02b7f36,",
+      "contextual.label.timer.fill": "S:9cd74b94a501ea58792f1ea03600b7004a4bea6a,",
+      "contextual.label.timer.text": "S:1886f6a7632c60762578dd2b809578942fc3a382,",
+      "contextual.label.timer.icon": "S:1b79f449e49d31de1ae17a5a862489733fcc1121,",
+      "contextual.label.sale.fill": "S:8365e437b3a08640dcbdaed7355de5c396aa29da,",
+      "contextual.label.sale.text": "S:bcf488e51bfbcca1083daf2473dd2a9fde3e2d58,",
+      "contextual.label.sale.icon": "S:f7cd95b9af1ea91de9a76fe7109e81fa11a7278e,",
+      "contextual.label.secondary.fill": "S:92c561d10a367e0ebec4fe2b8404012b504d9ab9,",
+      "contextual.label.secondary.text": "S:fe1896d244d62cc89a384b79171eedaff473fc11,",
+      "contextual.label.secondary.icon": "S:08e9861e378b034af55cb9d1bcb6e866f06cee9b,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"

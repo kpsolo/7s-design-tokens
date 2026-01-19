@@ -1733,6 +1733,64 @@
         }
       }
     },
+    "label": {
+      "primary": {
+        "fill": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "timer": {
+        "fill": {
+          "value": "{core.validation.danger.600}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "sale": {
+        "fill": {
+          "value": "{core.validation.danger.600}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
+    },
     "badge": {
       "warning": {
         "fill": {
@@ -4555,10 +4613,10 @@
   "Icon": {
     "numbers": {
       "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Expanded}",
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
         "lineHeight": "16",
-        "fontSize": "14"
+        "fontSize": "12"
       },
       "type": "typography"
     }
