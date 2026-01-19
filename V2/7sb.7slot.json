@@ -2526,6 +2526,80 @@
         }
       }
     },
+    "menu-item": {
+      "fill": {
+        "default": {
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.brand-60.700}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "default": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.disabled.primary}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{semantic.icon.default.tertiary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.icon.brand.primary}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.icon.brand.primary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{semantic.text.disabled.primary}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
+      }
+    },
     "selection-controls": {
       "label": {
         "default": {
@@ -5434,7 +5508,7 @@
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.brand-10.400}",
           "type": "color"
         },
         "secondary": {

@@ -1827,7 +1827,23 @@
       "semantic.background.page": "S:47e1b2833e2b3074641fe1b26fa29aaea674bb92,",
       "contextual.homepage.banner.background.1": "S:5f6bd57a4345450a1163faae1b85341f143527a4,",
       "contextual.homepage.banner.background.2": "S:524f8d446aae8490ccf668e60352656755dd9611,",
-      "core.brand-30.800a0": "S:2410979c8dc4fd3c64b6c10fe6536a4f1023a2de,"
+      "core.brand-30.800a0": "S:2410979c8dc4fd3c64b6c10fe6536a4f1023a2de,",
+      "contextual.menu-item.fill.default": "S:11c859b2d331ae3ccd21f41c1ae09579d5a50c14,",
+      "contextual.menu-item.fill.hover": "S:6d4ea3f3b24efa11f92afa17cd22496864168073,",
+      "contextual.menu-item.fill.active": "S:174b2c460ee362a0d9d1820f87cbfcbde63f4899,",
+      "contextual.menu-item.fill.disabled": "S:c46f55338bdea87f3dbc573bffac9142d3352fbf,",
+      "contextual.menu-item.text.default": "S:d80aceb92f1cc07f1671d1be13fcd25593d5d565,",
+      "contextual.menu-item.text.hover": "S:08417b11e7d281515302e4a757e13798e521ad03,",
+      "contextual.menu-item.text.active": "S:84f7485b695d6a9fa471dc3b477151831df81fdd,",
+      "contextual.menu-item.text.disabled": "S:c7780aebd5f203a734f157813f458c6ffc9be7b7,",
+      "contextual.menu-item.icon.default": "S:6c6649ba7450d6ec1429c08da5856995cb144fcf,",
+      "contextual.menu-item.icon.hover": "S:b3f0a8ccabaddf7e3543699f4b76c8f50c508bf0,",
+      "contextual.menu-item.icon.active": "S:037849cfc996276139310e673cf19bc114d66295,",
+      "contextual.menu-item.icon.disabled": "S:af5039462268ad253d2aefb19dcbdbd2c41aae74,",
+      "contextual.menu-item.border.default": "S:0f7a3409f7e2fe5c103fe0cfe66c5a879b4fc458,",
+      "contextual.menu-item.border.hover": "S:1d8aa15cd9c5286e31f93db433d00dabb7d7afad,",
+      "contextual.menu-item.border.active": "S:bc78ee363516367202af1950eace19e7e5f74f3a,",
+      "contextual.menu-item.border.disabled": "S:49a6a187161765f04b4d6fbd63f39742b79e25ae,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
