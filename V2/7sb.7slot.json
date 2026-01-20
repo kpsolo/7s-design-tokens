@@ -2483,11 +2483,11 @@
       },
       "text": {
         "primary": {
-          "value": "{semantic.text.default.primary}",
+          "value": "{semantic.text.default.heading}",
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.default.secondary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         }
       },

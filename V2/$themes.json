@@ -1948,7 +1948,12 @@
       "contextual.menu.quick-pay.item.text.success": "S:eef118c019ac3980eaca44164dd2714f45fd2cd8,",
       "contextual.menu.quick-pay.item.text.primary": "S:6dced86c3233c08aa38deb85c9be982701609dc9,",
       "contextual.menu.quick-pay.item.text.secondary": "S:4b359f502f2518cbba8869e9ecbada36331cea10,",
-      "contextual.menu.quick-pay.item.text.tertiary": "S:d967f1b3000485bfe40ea6ec554ae0cb05163441,"
+      "contextual.menu.quick-pay.item.text.tertiary": "S:d967f1b3000485bfe40ea6ec554ae0cb05163441,",
+      "contextual.notifications.toast.status.success": "S:fa03d074a2cca4965b55cdc0c4382a6fa34ea7b8,",
+      "contextual.notifications.toast.status.warning": "S:9fc0b8f5180a96ee78c84f5e5e1b0eab1f506993,",
+      "contextual.notifications.toast.status.error": "S:12835ae050e38256a7fe67be5a855570f31a7f27,",
+      "contextual.notifications.toast.status.info": "S:14141d37dfa239e958acfc67debdf23ea0a31ae4,",
+      "core.additionals.validation.info": "S:cc3d6c0666ce815913900bd45c37258571c1c124,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
