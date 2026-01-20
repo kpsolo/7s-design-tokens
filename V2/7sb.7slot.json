@@ -1106,6 +1106,21 @@
       "value": "{shadow.drop.xs}",
       "type": "boxShadow"
     },
+    "tiket": {
+      "default": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.0}",
+            "blur": "{blur.0}",
+            "spread": "{depth.0}",
+            "color": "{core.white.a0}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
+    },
     "homepage": {
       "collections": {
         "value": "{shadow.drop.md}",
@@ -1733,13 +1748,201 @@
         }
       }
     },
+    "lottery-tournament": {
+      "tiket": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "secondary": {
+            "value": "{semantic.text.static.tertiary}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "label": {
+          "fill": {
+            "value": "{core.brand-30.300}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "text": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
+      "players-prizes": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color"
+        },
+        "text-heading": {
+          "value": "{semantic.text.default.heading}",
+          "type": "color"
+        },
+        "text-type": {
+          "gold": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "silver": {
+            "value": "{core.additionals.silver}",
+            "type": "color"
+          },
+          "bronze": {
+            "value": "{core.additionals.bronze}",
+            "type": "color"
+          }
+        }
+      },
+      "status-inactive": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color",
+          "description": "status-inactive"
+        }
+      },
+      "top-inner-page": {
+        "text": {
+          "primary": {
+            "value": "{core.white.a100}",
+            "type": "color",
+            "description": "Top Inner Page"
+          },
+          "secondary": {
+            "value": "{core.white.a80}",
+            "type": "color"
+          }
+        },
+        "results": {
+          "fill": {
+            "value": "{core.grey.a20}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a25}",
+            "type": "color",
+            "description": "Top Inner Page"
+          }
+        }
+      },
+      "tiket-number": {
+        "text": {
+          "defoult": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "winning": {
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "fill": {
+          "winning": {
+            "value": "rgba(254, 182, 0, 0.15)",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "border": {
+          "winning": {
+            "value": "{semantic.gradients.6}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "default": {
+            "value": "rgba(255, 255, 255, 0)",
+            "type": "color",
+            "description": "Tiket"
+          }
+        }
+      },
+      "zero-block": {
+        "fill": {
+          "value": "{core.brand-60.900}",
+          "type": "color",
+          "description": "zero block"
+        }
+      },
+      "tabs": {
+        "item": {
+          "fill": {
+            "default": {
+              "value": "{core.grey.800}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.grey.900a40}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.brand-30.a60}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.brand-30.a25}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          }
+        },
+        "fill": {
+          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "type": "color"
+        }
+      },
+      "prize": {
+        "fill": {
+          "value": "{core.white.a8}",
+          "type": "color",
+          "description": "status-inactive"
+        }
+      },
+      "inner-page": {
+        "fill": {
+          "value": "{core.grey.900}",
+          "type": "color",
+          "description": "status-inactive"
+        }
+      },
+      "cart": {
+        "fill": {
+          "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
+          "type": "color"
+        }
+      },
+      "card": {
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "status-inactive"
+        }
+      }
+    },
     "thumb-games": {
       "show-more": {
         "card": {
-          "fill": {
-            "value": "linear-gradient(134deg, {core.brand-60.500} 1%, {core.brand-60.600} 75%)",
-            "type": "color"
-          },
           "border": {
             "value": "{core.white.a20}",
             "type": "color"
@@ -3474,14 +3677,16 @@
           "value": "{core.brand-60.900}",
           "type": "color"
         },
-        "card": {
-          "text": {
-            "value": "{core.brand-60.800}",
-            "type": "color"
-          },
-          "text-body": {
-            "value": "{core.brand-60.600}",
-            "type": "color"
+        "item": {
+          "background": {
+            "default": {
+              "value": "{core.grey.900a40}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{core.brand-30.900}",
+              "type": "color"
+            }
           }
         }
       }
@@ -4074,188 +4279,6 @@
         }
       }
     },
-    "lottery-tournament": {
-      "players-prizes": {
-        "fill": {
-          "value": "{core.white.a8}",
-          "type": "color"
-        },
-        "text-heading": {
-          "value": "{semantic.text.default.heading}",
-          "type": "color"
-        },
-        "text-type": {
-          "gold": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
-          },
-          "silver": {
-            "value": "{core.additionals.silver}",
-            "type": "color"
-          },
-          "bronze": {
-            "value": "{core.additionals.bronze}",
-            "type": "color"
-          }
-        }
-      },
-      "status-inactive": {
-        "fill": {
-          "value": "{core.white.a8}",
-          "type": "color",
-          "description": "status-inactive"
-        }
-      },
-      "top-inner-page": {
-        "text": {
-          "primary": {
-            "value": "{core.white.a100}",
-            "type": "color",
-            "description": "Top Inner Page"
-          },
-          "secondary": {
-            "value": "{core.white.a80}",
-            "type": "color"
-          }
-        },
-        "results": {
-          "fill": {
-            "value": "{core.grey.a20}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.white.a25}",
-            "type": "color",
-            "description": "Top Inner Page"
-          }
-        }
-      },
-      "tiket": {
-        "text": {
-          "primary": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "secondary": {
-            "value": "{semantic.text.static.tertiary}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "label": {
-          "fill": {
-            "value": "{core.brand-30.300}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "text": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        }
-      },
-      "tiket-number": {
-        "text": {
-          "defoult": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "winning": {
-            "value": "{core.brand-10.500}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "fill": {
-          "winning": {
-            "value": "rgba(254, 182, 0, 0.15)",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "border": {
-          "winning": {
-            "value": "{semantic.gradients.6}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "default": {
-            "value": "rgba(255, 255, 255, 0)",
-            "type": "color",
-            "description": "Tiket"
-          }
-        }
-      },
-      "zero-block": {
-        "fill": {
-          "value": "{core.brand-60.900}",
-          "type": "color",
-          "description": "zero block"
-        }
-      },
-      "tabs": {
-        "item": {
-          "fill": {
-            "default": {
-              "value": "{core.grey.800}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.grey.900a40}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.brand-30.a60}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.brand-30.a25}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
-            }
-          }
-        },
-        "fill": {
-          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
-          "type": "color"
-        }
-      },
-      "prize": {
-        "fill": {
-          "value": "{core.white.a8}",
-          "type": "color",
-          "description": "status-inactive"
-        }
-      },
-      "inner-page": {
-        "fill": {
-          "value": "{core.grey.900}",
-          "type": "color",
-          "description": "status-inactive"
-        }
-      },
-      "cart": {
-        "fill": {
-          "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
-          "type": "color"
-        }
-      },
-      "card": {
-        "border": {
-          "value": "{core.white.a0}",
-          "type": "color",
-          "description": "status-inactive"
-        }
-      }
-    },
     "news": {
       "inner-page": {
         "fill": {
@@ -4542,9 +4565,9 @@
     "ml": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Regular}",
+        "fontWeight": "{Bold}",
         "fontSize": "{scale-5}",
-        "lineHeight": "{md}"
+        "lineHeight": "{lg}"
       },
       "type": "typography"
     },
