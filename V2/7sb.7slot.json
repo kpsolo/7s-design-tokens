@@ -279,11 +279,13 @@
         }
       }
     },
-    "menu-item": {
-      "value": "{border-radius.core.200}",
-      "type": "borderRadius"
-    },
     "header": {
+      "desktop": {
+        "special-menu-item": {
+          "value": "{border-radius.core.200}",
+          "type": "borderRadius"
+        }
+      },
       "mobile-top-up": {
         "value": "{border-radius.core.200}",
         "type": "borderRadius"
@@ -292,6 +294,10 @@
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
+    },
+    "menu-item": {
+      "value": "{border-radius.core.200}",
+      "type": "borderRadius"
     },
     "menu": {
       "item": {
@@ -3073,6 +3079,12 @@
           "fill": {
             "value": "rgba(27, 24, 19, 0.50)",
             "type": "color"
+          },
+          "current": {
+            "fill": {
+              "value": "{core.grey.900a40}",
+              "type": "color"
+            }
           },
           "border": {
             "default": {

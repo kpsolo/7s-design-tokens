@@ -1937,7 +1937,8 @@
       "contextual.lottery-tournament.players-prizes.border.silver": "S:f07fd7ac60175bfa330654e7f3c1a65da4832d46,",
       "contextual.lottery-tournament.players-prizes.border.bronze": "S:9bef5482194be456177eeeafdf686b6683556d2d,",
       "contextual.thumb-games.show-more.normal.border": "S:811e1e138ce1164c3d9e58189c0d55704b711cc7,",
-      "core.additionals.gold": "S:d1ebe6e400bbd49a58d245794ecfbc2c95a7bb68,"
+      "core.additionals.gold": "S:d1ebe6e400bbd49a58d245794ecfbc2c95a7bb68,",
+      "contextual.header.desktop.special-menu-item.current.fill": "S:b19481d783e527ed49f75ae0d62483970b37a0c6,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
@@ -2163,6 +2164,7 @@
       "Thumb-providers.sm.gap": "38736e2acadd883f3ef239c0cab2a4bda4364eda",
       "Thumb-providers.sm.gap-text": "e04bb8941086610198377faaf1b46c8f85d8955a",
       "border-radius.progress": "9e4b0e3c2d4534e6f9f5f88e715d9e3ffe6f565a",
+      "border-radius.header.desktop.special-menu-item": "f095cb3939b68f703641d4ad7066a037670cdbbe",
       "border-radius.menu-item": "91fd7cbcf004c96682735a01beb536050c0db521",
       "content.tab-bar.main-icon": "83d789394555c71c704eda7656f681e15962fc29"
     },
