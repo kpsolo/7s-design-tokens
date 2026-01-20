@@ -3901,7 +3901,7 @@
         }
       },
       "fill": {
-        "value": "{core.brand-60.900}",
+        "value": "{semantic.background.slate-1}",
         "type": "color"
       },
       "text": {
