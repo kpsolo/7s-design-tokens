@@ -1917,7 +1917,11 @@
       "contextual.thumb-games.show-more.normal.content": "S:4d4758d3754b45d339da545e16feb3178e6bfe2e,",
       "contextual.thumb-games.show-more.normal.fill": "S:9d552ed7af8b809a2496c02063b784fa838aa6af,",
       "contextual.thumb-games.text.primary": "S:c0b7bdbd2910d4f7f83897c5c4d85e5e0be8a038,",
-      "contextual.thumb-games.text.accent": "S:edc0f7800eb6848704e6c29c0fb6b99e6574e189,"
+      "contextual.thumb-games.text.accent": "S:edc0f7800eb6848704e6c29c0fb6b99e6574e189,",
+      "contextual.thumb-games.show-more.card.fill": "S:1e91f2d6ffdf1e5da805f1dc716aaeb2661d0230,",
+      "contextual.thumb-games.show-more.content": "S:4bbe394d92e3c849ae4cf221d127c30c9510d926,",
+      "contextual.thumb-games.mobile.fill": "S:ee2c768a0ff55696c4f02938d909afea4b97bbdc,",
+      "contextual.thumb-games.show-more.card.border": "S:7427a5c90befb323d894b988f93c99029d246e1c,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
