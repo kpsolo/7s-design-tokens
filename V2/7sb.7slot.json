@@ -1749,6 +1749,18 @@
       }
     },
     "lottery-tournament": {
+      "cart": {
+        "top": {
+          "fill": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
+          "type": "color"
+        }
+      },
       "tabs": {
         "state-2": {
           "fill": {
@@ -1930,12 +1942,6 @@
           "value": "{core.grey.900}",
           "type": "color",
           "description": "status-inactive"
-        }
-      },
-      "cart": {
-        "fill": {
-          "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
-          "type": "color"
         }
       },
       "card": {

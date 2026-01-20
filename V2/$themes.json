@@ -1931,7 +1931,8 @@
       "contextual.lottery-tournament.tabs.state-2.border": "S:7a553e25183f788cf3d633a83d23942477457b26,",
       "contextual.tabs.item.section.fill.active": "S:b6bfa914c3343f40c9cf3c1f52fbb5c2a5277526,",
       "contextual.tabs.item.section.text.active": "S:de5b0d057b109156ff180b5e9d1f4ed6b939853f,",
-      "contextual.tabs.item.section.text.default": "S:fb5a4e3c09f33fb2f6a0b3065dd844aa13860017,"
+      "contextual.tabs.item.section.text.default": "S:fb5a4e3c09f33fb2f6a0b3065dd844aa13860017,",
+      "contextual.lottery-tournament.cart.top.fill": "S:ba78a29ebccb593ce26a05d678ccbff21f670526,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
