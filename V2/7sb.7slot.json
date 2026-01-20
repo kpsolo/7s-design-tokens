@@ -3988,55 +3988,61 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{semantic.gradients.1}",
+          "value": "{core.grey.700}",
           "type": "color"
         },
-        "text": {
-          "error": {
-            "value": "{core.red.600}",
-            "type": "color"
+        "item": {
+          "text": {
+            "error": {
+              "value": "{core.red.600}",
+              "type": "color"
+            },
+            "success": {
+              "value": "{core.red.600}",
+              "type": "color"
+            },
+            "primary": {
+              "value": "{semantic.text.default.heading}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{semantic.text.static.secondary}",
+              "type": "color"
+            },
+            "tertiary": {
+              "value": "{semantic.text.static.tertiary}",
+              "type": "color",
+              "description": "\n\n"
+            }
           },
-          "primary": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color"
+          "indicator": {
+            "success": {
+              "value": "{core.validation.success.a20}",
+              "type": "color"
+            },
+            "error": {
+              "value": "{core.validation.danger.a20}",
+              "type": "color"
+            },
+            "progress": {
+              "value": "{core.brand-30.300}",
+              "type": "color"
+            }
           },
-          "secondary": {
-            "value": "{semantic.text.static.secondary}",
-            "type": "color"
-          },
-          "tertiary": {
-            "value": "{semantic.text.static.tertiary}",
-            "type": "color",
-            "description": "\n\n"
+          "inform": {
+            "fill": {
+              "value": "{core.white.a5}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.white.a20}",
+              "type": "color"
+            }
           }
         },
         "devider": {
           "value": "{core.grey.a20}",
           "type": "color"
-        },
-        "indicator": {
-          "success": {
-            "value": "{core.validation.success.a20}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{core.validation.danger.a20}",
-            "type": "color"
-          },
-          "progress": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          }
-        },
-        "inform": {
-          "fill": {
-            "value": "{core.brand-30.50}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{core.brand-30.100}",
-            "type": "color"
-          }
         },
         "border": {
           "value": "{core.white.a0}",

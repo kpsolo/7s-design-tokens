@@ -1938,7 +1938,12 @@
       "contextual.lottery-tournament.players-prizes.border.bronze": "S:9bef5482194be456177eeeafdf686b6683556d2d,",
       "contextual.thumb-games.show-more.normal.border": "S:811e1e138ce1164c3d9e58189c0d55704b711cc7,",
       "core.additionals.gold": "S:d1ebe6e400bbd49a58d245794ecfbc2c95a7bb68,",
-      "contextual.header.desktop.special-menu-item.current.fill": "S:b19481d783e527ed49f75ae0d62483970b37a0c6,"
+      "contextual.header.desktop.special-menu-item.current.fill": "S:b19481d783e527ed49f75ae0d62483970b37a0c6,",
+      "contextual.menu.quick-pay.item.indicator.success": "S:53232a9369711d5069b67fc2886a16c24d47c656,",
+      "contextual.menu.quick-pay.item.indicator.error": "S:b82d02f5108b9c2eff88936ca4003f2e898dd479,",
+      "contextual.menu.quick-pay.item.indicator.progress": "S:58bf52100fc1c68520e5d7d02160bfec6d9c2e27,",
+      "contextual.menu.quick-pay.item.inform.fill": "S:df74115b8d7c41a77c56ea9aeef5109ba41a5c8c,",
+      "contextual.menu.quick-pay.item.inform.border": "S:7eb7874f070864663a9944e741208a2befd9627d,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
