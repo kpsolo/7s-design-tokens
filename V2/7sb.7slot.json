@@ -1749,12 +1749,50 @@
       }
     },
     "lottery-tournament": {
-      "tiket": {
-        "background": {
+      "tabs": {
+        "state-2": {
           "fill": {
             "value": "{core.brand-60.700}",
             "type": "color"
           },
+          "border": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        },
+        "item": {
+          "fill": {
+            "default": {
+              "value": "{core.grey.800}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.grey.900a40}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "default": {
+              "value": "{core.brand-30.a60}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{core.brand-30.a25}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{core.brand-10.500}",
+              "type": "color"
+            }
+          }
+        },
+        "fill": {
+          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+          "type": "color"
+        }
+      },
+      "tiket": {
+        "background": {
           "border": {
             "value": "{core.white.a20}",
             "type": "color"
@@ -1880,38 +1918,6 @@
           "description": "zero block"
         }
       },
-      "tabs": {
-        "item": {
-          "fill": {
-            "default": {
-              "value": "{core.grey.800}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.grey.900a40}",
-              "type": "color"
-            }
-          },
-          "text": {
-            "default": {
-              "value": "{core.brand-30.a60}",
-              "type": "color"
-            },
-            "disabled": {
-              "value": "{core.brand-30.a25}",
-              "type": "color"
-            },
-            "active": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
-            }
-          }
-        },
-        "fill": {
-          "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
-          "type": "color"
-        }
-      },
       "prize": {
         "fill": {
           "value": "{core.white.a8}",
@@ -1946,6 +1952,16 @@
           "fill": {
             "active": {
               "value": "{contextual.lottery-tournament.tabs.item.fill.active}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "active": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{semantic.text.default.tertiary}",
               "type": "color"
             }
           }
