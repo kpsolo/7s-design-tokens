@@ -1932,7 +1932,12 @@
       "contextual.tabs.item.section.fill.active": "S:b6bfa914c3343f40c9cf3c1f52fbb5c2a5277526,",
       "contextual.tabs.item.section.text.active": "S:de5b0d057b109156ff180b5e9d1f4ed6b939853f,",
       "contextual.tabs.item.section.text.default": "S:fb5a4e3c09f33fb2f6a0b3065dd844aa13860017,",
-      "contextual.lottery-tournament.cart.top.fill": "S:ba78a29ebccb593ce26a05d678ccbff21f670526,"
+      "contextual.lottery-tournament.cart.top.fill": "S:ba78a29ebccb593ce26a05d678ccbff21f670526,",
+      "contextual.lottery-tournament.players-prizes.border.gold": "S:87ecc652c9d97edb8feafec7ecf82e7428d4383c,",
+      "contextual.lottery-tournament.players-prizes.border.silver": "S:f07fd7ac60175bfa330654e7f3c1a65da4832d46,",
+      "contextual.lottery-tournament.players-prizes.border.bronze": "S:9bef5482194be456177eeeafdf686b6683556d2d,",
+      "contextual.thumb-games.show-more.normal.border": "S:811e1e138ce1164c3d9e58189c0d55704b711cc7,",
+      "core.additionals.gold": "S:d1ebe6e400bbd49a58d245794ecfbc2c95a7bb68,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
