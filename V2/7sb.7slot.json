@@ -2464,7 +2464,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.brand-30.300}",
+        "value": "{core.grey.700}",
         "type": "color"
       },
       "popover-action": {
@@ -2483,15 +2483,33 @@
       },
       "text": {
         "primary": {
-          "value": "{semantic.text.static.primary}",
+          "value": "{semantic.text.default.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.static.secondary}",
+          "value": "{semantic.text.default.secondary}",
           "type": "color"
         }
       },
       "toast": {
+        "status": {
+          "success": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core.validation.warning.500}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{core.validation.danger.600}",
+            "type": "color"
+          },
+          "info": {
+            "value": "{core.additionals.validation.info}",
+            "type": "color"
+          }
+        },
         "type-color": {
           "success": {
             "value": "{core.validation.success.500}",
@@ -3994,11 +4012,11 @@
         "item": {
           "text": {
             "error": {
-              "value": "{core.red.600}",
+              "value": "{core.validation.danger.600}",
               "type": "color"
             },
             "success": {
-              "value": "{core.red.600}",
+              "value": "{core.validation.success.600}",
               "type": "color"
             },
             "primary": {
@@ -4006,11 +4024,11 @@
               "type": "color"
             },
             "secondary": {
-              "value": "{semantic.text.static.secondary}",
+              "value": "{semantic.text.default.primary}",
               "type": "color"
             },
             "tertiary": {
-              "value": "{semantic.text.static.tertiary}",
+              "value": "{semantic.text.default.secondary}",
               "type": "color",
               "description": "\n\n"
             }
@@ -5471,13 +5489,22 @@
           "description": "Secondary.yellow 300"
         },
         "500": {
-          "value": "{core.brand-10.500}",
+          "value": "{core.additionals.validation.warning}",
           "type": "color",
           "description": "Secondary.yellow 300"
         },
         "600": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.07",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.yellow 300"
         },
         "700": {
@@ -5638,6 +5665,10 @@
         },
         "warning": {
           "value": "#FDBB2C",
+          "type": "color"
+        },
+        "info": {
+          "value": "{core.brand-30.600}",
           "type": "color"
         }
       }

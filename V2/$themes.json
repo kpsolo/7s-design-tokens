@@ -1943,7 +1943,12 @@
       "contextual.menu.quick-pay.item.indicator.error": "S:b82d02f5108b9c2eff88936ca4003f2e898dd479,",
       "contextual.menu.quick-pay.item.indicator.progress": "S:58bf52100fc1c68520e5d7d02160bfec6d9c2e27,",
       "contextual.menu.quick-pay.item.inform.fill": "S:df74115b8d7c41a77c56ea9aeef5109ba41a5c8c,",
-      "contextual.menu.quick-pay.item.inform.border": "S:7eb7874f070864663a9944e741208a2befd9627d,"
+      "contextual.menu.quick-pay.item.inform.border": "S:7eb7874f070864663a9944e741208a2befd9627d,",
+      "contextual.menu.quick-pay.item.text.error": "S:d9b799cc7ae1ef6f5e12bc8a5e288fbcc8c5bcd2,",
+      "contextual.menu.quick-pay.item.text.success": "S:eef118c019ac3980eaca44164dd2714f45fd2cd8,",
+      "contextual.menu.quick-pay.item.text.primary": "S:6dced86c3233c08aa38deb85c9be982701609dc9,",
+      "contextual.menu.quick-pay.item.text.secondary": "S:4b359f502f2518cbba8869e9ecbada36331cea10,",
+      "contextual.menu.quick-pay.item.text.tertiary": "S:d967f1b3000485bfe40ea6ec554ae0cb05163441,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
