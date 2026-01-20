@@ -1757,7 +1757,7 @@
           }
         },
         "fill": {
-          "value": "linear-gradient(180deg, {core.brand-60.600} 0%, {core.brand-60.800} 100%)",
+          "value": "{core.brand-60.500}",
           "type": "color"
         }
       },
@@ -1952,6 +1952,84 @@
         }
       }
     },
+    "thumb-games": {
+      "show-more": {
+        "card": {
+          "fill": {
+            "value": "linear-gradient(134deg, {core.brand-60.500} 2%, {core.brand-60.600} 75%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a20}",
+            "type": "color"
+          }
+        },
+        "content": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        },
+        "normal": {
+          "content": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{core.brand-60.700}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          }
+        }
+      },
+      "mobile": {
+        "fill": {
+          "value": "{core.grey.900a40}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "fill": {
+          "value": "{semantic.gradients.4}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "label-providers": {
+        "fill": {
+          "value": "linear-gradient(0deg, #291C01 0%, rgba(50, 35, 6, 0.60) 67%, rgba(41, 28, 1, 0.00) 100%)",
+          "type": "color"
+        }
+      },
+      "overlay": {
+        "value": "linear-gradient(0deg, {core.grey.900a90} 0%, {core.brand-60.a60} 79.69%, {core.brand-60.600a30} 100%)",
+        "type": "color"
+      },
+      "empty": {
+        "content": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-10.500}",
+          "type": "color"
+        }
+      }
+    },
     "tabs": {
       "item": {
         "section": {
@@ -2078,76 +2156,6 @@
         },
         "line": {
           "value": "rgba(57, 38, 2, 0.15)",
-          "type": "color"
-        }
-      }
-    },
-    "thumb-games": {
-      "show-more": {
-        "card": {
-          "border": {
-            "value": "{core.white.a20}",
-            "type": "color"
-          }
-        },
-        "content": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
-        },
-        "normal": {
-          "content": {
-            "value": "{core.brand-10.400}",
-            "type": "color"
-          },
-          "fill": {
-            "value": "{core.grey.900a40}",
-            "type": "color"
-          }
-        }
-      },
-      "mobile": {
-        "fill": {
-          "value": "{core.grey.900a40}",
-          "type": "color"
-        }
-      },
-      "label": {
-        "fill": {
-          "value": "{semantic.gradients.4}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "label-providers": {
-        "fill": {
-          "value": "linear-gradient(0deg, #291C01 0%, rgba(50, 35, 6, 0.60) 67%, rgba(41, 28, 1, 0.00) 100%)",
-          "type": "color"
-        }
-      },
-      "overlay": {
-        "value": "linear-gradient(0deg, {core.grey.900a90} 0%, {core.brand-60.a60} 79.69%, {core.brand-60.600a30} 100%)",
-        "type": "color"
-      },
-      "empty": {
-        "content": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "fill": {
-          "value": "{core.brand-60.500}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "primary": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{core.brand-10.500}",
           "type": "color"
         }
       }
