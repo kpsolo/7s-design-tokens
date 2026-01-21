@@ -1959,7 +1959,9 @@
       "core.white.a10": "S:b30a7af264607dd090545e351cd484e7945c2bd0,",
       "semantic.background.slate-3": "S:f891a986ee694c76bf6ef633c721d02d790e723b,",
       "text.lg-copy": "S:68c106b5b319f83bb2e01bcc6354b034c2265041,",
-      "text.lg-stronger": "S:c5cd8cf5f68607cf0416dff70d857d442c650140,"
+      "text.lg-stronger": "S:c5cd8cf5f68607cf0416dff70d857d442c650140,",
+      "core.grey.800a50": "S:dc444054da1e72946e47112904181ae619299b00,",
+      "core.grey.900a50": "S:dc5bb3394bfe2dd3ad5754235569098cc0523622,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
