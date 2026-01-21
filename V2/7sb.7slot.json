@@ -2026,7 +2026,7 @@
         }
       },
       "overlay": {
-        "value": "linear-gradient(0deg, {core.grey.900a90} 0%, {core.brand-60.a60} 79.69%, {core.brand-60.600a30} 100%)",
+        "value": "linear-gradient(0deg, {core.brand-60.700} 0%, {core.brand-60.600a60} 79.69%, {core.grey.600a30} 100%)",
         "type": "color"
       },
       "empty": {
@@ -4923,6 +4923,19 @@
           }
         }
       },
+      "600a30": {
+        "value": "{core.grey.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "800a10": {
         "value": "{core.grey.800}",
         "type": "color",
@@ -5210,6 +5223,20 @@
       },
       "700a60": {
         "value": "{core.grey.700}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.6",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replacement.sand 300 (15%)\n"
+      },
+      "600a60": {
+        "value": "{core.grey.600}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

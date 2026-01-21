@@ -1953,7 +1953,9 @@
       "contextual.notifications.toast.status.warning": "S:9fc0b8f5180a96ee78c84f5e5e1b0eab1f506993,",
       "contextual.notifications.toast.status.error": "S:12835ae050e38256a7fe67be5a855570f31a7f27,",
       "contextual.notifications.toast.status.info": "S:14141d37dfa239e958acfc67debdf23ea0a31ae4,",
-      "core.additionals.validation.info": "S:cc3d6c0666ce815913900bd45c37258571c1c124,"
+      "core.additionals.validation.info": "S:cc3d6c0666ce815913900bd45c37258571c1c124,",
+      "core.grey.600a30": "S:18d68989cd3dc3c8e03fed1e456c2ffe2ebe5aa9,",
+      "core.brand-60.600a60": "S:6051435da9d8490f01d4e2cb2f3560c3fa167b8c,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
