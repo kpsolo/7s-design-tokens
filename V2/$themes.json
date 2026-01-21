@@ -1963,7 +1963,17 @@
       "core.grey.800a50": "S:dc444054da1e72946e47112904181ae619299b00,",
       "core.grey.900a50": "S:dc5bb3394bfe2dd3ad5754235569098cc0523622,",
       "core.brand-30.500a10": "S:c1b0c3c54f2cb13d93b3cc9d1abeac5d12221620,",
-      "semantic.divider.default.primary": "S:b4b7befd41f1f324138fb97a19bbccec0c29992c,"
+      "semantic.divider.default.primary": "S:b4b7befd41f1f324138fb97a19bbccec0c29992c,",
+      "contextual.switcher.fill": "S:befc9d15aa12695b2aa3efb0ba3c597f007b335f,",
+      "contextual.switcher.item.border.active": "S:93fd0731cab0ef2e13a0e40005cae217f86c29dc,",
+      "contextual.switcher.item.text.active": "S:b3471ccf9b63f46539dd71536d0ddd0a0fae9695,",
+      "contextual.switcher.item.text.default": "S:a1ba843933239b6c34fe6853a4a8a3a75ca0e7a4,",
+      "contextual.switcher.item.fill.active": "S:9a94d0aa705d0140ec4095d0476a0e1379d504a6,",
+      "contextual.switcher.item.border.hover": "S:409fdce455433faecfebf1756bc04c962d2dc2c3,",
+      "contextual.switcher.item.border.default": "S:0d6d63278c5c862804f313c84e5809c0d65e0e02,",
+      "contextual.switcher.item.text.hover": "S:5a85911fd182f8f8f8f46b0d0eda6e11fb772f40,",
+      "contextual.switcher.item.fill.default": "S:2bc255d689f3ad85b2b8dddcda56176ed8c06067,",
+      "contextual.switcher.item.fill.hover": "S:359c9a8661061022dcb55a4a43b0dc3a42ad02e4,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
