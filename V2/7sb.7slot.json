@@ -4606,6 +4606,15 @@
       },
       "type": "typography"
     },
+    "lg-stronger": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{text.stronger}",
+        "fontSize": "{scale-5}",
+        "lineHeight": "{lg}"
+      },
+      "type": "typography"
+    },
     "button-large": {
       "value": {
         "fontFamily": "{main}",
@@ -5036,6 +5045,20 @@
           }
         },
         "description": "\n"
+      },
+      "a10": {
+        "value": "{core.white.a100}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "replaceble.white 8%\n"
       },
       "a20": {
         "value": "{core.white.a100}",
@@ -5848,7 +5871,12 @@
         "description": "text input 1"
       },
       "slate-2": {
-        "value": "{core.brand-10.100}",
+        "value": "{core.grey.700}",
+        "type": "color",
+        "description": "text input 2"
+      },
+      "slate-3": {
+        "value": "{core.white.a10}",
         "type": "color",
         "description": "text input 2"
       },

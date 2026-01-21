@@ -1955,7 +1955,11 @@
       "contextual.notifications.toast.status.info": "S:14141d37dfa239e958acfc67debdf23ea0a31ae4,",
       "core.additionals.validation.info": "S:cc3d6c0666ce815913900bd45c37258571c1c124,",
       "core.grey.600a30": "S:18d68989cd3dc3c8e03fed1e456c2ffe2ebe5aa9,",
-      "core.brand-60.600a60": "S:6051435da9d8490f01d4e2cb2f3560c3fa167b8c,"
+      "core.brand-60.600a60": "S:6051435da9d8490f01d4e2cb2f3560c3fa167b8c,",
+      "core.white.a10": "S:b30a7af264607dd090545e351cd484e7945c2bd0,",
+      "semantic.background.slate-3": "S:f891a986ee694c76bf6ef633c721d02d790e723b,",
+      "text.lg-copy": "S:68c106b5b319f83bb2e01bcc6354b034c2265041,",
+      "text.lg-stronger": "S:c5cd8cf5f68607cf0416dff70d857d442c650140,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
