@@ -2012,7 +2012,9 @@
       "semantic.icon.banner-cart.primary": "S:751ac0c6f12414b3fbee5d2dfb8e61ce92a02d3e,",
       "semantic.icon.banner-cart.secondary": "S:34359c1e85172eadbb7f5506f763b7a3d671f14a,",
       "semantic.icon.banner-cart.tertiary": "S:340a5968265e73b3fbcccf85c9105c77ba5d6969,",
-      "semantic.icon.banner-cart.accent": "S:b439e94148b5bdc17656f357313d942e2659c840,"
+      "semantic.icon.banner-cart.accent": "S:b439e94148b5bdc17656f357313d942e2659c840,",
+      "contextual.progress-bar.normal.primary.text.active": "S:aa389910ce887189aa7926dd9c6a6ed6ddf89965,",
+      "contextual.progress-bar.normal.primary.text.default": "S:397b3a410098471634a1f5e33ce5a3bb27f5154b,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"

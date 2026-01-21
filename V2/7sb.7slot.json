@@ -2321,6 +2321,16 @@
             "value": "{core.brand-30.600}",
             "type": "color"
           },
+          "text": {
+            "active": {
+              "value": "{core.brand-30.600}",
+              "type": "color"
+            },
+            "default": {
+              "value": "{semantic.text.default.tertiary}",
+              "type": "color"
+            }
+          },
           "container": {
             "value": "{core.white.a20}",
             "type": "color"
