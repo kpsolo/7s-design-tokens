@@ -6037,6 +6037,15 @@
         "description": "text input 2"
       }
     },
+    "divider": {
+      "default": {
+        "primary": {
+          "value": "{core.white.a10}",
+          "type": "color",
+          "description": "basic.sand 900"
+        }
+      }
+    },
     "icon": {
       "static": {
         "primary": {
