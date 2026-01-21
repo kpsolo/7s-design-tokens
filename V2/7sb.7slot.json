@@ -6942,7 +6942,7 @@
           "type": "typography"
         },
         "web": {
-          "value": "{heading.xxl-stronger}",
+          "value": "{heading.lg-stronger}",
           "type": "typography"
         }
       },
