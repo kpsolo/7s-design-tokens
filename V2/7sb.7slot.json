@@ -2543,20 +2543,20 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-30.300}",
+          "value": "{core.brand-30.500a10}",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-10.600}",
+          "value": "{core.brand-30.500}",
           "type": "color"
         },
         "text": {
           "default": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color"
           },
           "accent": {
-            "value": "{semantic.text.static.accent}",
+            "value": "{core.brand-30.500}",
             "type": "color"
           }
         }
@@ -5400,6 +5400,19 @@
             "modify": {
               "type": "alpha",
               "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "500a10": {
+        "value": "{core.brand-30.500}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
               "space": "lch"
             }
           }
