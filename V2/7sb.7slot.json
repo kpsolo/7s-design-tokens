@@ -2844,44 +2844,6 @@
         }
       }
     },
-    "chips": {
-      "popup": {
-        "text": {
-          "default": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color",
-            "description": "Chips"
-          },
-          "hover": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color",
-            "description": "Chips"
-          },
-          "active": {
-            "value": "{semantic.background.brand.emphasizing.static.secondary}",
-            "type": "color",
-            "description": "Chips"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{contextual.popup.devider-2}",
-            "type": "color",
-            "description": "Chips"
-          },
-          "hover": {
-            "value": "rgba(229, 137, 0, 0.50)",
-            "type": "color",
-            "description": "Chips"
-          },
-          "active": {
-            "value": "{semantic.background.brand.emphasizing.static.secondary}",
-            "type": "color",
-            "description": "Chips"
-          }
-        }
-      }
-    },
     "toast-notifications": {
       "fill": {
         "value": "{core.white.a100}",
@@ -4511,6 +4473,148 @@
         "value": "linear-gradient(180deg, #F5EDE5 0%, #ECDBCB 100%)",
         "type": "color"
       }
+    },
+    "chips": {
+      "normal": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a25}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          }
+        },
+        "fill": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Chips"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{semantic.icon.default.secondary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          }
+        }
+      },
+      "static": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.grey.800a20}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          }
+        },
+        "fill": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Chips"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.icon.static.secondary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "hover": {
+            "value": "{semantic.icon.static.secondary}",
+            "type": "color",
+            "description": "Chips"
+          },
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Chips"
+          }
+        }
+      }
     }
   },
   "scale-1": {
@@ -5057,6 +5161,19 @@
             "modify": {
               "type": "alpha",
               "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "800a20": {
+        "value": "{core.grey.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
               "space": "lch"
             }
           }
