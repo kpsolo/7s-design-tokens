@@ -210,6 +210,10 @@
       "value": "{border-radius.core.full}",
       "type": "borderRadius"
     },
+    "chips": {
+      "value": "{border-radius.core.200}",
+      "type": "borderRadius"
+    },
     "tag": {
       "value": "{border-radius.core.100}",
       "type": "borderRadius"
