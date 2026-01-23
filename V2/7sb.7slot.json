@@ -2609,11 +2609,11 @@
     "profile": {
       "notification": {
         "fill": {
-          "value": "{core.brand-30.500a10}",
+          "value": "{core.validation.warning.a10}",
           "type": "color"
         },
         "border": {
-          "value": "{core.brand-30.500}",
+          "value": "{core.validation.warning.600}",
           "type": "color"
         },
         "text": {
@@ -2622,7 +2622,7 @@
             "type": "color"
           },
           "accent": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.validation.warning.600}",
             "type": "color"
           }
         }
@@ -5714,8 +5714,17 @@
           "description": "Secondary.red 500"
         },
         "a20": {
-          "value": "rgba(254, 76, 37, 0.20)",
+          "value": "{core.validation.danger.500}",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.red 500"
         }
       },
@@ -5834,6 +5843,34 @@
         "900": {
           "value": "{core.white.a0}",
           "type": "color",
+          "description": "Secondary.yellow 300"
+        },
+        "a20": {
+          "value": "{core.validation.warning.500}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "Secondary.yellow 300"
+        },
+        "a10": {
+          "value": "{core.validation.warning.500}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
           "description": "Secondary.yellow 300"
         }
       }

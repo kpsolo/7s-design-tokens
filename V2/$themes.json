@@ -2039,7 +2039,9 @@
       "contextual.chips.static.fill.active": "S:f1e6be333e3905c85be0135fd9e2f4ac81c2e32c,",
       "contextual.chips.static.icon.default": "S:57bcd8d238c159ab362f99ce6bdbb014362f2caf,",
       "contextual.chips.static.icon.hover": "S:9322f110b50895b7368950dc7d026b30acd59ce4,",
-      "contextual.chips.static.icon.active": "S:a9a17df43c794c78d64608137b3d7895b485a4af,"
+      "contextual.chips.static.icon.active": "S:a9a17df43c794c78d64608137b3d7895b485a4af,",
+      "core.validation.warning.a20": "S:0d5b9aca500aa0f363ef5397af60678f1553b04f,",
+      "core.validation.warning.a10": "S:754c39ad8f17aea093184ca426913bc06d0fd282,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
@@ -2265,6 +2267,7 @@
       "Thumb-providers.sm.gap": "38736e2acadd883f3ef239c0cab2a4bda4364eda",
       "Thumb-providers.sm.gap-text": "e04bb8941086610198377faaf1b46c8f85d8955a",
       "border-radius.progress": "9e4b0e3c2d4534e6f9f5f88e715d9e3ffe6f565a",
+      "border-radius.chips": "e553d1340d8c8d1e333b85d5fc571ec75601a0a7",
       "border-radius.header.desktop.special-menu-item": "f095cb3939b68f703641d4ad7066a037670cdbbe",
       "border-radius.menu-item": "91fd7cbcf004c96682735a01beb536050c0db521",
       "content.tab-bar.main-icon": "83d789394555c71c704eda7656f681e15962fc29"
