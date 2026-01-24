@@ -2913,7 +2913,7 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{semantic.background.slate-1}",
+            "value": "{core.white.a5}",
             "type": "color"
           },
           "filled": {
@@ -2933,7 +2933,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.white.a5}",
             "type": "color"
           }
         },
@@ -6642,11 +6642,11 @@
       },
       "static": {
         "default": {
-          "value": "{core.white.a25}",
+          "value": "{core.white.a10}",
           "type": "color"
         },
         "filled": {
-          "value": "{core.white.a0}",
+          "value": "{core.white.a10}",
           "type": "color"
         },
         "hover": {
@@ -6662,7 +6662,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{core.white.a15}",
+          "value": "{core.white.a10}",
           "type": "color"
         }
       },
