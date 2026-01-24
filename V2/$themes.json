@@ -2041,7 +2041,8 @@
       "contextual.chips.static.icon.hover": "S:9322f110b50895b7368950dc7d026b30acd59ce4,",
       "contextual.chips.static.icon.active": "S:a9a17df43c794c78d64608137b3d7895b485a4af,",
       "core.validation.warning.a20": "S:0d5b9aca500aa0f363ef5397af60678f1553b04f,",
-      "core.validation.warning.a10": "S:754c39ad8f17aea093184ca426913bc06d0fd282,"
+      "core.validation.warning.a10": "S:754c39ad8f17aea093184ca426913bc06d0fd282,",
+      "contextual.profile.balance.card": "S:3cfe7ea496a07fbb3011be639140bc5f81f2a732,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
@@ -2270,6 +2271,7 @@
       "border-radius.chips": "e553d1340d8c8d1e333b85d5fc571ec75601a0a7",
       "border-radius.header.desktop.special-menu-item": "f095cb3939b68f703641d4ad7066a037670cdbbe",
       "border-radius.menu-item": "91fd7cbcf004c96682735a01beb536050c0db521",
+      "card.balance": "16dd8fb1ce1cb746a29d8f8bada9f74ce3d34f6e",
       "content.tab-bar.main-icon": "83d789394555c71c704eda7656f681e15962fc29"
     },
     "$figmaCollectionId": "VariableCollectionId:57560:290218",

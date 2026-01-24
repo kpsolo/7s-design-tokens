@@ -331,6 +331,12 @@
       }
     }
   },
+  "card": {
+    "balance": {
+      "value": "{border-radius.core.400}",
+      "type": "borderRadius"
+    }
+  },
   "border": {
     "button": {
       "primary": {
@@ -2636,6 +2642,12 @@
       "header": {
         "fill": {
           "value": "{contextual.popup.additional-block.fill}",
+          "type": "color"
+        }
+      },
+      "balance": {
+        "card": {
+          "value": "{core.white.a5}",
           "type": "color"
         }
       },
