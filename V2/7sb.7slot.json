@@ -1770,16 +1770,84 @@
         }
       }
     },
-    "bonuses": {
-      "fill": {
-        "value": "{semantic.gradients.2}",
-        "type": "color"
+    "label": {
+      "transparent-light": {
+        "fill": {
+          "value": "linear-gradient(89deg, {core.brand-30.800a30} 38%, {core.brand-30.200a30} 99%)",
+          "type": "color"
+        }
       },
+      "primary": {
+        "fill": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "timer": {
+        "fill": {
+          "value": "{core.validation.danger.600}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "sale": {
+        "fill": {
+          "value": "{core.validation.danger.600}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "fill": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      }
+    },
+    "bonuses": {
       "border": {
+        "active": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
         "default": {
           "value": "{core.white.a0}",
           "type": "color"
         }
+      },
+      "fill": {
+        "value": "{semantic.gradients.2}",
+        "type": "color"
       }
     },
     "lottery-tournament": {
@@ -2256,64 +2324,6 @@
         },
         "banner": {
           "value": "{core.white.a8}",
-          "type": "color"
-        }
-      }
-    },
-    "label": {
-      "primary": {
-        "fill": {
-          "value": "{semantic.gradients.2}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "timer": {
-        "fill": {
-          "value": "{core.validation.danger.600}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "sale": {
-        "fill": {
-          "value": "{core.validation.danger.600}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        }
-      },
-      "secondary": {
-        "fill": {
-          "value": "{semantic.gradients.1}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{core.white.a100}",
-          "type": "color"
-        },
-        "icon": {
-          "value": "{core.white.a100}",
           "type": "color"
         }
       }
@@ -5676,6 +5686,19 @@
           }
         }
       },
+      "800a30": {
+        "value": "{core.brand-30.800}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "500a10": {
         "value": "{core.brand-30.500}",
         "type": "color",
@@ -5684,6 +5707,19 @@
             "modify": {
               "type": "alpha",
               "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "200a30": {
+        "value": "{core.brand-30.200}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
               "space": "lch"
             }
           }

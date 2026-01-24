@@ -2044,7 +2044,11 @@
       "core.validation.warning.a10": "S:754c39ad8f17aea093184ca426913bc06d0fd282,",
       "contextual.profile.balance.card": "S:3cfe7ea496a07fbb3011be639140bc5f81f2a732,",
       "contextual.bonuses.fill": "S:205225bfa49b804c58e706234ac8db7a52359040,",
-      "contextual.bonuses.border.default": "S:6b7eaf808b54188670bbea0aa13208e897e12899,"
+      "contextual.bonuses.border.default": "S:6b7eaf808b54188670bbea0aa13208e897e12899,",
+      "contextual.label.transparent-light.fill": "S:8d6ef7b13b4eb2ac04e6e44816238c7921190ab0,",
+      "contextual.bonuses.border.active": "S:ec2858293549d4f550e3268e4fc8eea82bd09e47,",
+      "core.brand-30.800a30": "S:9d3e5c99879ffcd1872d73e3d25da6b788ece64b,",
+      "core.brand-30.200a30": "S:a580e254b95a1764255b3a22ea9ad29a1223943a,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
