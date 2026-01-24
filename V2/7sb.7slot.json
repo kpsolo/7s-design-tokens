@@ -1102,7 +1102,14 @@
         "type": "boxShadow"
       },
       "notification": {
-        "value": "{shadow.drop.md}",
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.0}",
+          "blur": "{blur.0}",
+          "spread": "0px",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
         "type": "boxShadow"
       }
     },
