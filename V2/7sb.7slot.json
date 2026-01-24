@@ -6191,7 +6191,7 @@
         "description": "text input 1"
       },
       "slate-2": {
-        "value": "{core.grey.700}",
+        "value": "{core.white.a5}",
         "type": "color",
         "description": "text input 2"
       },
