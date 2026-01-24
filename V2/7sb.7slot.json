@@ -2619,7 +2619,7 @@
           "type": "color"
         },
         "border": {
-          "value": "{core.validation.warning.600}",
+          "value": "{core.validation.warning.a20}",
           "type": "color"
         },
         "text": {
