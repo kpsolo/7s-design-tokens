@@ -1770,6 +1770,18 @@
         }
       }
     },
+    "bonuses": {
+      "fill": {
+        "value": "{semantic.gradients.2}",
+        "type": "color"
+      },
+      "border": {
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
+      }
+    },
     "lottery-tournament": {
       "players-prizes": {
         "border": {
