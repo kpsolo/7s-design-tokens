@@ -2048,7 +2048,8 @@
       "contextual.label.transparent-light.fill": "S:8d6ef7b13b4eb2ac04e6e44816238c7921190ab0,",
       "contextual.bonuses.border.active": "S:ec2858293549d4f550e3268e4fc8eea82bd09e47,",
       "core.brand-30.800a30": "S:9d3e5c99879ffcd1872d73e3d25da6b788ece64b,",
-      "core.brand-30.200a30": "S:a580e254b95a1764255b3a22ea9ad29a1223943a,"
+      "core.brand-30.200a30": "S:a580e254b95a1764255b3a22ea9ad29a1223943a,",
+      "semantic.text.banner-cart.accent-2": "S:63bc0a3a8dd2500f58d9e8606d16ce349e906bce,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
