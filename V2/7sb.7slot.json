@@ -235,6 +235,13 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
+    "switcher": {
+      "item": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius",
+        "description": "\n\n\n"
+      }
+    },
     "datepicker": {
       "all": {
         "value": "{border-radius.core.300}",
@@ -2684,13 +2691,13 @@
     },
     "switcher": {
       "fill": {
-        "value": "{core.grey.700}",
+        "value": "{core.white.a5}",
         "type": "color"
       },
       "item": {
         "border": {
           "active": {
-            "value": "{core.white.a25}",
+            "value": "{core.white.a10}",
             "type": "color"
           },
           "hover": {
