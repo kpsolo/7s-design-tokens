@@ -2056,7 +2056,8 @@
       "contextual.profile.loyalty_points.points.slate-2.fill": "S:2098f8d91dff7ebbe4c626882cbecc1e51c80aa8,",
       "contextual.profile.loyalty_points.points.slate-1.border": "S:85c5bd94f818e3e2ac5cc451375543580bd48e31,",
       "contextual.profile.loyalty_points.points.slate-2.border": "S:0a26e92c44cd6079fe74553684d9ab43190ab8c0,",
-      "contextual.shop.cost-indicator.text&icon": "S:a572fd9916bb87d0be72140d06892acce8a8ec17,"
+      "contextual.shop.cost-indicator.text&icon": "S:a572fd9916bb87d0be72140d06892acce8a8ec17,",
+      "core.brand-30.800a20": "S:ef8f97a2a4f3b399d9c14bf4e182a51340b5756d,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
