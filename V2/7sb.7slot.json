@@ -2068,6 +2068,22 @@
         }
       }
     },
+    "shop": {
+      "card": {
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "thumb-games": {
       "show-more": {
         "card": {
