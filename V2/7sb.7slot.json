@@ -1864,6 +1864,28 @@
         }
       }
     },
+    "shop": {
+      "cost-indicator": {
+        "text&icon": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
+      },
+      "card": {
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.500}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "label": {
       "transparent-light": {
         "fill": {
@@ -2159,22 +2181,6 @@
           "value": "{core.white.a0}",
           "type": "color",
           "description": "status-inactive"
-        }
-      }
-    },
-    "shop": {
-      "card": {
-        "border": {
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          }
-        },
-        "background": {
-          "fill": {
-            "value": "{core.brand-60.500}",
-            "type": "color"
-          }
         }
       }
     },

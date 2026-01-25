@@ -2051,7 +2051,12 @@
       "core.brand-30.200a30": "S:a580e254b95a1764255b3a22ea9ad29a1223943a,",
       "semantic.text.banner-cart.accent-2": "S:63bc0a3a8dd2500f58d9e8606d16ce349e906bce,",
       "contextual.shop.card.border.default": "S:fd7f5068e9a3e468c1f3df77bd06d89ca602bf17,",
-      "contextual.shop.card.background.fill": "S:f621c9996341488cbced5528383ea498983ce336,"
+      "contextual.shop.card.background.fill": "S:f621c9996341488cbced5528383ea498983ce336,",
+      "contextual.profile.loyalty_points.points.slate-1.fill": "S:1d0ea208e6ec17d23a004b388490e6f603cf65ab,",
+      "contextual.profile.loyalty_points.points.slate-2.fill": "S:2098f8d91dff7ebbe4c626882cbecc1e51c80aa8,",
+      "contextual.profile.loyalty_points.points.slate-1.border": "S:85c5bd94f818e3e2ac5cc451375543580bd48e31,",
+      "contextual.profile.loyalty_points.points.slate-2.border": "S:0a26e92c44cd6079fe74553684d9ab43190ab8c0,",
+      "contextual.shop.cost-indicator.text&icon": "S:a572fd9916bb87d0be72140d06892acce8a8ec17,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
