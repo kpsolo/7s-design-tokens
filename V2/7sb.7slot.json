@@ -1770,6 +1770,100 @@
         }
       }
     },
+    "profile": {
+      "loyalty_points": {
+        "points": {
+          "slate-1": {
+            "fill": {
+              "value": "{semantic.background.slate-2}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.brand-30.200a30}",
+              "type": "color"
+            }
+          },
+          "slate-2": {
+            "fill": {
+              "value": "{core.white.a5}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{core.brand-30.200a30}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "notification": {
+        "fill": {
+          "value": "{core.validation.warning.a10}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.validation.warning.a20}",
+          "type": "color"
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{core.validation.warning.600}",
+            "type": "color"
+          }
+        }
+      },
+      "mob": {
+        "bg": {
+          "value": "linear-gradient(171deg, #392602 7%, #A86E00 61%)",
+          "type": "color"
+        }
+      },
+      "header": {
+        "fill": {
+          "value": "{contextual.popup.additional-block.fill}",
+          "type": "color"
+        }
+      },
+      "balance": {
+        "card": {
+          "value": "{core.white.a5}",
+          "type": "color"
+        }
+      },
+      "nav-item": {
+        "fill": {
+          "active": {
+            "value": "{semantic.gradients.1}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "active": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.static.secondary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
+        }
+      }
+    },
     "label": {
       "transparent-light": {
         "fill": {
@@ -2662,76 +2756,6 @@
       "background": {
         "value": "#2D1816",
         "type": "color"
-      }
-    },
-    "profile": {
-      "notification": {
-        "fill": {
-          "value": "{core.validation.warning.a10}",
-          "type": "color"
-        },
-        "border": {
-          "value": "{core.validation.warning.a20}",
-          "type": "color"
-        },
-        "text": {
-          "default": {
-            "value": "{semantic.text.default.primary}",
-            "type": "color"
-          },
-          "accent": {
-            "value": "{core.validation.warning.600}",
-            "type": "color"
-          }
-        }
-      },
-      "mob": {
-        "bg": {
-          "value": "linear-gradient(171deg, #392602 7%, #A86E00 61%)",
-          "type": "color"
-        }
-      },
-      "header": {
-        "fill": {
-          "value": "{contextual.popup.additional-block.fill}",
-          "type": "color"
-        }
-      },
-      "balance": {
-        "card": {
-          "value": "{core.white.a5}",
-          "type": "color"
-        }
-      },
-      "nav-item": {
-        "fill": {
-          "active": {
-            "value": "{semantic.gradients.1}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{core.white.a0}",
-            "type": "color"
-          }
-        },
-        "text": {
-          "active": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{semantic.text.static.secondary}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.text.static.primary}",
-            "type": "color"
-          }
-        }
       }
     },
     "switcher": {
