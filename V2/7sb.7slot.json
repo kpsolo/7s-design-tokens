@@ -1780,7 +1780,7 @@
         "points": {
           "slate-1": {
             "fill": {
-              "value": "{semantic.background.slate-2}",
+              "value": "{core.brand-60.500}",
               "type": "color"
             },
             "border": {
@@ -1790,7 +1790,7 @@
           },
           "slate-2": {
             "fill": {
-              "value": "{core.white.a5}",
+              "value": "{core.grey.700}",
               "type": "color"
             },
             "border": {
