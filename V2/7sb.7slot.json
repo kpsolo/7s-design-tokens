@@ -237,7 +237,12 @@
     },
     "switcher": {
       "item": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "\n\n\n"
+      },
+      "general": {
+        "value": "{border-radius.core.300}",
         "type": "borderRadius",
         "description": "\n\n\n"
       }
