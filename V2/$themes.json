@@ -2057,7 +2057,17 @@
       "contextual.profile.loyalty_points.points.slate-1.border": "S:85c5bd94f818e3e2ac5cc451375543580bd48e31,",
       "contextual.profile.loyalty_points.points.slate-2.border": "S:0a26e92c44cd6079fe74553684d9ab43190ab8c0,",
       "contextual.shop.cost-indicator.text&icon": "S:a572fd9916bb87d0be72140d06892acce8a8ec17,",
-      "core.brand-30.800a20": "S:ef8f97a2a4f3b399d9c14bf4e182a51340b5756d,"
+      "core.brand-30.800a20": "S:ef8f97a2a4f3b399d9c14bf4e182a51340b5756d,",
+      "core.validation.danger.a10": "S:af101894ab4f8a201de8b70d349ca7194856c7ba,",
+      "core.validation.success.a10": "S:05244077cab8e722dd318463231f04730e3e7240,",
+      "contextual.status.content.transparency.success": "S:0a2593ab21a7296a27d349cf2cf05afbd3f4de4c,",
+      "contextual.status.fill.transparency.success": "S:e92cc8aaee4d4b6c349a9c7cb540c67c224ea3c0,",
+      "contextual.status.fill.transparency.default": "S:8d1090771d91fcf8e6bec0d717bb06b844d63d0c,",
+      "contextual.status.fill.transparency.warning": "S:b8b2215591f769973c03575fbc7d008f8add7584,",
+      "contextual.status.fill.transparency.error": "S:b66c249fe2f4cee5af4ee739593946b247e0485f,",
+      "contextual.status.content.transparency.error": "S:b7ddc9c73eb40997191ca8aa0bce591d63e41534,",
+      "contextual.status.content.transparency.warning": "S:99a6b01247f65823be6969e96a78c6018e8a06d0,",
+      "contextual.status.content.transparency.default": "S:09b8716065f176694d882452a8e99de058f24ac0,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
