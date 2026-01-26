@@ -2067,7 +2067,8 @@
       "contextual.status.fill.transparency.error": "S:b66c249fe2f4cee5af4ee739593946b247e0485f,",
       "contextual.status.content.transparency.error": "S:b7ddc9c73eb40997191ca8aa0bce591d63e41534,",
       "contextual.status.content.transparency.warning": "S:99a6b01247f65823be6969e96a78c6018e8a06d0,",
-      "contextual.status.content.transparency.default": "S:09b8716065f176694d882452a8e99de058f24ac0,"
+      "contextual.status.content.transparency.default": "S:09b8716065f176694d882452a8e99de058f24ac0,",
+      "text.sm-stronger": "S:55210fc10c41e00a6979f704c2011e87433c07f8,"
     },
     "selectedTokenSets": {
       "7sb.7slot": "enabled"
