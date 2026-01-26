@@ -4590,7 +4590,7 @@
       },
       "card": {
         "1": {
-          "value": "linear-gradient(148deg, rgba(55, 45, 175, 0.54) 9.9%, rgba(55, 45, 175, 0.20) 36.87%, rgba(55, 45, 175, 0.00) 56.14%), rgba(28, 35, 53, 0.60)",
+          "value": "linear-gradient(155deg, #287D85 2.44%, #226972 7.84%, #123944 34.61%, #181F27 73.13%);",
           "type": "color",
           "description": "card in progress bg in main screen"
         },
@@ -4600,17 +4600,17 @@
           "description": "card last bg in main screen"
         },
         "3": {
-          "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
+          "value": "inear-gradient(156deg, #9B244D -3.01%, rgba(132, 31, 66, 0.78) 2.61%, #1C212E 41.17%)",
           "type": "color",
           "description": "card first deposit bg in main screen"
         },
         "4": {
-          "value": "linear-gradient(148deg, rgba(60, 41, 174, 0.54) 9.9%, rgba(56, 22, 151, 0.20) 36.87%, rgba(42, 11, 129, 0.00) 56.14%), rgba(28, 33, 46, 0.60)",
+          "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
           "type": "color",
           "description": "bg for achievements cards"
         },
         "5": {
-          "value": "linear-gradient(133deg, rgba(113, 44, 200, 0.54) 13.54%, rgba(113, 44, 200, 0.16) 41.38%, rgba(113, 44, 200, 0.00) 63.15%), rgba(0, 0, 0, 0.16)",
+          "value": "linear-gradient(151deg, #4B2C80 3.96%, #37225B 23.71%, #1C212E 56.34%)",
           "type": "color",
           "description": "bg for activity cards"
         }
