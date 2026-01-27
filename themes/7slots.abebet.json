@@ -4656,12 +4656,12 @@
           "description": "card first deposit bg in main screen"
         }
       },
-      "qrcod": {
+      "qrcod-on": {
         "value": "linear-gradient(180deg, #F2FF44 0%, #7E8706 100%);",
         "type": "color",
         "description": "bg QRcod on"
       },
-      "qrcod-copy": {
+      "qrcod-off": {
         "value": "linear-gradient(180deg, #9B6555 0%, #6E3F43 100%);",
         "type": "color",
         "description": "bg QRcod off"

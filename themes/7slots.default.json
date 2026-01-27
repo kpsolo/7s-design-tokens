@@ -4753,13 +4753,13 @@
           "description": "bg for benefits  cards"
         }
       },
-      "qrcod": {
+      "qrcod-on": {
         "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%);",
         "type": "color",
         "description": "bg QRcod on"
       },
-      "qrcod-copy": {
-        "value": "linear-gradient(0deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+      "qrcod-off": {
+        "value": "linear-gradient(180deg, #386267 0%, #365F63 23.56%, #345558 58.17%, #304F53 100%)",
         "type": "color",
         "description": "bg QRcod off"
       }
