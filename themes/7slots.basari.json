@@ -4621,7 +4621,7 @@
         "description": "bg QRcod on"
       },
       "qrcod-off": {
-        "value": "linear-gradient(0deg, rgba(0, 0, 0, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%), linear-gradient(180deg, #FC96A9 0%, #8E545F 100%)",
+        "value": "linear-gradient(180deg, #653F46 0%, #422B2E 100%)",
         "type": "color",
         "description": "bg QRcod off"
       }
