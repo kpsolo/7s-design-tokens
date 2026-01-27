@@ -754,8 +754,8 @@
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.2}",
-          "lineHeight": "48",
-          "fontSize": "40"
+          "lineHeight": "48px",
+          "fontSize": "40px"
         },
         "type": "typography",
         "description": ".titlemob-app"
