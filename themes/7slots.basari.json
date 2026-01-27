@@ -2333,6 +2333,11 @@
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
+      "mob-app-active": {
+        "value": "#A43636",
+        "type": "color",
+        "description": "Mobile Application page, bg for active device (+blur)"
+      },
       "welcome": {
         "value": "linear-gradient(180deg, #7a7a7a 0%, #6F6F6F 50%, #5B4847 100%)",
         "type": "color",

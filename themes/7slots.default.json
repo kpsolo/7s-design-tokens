@@ -2604,6 +2604,11 @@
         "value": "rgba(28, 34, 49, 0.60)",
         "type": "color",
         "description": "bg for my status tournament inside rules of tournament"
+      },
+      "mob-app-active": {
+        "value": "#A43636",
+        "type": "color",
+        "description": "Mobile Application page, bg for active device (+blur)"
       }
     },
     "overlay": {
