@@ -4605,7 +4605,7 @@
           "description": "card last bg in main screen"
         },
         "3": {
-          "value": "inear-gradient(156deg, #9B244D -3.01%, rgba(132, 31, 66, 0.78) 2.61%, #1C212E 41.17%)",
+          "value": "linear-gradient(156deg, #9B244D -3.01%, rgba(132, 31, 66, 0.78) 2.61%, #1C212E 41.17%)",
           "type": "color",
           "description": "card first deposit bg in main screen"
         },
