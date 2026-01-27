@@ -844,10 +844,10 @@
       "value": [
         {
           "x": "0",
-          "y": "0",
-          "blur": "0",
+          "y": "0,5",
+          "blur": "1",
           "spread": "0",
-          "color": "transparent",
+          "color": "rgba(25, 41, 71, 0.20)",
           "type": "innerShadow"
         }
       ],
