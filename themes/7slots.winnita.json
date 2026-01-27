@@ -2417,7 +2417,7 @@
         "description": "bg for my status tournament inside rules of tournament"
       },
       "mob-app-active": {
-        "value": "#A43636",
+        "value": "#2CD65A",
         "type": "color",
         "description": "Mobile Application page, bg for active device (+blur)"
       }
