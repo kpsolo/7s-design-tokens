@@ -1503,7 +1503,7 @@
         "x": "0",
         "y": "0",
         "blur": "64",
-        "spread": "",
+        "spread": "0",
         "color": "rgba(248, 52, 52, 0.80)",
         "type": "dropShadow"
       },
