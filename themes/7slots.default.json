@@ -1218,8 +1218,8 @@
         "x": "0",
         "y": "0",
         "blur": "64",
-        "spread": "0",
-        "color": "rgba(248, 52, 52, 0.80)",
+        "spread": "1",
+        "color": "rgba(85, 209, 155, 0.60)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
