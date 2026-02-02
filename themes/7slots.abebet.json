@@ -1495,6 +1495,18 @@
       ],
       "type": "boxShadow",
       "description": "use for cards news"
+    },
+    "screenshots-active": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "64",
+        "spread": "0",
+        "color": "rgba(248, 52, 52, 0.80)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Shadow for active mob app screenshots"
     }
   },
   "border": {
