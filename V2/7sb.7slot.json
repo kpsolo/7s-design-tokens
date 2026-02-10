@@ -5632,7 +5632,7 @@
         "description": "basic.black, replaceable.black 500, replaceable.black 600, replaceable.black 700, replaceable.sand 1000"
       },
       "700a0": {
-        "value": "{core.grey.700}",
+        "value": "{core.brand-60.700}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
