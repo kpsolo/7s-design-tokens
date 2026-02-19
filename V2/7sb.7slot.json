@@ -7305,7 +7305,7 @@
   "input": {
     "height": {
       "sm": {
-        "value": "{size.400}",
+        "value": "{size.500}",
         "type": "sizing"
       },
       "xs": {
