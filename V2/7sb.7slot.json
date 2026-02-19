@@ -3767,7 +3767,7 @@
     "scroll": {
       "fill": {
         "default": {
-          "value": "{core.brand-30.600}",
+          "value": "{core.brand-60.500a40}",
           "type": "color"
         },
         "transparent": {
