@@ -2643,7 +2643,7 @@
       "description": "bg for timer-welcome-bonus "
     },
     "timer-welcome-bonus-mob-small": {
-      "value": "rgba(173, 159, 95, 0.20)",
+      "value": "#ffffff1a",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     }
