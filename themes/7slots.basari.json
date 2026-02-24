@@ -4733,6 +4733,11 @@
       "value": "linear-gradient(311deg, rgba(251, 195, 10, 0.00) 3.04%, rgba(251, 195, 10, 0.43) 46.71%, #FBC30A 92.73%);",
       "type": "color",
       "description": "for border gradient on registration  banner "
+    },
+    "registration-banner-bg": {
+      "value": "linear-gradient(160deg, #AC1717 15.54%, #4A0707 56.82%)",
+      "type": "color",
+      "description": "for bg on registration banner"
     }
   },
   "filed spacing": {

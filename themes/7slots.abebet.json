@@ -4770,6 +4770,11 @@
       "value": "linear-gradient(139deg, #F1FE4C 0%, #94228D 100%);",
       "type": "color",
       "description": "for border gradient on registration  banner "
+    },
+    "registration-banner-bg": {
+      "value": "linear-gradient(129deg, #892164 0%, #571D57 59.83%, #411E5C 100%);",
+      "type": "color",
+      "description": "for bg on registration banner"
     }
   },
   "filed spacing": {

@@ -4522,6 +4522,11 @@
       "type": "color",
       "description": "for border gradient on registration  banner "
     },
+    "registration-banner-bg": {
+      "value": "#212E42",
+      "type": "color",
+      "description": "for bg on registration banner"
+    },
     "confirm-bg": {
       "value": "#B3C5DF",
       "type": "color",
