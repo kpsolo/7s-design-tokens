@@ -2628,7 +2628,7 @@
       "description": "for set by admin (card of Free Bets)"
     },
     "popup-secondary": {
-      "value": "#0A5AC9",
+      "value": "{nav.tab.start}",
       "type": "color",
       "description": "use for cash popups bg"
     },
