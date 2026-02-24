@@ -4730,7 +4730,7 @@
       "description": "for success bg"
     },
     "registration-border-gradient": {
-      "value": "#A6E8B6",
+      "value": "linear-gradient(311deg, rgba(251, 195, 10, 0.00) 3.04%, rgba(251, 195, 10, 0.43) 46.71%, #FBC30A 92.73%);",
       "type": "color",
       "description": "for border gradient on registration  banner "
     }

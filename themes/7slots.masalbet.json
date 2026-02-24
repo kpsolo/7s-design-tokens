@@ -4375,7 +4375,7 @@
       "description": "for error bg"
     },
     "registration-border-gradient": {
-      "value": "#A6E8B6",
+      "value": "linear-gradient(130deg, #FFF5BF 0%, rgba(255, 245, 191, 0.40) 56%, rgba(255, 245, 191, 0.00) 100%)",
       "type": "color",
       "description": "for border gradient on registration  banner "
     }
