@@ -4765,6 +4765,11 @@
       "value": "#641C5C",
       "type": "color",
       "description": "for success bg"
+    },
+    "registration-border-gradient": {
+      "value": "linear-gradient(139deg, #F1FE4C 0%, #94228D 100%);",
+      "type": "color",
+      "description": "for border gradient on registration  banner "
     }
   },
   "filed spacing": {

@@ -4517,6 +4517,11 @@
       "type": "color",
       "description": "for success bg"
     },
+    "registration-border-gradient": {
+      "value": "linear-gradient(311deg, #212E42 3.04%, #2D7B68 68.96%, #5CD995 92.73%)",
+      "type": "color",
+      "description": "for border gradient on registration  banner "
+    },
     "confirm-bg": {
       "value": "#B3C5DF",
       "type": "color",

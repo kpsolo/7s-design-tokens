@@ -4373,6 +4373,11 @@
       "value": "#EEA6A6",
       "type": "color",
       "description": "for error bg"
+    },
+    "registration-border-gradient": {
+      "value": "#A6E8B6",
+      "type": "color",
+      "description": "for border gradient on registration  banner "
     }
   },
   "filed spacing": {

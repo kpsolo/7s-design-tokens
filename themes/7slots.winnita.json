@@ -4631,6 +4631,11 @@
       "value": "#202830",
       "type": "color",
       "description": "for confirm bg"
+    },
+    "registration-border-gradient": {
+      "value": "linear-gradient(164deg, #02FF39 20.25%, rgba(2, 255, 57, 0.00) 67.57%)",
+      "type": "color",
+      "description": "for border gradient on registration  banner "
     }
   },
   "filed spacing": {
