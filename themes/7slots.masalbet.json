@@ -2646,6 +2646,16 @@
       "value": "#ffffff1a",
       "type": "color",
       "description": "bg for timer-welcome-bonus "
+    },
+    "tabs-active": {
+      "value": "{bg.primary}",
+      "type": "color",
+      "description": "use for Vertical Tabs active"
+    },
+    "tabs-default": {
+      "value": "{bg.overlay.4}",
+      "type": "color",
+      "description": "use for Vertical Tabs active"
     }
   },
   "nav": {
