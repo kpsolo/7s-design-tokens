@@ -2932,6 +2932,26 @@
         "type": "color",
         "description": "border color for ghost buttons (use in menu)"
       },
+      "quaternary": {
+        "value": "{button.border.ghost}",
+        "type": "color",
+        "description": "border color for quaternary buttons"
+      },
+      "quaternary-hover": {
+        "value": "{button.border.ghost-hover}",
+        "type": "color",
+        "description": "border color for hover quaternary buttons"
+      },
+      "quaternary-pressed": {
+        "value": "{button.border.ghost-pressed}",
+        "type": "color",
+        "description": "border color for pressed quaternary buttons"
+      },
+      "quaternary-disabled": {
+        "value": "{button.border.selection-buttons}",
+        "type": "color",
+        "description": "border color for disabled quaternary buttons"
+      },
       "ghost-hover": {
         "value": "#000",
         "type": "color",
