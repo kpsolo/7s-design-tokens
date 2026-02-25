@@ -4017,6 +4017,11 @@
       "type": "color",
       "description": "for 404 numbers"
     },
+    "confirm-bg": {
+      "value": "{base.light}",
+      "type": "color",
+      "description": "for confirm email background"
+    },
     "jackpot-border": {
       "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.00) 100%)",
       "type": "color",
