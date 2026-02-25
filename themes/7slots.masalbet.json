@@ -2948,7 +2948,7 @@
         "description": "border color for pressed quaternary buttons"
       },
       "quaternary-disabled": {
-        "value": "{button.border.selection-buttons}",
+        "value": "{button.border.tertiary-light-disabled}",
         "type": "color",
         "description": "border color for disabled quaternary buttons"
       },
