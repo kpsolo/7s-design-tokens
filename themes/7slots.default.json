@@ -3456,7 +3456,7 @@
         "description": "border color for separating groups in footer, registration under tabs"
       },
       "item": {
-        "value": "rgba(28, 33, 46, 0.06)",
+        "value": "rgba(28, 33, 46, 0.10)",
         "type": "color",
         "description": "for line separator in light bg - dropdown/menu item/tooltips"
       },
