@@ -2656,7 +2656,7 @@
       "type": "color",
       "description": "use for Vertical Tabs active"
     },
-    "border secondary-copy": {
+    "border secondary": {
       "value": "rgba(255, 255, 255, 0.2)",
       "type": "color",
       "description": "use for tabs popups border "
