@@ -2655,6 +2655,11 @@
       "value": "{bg.overlay.4}",
       "type": "color",
       "description": "use for Vertical Tabs active"
+    },
+    "border secondary-copy": {
+      "value": "rgba(255, 255, 255, 0.2)",
+      "type": "color",
+      "description": "use for tabs popups border "
     }
   },
   "nav": {
