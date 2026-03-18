@@ -769,7 +769,7 @@
       "type": "typography",
       "description": "timer-welcome-bonus "
     },
-    "timer-welcome-bonus-stronger-copy": {
+    "timer-welcome-bonus-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
@@ -3607,6 +3607,18 @@
       "value": "#FFF",
       "type": "color",
       "description": "use for twiter/tiktok icons in registration [delete]"
+    },
+    "timer-welcome-bonus": {
+      "default": {
+        "value": "rgba(255, 255, 255, 0.24)",
+        "type": "color",
+        "description": "use for icon button on navbar"
+      },
+      "hover": {
+        "value": "rgba(255, 255, 255, 0.4)",
+        "type": "color",
+        "description": "use for icon button on navbar"
+      }
     }
   },
   "input": {
