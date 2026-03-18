@@ -971,18 +971,6 @@
       "type": "boxShadow",
       "description": "Shadow for small elements on top of components,labels, small game thumbs"
     },
-    "cashbox": {
-      "value": {
-        "x": "0",
-        "y": "8",
-        "blur": "16",
-        "spread": "0",
-        "color": "rgba(30, 26, 26, 0.20)",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "shadow for payment cards in cashbox"
-    },
     "win-ticket": {
       "value": [
         {
@@ -1022,18 +1010,6 @@
       "description": "Shadow for sticky bar"
     },
     "special-blocks": {
-      "jackpot-wrap": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "24",
-          "spread": "0",
-          "color": "#ffffff4d",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow",
-        "description": "Shadow for Jackpot widget container"
-      },
       "jackpot-title": {
         "value": {
           "x": "0",

@@ -1104,18 +1104,6 @@
       "type": "boxShadow",
       "description": "Shadow for small elements on top of components,labels, small game thumbs"
     },
-    "cashbox": {
-      "value": {
-        "x": "0",
-        "y": "8",
-        "blur": "16",
-        "spread": "0",
-        "color": "rgba(30, 26, 26, 0.20)",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "shadow for payment cards in cashbox"
-    },
     "win-ticket": {
       "value": [
         {
@@ -1155,18 +1143,6 @@
       "description": "Shadow for sticky bar"
     },
     "special-blocks": {
-      "jackpot-wrap": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "24",
-          "spread": "0",
-          "color": "rgba(95, 37, 139, 0.80)",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow",
-        "description": "Shadow for Jackpot widget container"
-      },
       "jackpot-title": {
         "value": {
           "x": "0",
@@ -1313,36 +1289,6 @@
         ],
         "type": "boxShadow",
         "description": "use as inner shaddow on text slot machine"
-      },
-      "promo-prize": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "16",
-            "spread": "0",
-            "color": "#006CFF",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "16",
-            "spread": "0",
-            "color": "#006CFF",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "1",
-            "blur": "1",
-            "spread": "0",
-            "color": "#006CFF",
-            "type": "innerShadow"
-          }
-        ],
-        "type": "boxShadow",
-        "description": "Shadow for Prize widget container"
       },
       "viplanding-card": {
         "value": [

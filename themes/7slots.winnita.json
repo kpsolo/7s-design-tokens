@@ -1028,18 +1028,6 @@
       "type": "boxShadow",
       "description": "Shadow for small elements on top of components,labels, small game thumbs"
     },
-    "cashbox": {
-      "value": {
-        "x": "0",
-        "y": "8",
-        "blur": "16",
-        "spread": "0",
-        "color": "transparent",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "shadow for payment cards in cashbox"
-    },
     "win-ticket": {
       "value": [
         {
@@ -1103,28 +1091,6 @@
         "type": "boxShadow",
         "description": "use for bottom shadow in timer"
       },
-      "jackpot-wrap": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "0",
-            "color": "transparent",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "0",
-            "color": "transparent",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow",
-        "description": "Shadow for Jackpot widget container"
-      },
       "jackpot-amount": {
         "value": [
           {
@@ -1161,36 +1127,6 @@
           }
         ],
         "type": "boxShadow"
-      },
-      "promo-prize": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "16",
-            "spread": "0",
-            "color": "#006CFF",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "16",
-            "spread": "0",
-            "color": "#006CFF",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "1",
-            "blur": "1",
-            "spread": "0",
-            "color": "#006CFF",
-            "type": "innerShadow"
-          }
-        ],
-        "type": "boxShadow",
-        "description": "Shadow for Prize widget container"
       },
       "jackpot-line": {
         "value": {
