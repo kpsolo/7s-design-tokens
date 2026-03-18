@@ -4764,6 +4764,11 @@
         "value": "{base.accent-secondary}",
         "type": "color"
       }
+    },
+    "timer-gift-mob": {
+      "value": "#FFC908",
+      "type": "color",
+      "description": "use for accent text in welcome popup"
     }
   },
   "menu": {
