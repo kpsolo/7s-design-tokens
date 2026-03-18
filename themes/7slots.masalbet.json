@@ -4769,6 +4769,10 @@
       "value": "#FFC908",
       "type": "color",
       "description": "use for accent text in welcome popup"
+    },
+    "timer-gift-desktop": {
+      "value": "#FAA500",
+      "type": "color"
     }
   },
   "menu": {
