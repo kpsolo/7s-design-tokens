@@ -978,20 +978,6 @@
       "type": "boxShadow",
       "description": "accent blur menu items desktop"
     },
-    "accent-additional": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "4",
-          "spread": "0",
-          "color": "#29E95A",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "accent blur menu items desktop"
-    },
     "text-3": {
       "value": {
         "x": "0",
@@ -1405,36 +1391,6 @@
       "type": "boxShadow",
       "description": "shaddow on item hover state in desktop categories dropdown"
     },
-    "card-news": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "16",
-          "spread": "0",
-          "color": "rgba(30, 78, 174, 1)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "9",
-          "spread": "0",
-          "color": "rgba(30, 78, 174, 1)",
-          "type": "innerShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "45",
-          "spread": "0",
-          "color": "rgba(30, 78, 174, 0.45)",
-          "type": "innerShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for cards news"
-    },
     "screenshots-active": {
       "value": {
         "x": "0",
@@ -1446,6 +1402,18 @@
       },
       "type": "boxShadow",
       "description": "Shadow for active mob app screenshots"
+    },
+    "card-fun": {
+      "value": {
+        "x": "1",
+        "y": "1",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(58, 14, 14, 0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Fun shadow for cards"
     }
   },
   "border": {
@@ -1529,15 +1497,6 @@
       },
       "type": "border",
       "description": "use for border in timer"
-    },
-    "ghost-2": {
-      "value": {
-        "color": "#C9C9C9",
-        "width": "2",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for counter border in main menu badges"
     },
     "button-hover": {
       "value": {
@@ -1709,24 +1668,6 @@
       },
       "type": "border",
       "description": "use categories separator on inner pages"
-    },
-    "wheel-denomination": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%)",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for denomination widget"
-    },
-    "achivements": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for achivments widget in desktop profile "
     },
     "nav-active": {
       "value": {
@@ -2089,6 +2030,11 @@
       "value": "100px",
       "type": "borderRadius",
       "description": "use for elements with large radius  - golden tickets bages in lottery"
+    },
+    "button-icon-menu-logged": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for extrasmall buttons 1click "
     }
   },
   "opacity": {
@@ -2733,6 +2679,11 @@
       "value": "rgba(255, 255, 255, 0.2)",
       "type": "color",
       "description": "use for tabs popups border "
+    },
+    "blur-fun": {
+      "value": "4px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
     }
   },
   "nav": {

@@ -921,36 +921,6 @@
       "type": "boxShadow",
       "description": "use for cards/popups inner shadow + dropshadow, "
     },
-    "card-news": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "16",
-          "spread": "0",
-          "color": "rgba(255, 150, 45, 0.6)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "9",
-          "spread": "0",
-          "color": "rgba(255, 219, 153, 1)",
-          "type": "innerShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "45",
-          "spread": "0",
-          "color": "rgba(254, 182, 0, 0.45)",
-          "type": "innerShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for cards news"
-    },
     "card-additional-2": {
       "value": [
         {
@@ -1402,20 +1372,6 @@
         "type": "boxShadow",
         "description": "for animation state"
       },
-      "wheel": {
-        "main": {
-          "value": {
-            "x": "0",
-            "y": "0",
-            "blur": "36",
-            "spread": "",
-            "color": "#8DFCFD",
-            "type": "dropShadow"
-          },
-          "type": "boxShadow",
-          "description": "use as wheel shaddow under main border"
-        }
-      },
       "card": {
         "value": [
           {
@@ -1459,49 +1415,7 @@
         ],
         "type": "boxShadow",
         "description": "use as inner shaddow on text slot machine"
-      },
-      "referral": {
-        "value": [
-          {
-            "x": "0",
-            "y": "4",
-            "blur": "4",
-            "spread": "0",
-            "color": "rgba(184, 97, 215, 0.25)",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow",
-        "description": "use as dropshadow card for big numbers in referral program"
       }
-    },
-    "accent-additional": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "4",
-          "spread": "0",
-          "color": "#29E95A",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "accent blur menu items desktop"
-    },
-    "accent-extra": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "#2DD890",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for message icon on header desktop"
     },
     "accent-unic": {
       "value": [
@@ -1527,15 +1441,6 @@
       },
       "type": "border",
       "description": "results widget in tournament"
-    },
-    "ghost-2": {
-      "value": {
-        "color": "#C9C9C9",
-        "width": "2",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for counter border in main menu badges"
     },
     "ghost-3": {
       "value": {
@@ -1698,24 +1603,6 @@
       },
       "type": "border",
       "description": "use for stroke for popup bg"
-    },
-    "wheel-denomination": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for denomination widget"
-    },
-    "achivements": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for achivments widget in desktop profile "
     },
     "nav-active": {
       "value": {

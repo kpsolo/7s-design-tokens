@@ -4540,11 +4540,8 @@
     "$figmaCollectionId": "VariableCollectionId:38511:16706",
     "$figmaModeId": "38511:4",
     "$figmaVariableReferences": {
-      "base spacing.smallest": "e078824c1e5f03ac7b035bf093a31e2145a27865",
       "base spacing.xxs": "cee721decf5e90a676b09e5018b6bc9db348f5b7",
-      "base spacing.xs": "25eba78776a5433f798fc8bbb50eaad57e3495c9",
       "base spacing.sm": "e3bf510f9609f7369b59256a37d523b68f3785e6",
-      "base spacing.m": "993c88a5f3025af547dea57826ed37e3b9dab3b3",
       "base spacing.l": "d0514d4e98a4ceeafe3c31f92a5ff3576d6d31b5",
       "base spacing.xl": "22f601828809dd3bd59f423128e3738c0b7058f4",
       "base spacing.s": "8bf98f05dae55895423d0923948e5948acd2cc4a",

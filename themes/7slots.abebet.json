@@ -1012,20 +1012,6 @@
       "type": "boxShadow",
       "description": "Shadow for secondary button text"
     },
-    "accent-extra": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "transparent",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for message icon on header desktop"
-    },
     "accent": {
       "value": [
         {
@@ -1053,20 +1039,6 @@
       ],
       "type": "boxShadow",
       "description": "shaddow on item hover state in desktop categories dropdown"
-    },
-    "accent-additional": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "4",
-          "spread": "0",
-          "color": "#d7a800",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "accent blur menu items desktop"
     },
     "text-3": {
       "value": {
@@ -1412,36 +1384,6 @@
       "type": "boxShadow",
       "description": "Shaddow for tags in pregame - desktop"
     },
-    "card-news": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "16",
-          "spread": "0",
-          "color": "rgba(220, 45, 255, 0.6)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "9",
-          "spread": "0",
-          "color": "rgba(220, 45, 255, 1)",
-          "type": "innerShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "45",
-          "spread": "0",
-          "color": "rgba(220, 45, 255, 0.45)",
-          "type": "innerShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for cards news"
-    },
     "screenshots-active": {
       "value": {
         "x": "0",
@@ -1453,6 +1395,18 @@
       },
       "type": "boxShadow",
       "description": "Shadow for active mob app screenshots"
+    },
+    "card-fun": {
+      "value": {
+        "x": "1",
+        "y": "1",
+        "blur": "12",
+        "spread": "0",
+        "color": "rgba(58, 14, 14, 0.25)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Fun shadow for cards"
     }
   },
   "border": {
@@ -1537,15 +1491,6 @@
       "type": "border",
       "description": "use for border in timer"
     },
-    "ghost-2": {
-      "value": {
-        "color": "#C9C9C9",
-        "width": "2",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for counter border in main menu badges"
-    },
     "button-hover": {
       "value": {
         "color": "{button.border.tertiary-hover}",
@@ -1625,24 +1570,6 @@
       },
       "type": "border",
       "description": "use for stroke for popup bg"
-    },
-    "wheel-denomination": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for denomination widget"
-    },
-    "achivements": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for achivments widget in desktop profile "
     },
     "nav-active": {
       "value": {
@@ -1730,15 +1657,6 @@
         },
         "type": "border",
         "description": "Border for card 1,2,3 in referral conditions"
-      },
-      "referral-card-line": {
-        "value": {
-          "color": "linear-gradient(90deg, rgba(255, 255, 255, 0.00) -6.59%, rgba(255, 255, 255, 0.30) 51.27%, rgba(255, 255, 255, 0.00) 107.34%)",
-          "width": "1px",
-          "style": "solid"
-        },
-        "type": "border",
-        "description": "lines inside referral link card "
       }
     },
     "dropdown": {
@@ -1913,24 +1831,12 @@
     }
   },
   "base spacing": {
-    "smallest": {
-      "value": "2px",
-      "type": "spacing"
-    },
     "xxs": {
       "value": "4px",
       "type": "spacing"
     },
-    "xs": {
-      "value": "8px",
-      "type": "spacing"
-    },
     "sm": {
       "value": "12px",
-      "type": "spacing"
-    },
-    "m": {
-      "value": "16px",
       "type": "spacing"
     },
     "l": {
@@ -2095,6 +2001,11 @@
       "value": "44px",
       "type": "borderRadius",
       "description": "use for social buttons in footer/menu"
+    },
+    "button-icon-menu-logged": {
+      "value": "4px",
+      "type": "borderRadius",
+      "description": "Radius for extrasmall buttons 1click "
     }
   },
   "opacity": {
@@ -2803,6 +2714,11 @@
       "value": "#271743",
       "type": "color",
       "description": "use for cash popups bg"
+    },
+    "blur-fun": {
+      "value": "4px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
     }
   },
   "nav": {

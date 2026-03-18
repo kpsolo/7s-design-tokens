@@ -1294,34 +1294,6 @@
       "type": "boxShadow",
       "description": "Shadow for header desktop"
     },
-    "accent-additional": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "4",
-          "spread": "0",
-          "color": "#29E95A",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "accent blur menu items desktop"
-    },
-    "accent-extra": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "transparent",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for message icon on header desktop"
-    },
     "card-additional-3": {
       "value": [
         {
@@ -1414,36 +1386,6 @@
       "type": "boxShadow",
       "description": "shaddow on item hover state in desktop categories dropdown"
     },
-    "card-news": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "16",
-          "spread": "0",
-          "color": "rgba(255, 70, 45, 0.6)",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "9",
-          "spread": "0",
-          "color": "rgba(255, 70, 45, 1)",
-          "type": "innerShadow"
-        },
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "45",
-          "spread": "0",
-          "color": "rgba(255, 70, 45, 0.45)",
-          "type": "innerShadow"
-        }
-      ],
-      "type": "boxShadow",
-      "description": "use for cards news"
-    },
     "screenshots-active": {
       "value": {
         "x": "0",
@@ -1530,15 +1472,6 @@
       "type": "border",
       "description": "use for border in timer"
     },
-    "ghost-2": {
-      "value": {
-        "color": "#C9C9C9",
-        "width": "2",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use for counter border in main menu badges"
-    },
     "button-hover": {
       "value": {
         "color": "{button.border.tertiary-hover}",
@@ -1609,24 +1542,6 @@
       },
       "type": "border",
       "description": "use for stroke for popup bg"
-    },
-    "wheel-denomination": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for denomination widget"
-    },
-    "achivements": {
-      "value": {
-        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
-        "width": "1",
-        "style": "solid"
-      },
-      "type": "border",
-      "description": "use as border for achivments widget in desktop profile "
     },
     "nav-active": {
       "value": {
