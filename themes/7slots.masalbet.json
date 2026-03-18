@@ -971,6 +971,18 @@
       "type": "boxShadow",
       "description": "Shadow for small elements on top of components,labels, small game thumbs"
     },
+    "cashbox": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "16",
+        "spread": "0",
+        "color": "rgba(30, 26, 26, 0.20)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "shadow for payment cards in cashbox"
+    },
     "win-ticket": {
       "value": [
         {
@@ -1010,6 +1022,18 @@
       "description": "Shadow for sticky bar"
     },
     "special-blocks": {
+      "jackpot-wrap": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "24",
+          "spread": "0",
+          "color": "#ffffff4d",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow",
+        "description": "Shadow for Jackpot widget container"
+      },
       "jackpot-title": {
         "value": {
           "x": "0",
@@ -1178,6 +1202,34 @@
       "type": "boxShadow",
       "description": "Shadow for header desktop"
     },
+    "accent-additional": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "4",
+          "spread": "0",
+          "color": "#d7a800",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "accent blur menu items desktop"
+    },
+    "accent-extra": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "transparent",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "use for message icon on header desktop"
+    },
     "card-additional-3": {
       "value": [
         {
@@ -1258,6 +1310,36 @@
       "type": "boxShadow",
       "description": "shaddow on item hover state in desktop categories dropdown"
     },
+    "card-news": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "16",
+          "spread": "0",
+          "color": "rgba(255, 150, 45, 0.6)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "9",
+          "spread": "0",
+          "color": "rgba(255, 219, 153, 1)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "45",
+          "spread": "0",
+          "color": "rgba(254, 182, 0, 0.45)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "use for cards news"
+    },
     "screenshots-active": {
       "value": {
         "x": "0",
@@ -1269,18 +1351,6 @@
       },
       "type": "boxShadow",
       "description": "Shadow for active mob app screenshots"
-    },
-    "card-fun": {
-      "value": {
-        "x": "1",
-        "y": "1",
-        "blur": "12",
-        "spread": "0",
-        "color": "rgba(58, 14, 14, 0.25)",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow",
-      "description": "Fun shadow for cards"
     }
   },
   "border": {
@@ -1356,6 +1426,15 @@
       "type": "border",
       "description": "use for border in timer"
     },
+    "ghost-2": {
+      "value": {
+        "color": "#C9C9C9",
+        "width": "2",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use for counter border in main menu badges"
+    },
     "button-hover": {
       "value": {
         "color": "{button.border.tertiary-hover}",
@@ -1426,6 +1505,24 @@
       },
       "type": "border",
       "description": "use for stroke for popup bg"
+    },
+    "wheel-denomination": {
+      "value": {
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use as border for denomination widget"
+    },
+    "achivements": {
+      "value": {
+        "color": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%);",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border",
+      "description": "use as border for achivments widget in desktop profile "
     },
     "nav-active": {
       "value": {
@@ -1807,6 +1904,16 @@
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
+    "input-custom1": {
+      "value": "4px 4px 4px 4px",
+      "type": "borderRadius",
+      "description": "Use for error field"
+    },
+    "input-zero": {
+      "value": "0px",
+      "type": "borderRadius",
+      "description": "Radius for select (0)"
+    },
     "small-tips": {
       "value": "4px",
       "type": "borderRadius",
@@ -1849,6 +1956,16 @@
       "type": "borderRadius",
       "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
+    "card-extra": {
+      "value": "13px",
+      "type": "borderRadius",
+      "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
+    },
+    "button-additional": {
+      "value": "100px",
+      "type": "borderRadius",
+      "description": "Radius for pagination buttons in 1st deposit page"
+    },
     "button-extra": {
       "value": "8px",
       "type": "borderRadius",
@@ -1868,11 +1985,6 @@
       "value": "100px",
       "type": "borderRadius",
       "description": "use for elements with large radius  - golden tickets bages in lottery"
-    },
-    "button-icon-menu-logged": {
-      "value": "4px",
-      "type": "borderRadius",
-      "description": "Radius for extrasmall buttons 1click "
     }
   },
   "opacity": {
@@ -1884,12 +1996,20 @@
       "value": "60%",
       "type": "opacity"
     },
+    "00": {
+      "value": "0",
+      "type": "opacity"
+    },
     "09": {
       "value": "90%",
       "type": "opacity"
     },
     "04": {
       "value": "40%",
+      "type": "opacity"
+    },
+    "01": {
+      "value": "10%",
       "type": "opacity"
     },
     "02": {
@@ -2098,6 +2218,11 @@
         "value": "#CCCCCC",
         "type": "color",
         "description": "fill border tooltip"
+      },
+      "mob-app-active": {
+        "value": "#A43636",
+        "type": "color",
+        "description": "Mobile Application page, bg for active device (+blur)"
       }
     },
     "gradient": {
@@ -2535,11 +2660,6 @@
       "value": "rgba(255, 255, 255, 0.2)",
       "type": "color",
       "description": "use for tabs popups border "
-    },
-    "blur-fun": {
-      "value": "4px",
-      "type": "dimension",
-      "description": "use for bg blue in 1st deposit cards"
     }
   },
   "nav": {
