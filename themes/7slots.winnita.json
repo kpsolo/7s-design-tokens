@@ -1925,11 +1925,6 @@
       "type": "borderRadius",
       "description": "Radius for buttons"
     },
-    "button-additional": {
-      "value": "4px",
-      "type": "borderRadius",
-      "description": "Radius for pagination buttons in 1st deposit page"
-    },
     "tap-bar": {
       "value": "0px",
       "type": "borderRadius",
@@ -1969,16 +1964,6 @@
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
-    "input-custom1": {
-      "value": "2px 2px 2px 2px",
-      "type": "borderRadius",
-      "description": "Use for error field"
-    },
-    "input-zero": {
-      "value": "0px",
-      "type": "borderRadius",
-      "description": "Radius for select (0)"
-    },
     "small-tips": {
       "value": "2px",
       "type": "borderRadius",
@@ -2005,11 +1990,6 @@
       "value": "11px",
       "type": "borderRadius",
       "description": "for secret mirror bg border radius"
-    },
-    "card-extra": {
-      "value": "3px",
-      "type": "borderRadius",
-      "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
     },
     "button-extra": {
       "value": "44px",
@@ -2046,20 +2026,12 @@
       "value": "60%",
       "type": "opacity"
     },
-    "00": {
-      "value": "0",
-      "type": "opacity"
-    },
     "09": {
       "value": "90%",
       "type": "opacity"
     },
     "04": {
       "value": "40%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "10%",
       "type": "opacity"
     },
     "02": {
@@ -2301,19 +2273,10 @@
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
-      "exhange-point-banner": {
-        "value": "#1A3271",
-        "type": "color"
-      },
       "my-status-bg": {
         "value": "#DAE6FF",
         "type": "color",
         "description": "bg for my status tournament inside rules of tournament"
-      },
-      "mob-app-active": {
-        "value": "#2CD65A",
-        "type": "color",
-        "description": "Mobile Application page, bg for active device (+blur)"
       }
     },
     "top-surface": {

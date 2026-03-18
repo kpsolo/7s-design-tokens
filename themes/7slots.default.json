@@ -1920,11 +1920,6 @@
       "type": "borderRadius",
       "description": "Radius for cards amd widgets"
     },
-    "card-extra": {
-      "value": "13px",
-      "type": "borderRadius",
-      "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
-    },
     "game-item": {
       "value": "10px",
       "type": "borderRadius",
@@ -1999,16 +1994,6 @@
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
-    "input-custom1": {
-      "value": "10px 10px 10px 10px",
-      "type": "borderRadius",
-      "description": "Use for error field"
-    },
-    "input-zero": {
-      "value": "0px",
-      "type": "borderRadius",
-      "description": "Radius for select (0)"
-    },
     "small-tips": {
       "value": "4px",
       "type": "borderRadius",
@@ -2046,11 +2031,6 @@
       "type": "borderRadius",
       "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
-    "button-additional": {
-      "value": "100px",
-      "type": "borderRadius",
-      "description": "Radius for pagination buttons in 1st deposit page"
-    },
     "small-tips-additional": {
       "value": "4px",
       "type": "borderRadius",
@@ -2071,20 +2051,12 @@
       "value": "60%",
       "type": "opacity"
     },
-    "00": {
-      "value": "0",
-      "type": "opacity"
-    },
     "09": {
       "value": "90%",
       "type": "opacity"
     },
     "04": {
       "value": "40%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "10%",
       "type": "opacity"
     },
     "02": {
@@ -2282,10 +2254,6 @@
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
-      "exhange-point-banner": {
-        "value": "linear-gradient(213deg, #3A5379 23.28%, #1C212E 83.62%)",
-        "type": "color"
-      },
       "cashbox-bonus": {
         "value": "linear-gradient(110deg, #517AB0 1.8%, #255480 98.04%)",
         "type": "color",
@@ -2439,11 +2407,6 @@
         "value": "rgba(28, 34, 49, 0.60)",
         "type": "color",
         "description": "bg for my status tournament inside rules of tournament"
-      },
-      "mob-app-active": {
-        "value": "#55D19B",
-        "type": "color",
-        "description": "Mobile Application page, bg for active device (+blur)"
       }
     },
     "overlay": {

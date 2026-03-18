@@ -1838,26 +1838,6 @@
     "sm": {
       "value": "12px",
       "type": "spacing"
-    },
-    "l": {
-      "value": "24px",
-      "type": "spacing"
-    },
-    "xl": {
-      "value": "32px",
-      "type": "spacing"
-    },
-    "s": {
-      "value": "10px",
-      "type": "spacing"
-    },
-    "xxl": {
-      "value": "48px",
-      "type": "spacing"
-    },
-    "xxxl": {
-      "value": "64px",
-      "type": "spacing"
     }
   },
   "radius": {
@@ -1920,16 +1900,6 @@
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
-    "input-custom1": {
-      "value": "8px 8px 8px 4px",
-      "type": "borderRadius",
-      "description": "Use for error field"
-    },
-    "input-zero": {
-      "value": "0px",
-      "type": "borderRadius",
-      "description": "Radius for select (0)"
-    },
     "small-tips": {
       "value": "12px",
       "type": "borderRadius",
@@ -1949,13 +1919,6 @@
       "value": "100px",
       "type": "borderRadius",
       "description": "use for elements with large radius  - golden tickets bages in lottery"
-    },
-    "special-blocks": {
-      "jackpot-radius": {
-        "value": "12px",
-        "type": "borderRadius",
-        "description": "Radius for jackpot widget"
-      }
     },
     "live-lottery-tips": {
       "value": "20px",
@@ -1982,16 +1945,6 @@
       "type": "borderRadius",
       "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
-    "card-extra": {
-      "value": "13px",
-      "type": "borderRadius",
-      "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
-    },
-    "button-additional": {
-      "value": "100px",
-      "type": "borderRadius",
-      "description": "Radius for pagination buttons in 1st deposit page"
-    },
     "button-extra": {
       "value": "44px",
       "type": "borderRadius",
@@ -2001,11 +1954,6 @@
       "value": "44px",
       "type": "borderRadius",
       "description": "use for social buttons in footer/menu"
-    },
-    "button-icon-menu-logged": {
-      "value": "4px",
-      "type": "borderRadius",
-      "description": "Radius for extrasmall buttons 1click "
     }
   },
   "opacity": {
@@ -2017,20 +1965,12 @@
       "value": "60%",
       "type": "opacity"
     },
-    "00": {
-      "value": "0",
-      "type": "opacity"
-    },
     "09": {
       "value": "90%",
       "type": "opacity"
     },
     "04": {
       "value": "40%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "10%",
       "type": "opacity"
     },
     "02": {
@@ -2259,24 +2199,10 @@
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
       },
-      "exhange-point-banner": {
-        "value": "linear-gradient(118deg, #912266 14.54%, #461B52 59.13%, #331848 79.7%)",
-        "type": "color"
-      },
-      "deposit form": {
-        "value": "linear-gradient(118deg, #D53C9A -5.85%, #561B66 64.38%, #4C1B71 96.78%)",
-        "type": "color",
-        "description": "bg.other.deposit form"
-      },
       "my-status-bg": {
         "value": "rgba(22, 8, 40, 0.75)",
         "type": "color",
         "description": "bg for my status tournament inside rules of tournament"
-      },
-      "mob-app-active": {
-        "value": "#B9C614",
-        "type": "color",
-        "description": "Mobile Application page, bg for active device (+blur)"
       }
     },
     "gradient": {

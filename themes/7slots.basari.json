@@ -1940,16 +1940,6 @@
       "type": "borderRadius",
       "description": "Radius for smallest game items"
     },
-    "input-custom1": {
-      "value": "8px 8px 8px 8px",
-      "type": "borderRadius",
-      "description": "Use for error field"
-    },
-    "input-zero": {
-      "value": "0px",
-      "type": "borderRadius",
-      "description": "Radius for select (0)"
-    },
     "small-tips": {
       "value": "12px",
       "type": "borderRadius",
@@ -1992,16 +1982,6 @@
       "type": "borderRadius",
       "description": "Radius for line in shop/lootbox/betting/news/strip"
     },
-    "card-extra": {
-      "value": "13px",
-      "type": "borderRadius",
-      "description": "Radius for cards amd widgets border bg ( 1st deposit card)"
-    },
-    "button-additional": {
-      "value": "100px",
-      "type": "borderRadius",
-      "description": "Radius for pagination buttons in 1st deposit page"
-    },
     "button-extra": {
       "value": "44px",
       "type": "borderRadius",
@@ -2037,20 +2017,12 @@
       "value": "60%",
       "type": "opacity"
     },
-    "00": {
-      "value": "0",
-      "type": "opacity"
-    },
     "09": {
       "value": "90%",
       "type": "opacity"
     },
     "04": {
       "value": "40%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "10%",
       "type": "opacity"
     },
     "02": {
@@ -2206,11 +2178,6 @@
         "type": "color",
         "description": "bg for row of winners vidgets"
       },
-      "mob-app-active": {
-        "value": "#A43636",
-        "type": "color",
-        "description": "Mobile Application page, bg for active device (+blur)"
-      },
       "welcome": {
         "value": "linear-gradient(180deg, #7a7a7a 0%, #6F6F6F 50%, #5B4847 100%)",
         "type": "color",
@@ -2275,10 +2242,6 @@
         "value": "{bg.secondary}",
         "type": "color",
         "description": "bg for status tournament inside rules of tournament/lottery"
-      },
-      "exhange-point-banner": {
-        "value": "linear-gradient(176deg, #711919 4%, #771F1E 34%, #521A19 62%, #31090B 84%, #31090B 94%)",
-        "type": "color"
       },
       "deposit form": {
         "value": "linear-gradient(97.38deg, #0F0000 0%, #830C0C 109.09%);",
