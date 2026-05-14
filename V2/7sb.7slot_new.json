@@ -4765,6 +4765,30 @@
           }
         }
       }
+    },
+    "hall-of-fame": {
+      "player-number": {
+        "fill": {
+          "default": {
+            "value": "{semantic.background.slate-2}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.slate-2}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.gradients.10}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
