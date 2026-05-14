@@ -50,6 +50,11 @@
       "lg": {
         "value": "{size.600}",
         "type": "sizing"
+      },
+      "test": {
+        "value": "777",
+        "type": "sizing",
+        "description": "[just for test] delete it"
       }
     },
     "gap": {
