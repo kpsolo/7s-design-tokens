@@ -350,6 +350,12 @@
     "badge": {
       "value": "{border-radius.core.full}",
       "type": "borderRadius"
+    },
+    "filter&sort": {
+      "button": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      }
     }
   },
   "card": {
@@ -2999,6 +3005,64 @@
           },
           "active": {
             "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        }
+      },
+      "item": {
+        "fill": {
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a25}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.200}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "active": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.icon.default.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.icon.banner-cart.primary}",
             "type": "color"
           }
         }
