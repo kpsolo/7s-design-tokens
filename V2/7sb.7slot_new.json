@@ -346,6 +346,10 @@
           "type": "borderRadius"
         }
       }
+    },
+    "badge": {
+      "value": "{border-radius.core.full}",
+      "type": "borderRadius"
     }
   },
   "card": {
