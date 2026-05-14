@@ -2872,6 +2872,12 @@
           "value": "{semantic.background.slate-on-card}",
           "type": "color"
         }
+      },
+      "background": {
+        "fill": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        }
       }
     },
     "progress": {
