@@ -2299,7 +2299,7 @@
       },
       "label-providers": {
         "fill": {
-          "value": "linear-gradient(0deg, #291C01 0%, rgba(50, 35, 6, 0.60) 67%, rgba(41, 28, 1, 0.00) 100%)",
+          "value": "linear-gradient(0deg, rgba(17, 19, 39, 0.90) 0%, rgba(17, 19, 39, 0.60) 66.67%, rgba(15, 17, 34, 0.00) 100%)",
           "type": "color"
         }
       },
