@@ -3999,7 +3999,8 @@
       "nav-menu": {
         "fill": {
           "value": "{core.grey.900a40}",
-          "type": "color"
+          "type": "color",
+          "description": "del?"
         },
         "item": {
           "text": {
@@ -4083,7 +4084,7 @@
       "banner": {
         "background": {
           "1": {
-            "value": "linear-gradient(58deg, {core.brand-30.900} 0%, {core.brand-30.800a0} 20%)",
+            "value": "linear-gradient(130deg, #4865AB 3.67%, #000E2F 96.33%)",
             "type": "color"
           },
           "2": {
