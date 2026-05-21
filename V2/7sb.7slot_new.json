@@ -5023,15 +5023,15 @@
     "type": "lineHeights"
   },
   "lg": {
-    "value": "24px",
+    "value": "28px",
     "type": "lineHeights"
   },
   "xl": {
-    "value": "26px",
+    "value": "32px",
     "type": "lineHeights"
   },
   "xxl": {
-    "value": "32px",
+    "value": "38px",
     "type": "lineHeights"
   },
   "text-decoration": {
