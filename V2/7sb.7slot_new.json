@@ -4169,7 +4169,7 @@
         "item": {
           "background": {
             "default": {
-              "value": "{core.grey.900a40}",
+              "value": "{core.brand-60.700}",
               "type": "color"
             },
             "hover": {
