@@ -4368,7 +4368,7 @@
       },
       "status": {
         "fill": {
-          "value": "rgba(254, 182, 0, 0.32)",
+          "value": "{core.white.a25}",
           "type": "color"
         },
         "progress": {
@@ -6547,7 +6547,7 @@
         "description": "gradients.orange 500"
       },
       "5": {
-        "value": "linear-gradient(180deg, #EBB849 0%, #CE611B 100%)",
+        "value": "linear-gradient(180deg, #229B59 0%, #4FCD89 6.25%, #64DC9B 100%)",
         "type": "color",
         "description": "gradients.orange 600"
       },
