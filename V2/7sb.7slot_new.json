@@ -6614,7 +6614,7 @@
         "description": "gradient.Black 600"
       },
       "slate-1": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.brand-60.800}",
         "type": "color",
         "description": "text input 1"
       },
