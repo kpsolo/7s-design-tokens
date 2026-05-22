@@ -2746,7 +2746,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.grey.700}",
+        "value": "{core.grey.600}",
         "type": "color"
       },
       "popover-action": {
