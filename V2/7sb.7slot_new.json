@@ -3947,7 +3947,7 @@
         },
         "tabs": {
           "background": {
-            "value": "#1F1A17",
+            "value": "{core.grey.900a50}",
             "type": "color"
           },
           "border": {
@@ -3963,6 +3963,10 @@
           "text": {
             "default": {
               "value": "{core.white.a80}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{semantic.text.default.heading}",
               "type": "color"
             }
           }
