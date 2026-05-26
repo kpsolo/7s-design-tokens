@@ -5415,6 +5415,17 @@
       },
       "type": "typography"
     },
+    "sm": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Bold}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "{ml}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
     "lg-strong": {
       "value": {
         "fontFamily": "{accent}",
@@ -8140,6 +8151,32 @@
       "value": "800px",
       "type": "sizing",
       "description": "Use for inner content (like table, etc.)"
+    }
+  },
+  "special-blocks": {
+    "404-500-large": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Bold}",
+        "fontSize": "280px",
+        "lineHeight": "250px",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Use for Errors Number (404,403,500)"
+    },
+    "404-500-small": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Bold}",
+        "fontSize": "160px",
+        "lineHeight": "140px",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography",
+      "description": "Use for small Errors Number (404,403,500)"
     }
   }
 }
