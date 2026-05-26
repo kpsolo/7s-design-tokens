@@ -3941,7 +3941,7 @@
             "type": "color"
           },
           "active": {
-            "value": "linear-gradient(180deg, #433A33 0%, #1E140E 100%)",
+            "value": "{semantic.gradients.8}",
             "type": "color"
           }
         },
@@ -6576,7 +6576,7 @@
         "description": "gradients.Brown"
       },
       "8": {
-        "value": "linear-gradient(180deg, #4B433C 0%, #372B23 100%)",
+        "value": "linear-gradient(151deg, rgba(24, 77, 139, 0.70) 7.95%, rgba(10, 48, 92, 0.70) 50.76%, rgba(18, 28, 57, 0.70) 92.05%)",
         "type": "color",
         "description": "gradients.Brown 550"
       },
