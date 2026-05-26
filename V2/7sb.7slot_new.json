@@ -1275,7 +1275,7 @@
             "y": "{depth.0}",
             "blur": "{blur.200}",
             "spread": "0px",
-            "color": "{core.brand-10.500}",
+            "color": "{core.additionals.gold}",
             "type": "innerShadow"
           },
           "type": "boxShadow",
@@ -2162,6 +2162,10 @@
           "value": "{core.white.a8}",
           "type": "color",
           "description": "status-inactive"
+        },
+        "border": {
+          "value": "{core.white.a10}",
+          "type": "color"
         }
       },
       "top-inner-page": {
@@ -2233,6 +2237,16 @@
           "value": "{core.white.a8}",
           "type": "color",
           "description": "status-inactive"
+        },
+        "gold-winning": {
+          "border": {
+            "value": "{core.additionals.gold}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core.additionals.gold}",
+            "type": "color"
+          }
         }
       },
       "inner-page": {
@@ -2936,6 +2950,10 @@
         },
         "active": {
           "value": "{semantic.background.brand.emphasizing.default.primary}",
+          "type": "color"
+        },
+        "gold": {
+          "value": "{core.additionals.gold}",
           "type": "color"
         }
       }
