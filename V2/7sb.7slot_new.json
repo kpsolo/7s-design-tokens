@@ -8011,5 +8011,12 @@
         "type": "textDecoration"
       }
     }
+  },
+  "inner-content": {
+    "max-width": {
+      "value": "800px",
+      "type": "sizing",
+      "description": "Use for inner content (like table, etc.)"
+    }
   }
 }
