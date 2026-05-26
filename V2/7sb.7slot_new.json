@@ -3973,7 +3973,7 @@
         },
         "text": {
           "bonus": {
-            "value": "#FFD284",
+            "value": "{semantic.text.default.heading}",
             "type": "color"
           }
         }
