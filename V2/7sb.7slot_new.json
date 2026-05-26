@@ -4582,7 +4582,7 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.brand-30.600}",
+        "value": "{core.white.a5}",
         "type": "color",
         "description": "Segment Control"
       },
@@ -4599,19 +4599,19 @@
             "description": "Segment Control"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{core.brand-60.700}",
             "type": "color",
             "description": "Segment Control"
           },
           "active": {
-            "value": "{semantic.gradients.1}",
+            "value": "{core.brand-60.700}",
             "type": "color",
             "description": "Segment Control"
           }
         },
         "text": {
           "default": {
-            "value": "{semantic.text.static.secondary}",
+            "value": "{semantic.text.default.secondary}",
             "type": "color",
             "description": "Segment Control"
           },
@@ -4621,9 +4621,37 @@
             "description": "Segment Control"
           },
           "active": {
-            "value": "{semantic.text.static.primary}",
+            "value": "{semantic.text.default.primary}",
             "type": "color",
             "description": "Segment Control"
+          }
+        },
+        "border": {
+          "active": {
+            "value": "{core.white.a10}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.white.a5}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "active": {
+            "value": "{semantic.icon.default.primary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.icon.default.secondary}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{semantic.icon.default.tertiary}",
+            "type": "color"
           }
         }
       },
