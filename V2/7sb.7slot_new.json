@@ -5145,6 +5145,13 @@
           "type": "color"
         }
       }
+    },
+    "error-pages": {
+      "error-number": {
+        "value": "{semantic.text.default.heading}",
+        "type": "color",
+        "description": "Use for Error Number colour (404,403,400) on Error pages"
+      }
     }
   },
   "scale-1": {
