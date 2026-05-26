@@ -4794,6 +4794,22 @@
           "value": "{core.white.a0}",
           "type": "color"
         }
+      },
+      "welcome-bonus": {
+        "text": {
+          "accent": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "value": "{contextual.deals.welcome-bonus-card.background.active}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{contextual.deals.welcome-bonus-card.border.default}",
+          "type": "color"
+        }
       }
     },
     "tab-bar": {
