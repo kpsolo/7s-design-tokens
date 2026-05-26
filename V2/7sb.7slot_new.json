@@ -4986,6 +4986,20 @@
         "value": "{core.white.a5}",
         "type": "color"
       }
+    },
+    "gamehall": {
+      "thumb-providers": {
+        "background": {
+          "border": {
+            "value": "{core.white.a15}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{semantic.gradients.8}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
