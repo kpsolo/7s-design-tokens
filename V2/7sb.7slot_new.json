@@ -4124,7 +4124,7 @@
             }
           },
           "background": {
-            "value": "{core.white.a100}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "element": {
