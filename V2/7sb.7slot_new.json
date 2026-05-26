@@ -235,6 +235,10 @@
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
     },
+    "bullet": {
+      "value": "{border-radius.core.100}",
+      "type": "borderRadius"
+    },
     "popover": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius",
