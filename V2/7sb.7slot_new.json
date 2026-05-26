@@ -4780,6 +4780,16 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "card": {
+        "fill": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
       }
     },
     "tab-bar": {
