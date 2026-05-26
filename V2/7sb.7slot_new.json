@@ -1165,6 +1165,28 @@
           }
         ],
         "type": "boxShadow"
+      },
+      "hover": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{depth.0}",
+          "blur": "{blur.200}",
+          "spread": "{depth.0}",
+          "color": "{core.brand-30.200a30}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "no-hover": {
+        "value": {
+          "x": "{depth.0}",
+          "y": "{blur.0}",
+          "blur": "{depth.0}",
+          "spread": "{depth.0}",
+          "color": "{core.white.a0}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
       }
     },
     "homepage": {
@@ -2129,6 +2151,10 @@
         "background": {
           "border": {
             "value": "{core.white.a20}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{core.brand-60.500}",
             "type": "color"
           }
         },
