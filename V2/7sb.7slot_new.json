@@ -244,6 +244,11 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
+    "footer": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius",
+      "description": "\n\n\n"
+    },
     "switcher": {
       "item": {
         "value": "{border-radius.core.300}",
