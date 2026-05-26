@@ -4301,7 +4301,7 @@
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.grey.700}",
+          "value": "{core.grey.400}",
           "type": "color"
         },
         "item": {
