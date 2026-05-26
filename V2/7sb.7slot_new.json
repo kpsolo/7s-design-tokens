@@ -6773,6 +6773,14 @@
           "value": "{core.white.a10}",
           "type": "color",
           "description": "basic.sand 900"
+        },
+        "secondary": {
+          "value": "{core.brand-30.500a10}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{core.brand-30.200a30}",
+          "type": "color"
         }
       }
     },
