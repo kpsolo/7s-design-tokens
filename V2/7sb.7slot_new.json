@@ -5057,6 +5057,20 @@
           }
         }
       }
+    },
+    "loader": {
+      "button": {
+        "value": "{core.grey.800}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{core.brand-10.500}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{core.white.a100}",
+        "type": "color"
+      }
     }
   },
   "scale-1": {
