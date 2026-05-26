@@ -1996,6 +1996,10 @@
         "fill": {
           "value": "linear-gradient(89deg, {core.brand-30.800a30} 38%, {core.brand-30.200a30} 99%)",
           "type": "color"
+        },
+        "text": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color"
         }
       },
       "primary": {
