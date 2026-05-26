@@ -3927,11 +3927,11 @@
       "welcome-bonus-card": {
         "border": {
           "active": {
-            "value": "linear-gradient(128deg, #FEB600 14.07%, #EB7F44 51.52%, #C7BFB5 86.86%)",
+            "value": "{semantic.border.active.element}",
             "type": "color"
           },
           "default": {
-            "value": "gba(255, 255, 255, 0.00)",
+            "value": "{core.white.a15}",
             "type": "color"
           }
         },
