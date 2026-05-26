@@ -369,6 +369,14 @@
     "toggle-button": {
       "value": "{border-radius.core.200}",
       "type": "borderRadius"
+    },
+    "slider": {
+      "carousel": {
+        "dots": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        }
+      }
     }
   },
   "card": {
@@ -5070,6 +5078,14 @@
       "dark": {
         "value": "{core.white.a100}",
         "type": "color"
+      }
+    },
+    "slider": {
+      "carousel": {
+        "dots": {
+          "value": "{core.white.a20}",
+          "type": "color"
+        }
       }
     }
   },
