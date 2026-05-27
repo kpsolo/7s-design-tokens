@@ -3692,7 +3692,7 @@
       },
       "icon": {
         "default": {
-          "value": "{semantic.icon.default.tertiary}",
+          "value": "{semantic.gradients.15}",
           "type": "color"
         },
         "hover": {
@@ -3700,7 +3700,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{semantic.icon.brand.primary}",
+          "value": "{semantic.gradients.14}",
           "type": "color"
         },
         "disabled": {
