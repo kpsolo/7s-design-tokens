@@ -5207,6 +5207,18 @@
         "type": "color",
         "description": "Use for Error Number colour (404,403,400) on Error pages"
       }
+    },
+    "up-button": {
+      "icon": {
+        "accent": {
+          "value": "{semantic.icon.brand.primary}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.icon.brand.on-brand}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
