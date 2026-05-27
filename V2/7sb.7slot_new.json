@@ -5210,12 +5210,36 @@
     },
     "up-button": {
       "icon": {
-        "accent": {
+        "default": {
           "value": "{semantic.icon.brand.primary}",
           "type": "color"
         },
         "hover": {
           "value": "{semantic.icon.brand.on-brand}",
+          "type": "color"
+        }
+      },
+      "progress": {
+        "value": "{core.brand-10.400}",
+        "type": "color"
+      },
+      "fill": {
+        "default": {
+          "value": "{core.grey.700}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.gradients.14}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "{core.brand-10.400a10}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{core.white.a0}",
           "type": "color"
         }
       }
