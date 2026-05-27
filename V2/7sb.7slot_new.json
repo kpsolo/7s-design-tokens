@@ -3553,11 +3553,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.400a80}",
+            "value": "{semantic.gradients.14}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.text.brand.primary}",
+            "value": "{semantic.gradients.14}",
             "type": "color"
           },
           "disabled": {
@@ -3565,17 +3565,35 @@
             "type": "color"
           }
         },
-        "icon": {
+        "fill": {
+          "active": {
+            "value": "{core.brand-30.50a10}",
+            "type": "color"
+          },
           "default": {
-            "value": "{semantic.text.default.heading}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.400a80}",
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.gradients.15}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.gradients.14}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.icon.brand.primary}",
+            "value": "{semantic.gradients.14}",
             "type": "color"
           },
           "disabled": {
@@ -6191,6 +6209,19 @@
       "900": {
         "value": "#193D84",
         "type": "color"
+      },
+      "50a10": {
+        "value": "#D2E5FF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
       },
       "800a0": {
         "value": "{core.brand-30.800}",
