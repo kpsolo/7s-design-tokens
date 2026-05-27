@@ -3919,7 +3919,7 @@
     "scroll": {
       "fill": {
         "default": {
-          "value": "{core.brand-60.500a40}",
+          "value": "{core.white.a10}",
           "type": "color"
         },
         "transparent": {
