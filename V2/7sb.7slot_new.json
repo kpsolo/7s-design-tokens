@@ -3559,7 +3559,7 @@
       },
       "background": {
         "fill-current": {
-          "value": "{core.brand-60.800}",
+          "value": "linear-gradient(180deg, rgba(26, 37, 61, 0.80) 0%, rgba(26, 35, 57, 0.67) 28.65%, rgba(37, 45, 64, 0.52) 53.65%, rgba(37, 45, 64, 0.22) 76.04%, rgba(37, 45, 64, 0.06) 89.06%, rgba(37, 45, 64, 0.00) 100%)",
           "type": "color"
         }
       }
