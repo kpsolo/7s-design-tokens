@@ -329,6 +329,10 @@
       "value": "{border-radius.core.200}",
       "type": "borderRadius"
     },
+    "menu-item-mob": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
+    },
     "menu": {
       "item": {
         "new": {
@@ -3726,6 +3730,64 @@
           "type": "color"
         }
       },
+      "mob": {
+        "icon": {
+          "default": {
+            "value": "{semantic.gradients.15}",
+            "type": "color"
+          },
+          "active-logout": {
+            "value": "{semantic.gradients.15}",
+            "type": "color"
+          },
+          "active-login": {
+            "value": "{semantic.gradients.14}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "active-logout": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "active-login": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "default": {
+            "value": "{core.brand-30.50a25}",
+            "type": "color"
+          },
+          "active-logout": {
+            "value": "{core.brand-30.50a25}",
+            "type": "color"
+          },
+          "active-login": {
+            "value": "{core.brand-30.50a25}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a10}",
+            "type": "color"
+          },
+          "active-logout": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          },
+          "active-login": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        }
+      },
       "border": {
         "default": {
           "value": "{semantic.border.static.default}",
@@ -6282,6 +6344,32 @@
             "modify": {
               "type": "alpha",
               "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "50a20": {
+        "value": "#D2E5FF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "50a25": {
+        "value": "#D2E5FF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.25",
               "space": "lch"
             }
           }
