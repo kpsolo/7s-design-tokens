@@ -4868,7 +4868,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.500}",
+          "value": "{semantic.gradients.14}",
           "type": "color"
         }
       },
@@ -4889,7 +4889,25 @@
               "value": "{core.white.a10}",
               "type": "color"
             }
+          },
+          "fill": {
+            "special": {
+              "value": "{semantic.gradients.7}",
+              "type": "color"
+            }
           }
+        },
+        "active": {
+          "value": "{semantic.gradients.14}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{semantic.gradients.15}",
+          "type": "color"
+        },
+        "special": {
+          "value": "{semantic.gradients.15}",
+          "type": "color"
         }
       }
     },
@@ -6852,9 +6870,8 @@
         "description": "gradients.Border button"
       },
       "7": {
-        "value": "linear-gradient(180deg, #8D837B 0%, #645045 100%)",
-        "type": "color",
-        "description": "gradients.Brown"
+        "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%)",
+        "type": "color"
       },
       "8": {
         "value": "linear-gradient(151deg, rgba(24, 77, 139, 0.70) 7.95%, rgba(10, 48, 92, 0.70) 50.76%, rgba(18, 28, 57, 0.70) 92.05%)",
