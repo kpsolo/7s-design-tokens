@@ -1061,6 +1061,27 @@
           "type": "boxShadow",
           "description": "0px 0px 4px 0px #E028FD"
         }
+      },
+      "background": {
+        "value": [
+          {
+            "x": "{depth.0}",
+            "y": "{depth.m100}",
+            "blur": "{blur.200}",
+            "spread": "{depth.0}",
+            "color": "#2727271a",
+            "type": "dropShadow"
+          },
+          {
+            "x": "{depth.0}",
+            "y": "0.5",
+            "blur": "1",
+            "spread": "{depth.0}",
+            "color": "{core.white.a20}",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     },
     "datepicker": {
@@ -6787,6 +6808,14 @@
         "value": "radial-gradient(88.83% 46.36% at 19.59% 44.53%, {core.brand-30.800a50} 0%, {core.brand-30.900} 100%)",
         "type": "color",
         "description": "gradients.Radial"
+      },
+      "14": {
+        "value": "linear-gradient(180deg, #B2FFAC 23.44%, #35B56F 100%)",
+        "type": "color"
+      },
+      "15": {
+        "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+        "type": "color"
       }
     },
     "background": {
