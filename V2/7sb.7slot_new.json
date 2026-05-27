@@ -4881,6 +4881,16 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "icon": {
+        "background": {
+          "border": {
+            "special": {
+              "value": "{core.white.a10}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "sticky-notifications": {
