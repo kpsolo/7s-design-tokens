@@ -4906,7 +4906,7 @@
           "type": "color"
         },
         "special": {
-          "value": "{semantic.gradients.15}",
+          "value": "linear-gradient(0deg, #B8DFE1 0.03%, #EBF2FC 58.33%, #EFF5FF 99.97%)",
           "type": "color"
         }
       }
