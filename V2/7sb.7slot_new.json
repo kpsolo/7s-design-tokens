@@ -3828,11 +3828,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{semantic.border.static.active}",
+          "value": "{core.brand-10.600a40}",
           "type": "color"
         },
         "active": {
-          "value": "{core.white.a0}",
+          "value": "{core.brand-10.500}",
           "type": "color"
         },
         "disabled": {
