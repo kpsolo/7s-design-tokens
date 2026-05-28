@@ -385,6 +385,10 @@
           "type": "borderRadius"
         }
       }
+    },
+    "thumb-games": {
+      "value": "{border-radius.core.300}",
+      "type": "borderRadius"
     }
   },
   "card": {
@@ -2446,6 +2450,10 @@
           "value": "{core.brand-10.500}",
           "type": "color"
         }
+      },
+      "icon": {
+        "value": "{semantic.icon.banner-cart.primary}",
+        "type": "color"
       }
     },
     "tabs": {
