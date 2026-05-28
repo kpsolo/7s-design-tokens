@@ -2338,6 +2338,36 @@
           "type": "color",
           "description": "status-inactive"
         }
+      },
+      "ticket-number": {
+        "text": {
+          "default": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          },
+          "gold": {
+            "value": "{core.additionals.gold}",
+            "type": "color"
+          },
+          "gold-winning": {
+            "value": "{semantic.text.default.primary}",
+            "type": "color"
+          }
+        },
+        "fill": {
+          "gold": {
+            "value": "{core.additionals.gold}",
+            "type": "color"
+          },
+          "winning": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        }
       }
     },
     "thumb-games": {
