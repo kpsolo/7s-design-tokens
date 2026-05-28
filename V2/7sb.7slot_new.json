@@ -2327,7 +2327,7 @@
       },
       "inner-page": {
         "fill": {
-          "value": "{core.grey.900}",
+          "value": "{core.brand-60.800}",
           "type": "color",
           "description": "status-inactive"
         }
@@ -5373,6 +5373,12 @@
     "game-counter": {
       "fill": {
         "value": "{core.white.a8}",
+        "type": "color"
+      }
+    },
+    "content": {
+      "fill": {
+        "value": "{core.brand-60.800}",
         "type": "color"
       }
     }
