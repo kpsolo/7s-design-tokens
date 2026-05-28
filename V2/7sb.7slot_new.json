@@ -6560,13 +6560,13 @@
         }
       },
       "800a0": {
-        "value": "{core.brand-30.800}",
+        "value": "{core.brand-30.600}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0",
+              "value": "0.60",
               "space": "lch"
             }
           }
@@ -6579,7 +6579,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.5",
+              "value": "0.6",
               "space": "lch"
             }
           }
@@ -7289,7 +7289,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-60.500a40}",
+            "value": "linear-gradient(180deg, {core.brand-30.800a30} 0%, {core.brand-30.800a50} 100%)",
             "type": "color"
           }
         },
