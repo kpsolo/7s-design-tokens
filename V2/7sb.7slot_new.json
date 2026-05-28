@@ -8085,8 +8085,9 @@
       "type": "sizing"
     },
     "400": {
-      "value": "32",
-      "type": "sizing"
+      "value": "36",
+      "type": "sizing",
+      "description": "old 32"
     },
     "500": {
       "value": "40",
