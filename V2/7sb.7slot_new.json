@@ -73,11 +73,11 @@
     },
     "padding-horizontal": {
       "sm": {
-        "value": "{spacing.300}",
+        "value": "{spacing.200}",
         "type": "spacing"
       },
       "md": {
-        "value": "{spacing.400}",
+        "value": "{spacing.300}",
         "type": "spacing"
       },
       "lg": {
