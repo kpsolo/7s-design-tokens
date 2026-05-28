@@ -5522,6 +5522,52 @@
           }
         }
       }
+    },
+    "utility-button": {
+      "border": {
+        "default": {
+          "value": "{core.grey.900}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        },
+        "hover": {
+          "value": "{core.grey.500}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        },
+        "active": {
+          "value": "{core.grey.400}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        },
+        "disabled": {
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        }
+      },
+      "text": {
+        "default": {
+          "value": "{core.grey.900}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        },
+        "hover": {
+          "value": "{core.grey.500}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        },
+        "active": {
+          "value": "{core.grey.400}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        },
+        "disabled": {
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
+        }
+      }
     }
   },
   "scale-1": {
