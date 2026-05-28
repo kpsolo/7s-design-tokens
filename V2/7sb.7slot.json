@@ -4000,7 +4000,7 @@
       "banner": {
         "background": {
           "1": {
-            "value": "linear-gradient(58deg, {core.brand-30.900} 0%, {core.brand-30.800a0} 20%)",
+            "value": "linear-gradient(58deg, {core.brand-30.900} 0%, {core.brand-30.600a60} 20%)",
             "type": "color"
           },
           "2": {
@@ -6375,7 +6375,7 @@
         "description": "gradients.Radial"
       },
       "13": {
-        "value": "radial-gradient(88.83% 46.36% at 19.59% 44.53%, {core.brand-30.800a50} 0%, {core.brand-30.900} 100%)",
+        "value": "radial-gradient(88.83% 46.36% at 19.59% 44.53%, {core.brand-30.800a60} 0%, {core.brand-30.900} 100%)",
         "type": "color",
         "description": "gradients.Radial"
       }
