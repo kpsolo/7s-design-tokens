@@ -5642,7 +5642,7 @@
     "sm-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strongest}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-2}",
         "lineHeight": "{xs}"
       },
