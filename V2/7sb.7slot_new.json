@@ -4951,7 +4951,7 @@
     "news": {
       "inner-page": {
         "fill": {
-          "value": "{core.grey.900}",
+          "value": "{semantic.background.page}",
           "type": "color",
           "description": "status-inactive"
         }
