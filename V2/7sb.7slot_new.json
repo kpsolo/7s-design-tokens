@@ -4356,11 +4356,15 @@
             }
           },
           "background": {
-            "value": "{core.brand-60.700}",
+            "value": "{core.white.a100}",
             "type": "color"
           },
           "element": {
             "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.200}",
             "type": "color"
           }
         },
