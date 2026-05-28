@@ -5408,7 +5408,7 @@
     },
     "content": {
       "fill": {
-        "value": "{core.brand-60.800}",
+        "value": "{semantic.background.page}",
         "type": "color"
       }
     }
