@@ -47,7 +47,7 @@
     "xs-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },
@@ -92,7 +92,7 @@
     "md-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -119,7 +119,7 @@
     "ml-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -184,7 +184,7 @@
     "link-md-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}",
         "textDecoration": "{text-decoration.underline}"

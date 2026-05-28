@@ -5615,7 +5615,7 @@
     "xs-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },
@@ -5642,7 +5642,7 @@
     "sm-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
         "lineHeight": "{xs}"
       },
@@ -5696,7 +5696,7 @@
     "ml-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -5714,7 +5714,7 @@
     "lg-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
@@ -5723,7 +5723,7 @@
     "button-large": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-3}",
         "lineHeight": "{md}",
         "textCase": "{text-case.uppercase}"
@@ -5733,7 +5733,7 @@
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
         "lineHeight": "{sm}",
         "textCase": "{text-case.uppercase}"
@@ -5743,7 +5743,7 @@
     "button-small": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
         "lineHeight": "{sm}",
         "textCase": "{text-case.uppercase}"
@@ -5759,6 +5759,10 @@
       "type": "fontWeights"
     },
     "stronger": {
+      "value": "{Semibold}",
+      "type": "fontWeights"
+    },
+    "strongest": {
       "value": "{Bold}",
       "type": "fontWeights"
     }
@@ -5852,7 +5856,7 @@
     "numbers": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "lineHeight": "16",
         "fontSize": "12"
       },

@@ -4872,7 +4872,7 @@
     "xs-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-1}",
         "lineHeight": "{xs}"
       },
@@ -4899,7 +4899,7 @@
     "sm-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
         "lineHeight": "{xs}"
       },
@@ -4926,7 +4926,7 @@
     "md-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-3}",
         "lineHeight": "{ml}"
       },
@@ -4953,7 +4953,7 @@
     "ml-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-4}",
         "lineHeight": "{lg}"
       },
@@ -4971,7 +4971,7 @@
     "lg-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
@@ -4980,7 +4980,7 @@
     "button-large": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-3}",
         "lineHeight": "{md}",
         "textCase": "{text-case.uppercase}"
@@ -4990,7 +4990,7 @@
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
         "lineHeight": "{sm}",
         "textCase": "{text-case.uppercase}"
@@ -5000,7 +5000,7 @@
     "button-small": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
         "lineHeight": "{sm}",
         "textCase": "{text-case.uppercase}"
@@ -5098,7 +5098,7 @@
     "numbers": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.stronger}",
+        "fontWeight": "{text.strongest}",
         "lineHeight": "16",
         "fontSize": "12"
       },
