@@ -8373,12 +8373,13 @@
           "type": "spacing"
         },
         "mob": {
-          "value": "{heading.xl-stronger}",
+          "value": "{heading.lg-stronger}",
           "type": "typography"
         },
         "web": {
           "value": "{heading.lg-stronger}",
-          "type": "typography"
+          "type": "typography",
+          "description": "del?"
         }
       },
       "collections-wrap": {
