@@ -5433,6 +5433,68 @@
         "value": "{semantic.background.page}",
         "type": "color"
       }
+    },
+    "verification": {
+      "verification-status": {
+        "check": {
+          "text": {
+            "default": {
+              "value": "{core.validation.success.500}",
+              "type": "color"
+            },
+            "AI-check": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "{core.validation.success.500}",
+              "type": "color"
+            },
+            "AI-check": {
+              "value": "{semantic.icon.default.primary}",
+              "type": "color"
+            }
+          }
+        },
+        "loading": {
+          "text": {
+            "default": {
+              "value": "{core.additionals.validation.info}",
+              "type": "color"
+            }
+          }
+        },
+        "time": {
+          "text": {
+            "default": {
+              "value": "{core.validation.warning.500}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "{core.validation.warning.500}",
+              "type": "color"
+            }
+          }
+        },
+        "error": {
+          "text": {
+            "default": {
+              "value": "{core.validation.danger.500}",
+              "type": "color"
+            }
+          },
+          "icon": {
+            "default": {
+              "value": "{core.validation.danger.500}",
+              "type": "color"
+            }
+          }
+        }
+      }
     }
   },
   "scale-1": {
