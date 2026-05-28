@@ -5714,7 +5714,7 @@
     "lg-stronger": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strongest}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-5}",
         "lineHeight": "{lg}"
       },
