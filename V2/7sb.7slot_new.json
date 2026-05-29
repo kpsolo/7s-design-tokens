@@ -7444,7 +7444,7 @@
     "icon": {
       "static": {
         "primary": {
-          "value": "{core.grey.900a80}",
+          "value": "{core.white.a90}",
           "type": "color"
         },
         "secondary": {
