@@ -5910,7 +5910,7 @@
     "xxl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{text.stronger}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}"
       },
