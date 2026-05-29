@@ -5892,7 +5892,7 @@
     "xl-stronger": {
       "value": {
         "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
+        "fontWeight": "{Semibold}",
         "fontSize": "{scale-7}",
         "lineHeight": "{xl}"
       },
