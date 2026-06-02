@@ -5130,7 +5130,7 @@
         "description": "use for accent elements (dots)"
       },
       "accent-extra": {
-        "value": "{text.title.extra}",
+        "value": "{text.title.additional}",
         "type": "color",
         "description": "use for accent on pamepage widget"
       },
