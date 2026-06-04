@@ -2387,7 +2387,7 @@
           }
         },
         "content": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{semantic.text.brand.on-brand}",
           "type": "color"
         },
         "normal": {
