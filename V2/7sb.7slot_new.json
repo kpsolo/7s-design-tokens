@@ -2378,7 +2378,7 @@
       "show-more": {
         "card": {
           "fill": {
-            "value": "linear-gradient(134deg, {core.brand-60.500} 2%, {core.brand-60.600} 75%)",
+            "value": "{core.brand-30.50a10}",
             "type": "color"
           },
           "border": {
