@@ -5833,23 +5833,23 @@
     }
   },
   "heading": {
+    "sm": {
+      "value": {
+        "fontFamily": "{accent}",
+        "fontWeight": "{Semibold}",
+        "fontSize": "{scale-4}",
+        "lineHeight": "{ml}",
+        "letterSpacing": "0%",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
     "ml": {
       "value": {
         "fontFamily": "{accent}",
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-5}",
         "lineHeight": "{ml}"
-      },
-      "type": "typography"
-    },
-    "sm": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{Bold}",
-        "fontSize": "{scale-4}",
-        "lineHeight": "{ml}",
-        "letterSpacing": "0%",
-        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
