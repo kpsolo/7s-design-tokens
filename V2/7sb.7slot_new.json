@@ -3424,7 +3424,7 @@
           }
         },
         "bg": {
-          "value": "{core.brand-60.a80}",
+          "value": "{core.brand-60.700a60}",
           "type": "color"
         },
         "overlay": {
