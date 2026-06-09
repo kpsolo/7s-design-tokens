@@ -3424,7 +3424,7 @@
           }
         },
         "bg": {
-          "value": "rgba(27, 24, 19, 0.88)",
+          "value": "{core.brand-60.a80}",
           "type": "color"
         },
         "overlay": {
