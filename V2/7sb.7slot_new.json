@@ -4887,7 +4887,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{semantic.text.static.secondary}",
+          "value": "{semantic.text.static.primary}",
           "type": "color"
         },
         "tertiary": {
