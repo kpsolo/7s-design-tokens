@@ -3530,7 +3530,7 @@
           },
           "current": {
             "fill": {
-              "value": "{core.grey.900a40}",
+              "value": "{core.white.a5}",
               "type": "color"
             }
           },
