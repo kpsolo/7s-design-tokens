@@ -3273,7 +3273,7 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.white.a5}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "filled": {
