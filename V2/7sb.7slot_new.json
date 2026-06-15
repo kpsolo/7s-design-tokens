@@ -3536,7 +3536,7 @@
           },
           "border": {
             "default": {
-              "value": "{core.white.a8}",
+              "value": "{core.white.a10}",
               "type": "color"
             },
             "hover": {
