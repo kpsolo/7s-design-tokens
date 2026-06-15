@@ -3530,7 +3530,7 @@
           },
           "current": {
             "fill": {
-              "value": "{core.white.a5}",
+              "value": "{core.white.a8}",
               "type": "color"
             }
           },
@@ -8169,7 +8169,7 @@
   },
   "content": {
     "max-width": {
-      "value": "1560px",
+      "value": "1126px",
       "type": "sizing"
     },
     "tab-bar": {
