@@ -2744,11 +2744,11 @@
         }
       },
       "fill": {
-        "value": "{core.brand-60.800}",
+        "value": "{core.brand-60.700}",
         "type": "color"
       },
       "border": {
-        "value": "{core.white.a0}",
+        "value": "{core.white.a8}",
         "type": "color"
       },
       "elipse": {
