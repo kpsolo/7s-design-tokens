@@ -3738,7 +3738,7 @@
     "menu-item": {
       "fill": {
         "default": {
-          "value": "{core.white.a5}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "hover": {
@@ -3850,7 +3850,7 @@
       },
       "border": {
         "default": {
-          "value": "{semantic.border.static.default}",
+          "value": "{core.white.a0}",
           "type": "color"
         },
         "hover": {
@@ -5422,15 +5422,15 @@
     "category-item": {
       "fill": {
         "default": {
-          "value": "{core.white.a5}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "hover": {
-          "value": "{core.white.a5}",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "active": {
-          "value": "{core.white.a5}",
+          "value": "{core.white.a8}",
           "type": "color"
         }
       },
