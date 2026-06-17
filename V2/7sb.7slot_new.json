@@ -2027,7 +2027,7 @@
     "label": {
       "transparent-light": {
         "fill": {
-          "value": "linear-gradient(89deg, {core.brand-30.800a30} 38%, {core.brand-30.200a30} 99%)",
+          "value": "{core.white.a8}",
           "type": "color"
         },
         "text": {
