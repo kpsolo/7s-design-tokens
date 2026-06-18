@@ -3560,6 +3560,16 @@
               "type": "color"
             }
           }
+        },
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.800}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          }
         }
       },
       "mobile": {
