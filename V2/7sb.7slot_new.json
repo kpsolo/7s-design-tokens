@@ -4895,7 +4895,7 @@
         }
       },
       "overlay": {
-        "value": "{core.white.a10}",
+        "value": "{core.white.a5}",
         "type": "color"
       },
       "text": {
