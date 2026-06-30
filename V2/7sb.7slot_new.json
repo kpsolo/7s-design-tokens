@@ -5595,6 +5595,10 @@
         "text": {
           "value": "{semantic.text.brand.primary}",
           "type": "color"
+        },
+        "fill": {
+          "value": "{core.brand-10.400a20}",
+          "type": "color"
         }
       }
     }
@@ -7055,6 +7059,19 @@
       "900": {
         "value": "#061e10",
         "type": "color"
+      },
+      "400a20": {
+        "value": "#2DD890",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
       },
       "300a60": {
         "value": "{core.brand-10.300}",
