@@ -5589,6 +5589,14 @@
           "description": "Utility button used exclusively for sticky notifications. Not part of the standard button hierarchy."
         }
       }
+    },
+    "lootboxes": {
+      "label": {
+        "text": {
+          "value": "{semantic.text.brand.primary}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
