@@ -5592,13 +5592,25 @@
     },
     "lootboxes": {
       "label": {
-        "text": {
-          "value": "{semantic.text.brand.primary}",
-          "type": "color"
+        "green": {
+          "text": {
+            "value": "{semantic.text.brand.primary}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{core.brand-10.400a20}",
+            "type": "color"
+          }
         },
-        "fill": {
-          "value": "{core.brand-10.400a20}",
-          "type": "color"
+        "yellow": {
+          "text": {
+            "value": "{core.additionals.bronze}",
+            "type": "color"
+          },
+          "fill": {
+            "value": "{core.brand-10.a25}",
+            "type": "color"
+          }
         }
       }
     }
