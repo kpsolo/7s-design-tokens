@@ -7370,12 +7370,12 @@
         "description": "gradient.Black 600"
       },
       "slate-1": {
-        "value": "{core.brand-60.800}",
+        "value": "{core.brand-60.900}",
         "type": "color",
         "description": "text input 1"
       },
       "slate-2": {
-        "value": "{core.grey.700}",
+        "value": "{core.brand-60.800}",
         "type": "color",
         "description": "text input 2"
       },
