@@ -369,6 +369,12 @@
           "value": "{border-radius.core.200}",
           "type": "borderRadius"
         }
+      },
+      "winning-now": {
+        "web": {
+          "value": "{border-radius.core.400}",
+          "type": "borderRadius"
+        }
       }
     },
     "badge": {
