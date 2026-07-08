@@ -4074,6 +4074,84 @@
               }
             }
           }
+        },
+        "checkbox": {
+          "fill": {
+            "unselected": {
+              "default": {
+                "value": "{core.brand-10.400a10}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.400a10}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.white.a5}",
+                "type": "color"
+              }
+            },
+            "selected": {
+              "default": {
+                "value": "{core.brand-10.400}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.300}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.white.a8}",
+                "type": "color"
+              }
+            }
+          },
+          "border": {
+            "unselected": {
+              "default": {
+                "value": "{core.brand-10.400}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.300}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.50a30}",
+                "type": "color"
+              }
+            },
+            "selected": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              }
+            }
+          },
+          "check": {
+            "selected": {
+              "default": {
+                "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.50a30}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "selection-block": {
