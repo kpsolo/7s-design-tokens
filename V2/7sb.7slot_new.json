@@ -244,6 +244,13 @@
       "type": "borderRadius",
       "description": "\n\n\n"
     },
+    "banner": {
+      "label": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius",
+        "description": "\n\n\n"
+      }
+    },
     "footer": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius",
@@ -3884,6 +3891,18 @@
         },
         "disabled": {
           "value": "{core.white.a0}",
+          "type": "color"
+        }
+      }
+    },
+    "banner": {
+      "label": {
+        "fill": {
+          "value": "{core.white.a5}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a10}",
           "type": "color"
         }
       }
