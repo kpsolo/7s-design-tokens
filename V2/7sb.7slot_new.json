@@ -2033,7 +2033,7 @@
     "shop": {
       "cost-indicator": {
         "text&icon": {
-          "value": "{semantic.text.brand.primary}",
+          "value": "{core.additionals.accent-secondary}",
           "type": "color"
         }
       },
