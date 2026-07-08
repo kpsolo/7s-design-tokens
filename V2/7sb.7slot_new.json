@@ -5332,25 +5332,25 @@
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.secondary.text.hover}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.secondary.text.active}",
+            "value": "{semantic.text.brand.primary}",
             "type": "color"
           }
         },
         "fill": {
           "normal": {
-            "value": "{contextual.button.secondary.fill.default}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.secondary.fill.hover}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.secondary.fill.active}",
+            "value": "{core.brand-10.400a10}",
             "type": "color"
           }
         },
@@ -5360,11 +5360,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.button.secondary.border-color.hover}",
+            "value": "{core.brand-10.600a40}",
             "type": "color"
           },
           "active": {
-            "value": "{contextual.button.secondary.border-color.active}",
+            "value": "{core.brand-10.500}",
             "type": "color"
           }
         }
