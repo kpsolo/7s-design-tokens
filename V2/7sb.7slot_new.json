@@ -402,6 +402,10 @@
     "thumb-games": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
+    },
+    "toggle": {
+      "value": "{border-radius.core.400}",
+      "type": "borderRadius"
     }
   },
   "card": {
@@ -4148,6 +4152,98 @@
               },
               "disabled": {
                 "value": "{core.grey.50a30}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "toggle": {
+          "fill": {
+            "selected": {
+              "default": {
+                "value": "{core.brand-10.400}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.300}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.300}",
+                "type": "color"
+              }
+            },
+            "unselected": {
+              "default": {
+                "value": "{core.grey.100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.grey.200}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.300}",
+                "type": "color"
+              }
+            }
+          },
+          "border": {
+            "selected": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              }
+            },
+            "unselected": {
+              "default": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.white.a0}",
+                "type": "color"
+              }
+            }
+          },
+          "bullet": {
+            "selected": {
+              "default": {
+                "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.200}",
+                "type": "color"
+              }
+            },
+            "unselected": {
+              "default": {
+                "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.white.a100}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.200}",
                 "type": "color"
               }
             }
