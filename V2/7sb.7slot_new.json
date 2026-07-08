@@ -3996,6 +3996,84 @@
             "value": "rgba(229, 137, 0, 0.50)",
             "type": "color"
           }
+        },
+        "radio-button": {
+          "fill": {
+            "unselected": {
+              "default": {
+                "value": "{core.brand-10.400a10}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.400a10}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.white.a5}",
+                "type": "color"
+              }
+            },
+            "selected": {
+              "default": {
+                "value": "{core.brand-10.400a10}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.400a10}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.white.a5}",
+                "type": "color"
+              }
+            }
+          },
+          "border": {
+            "unselected": {
+              "default": {
+                "value": "{core.brand-10.400}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.300}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.50a30}",
+                "type": "color"
+              }
+            },
+            "selected": {
+              "default": {
+                "value": "{core.brand-10.400}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.300}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.50a30}",
+                "type": "color"
+              }
+            }
+          },
+          "bullet": {
+            "selected": {
+              "default": {
+                "value": "{core.brand-10.400}",
+                "type": "color"
+              },
+              "hover": {
+                "value": "{core.brand-10.300}",
+                "type": "color"
+              },
+              "disabled": {
+                "value": "{core.grey.50a30}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "selection-block": {
