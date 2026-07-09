@@ -1119,9 +1119,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "3",
+        "blur": "0",
         "spread": "0",
-        "color": "rgba(48, 66, 94, 0.32)",
+        "color": "rgba(0, 0, 0, 0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -3669,7 +3669,7 @@
     "chips": {
       "bg": {
         "default": {
-          "value": "#F8F8F9",
+          "value": "rgba(186, 188, 194, 0.10)",
           "type": "color",
           "description": "use for tags bg in pregame - mob"
         },
