@@ -4245,6 +4245,11 @@
       "value": "42px",
       "type": "sizing",
       "description": "use tabs on strip page"
+    },
+    "test": {
+      "value": "{bg.blur-fun}",
+      "type": "sizing",
+      "description": "delete it's test"
     }
   },
   "min-height": {
