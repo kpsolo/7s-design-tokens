@@ -298,8 +298,8 @@
       "value": {
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.2}",
-        "fontSize": "{font-size.5}"
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Small titles"
@@ -440,9 +440,10 @@
     "title-2": {
       "value": {
         "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.6}"
+        "fontWeight": "{font-weight.3}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Page title"
@@ -502,7 +503,7 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.s}",
-        "textCase": "{text-case.uppercase}",
+        "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.none}",
         "fontSize": "11"
       },
@@ -2856,7 +2857,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #EDEDED 0%, rgba(237, 237, 237, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #31425E 0%, #252D40 100%)",
         "type": "color",
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
@@ -3023,7 +3024,7 @@
       "description": "for text,icons"
     },
     "accent-light": {
-      "value": "#E2F1FF",
+      "value": "{bg.additional}",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
     }
