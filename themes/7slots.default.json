@@ -2187,7 +2187,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "12px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
