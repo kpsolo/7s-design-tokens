@@ -3883,7 +3883,7 @@
       "description": "use for disabled icons in lists (loyalty)"
     },
     "secondary": {
-      "value": "{base.dark}",
+      "value": "{base.primary}",
       "type": "color",
       "description": "menu, bottom sheet"
     },
