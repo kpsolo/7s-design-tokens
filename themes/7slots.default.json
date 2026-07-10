@@ -1131,9 +1131,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "3",
+        "blur": "0",
         "spread": "0",
-        "color": "rgba(27, 49, 83, 0.32)",
+        "color": "rgba(0, 0, 0, 0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -2190,6 +2190,11 @@
       "value": "4px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
+    },
+    "pregame": {
+      "value": "12px",
+      "type": "borderRadius",
+      "description": "Radius for pregame tag"
     },
     "large-tips": {
       "value": "100px",
@@ -3674,7 +3679,7 @@
           "description": "use for tags bg in pregame - mob"
         },
         "default-additional": {
-          "value": "#fff",
+          "value": "rgba(186, 188, 194, 0.10)",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -3720,7 +3725,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.6",
+                "value": "0.8",
                 "space": "srgb"
               }
             }
