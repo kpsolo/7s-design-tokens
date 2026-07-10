@@ -2187,14 +2187,9 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "4px",
-      "type": "borderRadius",
-      "description": "Radius for small elements and widgets, notification in menu item"
-    },
-    "pregame": {
       "value": "12px",
       "type": "borderRadius",
-      "description": "Radius for pregame tag"
+      "description": "Radius for small elements and widgets, notification in menu item"
     },
     "large-tips": {
       "value": "100px",
