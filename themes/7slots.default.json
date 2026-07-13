@@ -2188,7 +2188,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "4px",
+      "value": "24px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
@@ -3138,7 +3138,7 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "{base.accent-light}",
+        "value": "rgba({base.accent-light} , 0)",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
@@ -3899,7 +3899,7 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "rgba(28, 33, 46, 0.80)",
+      "value": "rgba(255, 255, 255, 0.80)",
       "type": "color",
       "description": "icons in inputs (registration, profile)"
     },
@@ -3944,7 +3944,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+      "value": "linear-gradient(\n  180deg,\n  #FFFFFF80 0%,\n  #9BA1B1FF 100%\n)",
       "type": "color",
       "description": "for main icons in navbar"
     },
