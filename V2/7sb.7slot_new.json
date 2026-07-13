@@ -5918,6 +5918,20 @@
           }
         }
       }
+    },
+    "upload-files": {
+      "drag&drop": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-30.50a10}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-30.50}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
