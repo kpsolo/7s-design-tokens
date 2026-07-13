@@ -296,7 +296,7 @@
     },
     "title-small-strong": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}"
@@ -439,8 +439,8 @@
     },
     "title-2": {
       "value": {
-        "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.3}",
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.4}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.4}",
         "textCase": "{text-case.none}"
@@ -460,10 +460,10 @@
     },
     "title-2-light": {
       "value": {
-        "fontFamily": "{font-family.accent}",
+        "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.3}",
-        "fontSize": "{font-size.6}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "Page title"
@@ -500,12 +500,12 @@
     },
     "title-extrasmall": {
       "value": {
-        "fontFamily": "{font-family.accent}",
-        "fontWeight": "{font-weight.1}",
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.s}",
         "textCase": "{text-case.none}",
         "textDecoration": "{text-decoration.none}",
-        "fontSize": "11"
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Provider on thumbs"
