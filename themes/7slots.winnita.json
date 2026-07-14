@@ -202,7 +202,7 @@
         "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.s}",
         "fontSize": "16px",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Caption (unread)"
