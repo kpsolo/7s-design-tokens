@@ -5829,6 +5829,42 @@
             }
           }
         }
+      },
+      "verification-asset": {
+        "lines": {
+          "value": "{core.white.a25}",
+          "type": "color"
+        },
+        "card": {
+          "border": {
+            "value": "{core.grey.400}",
+            "type": "color"
+          },
+          "background": {
+            "primary": {
+              "value": "{core.grey.600}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{core.white.a5}",
+              "type": "color"
+            }
+          },
+          "content": {
+            "illustration": {
+              "value": "{core.grey.200}",
+              "type": "color"
+            },
+            "skeleton": {
+              "value": "{core.grey.300}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{core.grey.100}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "utility-button": {
