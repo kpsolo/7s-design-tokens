@@ -3170,6 +3170,11 @@
         "value": "{categories.bg.main}",
         "type": "color",
         "description": "Background for shop  price selection buttons "
+      },
+      "demo-buttons": {
+        "value": "rgba({base.primary}, 0.1)",
+        "type": "color",
+        "description": "Background for shop  price selection buttons "
       }
     },
     "icon": {

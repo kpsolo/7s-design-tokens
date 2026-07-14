@@ -2994,7 +2994,7 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "#DAE5FF",
+        "value": "#DAE5FF00",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
@@ -3649,7 +3649,7 @@
           "description": "use for tags text in pregame - mob"
         },
         "default-additional": {
-          "value": "#fff",
+          "value": "#000",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
