@@ -2621,7 +2621,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #E1D9FA 0%, rgba(225, 217, 250, 0.00) 100%)",
+        "value": "linear-gradient( 270deg, #101A32 0%, #101A3200 100% )",
         "type": "color",
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
@@ -3021,7 +3021,7 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "#E1D8FA",
+        "value": "#E1D8FA00",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
