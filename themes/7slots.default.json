@@ -274,6 +274,16 @@
       },
       "type": "typography"
     },
+    "button-text-demo": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
     "title-small": {
       "value": {
         "fontFamily": "{font-family.accent}",
@@ -2856,7 +2866,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #31425E 0%, #252D40 100%)",
+        "value": "linear-gradient(270deg, #2A364D 0%, #252D4000 100%)",
         "type": "color",
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },

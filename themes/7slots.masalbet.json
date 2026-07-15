@@ -142,6 +142,16 @@
       },
       "type": "typography"
     },
+    "button-text-demo": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
     "link-s": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -2876,6 +2886,11 @@
         "value": "#368E69",
         "type": "color",
         "description": "Background for button pressed state in ingame sticky menu"
+      },
+      "demo-buttons": {
+        "value": "rgba({base.primary}, 0.1)",
+        "type": "color",
+        "description": "Background for shop  price selection buttons "
       }
     },
     "icon": {

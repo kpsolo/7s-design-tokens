@@ -205,6 +205,16 @@
       },
       "type": "typography"
     },
+    "button-text-demo": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
     "title-small": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -3097,6 +3107,11 @@
         "value": "{categories.bg.main}",
         "type": "color",
         "description": "Background for shop  price selection buttons "
+      },
+      "demo-buttons": {
+        "value": "{categories.bg.main}",
+        "type": "color",
+        "description": "Background for demo button"
       }
     },
     "icon": {
