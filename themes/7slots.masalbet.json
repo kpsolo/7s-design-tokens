@@ -2651,7 +2651,7 @@
       "description": "use for active sport balance"
     },
     "technical2": {
-      "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
+      "value": "linear-gradient(120deg, #F4950790 5.23%, #A1722A 34.5%, #3C3C3C 91.86%)",
       "type": "color",
       "description": "for set by admin (card of Free Bets)"
     },
