@@ -6200,8 +6200,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strongest}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{md}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{md}"
       },
       "type": "typography"
     },
@@ -6210,8 +6209,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
-        "lineHeight": "{sm}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{sm}"
       },
       "type": "typography"
     },
@@ -6220,8 +6218,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strongest}",
         "fontSize": "{scale-2}",
-        "lineHeight": "{sm}",
-        "textCase": "{text-case.uppercase}"
+        "lineHeight": "{sm}"
       },
       "type": "typography"
     },
