@@ -416,6 +416,12 @@
     "toast&cookies": {
       "value": "{border-radius.core.300}",
       "type": "borderRadius"
+    },
+    "gamehall": {
+      "thumb-providers": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
+      }
     }
   },
   "card": {
@@ -8437,6 +8443,16 @@
         "value": "20px",
         "type": "dimension"
       }
+    },
+    "gamehall": {
+      "thumb-providers": {
+        "value": "64px",
+        "type": "dimension"
+      }
+    },
+    "progress-bar": {
+      "value": "{blur.200}",
+      "type": "dimension"
     }
   },
   "depth": {
