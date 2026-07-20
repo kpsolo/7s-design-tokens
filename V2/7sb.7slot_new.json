@@ -5969,6 +5969,18 @@
             }
           }
         }
+      },
+      "card": {
+        "background": {
+          "fill": {
+            "value": "{core.brand-60.600}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          }
+        }
       }
     },
     "upload-files": {
