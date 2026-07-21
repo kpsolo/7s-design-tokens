@@ -252,7 +252,7 @@
       }
     },
     "footer": {
-      "value": "{border-radius.core.300}",
+      "value": "{border-radius.core.0}",
       "type": "borderRadius",
       "description": "\n\n\n"
     },
