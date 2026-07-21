@@ -4934,6 +4934,14 @@
         "border": {
           "value": "{core.white.a0}",
           "type": "color"
+        },
+        "fill-v2": {
+          "value": "linear-gradient(93deg, rgba(40, 127, 159, 0.80) 14.02%, rgba(23, 98, 127, 0.80) 57.01%, rgba(18, 74, 101, 0.80) 100%)",
+          "type": "color"
+        },
+        "divider": {
+          "value": "{core.white.a60}",
+          "type": "color"
         }
       },
       "overlay": {
