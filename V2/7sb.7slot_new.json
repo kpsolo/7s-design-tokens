@@ -4301,7 +4301,7 @@
       "item": {
         "fill": {
           "default": {
-            "value": "{semantic.background.slate-1}",
+            "value": "{semantic.background.slate-2}",
             "type": "color"
           },
           "selected": {
@@ -4788,7 +4788,7 @@
         }
       },
       "fill": {
-        "value": "{semantic.background.slate-1}",
+        "value": "{semantic.background.slate-2}",
         "type": "color"
       },
       "text": {
