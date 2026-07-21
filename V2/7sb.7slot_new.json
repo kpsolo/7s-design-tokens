@@ -3576,6 +3576,10 @@
             "fill": {
               "value": "{core.white.a8}",
               "type": "color"
+            },
+            "icon": {
+              "value": "{core.white.a100}",
+              "type": "color"
             }
           },
           "border": {
