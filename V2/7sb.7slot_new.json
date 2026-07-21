@@ -5356,7 +5356,7 @@
           },
           "fill": {
             "special": {
-              "value": "{semantic.gradients.7}",
+              "value": "{semantic.background.brand.primary.default}",
               "type": "color"
             }
           }
