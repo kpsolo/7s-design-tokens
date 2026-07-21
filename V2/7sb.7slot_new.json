@@ -8815,6 +8815,10 @@
         "value": "{spacing.200}",
         "type": "spacing"
       }
+    },
+    "padding-horizontal": {
+      "value": "{spacing.300}",
+      "type": "spacing"
     }
   },
   "datepicker": {
