@@ -2914,6 +2914,12 @@
           "value": "{core.white.a8}",
           "type": "color"
         }
+      },
+      "zero-block": {
+        "fill": {
+          "value": "{semantic.background.slate-3}",
+          "type": "color"
+        }
       }
     },
     "notifications": {
