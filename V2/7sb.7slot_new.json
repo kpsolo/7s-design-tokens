@@ -6029,6 +6029,53 @@
             "type": "color"
           }
         }
+      },
+      "dropdown": {
+        "background": {
+          "fill": {
+            "value": "{core.grey.900}",
+            "type": "color"
+          }
+        }
+      },
+      "prize": {
+        "card": {
+          "background": {
+            "fill": {
+              "value": "{core.grey.200}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": "0.4",
+                    "space": "lch"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "popup": {
+        "prize": {
+          "item": {
+            "text": {
+              "value": "{semantic.text.default.primary}",
+              "type": "color"
+            },
+            "heading": {
+              "default": {
+                "value": "{semantic.text.default.heading}",
+                "type": "color"
+              },
+              "active": {
+                "value": "{semantic.text.brand.primary}",
+                "type": "color"
+              }
+            }
+          }
+        }
       }
     },
     "upload-files": {
