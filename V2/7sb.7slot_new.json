@@ -1339,7 +1339,7 @@
               "y": "0",
               "blur": "45",
               "spread": "0",
-              "color": "{core.brand-10.a40}",
+              "color": "rgba(254, 182, 0, 0.45)",
               "type": "innerShadow"
             },
             {
