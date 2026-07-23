@@ -2900,12 +2900,40 @@
           "inactive": {
             "value": "{core.brand-30.500a10}",
             "type": "color"
+          },
+          "received": {
+            "activities": {
+              "value": "linear-gradient(135deg, rgba(113, 44, 200, 0.54) 14%, rgba(113, 44, 200, 0.16) 41%, rgba(113, 44, 200, 0) 63%)",
+              "type": "color"
+            },
+            "wins": {
+              "value": "linear-gradient(135deg, rgba(165, 59, 170, 0.54) 14%, rgba(165, 59, 170, 0.16) 39%, rgba(165, 59, 170, 0) 58%)",
+              "type": "color"
+            },
+            "offers-block": {
+              "value": "linear-gradient(135deg, rgba(59, 160, 198, 0.54) 15%, rgba(59, 160, 198, 0.16) 39%, rgba(59, 160, 198, 0) 57%)",
+              "type": "color"
+            }
           }
         },
         "border": {
           "default": {
             "value": "{core.white.a25}",
             "type": "color"
+          },
+          "received": {
+            "activities": {
+              "value": "linear-gradient(165deg, rgba(169, 107, 235, 1) 16%, rgba(164, 117, 216, 0.43) 49%, rgba(134, 76, 198, 1) 74%)",
+              "type": "color"
+            },
+            "wins": {
+              "value": "linear-gradient(165deg, rgba(194, 77, 196, 1) 9%, rgba(196, 75, 198, 0.43) 48%, rgba(193, 82, 195, 1) 79%)",
+              "type": "color"
+            },
+            "offers-block": {
+              "value": "linear-gradient(174deg, rgba(59, 160, 198, 1) 12%, rgba(59, 160, 198, 0.43) 48%, rgba(59, 160, 198, 1) 77%)",
+              "type": "color"
+            }
           }
         },
         "divider": {
@@ -2917,11 +2945,37 @@
         "slate-on-card": {
           "value": "{core.white.a8}",
           "type": "color"
+        },
+        "reward": {
+          "fill": {
+            "value": "linear-gradient(155deg, rgba(60, 41, 174, 0.54) 10%, rgba(56, 22, 151, 0.20) 37%, rgba(42, 11, 129, 0) 56%)",
+            "type": "color"
+          },
+          "border": {
+            "value": "linear-gradient(165deg, rgba(134, 121, 213, 1) 16%, rgba(112, 103, 215, 0.43) 49%, rgba(104, 95, 202, 1) 74%)",
+            "type": "color"
+          }
         }
       },
       "zero-block": {
         "fill": {
-          "value": "{semantic.background.slate-3}",
+          "value": "{core.white.a5}",
+          "type": "color"
+        }
+      },
+      "offers-block": {
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(35, 97, 118, 0.89) 5%, rgba(39, 85, 101, 0) 100%)",
+          "type": "color"
+        }
+      },
+      "banner": {
+        "fill": {
+          "value": "linear-gradient(360deg, rgba(81, 122, 175, 0) 0%, rgba(81, 122, 175, 0.4) 100%)",
+          "type": "color"
+        },
+        "border": {
+          "value": "{core.white.a20}",
           "type": "color"
         }
       }
