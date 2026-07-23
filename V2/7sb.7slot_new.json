@@ -1928,6 +1928,10 @@
           "default": {
             "value": "{core.white.a85}",
             "type": "color"
+          },
+          "info": {
+            "value": "{core.additionals.validation.info}",
+            "type": "color"
           }
         }
       },
@@ -2890,7 +2894,7 @@
       "card": {
         "fiill": {
           "default": {
-            "value": "{core.brand-30.800a20}",
+            "value": "{core.white.a8}",
             "type": "color"
           },
           "inactive": {
@@ -2900,7 +2904,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         },
