@@ -55,7 +55,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "Caption"
@@ -3082,6 +3082,11 @@
         "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
         "description": "Text color on tertiary disabled button"
+      },
+      "demo-copy": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Text color on demo button"
       }
     }
   },

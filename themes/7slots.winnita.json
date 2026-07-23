@@ -376,7 +376,7 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.3}",
         "fontSize": "{font-size.extra-2}",
-        "textCase": "{text-case.uppercase}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Page title"
@@ -1459,7 +1459,7 @@
         "y": "0",
         "blur": "3",
         "spread": "0",
-        "color": "rgba(27, 49, 83, 0.32)",
+        "color": "rgba(0, 0, 0, 0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -3039,7 +3039,7 @@
         "description": "Background for shop  price selection buttons "
       },
       "demo-buttons": {
-        "value": "{categories.bg.main}",
+        "value": "#DEE8FF",
         "type": "color",
         "description": "Background for demo button"
       }
@@ -3236,6 +3236,16 @@
       },
       "ghost-disabled": {
         "value": "{button.text.tertiary-disabled}",
+        "type": "color",
+        "description": "Text color on ghost disabled button"
+      },
+      "demo": {
+        "value": "{text.content}",
+        "type": "color",
+        "description": "Text color on ghost disabled button"
+      },
+      "demo-copy": {
+        "value": "{text.content}",
         "type": "color",
         "description": "Text color on ghost disabled button"
       }
@@ -3629,17 +3639,8 @@
           "description": "use for tags bg in pregame for hover/focuced/pressed- mob"
         },
         "default-additional": {
-          "value": "#fff",
+          "value": "{bg.additional}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "srgb"
-              }
-            }
-          },
           "description": "use for tags bg in pregame - desktop"
         },
         "states-additional": {
@@ -5319,7 +5320,7 @@
         "description": "use for cards bg"
       },
       "overlay": {
-        "value": "rgba(255, 255, 255, 0.16)",
+        "value": "{bg.additional}",
         "type": "color",
         "description": "use for bullets bg"
       },

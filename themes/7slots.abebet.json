@@ -79,7 +79,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "Caption"
@@ -3270,6 +3270,11 @@
         "value": "{button.text.tertiary-light-disabled}",
         "type": "color",
         "description": "Text color on quaternary disabled button"
+      },
+      "demo": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Text color on demo button"
       }
     }
   },
