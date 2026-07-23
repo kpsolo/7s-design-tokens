@@ -2965,7 +2965,7 @@
       },
       "offers-block": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(35, 97, 118, 0.89) 5%, rgba(39, 85, 101, 0) 100%)",
+          "value": "linear-gradient(180deg, rgba(35, 97, 118, 0.89) 5%, rgba(39, 85, 101, 0.24) 100%)",
           "type": "color"
         }
       },
