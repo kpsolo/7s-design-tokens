@@ -5376,7 +5376,7 @@
           }
         },
         "fill": {
-          "value": "{contextual.deals.welcome-bonus-card.background.active}",
+          "value": "linear-gradient(151deg, #4D3175 20.25%, #382045 36.91%, #261D28 50.6%, #1C212E 79.75%)",
           "type": "color"
         },
         "border": {
