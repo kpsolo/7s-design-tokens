@@ -2235,7 +2235,7 @@
               "type": "color"
             },
             "disabled": {
-              "value": "{core.brand-30.a25}",
+              "value": "{core.brand-30.500a10}",
               "type": "color"
             },
             "active": {
@@ -2310,7 +2310,7 @@
         },
         "results": {
           "fill": {
-            "value": "{core.grey.a20}",
+            "value": "{core.white.a20}",
             "type": "color"
           },
           "border": {
