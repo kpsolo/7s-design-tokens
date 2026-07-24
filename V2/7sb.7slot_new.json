@@ -2231,7 +2231,7 @@
           },
           "text": {
             "default": {
-              "value": "{core.brand-30.a60}",
+              "value": "{core.brand-30.600a60}",
               "type": "color"
             },
             "disabled": {
@@ -4529,7 +4529,7 @@
         },
         "border": {
           "default": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.brand-60.500a10}",
             "type": "color"
           },
           "hover": {
