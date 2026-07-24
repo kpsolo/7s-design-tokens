@@ -688,9 +688,7 @@
       "shadow.progress.circle.progress": "S:6717987b64bc31458d7c0d62aa40e275a8bcfeb8,",
       "shadow.ingame.mob.bonus-talisman": "S:c6b021cc96af3d9e5a591588d46333910ff43705,"
     },
-    "selectedTokenSets": {
-      "Awi.Maggico": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {
       "main": "59fc44681846b3a7470578bfd57b023c2a811991",
       "accent": "bd0d1c14c20a9fbc28635750b76dace47e12098d",
@@ -2070,9 +2068,7 @@
       "contextual.status.content.transparency.default": "S:3127279be4d3f6dcf8afadc2349121f01fa92694,",
       "text.sm-stronger": "S:c0858a2fa670717a1b0c622afcf087231400912c,"
     },
-    "selectedTokenSets": {
-      "7sb.7slot": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {
       "main": "6320f467b711a33bcb1b514a053e9cadd3921c34",
       "accent": "3c38b356b9e6a9f887e75e3e77870e7966abbf35",
