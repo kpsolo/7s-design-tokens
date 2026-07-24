@@ -2938,7 +2938,7 @@
         },
         "divider": {
           "1": {
-            "value": "{core.brand-30.a25}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         },
@@ -3132,10 +3132,6 @@
     },
     "progress": {
       "circle": {
-        "border": {
-          "value": "{core.brand-10.a25}",
-          "type": "color"
-        },
         "progress": {
           "value": "rgba(254, 182, 0, 0.01)",
           "type": "color"
@@ -3147,7 +3143,7 @@
       },
       "progress-thumb": {
         "border": {
-          "value": "{core.brand-10.a25}",
+          "value": "{core.white.a10}",
           "type": "color"
         },
         "progress": {
@@ -3499,7 +3495,7 @@
         },
         "icon": {
           "default": {
-            "value": "{core.brand-30.a50}",
+            "value": "{core.brand-30.50a25}",
             "type": "color"
           },
           "active": {
@@ -3571,12 +3567,12 @@
         },
         "bonus-talisman": {
           "fill": {
-            "value": "{core.brand-10.a25}",
+            "value": "{core.brand-10.700a60}",
             "type": "color",
             "description": "Bonus/Talisman"
           },
           "divider": {
-            "value": "{core.brand-10.a25}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         }
@@ -3652,7 +3648,7 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.brand-10.a50}",
+              "value": "{core.white.a50}",
               "type": "color"
             }
           },
@@ -4478,12 +4474,12 @@
       },
       "scroll-horizontal": {
         "fill": {
-          "value": "{core.brand-30.a25}",
+          "value": "{core.brand-30.50a25}",
           "type": "color"
         },
         "static": {
           "fill": {
-            "value": "{core.brand-60.a20}",
+            "value": "{core.white.a20}",
             "type": "color"
           },
           "dot": {
@@ -4537,7 +4533,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-60.a15}",
+            "value": "{core.white.a20}",
             "type": "color"
           }
         }
