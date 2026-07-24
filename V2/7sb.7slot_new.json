@@ -4878,7 +4878,7 @@
         }
       },
       "devider": {
-        "value": "{core.brand-60.a25}",
+        "value": "{core.white.a25}",
         "type": "color"
       },
       "item": {
@@ -4992,7 +4992,7 @@
           }
         },
         "devider": {
-          "value": "{core.grey.a20}",
+          "value": "{core.grey.800a20}",
           "type": "color"
         },
         "border": {
