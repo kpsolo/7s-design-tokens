@@ -65,7 +65,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.5}"
       },
       "type": "typography",
       "description": "Caption"
@@ -271,6 +271,16 @@
         "lineHeight": "{line-height.m}",
         "fontSize": "{font-size.4}",
         "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography"
+    },
+    "button-text-demo": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -1119,9 +1129,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "3",
+        "blur": "0",
         "spread": "0",
-        "color": "rgba(48, 66, 94, 0.32)",
+        "color": "rgba(0, 0, 0, 0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -1131,9 +1141,9 @@
       "value": {
         "x": "0",
         "y": "0",
-        "blur": "3",
+        "blur": "0",
         "spread": "0",
-        "color": "rgba(27, 49, 83, 0.32)",
+        "color": "rgba(0, 0, 0, 0)",
         "type": "dropShadow"
       },
       "type": "boxShadow",
@@ -2187,7 +2197,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "4px",
+      "value": "24px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
@@ -2856,7 +2866,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #EDEDED 0%, rgba(237, 237, 237, 0.00) 100%)",
+        "value": "linear-gradient(270deg, #2A364D 0%, #252D4000 100%)",
         "type": "color",
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
@@ -2920,6 +2930,11 @@
       "value": "24px",
       "type": "dimension",
       "description": "use for circle elements on primary bg"
+    },
+    "blur-referral": {
+      "value": "150px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
     },
     "blur-achivements": {
       "value": "18px",
@@ -3023,7 +3038,7 @@
       "description": "for text,icons"
     },
     "accent-light": {
-      "value": "#E2F1FF",
+      "value": "{bg.additional}",
       "type": "color",
       "description": "Color for app button and bg under games in bottom sheet"
     }
@@ -3137,7 +3152,7 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "{base.accent-light}",
+        "value": "rgba({base.accent-light} , 0)",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
@@ -3168,6 +3183,11 @@
       },
       "selection-buttons": {
         "value": "{categories.bg.main}",
+        "type": "color",
+        "description": "Background for shop  price selection buttons "
+      },
+      "demo-buttons": {
+        "value": "rgba({base.primary}, 0.1)",
         "type": "color",
         "description": "Background for shop  price selection buttons "
       }
@@ -3366,6 +3386,11 @@
         "value": "rgba(255, 255, 255, 0.50)",
         "type": "color",
         "description": "Text color on tertiary disabled button"
+      },
+      "demo": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Text color on demo button"
       }
     }
   },
@@ -3669,12 +3694,12 @@
     "chips": {
       "bg": {
         "default": {
-          "value": "#F8F8F9",
+          "value": "rgba(186, 188, 194, 0.10)",
           "type": "color",
           "description": "use for tags bg in pregame - mob"
         },
         "default-additional": {
-          "value": "#fff",
+          "value": "rgba(186, 188, 194, 0.10)",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -3720,7 +3745,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.6",
+                "value": "0.8",
                 "space": "srgb"
               }
             }
@@ -3883,7 +3908,7 @@
       "description": "use for disabled icons in lists (loyalty)"
     },
     "secondary": {
-      "value": "{base.dark}",
+      "value": "{base.primary}",
       "type": "color",
       "description": "menu, bottom sheet"
     },
@@ -3898,7 +3923,7 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "rgba(28, 33, 46, 0.80)",
+      "value": "rgba(255, 255, 255, 0.80)",
       "type": "color",
       "description": "icons in inputs (registration, profile)"
     },
@@ -3943,7 +3968,7 @@
       "description": "For social icons in menu "
     },
     "ghost-1": {
-      "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
+      "value": "linear-gradient(\n  180deg,\n  #FFFFFF80 0%,\n  #9BA1B1FF 100%\n)",
       "type": "color",
       "description": "for main icons in navbar"
     },

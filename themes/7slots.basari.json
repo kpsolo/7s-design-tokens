@@ -55,7 +55,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.4}"
       },
       "type": "typography",
       "description": "Caption"
@@ -202,6 +202,16 @@
         "fontSize": "{font-size.3}",
         "letterSpacing": "{letter-spacing.0,5}",
         "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography"
+    },
+    "button-text-demo": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography"
     },
@@ -2629,7 +2639,7 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(270deg, #EDEDED 0%, rgba(237, 237, 237, 0.00) 100%)",
+        "value": "linear-gradient(\n  270deg,\n  rgba({bg.primary}, 0.4) 0%,\n  rgba({bg.secondary}, 0.4) 100%\n)",
         "type": "color",
         "description": "fade on pregame popup\n\n[based on base accent light]"
       },
@@ -3059,7 +3069,7 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "linear-gradient(177deg, #F4F4F4 2%, #DCDCDC 100%)",
+        "value": "linear-gradient(\n  177deg,\n  #F4F4F400 2%,\n  #DCDCDC00 100%\n)",
         "type": "color",
         "description": "Background for bottom part and button in pregame modal"
       },
@@ -3097,6 +3107,11 @@
         "value": "{categories.bg.main}",
         "type": "color",
         "description": "Background for shop  price selection buttons "
+      },
+      "demo-buttons": {
+        "value": "{categories.bg.main}",
+        "type": "color",
+        "description": "Background for demo button"
       }
     },
     "icon": {
@@ -3293,6 +3308,11 @@
         "value": "{button.text.tertiary-light-disabled}",
         "type": "color",
         "description": "Text color on quaternary disabled button"
+      },
+      "demo": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "Text color on demo button"
       }
     }
   },
