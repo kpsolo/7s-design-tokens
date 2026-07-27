@@ -1468,7 +1468,7 @@
               "y": "{depth.025}",
               "blur": "{depth.0}",
               "spread": "{depth.0}",
-              "color": "{core.brand-10.a50}",
+              "color": "{core.brand-10.600a40}",
               "type": "innerShadow"
             }
           ],
