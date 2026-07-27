@@ -2931,6 +2931,11 @@
       "type": "dimension",
       "description": "use for circle elements on primary bg"
     },
+    "blur-referral": {
+      "value": "150px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
+    },
     "blur-achivements": {
       "value": "18px",
       "type": "dimension",
@@ -4265,11 +4270,6 @@
       "value": "42px",
       "type": "sizing",
       "description": "use tabs on strip page"
-    },
-    "test": {
-      "value": "{bg.blur-fun}",
-      "type": "sizing",
-      "description": "delete it's test"
     }
   },
   "min-height": {

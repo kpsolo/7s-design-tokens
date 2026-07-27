@@ -3243,11 +3243,6 @@
         "value": "{text.content}",
         "type": "color",
         "description": "Text color on ghost disabled button"
-      },
-      "demo-copy": {
-        "value": "{text.content}",
-        "type": "color",
-        "description": "Text color on ghost disabled button"
       }
     }
   },
@@ -5320,7 +5315,7 @@
         "description": "use for cards bg"
       },
       "overlay": {
-        "value": "{bg.additional}",
+        "value": "rgba(255, 255, 255, 0.16)",
         "type": "color",
         "description": "use for bullets bg"
       },

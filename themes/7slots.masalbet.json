@@ -3083,7 +3083,7 @@
         "type": "color",
         "description": "Text color on tertiary disabled button"
       },
-      "demo-copy": {
+      "demo": {
         "value": "{base.light}",
         "type": "color",
         "description": "Text color on demo button"
