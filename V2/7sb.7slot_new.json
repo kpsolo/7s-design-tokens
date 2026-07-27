@@ -747,62 +747,6 @@
         "type": "border"
       }
     },
-    "tabs": {
-      "line": {
-        "value": {
-          "color": "{contextual.tabs.line}",
-          "width": "{depth.025}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "item": {
-        "default": {
-          "value": {
-            "color": "{contextual.tabs.item.line.default}",
-            "width": "3px",
-            "style": "solid"
-          },
-          "type": "border"
-        },
-        "active": {
-          "value": {
-            "color": "{contextual.tabs.item.line.active}",
-            "width": "3px",
-            "style": "solid"
-          },
-          "type": "border"
-        },
-        "disabled": {
-          "value": {
-            "color": "{contextual.tabs.item.line.disabled}",
-            "width": "3px",
-            "style": "solid"
-          },
-          "type": "border"
-        }
-      },
-      "pop-up": {
-        "item": {
-          "active": {
-            "value": {
-              "color": "{core.brand-10.600}",
-              "width": "3px",
-              "style": "solid"
-            },
-            "type": "border"
-          },
-          "default": {
-            "value": {
-              "color": "{contextual.tabs.pop-up.line}",
-              "width": "1px",
-              "style": "solid"
-            },
-            "type": "border"
-          }
-        }
-      }
-    },
     "devider2": {
       "value": {
         "color": "{contextual.divider2}",
