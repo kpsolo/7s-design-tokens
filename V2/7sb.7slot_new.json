@@ -7950,7 +7950,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{semantic.background.brand.tertiary.default}",
+            "value": "{core.white.a0}",
             "type": "color"
           },
           "active": {
