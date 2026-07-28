@@ -1854,6 +1854,30 @@
         }
       }
     },
+    "welcome-bonus": {
+      "progress": {
+        "active": {
+          "value": "{core.brand-10.400}",
+          "type": "color"
+        },
+        "steps": {
+          "steps": {
+            "fill": {
+              "value": "{core.brand-10.400}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{core.brand-10.400}",
+              "type": "color"
+            }
+          }
+        },
+        "inactive": {
+          "value": "{core.white.a40}",
+          "type": "color"
+        }
+      }
+    },
     "status": {
       "content": {
         "transparency": {
