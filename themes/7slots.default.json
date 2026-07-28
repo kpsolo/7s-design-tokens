@@ -2955,6 +2955,22 @@
       "value": "#252D40",
       "type": "color",
       "description": "use for cash popups bg"
+    },
+    "thumb": {
+      "placeholder-fill": {
+        "value": "{bg.tertiary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.32",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "color for thumb placeholder"
+      }
     }
   },
   "nav": {
