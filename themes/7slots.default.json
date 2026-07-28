@@ -3425,6 +3425,11 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
+      },
+      "label-thumb-my games": {
+        "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
+        "type": "color",
+        "description": "Color for label thumb my games widget"
       }
     },
     "widget": {
