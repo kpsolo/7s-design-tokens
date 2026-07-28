@@ -70,26 +70,6 @@
       "type": "typography",
       "description": "Caption"
     },
-    "body-card-fun": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
-      },
-      "type": "typography",
-      "description": "Caption"
-    },
-    "caption-small-strong": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
-      },
-      "type": "typography",
-      "description": "Caption (unread)"
-    },
     "caption-small-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -110,15 +90,14 @@
       "type": "typography",
       "description": "timer-welcome-bonus-stronger - text bonus"
     },
-    "body-1": {
+    "body-timer-welcome-bonus-desktop-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}"
       },
-      "type": "typography",
-      "description": "Body"
+      "type": "typography"
     },
     "body-timer-welcome-bonus-desktop": {
       "value": {
@@ -129,6 +108,25 @@
       },
       "type": "typography",
       "description": "Body"
+    },
+    "body-1-strong": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.4}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography",
+      "description": "Body (unread), button"
+    },
+    "body-1-stronger": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography"
     },
     "body-1-cross": {
       "value": {
@@ -141,42 +139,15 @@
       "type": "typography",
       "description": "Body"
     },
-    "body-1-stronger": {
+    "body-1": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}"
-      },
-      "type": "typography"
-    },
-    "body-timer-welcome-bonus-desktop-stronger": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}"
-      },
-      "type": "typography"
-    },
-    "text-fun-sum": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}"
-      },
-      "type": "typography"
-    },
-    "body-1-strong": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.4}",
+        "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}"
       },
       "type": "typography",
-      "description": "Body (unread), button"
+      "description": "Body"
     },
     "body-1-strong-cross": {
       "value": {
@@ -188,12 +159,41 @@
       },
       "type": "typography"
     },
-    "button-text-sm": {
+    "body-card-fun": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}"
+      },
+      "type": "typography",
+      "description": "Caption"
+    },
+    "text-fun-sum": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography"
+    },
+    "caption-small-strong": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}"
+      },
+      "type": "typography",
+      "description": "Caption (unread)"
+    },
+    "button-text-lg": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
@@ -209,27 +209,36 @@
       "type": "typography",
       "description": "small button in pregame"
     },
-    "link-s": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "textDecoration": "{text-decoration.none}"
-      },
-      "type": "typography",
-      "description": "Link text"
-    },
-    "link-s-hover": {
+    "button-text-demo": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography"
+    },
+    "button-text-sm": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.2}",
+        "textCase": "{text-case.uppercase}"
+      },
+      "type": "typography"
+    },
+    "button-text-app": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.3}",
-        "textDecoration": "{text-decoration.underline}"
+        "textCase": "{text-case.capitalize}"
       },
       "type": "typography",
-      "description": "Link text"
+      "description": "Caption (unread)"
     },
     "link-m": {
       "value": {
@@ -253,36 +262,49 @@
       "type": "typography",
       "description": "Link text"
     },
-    "button-text-app": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.s}",
-        "fontSize": "{font-size.3}",
-        "textCase": "{text-case.capitalize}"
-      },
-      "type": "typography",
-      "description": "Caption (unread)"
-    },
-    "button-text-lg": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.4}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography"
-    },
-    "button-text-demo": {
+    "link-s-hover": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.4}",
-        "textCase": "{text-case.none}"
+        "fontSize": "{font-size.3}",
+        "textDecoration": "{text-decoration.underline}"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "Link text"
+    },
+    "link-s": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Link text"
+    },
+    "refferal-program": {
+      "rate-primary": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "{line-height.1}",
+          "fontSize": "{font-size.4}"
+        },
+        "type": "typography",
+        "description": "use for primary rate lable"
+      },
+      "rate-secondary": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.0}",
+          "lineHeight": "{line-height.sm}",
+          "fontSize": "{font-size.3}"
+        },
+        "type": "typography",
+        "description": "use for rate lable"
+      }
     },
     "title-small": {
       "value": {
@@ -2277,6 +2299,65 @@
     "02": {
       "value": "20%",
       "type": "opacity"
+    }
+  },
+  "refferal-program": {
+    "card": {
+      "opacity 1": {
+        "value": "30%",
+        "type": "opacity",
+        "description": "use for refferal-program element"
+      },
+      "opacity 2": {
+        "value": "7%",
+        "type": "opacity",
+        "description": "use for refferal-program element"
+      },
+      "bg": {
+        "value": "linear-gradient(96deg, #44A6A5 5.85%, #2A70BC 95.66%)",
+        "type": "color",
+        "description": "use as bg for refferal program"
+      },
+      "accent text 3": {
+        "value": "linear-gradient(-270deg, #44A6A5 6%, #2A70BC 96%)",
+        "type": "color",
+        "description": "use as bg for refferal program"
+      },
+      "text accent 1": {
+        "value": "linear-gradient(360deg, #A3FF9C 27%, #CEFFE4 99%)",
+        "type": "color",
+        "description": "use as bg for sum text"
+      },
+      "border": {
+        "value": "linear-gradient(150deg, rgba(255,255,255,.3) 0%, rgba(255,255,255,0) 34%, rgba(255,255,255,0) 70%, rgba(255,255,255,.3) 100%)",
+        "type": "color",
+        "description": "border for refferal card"
+      },
+      "bg-lable": {
+        "value": "rgba(55, 76, 109, 0.3)",
+        "type": "color",
+        "description": "use as bg for refferal program lable"
+      },
+      "progress": {
+        "value": "linear-gradient(-270deg, #CEFFE4 99%, #A3FF9C 48%)",
+        "type": "color",
+        "description": "use as bg for progress"
+      },
+      "text primary": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "use as bg for primary text"
+      },
+      "text secondary": {
+        "value": "rgba(255, 255, 255, 0.9)",
+        "type": "color",
+        "description": "use as bg for secondary text"
+      },
+      "accent 2": {
+        "value": "{base.accent-secondary}",
+        "type": "color",
+        "description": "use as bg for withdraw text"
+      }
     }
   },
   "bg": {
