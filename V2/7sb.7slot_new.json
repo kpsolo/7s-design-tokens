@@ -7006,7 +7006,7 @@
         "description": "replacement.sand 300 (15%)\n"
       },
       "700a60": {
-        "value": "{core.grey.700}",
+        "value": "{core.brand-60.700}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
