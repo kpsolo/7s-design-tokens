@@ -7910,7 +7910,7 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.white.a10}",
             "type": "color"
           },
           "hover": {
