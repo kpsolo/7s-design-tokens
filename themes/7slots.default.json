@@ -285,7 +285,7 @@
       "description": "Link text"
     },
     "refferal-program": {
-      "rate-primary": {
+      "text-strong": {
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.2}",
@@ -295,7 +295,7 @@
         "type": "typography",
         "description": "use for primary rate lable"
       },
-      "rate-secondary": {
+      "text-regular": {
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.0}",
@@ -303,7 +303,47 @@
           "fontSize": "{font-size.3}"
         },
         "type": "typography",
-        "description": "use for rate lable"
+        "description": "use for thin text in reff cards"
+      },
+      "earning-numbers": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "{line-height.4}",
+          "fontSize": "{font-size.7}"
+        },
+        "type": "typography",
+        "description": "use for earnings numbers"
+      },
+      "earning-currency": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "{line-height.2}",
+          "fontSize": "{font-size.5}"
+        },
+        "type": "typography",
+        "description": "use for earnings currency"
+      },
+      "no-qualification-number": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "96",
+          "fontSize": "96"
+        },
+        "type": "typography",
+        "description": "use for no qualification numbers"
+      },
+      "no-qualification-percent": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "78",
+          "fontSize": "72"
+        },
+        "type": "typography",
+        "description": "use for no qualification percent"
       }
     },
     "title-small": {
@@ -2271,38 +2311,18 @@
       "description": "use for elements with large radius  - golden tickets bages in lottery"
     }
   },
-  "opacity": {
-    "08": {
-      "value": "80%",
-      "type": "opacity"
-    },
-    "06": {
-      "value": "60%",
-      "type": "opacity"
-    },
-    "00": {
-      "value": "0",
-      "type": "opacity"
-    },
-    "09": {
-      "value": "90%",
-      "type": "opacity"
-    },
-    "04": {
-      "value": "40%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "10%",
-      "type": "opacity"
-    },
-    "02": {
-      "value": "20%",
-      "type": "opacity"
-    }
-  },
   "refferal-program": {
     "card": {
+      "radius": {
+        "value": "{radius.card}",
+        "type": "borderRadius",
+        "description": "Radius for reff cards"
+      },
+      "radius-progress-line": {
+        "value": "{radius.item}",
+        "type": "borderRadius",
+        "description": "Radius for progress line"
+      },
       "opacity 1": {
         "value": "30%",
         "type": "opacity",
@@ -2348,6 +2368,20 @@
         "type": "color",
         "description": "use as bg for primary text"
       },
+      "progress 2": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "use as bg for progress line secondary"
+      },
       "text secondary": {
         "value": "rgba(255, 255, 255, 0.9)",
         "type": "color",
@@ -2358,6 +2392,36 @@
         "type": "color",
         "description": "use as bg for withdraw text"
       }
+    }
+  },
+  "opacity": {
+    "08": {
+      "value": "80%",
+      "type": "opacity"
+    },
+    "06": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "00": {
+      "value": "0",
+      "type": "opacity"
+    },
+    "09": {
+      "value": "90%",
+      "type": "opacity"
+    },
+    "04": {
+      "value": "40%",
+      "type": "opacity"
+    },
+    "01": {
+      "value": "10%",
+      "type": "opacity"
+    },
+    "02": {
+      "value": "20%",
+      "type": "opacity"
     }
   },
   "bg": {
