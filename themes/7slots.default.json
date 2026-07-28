@@ -2958,17 +2958,8 @@
     },
     "thumb": {
       "placeholder-fill": {
-        "value": "{bg.tertiary}",
+        "value": "rgba(28, 33, 46, 0.4)",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.32",
-              "space": "lch"
-            }
-          }
-        },
         "description": "color for thumb placeholder"
       }
     }

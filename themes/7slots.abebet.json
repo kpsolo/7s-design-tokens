@@ -2867,6 +2867,13 @@
       "value": "#271743",
       "type": "color",
       "description": "use for cash popups bg"
+    },
+    "thumb": {
+      "placeholder-fill": {
+        "value": "rgba(255, 255, 255, 0.04)",
+        "type": "color",
+        "description": "color for thumb placeholder"
+      }
     }
   },
   "nav": {
@@ -3322,6 +3329,10 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
+      },
+      "label-thumb-my games": {
+        "value": "#891DDD",
+        "type": "color"
       }
     },
     "scrollbar": {

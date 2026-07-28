@@ -2807,6 +2807,13 @@
       "value": "rgba(255, 255, 255, 0.2)",
       "type": "color",
       "description": "use for tabs popups border "
+    },
+    "thumb": {
+      "placeholder-fill": {
+        "value": "rgba(217, 228, 255, 0.4)",
+        "type": "color",
+        "description": "color for thumb placeholder"
+      }
     }
   },
   "nav": {
@@ -3272,6 +3279,10 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
+      },
+      "label-thumb-my games": {
+        "value": "#4090FF",
+        "type": "color"
       }
     },
     "scrollbar": {
