@@ -2400,19 +2400,20 @@
           "type": "color",
           "description": "use for current steps element"
         },
-        "progress-vertical": {
-          "value": "{base.light}",
+        "progress-vertical-inactive": {
+          "value": "rgba({base.light}, 0.6)",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.6",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for progress step vertical"
+          "description": "use for inactive progress step vertical"
+        },
+        "progress-vertical-active": {
+          "value": "{base.accent-primary}",
+          "type": "color",
+          "description": "use for active progress step vertical"
+        },
+        "progress-vertical-default": {
+          "value": "{base.primary}",
+          "type": "color",
+          "description": "use for default progress step vertical"
         },
         "icon": {
           "value": "A4A6AB",
