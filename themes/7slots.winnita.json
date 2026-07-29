@@ -3281,7 +3281,7 @@
         "description": "Color for label thumb"
       },
       "label-thumb-my games": {
-        "value": "#4090FF",
+        "value": "rgba(64, 144, 255, 0.8)",
         "type": "color"
       }
     },
