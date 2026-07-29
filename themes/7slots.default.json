@@ -2392,6 +2392,64 @@
         "type": "color",
         "description": "use as bg for withdraw text"
       }
+    },
+    "qualification": {
+      "steps": {
+        "point": {
+          "value": "{base.accent-primary}",
+          "type": "color",
+          "description": "use for current steps element"
+        },
+        "progress-vertical": {
+          "value": "{base.light}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.6",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for progress step vertical"
+        },
+        "icon": {
+          "value": "A4A6AB",
+          "type": "color",
+          "description": "use for progress icons"
+        }
+      },
+      "card": {
+        "fill": {
+          "value": "{bg.secondary}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for qualification card background"
+        },
+        "border": {
+          "value": "#47FFB9",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for qualification card border"
+        }
+      }
     }
   },
   "opacity": {
