@@ -75,7 +75,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
+        "fontSize": "{font-size.2}"
       },
       "type": "typography",
       "description": "Caption"
@@ -282,7 +282,8 @@
         "fontSize": "{font-size.4}",
         "textCase": "{text-case.none}"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "use for demo button"
     },
     "title-small": {
       "value": {
