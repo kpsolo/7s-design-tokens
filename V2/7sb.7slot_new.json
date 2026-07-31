@@ -7675,6 +7675,10 @@
         "type": "color",
         "description": "basic.bronze"
       },
+      "purple": {
+        "value": "#8C46D3",
+        "type": "color"
+      },
       "validation": {
         "danger": {
           "value": "#FB3C3C",
