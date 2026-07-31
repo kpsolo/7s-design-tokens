@@ -2106,6 +2106,48 @@
           "value": "{core.white.a100}",
           "type": "color"
         }
+      },
+      "third": {
+        "fill": {
+          "value": "{core.brand-10.600}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "fourth": {
+        "fill": {
+          "value": "{core.brand-30.600}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
+      },
+      "fifth": {
+        "fill": {
+          "value": "{core.additionals.purple}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{core.white.a100}",
+          "type": "color"
+        }
       }
     },
     "bonuses": {
