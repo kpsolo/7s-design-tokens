@@ -2512,6 +2512,21 @@
       "icon": {
         "value": "{semantic.icon.banner-cart.primary}",
         "type": "color"
+      },
+      "placeholder": {
+        "fill": {
+          "value": "{contextual.thumb-games.empty.fill}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.4",
+                "space": "lch"
+              }
+            }
+          }
+        }
       }
     },
     "tabs": {
