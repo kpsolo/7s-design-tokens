@@ -2400,17 +2400,17 @@
           "type": "color",
           "description": "use for current steps element"
         },
-        "progress-vertical-inactive": {
+        "progress-horizontal-inactive": {
           "value": "rgba({base.light}, 0.6)",
           "type": "color",
           "description": "use for inactive progress step vertical"
         },
-        "progress-vertical-active": {
+        "progress-horizontal-active": {
           "value": "{base.accent-primary}",
           "type": "color",
           "description": "use for active progress step vertical"
         },
-        "progress-vertical-default": {
+        "progress-line-default": {
           "value": "{base.primary}",
           "type": "color",
           "description": "use for default progress step vertical"
@@ -2419,6 +2419,11 @@
           "value": "A4A6AB",
           "type": "color",
           "description": "use for progress icons"
+        },
+        "complite-icon": {
+          "value": "{base.accent-primary}",
+          "type": "color",
+          "description": "use for progress complite icon"
         }
       },
       "card": {
