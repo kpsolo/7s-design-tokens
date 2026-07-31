@@ -2955,6 +2955,13 @@
       "value": "#252D40",
       "type": "color",
       "description": "use for cash popups bg"
+    },
+    "thumb": {
+      "placeholder-fill": {
+        "value": "rgba(28, 33, 46, 0.4)",
+        "type": "color",
+        "description": "color for thumb placeholder"
+      }
     }
   },
   "nav": {
@@ -3425,6 +3432,11 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
+      },
+      "label-thumb-my games": {
+        "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
+        "type": "color",
+        "description": "Color for label thumb my games widget"
       }
     },
     "widget": {
