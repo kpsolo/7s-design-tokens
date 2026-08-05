@@ -2832,9 +2832,9 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(\n  270deg,\n  rgba({bg.primary}, 0.4) 0%,\n  rgba({bg.secondary}, 0.4) 100%\n)",
+        "value": "linear-gradient(270deg, #13131366 0%, #37373766 100%)",
         "type": "color",
-        "description": "fade on pregame popup\n\n[based on base accent light]"
+        "description": "fade on pregame popup\n\n[based on base accent light] linear-gradient(270deg, rgba({bg.primary}, 0.4) 0%, rgba({bg.secondary}, 0.4) 100%)"
       },
       "8": {
         "value": "linear-gradient(180deg, #22222200 0%, #222222c2 41%, #222 100%)",
@@ -2874,7 +2874,7 @@
     },
     "blur-fun": {
       "value": "4px",
-      "type": "color",
+      "type": "dimension",
       "description": "use for bg blue in 1st deposit cards"
     },
     "blur-additional": {
@@ -2898,8 +2898,8 @@
       "description": "use for circle elements on primary bg"
     },
     "blur-referral": {
-      "value": "150px",
-      "type": "color",
+      "value": "50px",
+      "type": "dimension",
       "description": "use for bg blue in 1st deposit cards"
     },
     "blur-achivements": {
@@ -3168,9 +3168,9 @@
         "type": "color"
       },
       "demo-buttons": {
-        "value": "rgba({base.primary}, 0.1)",
+        "value": "rgba(255,255,255,0.1)",
         "type": "color",
-        "description": "Background for shop  price selection buttons "
+        "description": "Background for shop  price selection buttons rgba({base.primary}, 0.1)"
       }
     },
     "icon": {

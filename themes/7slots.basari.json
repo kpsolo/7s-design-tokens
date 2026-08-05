@@ -2639,9 +2639,9 @@
         "description": "use under links on messeges/cards\n\n[based on additional bg]"
       },
       "7": {
-        "value": "linear-gradient(\n  270deg,\n  rgba({bg.primary}, 0.4) 0%,\n  rgba({bg.secondary}, 0.4) 100%\n)",
+        "value": "linear-gradient(270deg, #13131366 0%, #37373766 100%)",
         "type": "color",
-        "description": "fade on pregame popup\n\n[based on base accent light]"
+        "description": "fade on pregame popup\n\n[based on base accent light] linear-gradient(270deg, rgba({bg.primary}, 0.4) 0%, rgba({bg.secondary}, 0.4) 100%)"
       },
       "8": {
         "value": "linear-gradient(180deg, #22222200 0%, #222222c2 41%, #222 100%)",

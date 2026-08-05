@@ -3159,9 +3159,9 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "rgba({base.accent-light} , 0)",
+        "value": "rgba(0, 0, 0, 0)",
         "type": "color",
-        "description": "Background for bottom part and button in pregame modal"
+        "description": "Background for bottom part and button in pregame modal rgba({base.accent-light} , 0)"
       },
       "app-hover": {
         "value": "#f2fcff",
@@ -3194,9 +3194,9 @@
         "description": "Background for shop  price selection buttons "
       },
       "demo-buttons": {
-        "value": "rgba({base.primary}, 0.1)",
+        "value": "rgba(255,255,255,0.4)",
         "type": "color",
-        "description": "Background for shop  price selection buttons "
+        "description": "Background for shop  price selection buttons rgba({base.primary}, 0.1)"
       }
     },
     "icon": {
