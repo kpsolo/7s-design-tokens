@@ -5702,5 +5702,37 @@
       "type": "color",
       "description": "bg news card"
     }
+  },
+  "pregame": {
+    "self-close-message": {
+      "fill": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for timer-welcome-bonus "
+      },
+      "close-border": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for self-close cross icon border"
+      }
+    }
   }
 }

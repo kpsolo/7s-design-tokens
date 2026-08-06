@@ -2449,11 +2449,6 @@
       "type": "color",
       "description": "bg for timer-welcome-bonus "
     },
-    "timer-welcome-bonus-mob-small": {
-      "value": "rgba(255, 255, 255, 0.10)",
-      "type": "color",
-      "description": "bg for timer-welcome-bonus "
-    },
     "other": {
       "404": {
         "value": "linear-gradient(180deg, #1D2E5B 0.06%, #5D6C97 99.97%)",
@@ -2956,6 +2951,43 @@
       "value": "#252D40",
       "type": "color",
       "description": "use for cash popups bg"
+    },
+    "timer-welcome-bonus-mob-small": {
+      "value": "rgba(255, 255, 255, 0.10)",
+      "type": "color",
+      "description": "bg for timer-welcome-bonus "
+    }
+  },
+  "pregame": {
+    "self-close-message": {
+      "fill": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for self-close message fill"
+      },
+      "close-border": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for self-close cross icon border"
+      }
     }
   },
   "nav": {

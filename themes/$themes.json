@@ -1069,14 +1069,14 @@
       "bg.card.border.card-fun-daily-active": "463e749f7eb8bf28bec0131aef08b2ad0bea0d03",
       "bg.social-icons-additional": "c4dc8d02938b51e1f1b18f481e89197212e040a1",
       "bg.timer-welcome-bonus": "8fa8bfddba2fcaec13c31c75ce79a2d160a4cf14",
-      "bg.timer-welcome-bonus-mob-small": "696ccee5450ff8a8c1e82c989d866d9a2c71bef9",
       "bg.timer-welcome-bonus-mob": "5834cd10a7e6569f725d11f36b674ff2e0aaf21a",
       "icon.timer-welcome-bonus.default": "91e59368125414e83fbacc50829ee62cc64d90ce",
       "icon.timer-welcome-bonus.hover": "c8467598c86f3479f04f09fb04a20d2e5263dd96",
       "text.text-sum-fun": "9c1298d8ae6aa460a17eb4b32820e1bed980f4fb",
       "text.timer-gift-mob": "084bcae3abdd23c0510f5bb11b0a0ac4bfa75304",
       "text.timer-gift-desktop": "617fbdc48c5ab218a76b7158459678891ecaaa96",
-      "special-blocks.mobapp.border.cardbenefit-additional": "60721ed18700bbd2943c405a9edb02b7d66cc325"
+      "special-blocks.mobapp.border.cardbenefit-additional": "60721ed18700bbd2943c405a9edb02b7d66cc325",
+      "pregame.self-close-message.fill": "696ccee5450ff8a8c1e82c989d866d9a2c71bef9"
     }
   },
   {
@@ -1801,7 +1801,6 @@
       "bg.tertiary": "1f0368914bd2525e5b2521d217b1c60b7d782208",
       "bg.timer-welcome-bonus": "904d6af905ed08fc381de8ae35aa59c6d6ba5c4d",
       "bg.timer-welcome-bonus-mob": "bacde136f33c964ac279c2d34afb36e0b3b54032",
-      "bg.timer-welcome-bonus-mob-small": "b7f09635799a7b6fa76d53d943ad93bc320a8341",
       "bg.other.status-bg": "f8e5998146a805ea45b17013ee20705a98e9e955",
       "bg.other.cashbox-bonus-content": "1bfe481d741ed3be43d21efc6d32e06773718c1c",
       "bg.other.cashbox-bonus-content-opacity": "9887c19e109c7b8c69670331c6bf91e049d7f01e",
@@ -2184,7 +2183,8 @@
       "special-blocks.mobapp.border.activity": "0ccc42f2fb508cae5a357438f8bb2130bbbf27c9",
       "font-family.roboto": "6b9876941be512930c8c99ce0b82a7ce43e216f8",
       "font-family.inter": "2fdf0aaafb0e531b413634b50c57d40beeb9a45c",
-      "font-family.fester": "3d1a00c28f5938a7fb986af26588fbf9fe53e167"
+      "font-family.fester": "3d1a00c28f5938a7fb986af26588fbf9fe53e167",
+      "pregame.self-close-message.fill": "b7f09635799a7b6fa76d53d943ad93bc320a8341"
     }
   },
   {
