@@ -3188,8 +3188,17 @@
         "description": "Background for shop  price selection buttons "
       },
       "demo-buttons": {
-        "value": "rgba({base.primary}, 0.1)",
+        "value": "{base.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
         "description": "Background for shop  price selection buttons "
       }
     },
