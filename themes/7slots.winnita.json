@@ -5826,7 +5826,7 @@
   "pregame": {
     "self-close-message": {
       "fill": {
-        "value": "{base.primary}",
+        "value": "{base.accent-primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
