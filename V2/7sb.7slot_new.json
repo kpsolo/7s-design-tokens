@@ -352,6 +352,12 @@
         }
       }
     },
+    "balance": {
+      "item": {
+        "value": "{blur.200}",
+        "type": "borderRadius"
+      }
+    },
     "segment-control": {
       "item": {
         "value": "{border-radius.core.300}",
@@ -4023,6 +4029,14 @@
           "type": "color"
         },
         "border": {
+          "value": "{core.white.a10}",
+          "type": "color"
+        }
+      }
+    },
+    "balance": {
+      "item": {
+        "fill": {
           "value": "{core.white.a10}",
           "type": "color"
         }
