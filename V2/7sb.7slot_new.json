@@ -3636,6 +3636,12 @@
         }
       }
     },
+    "sidebar": {
+      "border": {
+        "value": "{core.white.a8}",
+        "type": "color"
+      }
+    },
     "header": {
       "desktop": {
         "menu-item": {
