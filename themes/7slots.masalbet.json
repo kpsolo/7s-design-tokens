@@ -773,9 +773,9 @@
       "titlemob-app": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.0}",
-          "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size.3}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "48px",
+          "fontSize": "40px",
           "letterSpacing": "{letter-spacing.0}"
         },
         "type": "typography",
