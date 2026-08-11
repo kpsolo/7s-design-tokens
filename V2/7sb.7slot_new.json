@@ -3013,7 +3013,7 @@
     },
     "notifications": {
       "fill": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.brand-60.600}",
         "type": "color"
       },
       "popover-action": {
