@@ -5429,6 +5429,12 @@
       "devider-2": {
         "value": "rgba(57, 38, 2, 0.10)",
         "type": "color"
+      },
+      "additional-blick": {
+        "border": {
+          "value": "linear-gradient(311deg, #212E42 5.89%, #2D7B68 67.81%, #5CD995 90.13%)",
+          "type": "color"
+        }
       }
     },
     "overlay": {
