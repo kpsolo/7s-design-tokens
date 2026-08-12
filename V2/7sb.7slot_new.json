@@ -6357,6 +6357,14 @@
           "type": "color"
         }
       }
+    },
+    "registration": {
+      "banner": {
+        "background": {
+          "value": "{core.brand-60.600}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
