@@ -1641,6 +1641,45 @@
         "type": "dropShadow"
       },
       "type": "boxShadow"
+    },
+    "wheel": {
+      "wheel": {
+        "value": [
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba(25, 25, 28, 0.25)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "16px",
+            "spread": "0",
+            "color": "rgba(174, 237, 253, 0.3)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "66px",
+            "spread": "0",
+            "color": "rgba(174, 237, 253, 0.5)",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "-4",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba(25, 25, 28, 0.25)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   },
   "contextual": {
