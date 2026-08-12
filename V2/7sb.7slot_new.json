@@ -438,6 +438,12 @@
         "value": "{border-radius.core.100}",
         "type": "borderRadius"
       }
+    },
+    "profile": {
+      "status": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -2067,6 +2073,39 @@
           },
           "hover": {
             "value": "{semantic.text.static.primary}",
+            "type": "color"
+          }
+        }
+      },
+      "status": {
+        "fill": {
+          "error": {
+            "value": "{core.validation.danger.600}",
+            "type": "color"
+          },
+          "on-review": {
+            "value": "{core.validation.warning.500}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{core.validation.success.600}",
+            "type": "color"
+          },
+          "declined": {
+            "value": "{core.additionals.silver}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
+          },
+          "pending": {
+            "value": "{core.validation.warning.600}",
             "type": "color"
           }
         }
