@@ -444,6 +444,14 @@
         "value": "{border-radius.core.200}",
         "type": "borderRadius"
       }
+    },
+    "wheel": {
+      "popup": {
+        "general": {
+          "value": "{border-radius.core.full}",
+          "type": "borderRadius"
+        }
+      }
     }
   },
   "border": {
@@ -6443,6 +6451,10 @@
         "fill": {
           "value": "linear-gradient(180deg, rgba(76, 121, 133, 0.90) 0%, rgba(74, 162, 186, 0.42) 52.99%, rgba(76, 121, 133, 0.67) 100%)",
           "type": "color"
+        },
+        "border": {
+          "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%)",
+          "type": "color"
         }
       }
     }
@@ -9593,6 +9605,16 @@
         "lineHeight": "34px"
       },
       "type": "typography"
+    }
+  },
+  "wheel": {
+    "popup": {
+      "vip-bet-amount": {
+        "width": {
+          "value": "40px",
+          "type": "sizing"
+        }
+      }
     }
   }
 }
