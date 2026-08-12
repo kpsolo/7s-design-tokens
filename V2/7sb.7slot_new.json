@@ -432,6 +432,12 @@
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
+    },
+    "lottery-tournament": {
+      "ticket-number": {
+        "value": "{border-radius.core.100}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
