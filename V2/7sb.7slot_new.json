@@ -451,6 +451,10 @@
           "value": "{border-radius.core.full}",
           "type": "borderRadius"
         }
+      },
+      "block": {
+        "value": "{border-radius.core.300}",
+        "type": "borderRadius"
       }
     }
   },
