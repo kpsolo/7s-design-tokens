@@ -6431,6 +6431,16 @@
           "type": "color"
         }
       }
+    },
+    "wheel": {
+      "popup": {
+        "vip-bet-amount": {
+          "fill": {
+            "value": "{core.brand-30.700}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "scale-1": {
