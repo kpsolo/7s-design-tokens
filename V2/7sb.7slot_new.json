@@ -6439,6 +6439,10 @@
             "value": "{core.brand-30.700}",
             "type": "color"
           }
+        },
+        "fill": {
+          "value": "linear-gradient(180deg, rgba(76, 121, 133, 0.90) 0%, rgba(74, 162, 186, 0.42) 52.99%, rgba(76, 121, 133, 0.67) 100%)",
+          "type": "color"
         }
       }
     }
