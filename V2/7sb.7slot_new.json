@@ -356,6 +356,10 @@
       "item": {
         "value": "{blur.200}",
         "type": "borderRadius"
+      },
+      "balance": {
+        "value": "{border-radius.core.400}",
+        "type": "borderRadius"
       }
     },
     "segment-control": {
@@ -428,12 +432,6 @@
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
-    }
-  },
-  "card": {
-    "balance": {
-      "value": "{border-radius.core.400}",
-      "type": "borderRadius"
     }
   },
   "border": {
