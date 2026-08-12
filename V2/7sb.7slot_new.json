@@ -9559,5 +9559,16 @@
       "type": "typography",
       "description": "Use for small Errors Number (404,403,500)"
     }
+  },
+  "profile": {
+    "balance": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Bold}",
+        "fontSize": "26px",
+        "lineHeight": "34px"
+      },
+      "type": "typography"
+    }
   }
 }
