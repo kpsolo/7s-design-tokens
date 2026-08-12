@@ -2108,6 +2108,16 @@
             "value": "{core.validation.warning.600}",
             "type": "color"
           }
+        },
+        "text": {
+          "default": {
+            "value": "{semantic.text.banner-cart.primary}",
+            "type": "color"
+          },
+          "on-review": {
+            "value": "{semantic.text.banner-cart.primary}",
+            "type": "color"
+          }
         }
       }
     },
