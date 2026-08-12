@@ -3570,6 +3570,21 @@
             "value": "{core.brand-10.500}",
             "type": "color"
           }
+        },
+        "control": {
+          "fill": {
+            "value": "{core.grey.25}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "lch"
+                }
+              }
+            }
+          }
         }
       },
       "mob": {
