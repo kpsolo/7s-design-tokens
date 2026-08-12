@@ -1579,6 +1579,39 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "strip": {
+      "card": {
+        "active": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "9px",
+              "spread": "0",
+              "color": "{core.brand-30.50a10}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "45px",
+              "spread": "0",
+              "color": "{core.brand-30.50a10}",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "16px",
+              "spread": "0",
+              "color": "{core.brand-30.50a10}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        }
+      }
     }
   },
   "contextual": {
@@ -6262,6 +6295,50 @@
         },
         "background": {
           "value": "{core.white.a0}",
+          "type": "color"
+        }
+      },
+      "card": {
+        "stroke": {
+          "default": {
+            "value": "{core.brand-60.100}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.2",
+                  "space": "lch"
+                }
+              }
+            }
+          },
+          "hover": {
+            "value": "{core.brand-60.100}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.3",
+                  "space": "lch"
+                }
+              }
+            }
+          }
+        },
+        "fill": {
+          "default": {
+            "value": "{core.brand-30.50a20}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{contextual.strip.card.fill.default}",
+            "type": "color"
+          }
+        },
+        "status": {
+          "value": "{core.white.a10}",
           "type": "color"
         }
       }
