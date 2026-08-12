@@ -2418,21 +2418,21 @@
             "type": "color"
           },
           "gold": {
-            "value": "{core.additionals.gold}",
+            "value": "linear-gradient(99deg, #FFCE64 5.75%, #916206 94.25%)",
             "type": "color"
           },
           "gold-winning": {
-            "value": "{semantic.text.default.primary}",
+            "value": "{core.grey.900}",
             "type": "color"
           }
         },
         "fill": {
           "gold": {
-            "value": "{core.additionals.gold}",
+            "value": "linear-gradient(99deg, #FFCE64 5.75%, #916206 94.25%)",
             "type": "color"
           },
           "winning": {
-            "value": "{core.brand-10.500}",
+            "value": "linear-gradient(99deg, #FFCE64 5.75%, #916206 94.25%)",
             "type": "color"
           },
           "default": {
