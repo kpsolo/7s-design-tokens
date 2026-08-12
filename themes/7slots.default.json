@@ -2338,6 +2338,20 @@
         "type": "color",
         "description": "use as bg for refferal program"
       },
+      "bg-no qualification": {
+        "value": "#000000",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "use as no qualification bg for refferal program"
+      },
       "accent text 3": {
         "value": "linear-gradient(-270deg, #44A6A5 6%, #2A70BC 96%)",
         "type": "color",
