@@ -6500,6 +6500,27 @@
           "type": "color"
         }
       }
+    },
+    "loyalty": {
+      "progress": {
+        "not-filled": {
+          "value": "{core.grey.100}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "filled": {
+          "value": "{semantic.gradients.1}",
+          "type": "color"
+        }
+      }
     }
   },
   "scale-1": {
