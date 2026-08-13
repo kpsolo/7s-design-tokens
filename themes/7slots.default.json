@@ -2430,7 +2430,7 @@
           "description": "use for default progress step vertical"
         },
         "icon": {
-          "value": "A4A6AB",
+          "value": "#A4A6AB",
           "type": "color",
           "description": "use for progress icons"
         },

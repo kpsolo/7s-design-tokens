@@ -1935,7 +1935,7 @@
       },
       "referral-card": {
         "value": {
-          "color": "rgba(214, 230, 255, 0.1)",
+          "color": "rgba(214, 230, 255, 0)",
           "width": "",
           "style": ""
         },
@@ -4533,7 +4533,7 @@
         "description": "use for numbers gradient in conditions"
       },
       "bg": {
-        "value": "#B2C3FF",
+        "value": "#EBF1FF",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       },
@@ -5893,7 +5893,7 @@
         "description": "use as bg for refferal program"
       },
       "accent text 3": {
-        "value": "{base.accent-primary}",
+        "value": "{bg.other.accent-on-light}",
         "type": "color",
         "description": "use as bg for refferal program"
       },
@@ -5941,17 +5941,8 @@
         "description": "use as bg for primary text"
       },
       "progress 2": {
-        "value": "{base.primary}",
+        "value": "#2E60C5",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        },
         "description": "use as bg for progress line secondary"
       },
       "text secondary": {
@@ -5969,7 +5960,7 @@
         "description": "use as bg for secondary text"
       },
       "accent 2": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.accent-tertiary}",
         "type": "color",
         "description": "use as bg for withdraw text"
       },
@@ -5994,7 +5985,7 @@
         "description": "use for refferal-program element"
       },
       "bg-no qualification": {
-        "value": "#000000",
+        "value": "{base.accent-primary}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -6011,17 +6002,17 @@
     "qualification": {
       "steps": {
         "point": {
-          "value": "{base.accent-primary}",
+          "value": "{base.success}",
           "type": "color",
           "description": "use for current steps element"
         },
         "progress-horizontal-inactive": {
-          "value": "rgba({base.light}, 0.6)",
+          "value": "#CAD5F4",
           "type": "color",
           "description": "use for inactive progress step vertical"
         },
         "progress-horizontal-active": {
-          "value": "{base.accent-primary}",
+          "value": "{base.success}",
           "type": "color",
           "description": "use for active progress step vertical"
         },
@@ -6031,29 +6022,20 @@
           "description": "use for default progress step vertical"
         },
         "icon": {
-          "value": "A4A6AB",
+          "value": "#303E5A",
           "type": "color",
           "description": "use for progress icons"
         },
         "complite-icon": {
-          "value": "{base.accent-primary}",
+          "value": "{base.success}",
           "type": "color",
           "description": "use for progress complite icon"
         }
       },
       "card": {
         "fill": {
-          "value": "{bg.secondary}",
+          "value": "{base.accent-light}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.2",
-                "space": "lch"
-              }
-            }
-          },
           "description": "use for qualification card background"
         },
         "border": {
@@ -6063,7 +6045,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.1",
+                "value": "0",
                 "space": "lch"
               }
             }
