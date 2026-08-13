@@ -2321,7 +2321,7 @@
           "type": "color"
         },
         "deactivate": {
-          "value": "{semantic.gradients.2}",
+          "value": "{core.brand-60.500}",
           "type": "color"
         }
       },
@@ -2331,7 +2331,7 @@
           "type": "color"
         },
         "deactivate": {
-          "value": "{semantic.gradients.2}",
+          "value": "{core.brand-60.500}",
           "type": "color"
         }
       }
