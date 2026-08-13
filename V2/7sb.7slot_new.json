@@ -6499,6 +6499,18 @@
           "value": "linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.00) 100%)",
           "type": "color"
         }
+      },
+      "sector": {
+        "fill": {
+          "dark": {
+            "value": "linear-gradient(345deg, {core.brand-10.400} 0%, {core.brand-10.600} 83.92%)",
+            "type": "color"
+          },
+          "light": {
+            "value": "linear-gradient(345deg, {core.white.a100} 0%, {core.grey.100} 83.11%)",
+            "type": "color"
+          }
+        }
       }
     },
     "loyalty": {
