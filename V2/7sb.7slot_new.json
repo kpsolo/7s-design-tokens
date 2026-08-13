@@ -6509,6 +6509,14 @@
           "light": {
             "value": "linear-gradient(345deg, {core.white.a100} 0%, {core.grey.100} 83.11%)",
             "type": "color"
+          },
+          "active-vip": {
+            "value": "linear-gradient(345deg, {core.additionals.accent-secondary} 0%, {core.additionals.bronze} 83.92%)",
+            "type": "color"
+          },
+          "active": {
+            "value": "linear-gradient(163deg, #A80000 17.11%, #CF4355 49.35%, #8DFCFD 84.4%)",
+            "type": "color"
           }
         },
         "text": {
@@ -6516,7 +6524,15 @@
             "value": "{semantic.text.default.heading}",
             "type": "color"
           },
+          "active": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
           "light": {
+            "value": "{core.grey.900}",
+            "type": "color"
+          },
+          "active-vip": {
             "value": "{core.grey.900}",
             "type": "color"
           }
