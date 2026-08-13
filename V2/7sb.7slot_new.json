@@ -2315,9 +2315,25 @@
           "type": "color"
         }
       },
-      "fill": {
-        "value": "{semantic.gradients.2}",
-        "type": "color"
+      "casino": {
+        "active": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "deactivate": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        }
+      },
+      "sport": {
+        "active": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        },
+        "deactivate": {
+          "value": "{semantic.gradients.2}",
+          "type": "color"
+        }
       }
     },
     "lottery-tournament": {
@@ -6563,6 +6579,12 @@
           "type": "color"
         }
       }
+    }
+  },
+  "Casino": {
+    "sport": {
+      "value": "{semantic.gradients.2}",
+      "type": "color"
     }
   },
   "scale-1": {
