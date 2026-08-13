@@ -2327,7 +2327,7 @@
       },
       "sport": {
         "active": {
-          "value": "{semantic.gradients.2}",
+          "value": "{semantic.gradients.16}",
           "type": "color"
         },
         "deactivate": {
@@ -8291,6 +8291,11 @@
       "15": {
         "value": "linear-gradient(180deg, #FFF 0%, #9BA1B1 100%)",
         "type": "color"
+      },
+      "16": {
+        "value": "linear-gradient(225deg, {core.brand-10.600} 0%, {core.brand-10.700} 100%)",
+        "type": "color",
+        "description": "gradients.yellow 50"
       }
     },
     "background": {
