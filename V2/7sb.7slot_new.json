@@ -6521,6 +6521,10 @@
             "type": "color"
           }
         }
+      },
+      "inner-border": {
+        "value": "#7EF8FD",
+        "type": "color"
       }
     },
     "loyalty": {
