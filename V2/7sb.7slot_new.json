@@ -6510,6 +6510,16 @@
             "value": "linear-gradient(345deg, {core.white.a100} 0%, {core.grey.100} 83.11%)",
             "type": "color"
           }
+        },
+        "text": {
+          "dark": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "light": {
+            "value": "{core.grey.900}",
+            "type": "color"
+          }
         }
       }
     },
