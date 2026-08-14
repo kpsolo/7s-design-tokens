@@ -1654,6 +1654,40 @@
       "description": "shaddow on item hover state in desktop categories dropdown"
     }
   },
+  "reffaral-program": {
+    "shadow": {
+      "rule-card": {
+        "value": [
+          {
+            "x": "-28",
+            "y": "28",
+            "blur": "28",
+            "spread": "0",
+            "color": "rgba(255, 255, 255, 0.03)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "28",
+            "y": "-28",
+            "blur": "28",
+            "spread": "0",
+            "color": "rgba(194, 194, 194, 0.03)",
+            "type": "innerShadow"
+          },
+          {
+            "x": "0",
+            "y": "2",
+            "blur": "4",
+            "spread": "0",
+            "color": "rgba(13, 22, 46, 0.08)",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "use as inner shaddow on cards - referrals, achivements"
+      }
+    }
+  },
   "border": {
     "ghost-1": {
       "value": {
@@ -2414,15 +2448,15 @@
           "type": "color",
           "description": "use for current steps element"
         },
-        "progress-horizontal-inactive": {
+        "progress-line-inactive": {
           "value": "rgba({base.light}, 0.6)",
           "type": "color",
-          "description": "use for inactive progress step vertical"
+          "description": "use for inactive progress step vertical and horizontal"
         },
-        "progress-horizontal-active": {
+        "progress-line-active": {
           "value": "{base.accent-primary}",
           "type": "color",
-          "description": "use for active progress step vertical"
+          "description": "use for active progress step vertical and horizontal"
         },
         "progress-line-default": {
           "value": "{base.primary}",
@@ -2454,31 +2488,17 @@
             }
           },
           "description": "use for qualification card background"
-        },
-        "border": {
-          "value": "#47FFB9",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for qualification card border"
         }
       },
       "social-media-card": {
         "fill": {
-          "value": "416DAF",
+          "value": "{base.light}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
               "modify": {
                 "type": "alpha",
-                "value": "0.1",
+                "value": "0.08",
                 "space": "lch"
               }
             }
@@ -2486,7 +2506,7 @@
           "description": "use for social media card background"
         },
         "icon-fill": {
-          "value": "55D19B",
+          "value": "#55D19B",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -2499,6 +2519,20 @@
           },
           "description": "use for social media icons background"
         }
+      }
+    },
+    "bg": {
+      "blur": {
+        "value": "{bg.blur}",
+        "type": "dimension",
+        "description": "use for refferal bg cards and rules"
+      }
+    },
+    "rule-card": {
+      "opacity": {
+        "value": "20%",
+        "type": "opacity",
+        "description": "Use for rule cards opacity"
       }
     }
   },
