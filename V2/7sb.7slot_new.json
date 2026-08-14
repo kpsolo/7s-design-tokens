@@ -6771,7 +6771,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strong}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
@@ -6780,7 +6780,7 @@
         "fontFamily": "{main}",
         "fontWeight": "{text.strongest}",
         "fontSize": "{scale-4}",
-        "lineHeight": "{lg}"
+        "lineHeight": "{ml}"
       },
       "type": "typography"
     },
