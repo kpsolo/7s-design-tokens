@@ -6523,7 +6523,7 @@
             "type": "color"
           },
           "light": {
-            "value": "linear-gradient(345deg, {core.white.a100} 0%, {core.grey.100} 83.11%)",
+            "value": "linear-gradient(345deg, {core.white.a100} 0%, {core.grey.50} 83.11%)",
             "type": "color"
           },
           "active-vip": {
@@ -6555,7 +6555,7 @@
         }
       },
       "inner-border": {
-        "value": "#7EF8FD",
+        "value": "{core.white.a0}",
         "type": "color"
       }
     },
