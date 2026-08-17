@@ -6159,23 +6159,14 @@
       },
       "social-media-card": {
         "fill": {
-          "value": "416DAF",
+          "value": "{bg.overlay.2}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for social media card background"
+          "description": "use for social media icon background"
         },
         "icon-fill": {
-          "value": "#55D19B",
+          "value": "{icon.accent}",
           "type": "color",
-          "description": "use for social media icons background"
+          "description": "use for social media icons background in invite block"
         }
       }
     },

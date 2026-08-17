@@ -2499,23 +2499,14 @@
       },
       "social-media-card": {
         "fill": {
-          "value": "416DAF",
+          "value": "#284389",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for social media card background"
+          "description": "use for social media icon background"
         },
         "icon-fill": {
           "value": "#55D19B",
           "type": "color",
-          "description": "use for social media icons background"
+          "description": "use for social media icons background in invite block"
         }
       }
     },

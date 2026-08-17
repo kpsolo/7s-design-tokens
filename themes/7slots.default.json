@@ -2517,7 +2517,7 @@
               }
             }
           },
-          "description": "use for social media card background"
+          "description": "use for social media icon background"
         },
         "icon-fill": {
           "value": "#55D19B",
@@ -2531,7 +2531,7 @@
               }
             }
           },
-          "description": "use for social media icons background"
+          "description": "use for social media icons background in invite block"
         }
       }
     },
