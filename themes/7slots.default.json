@@ -2373,7 +2373,7 @@
         "description": "use as bg for refferal program"
       },
       "bg-no qualification": {
-        "value": "#000000",
+        "value": "#105AC9",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2488,6 +2488,20 @@
             }
           },
           "description": "use for qualification card background"
+        },
+        "border": {
+          "value": "#45FFBA",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for qualification card border"
         }
       },
       "social-media-card": {

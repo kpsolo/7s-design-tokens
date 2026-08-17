@@ -907,8 +907,8 @@
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
-          "lineHeight": "96",
-          "fontSize": "96"
+          "lineHeight": "88",
+          "fontSize": "88"
         },
         "type": "typography",
         "description": "use for no qualification numbers"
@@ -917,8 +917,8 @@
         "value": {
           "fontFamily": "{font-family.main}",
           "fontWeight": "{font-weight.3}",
-          "lineHeight": "78",
-          "fontSize": "72"
+          "lineHeight": "72",
+          "fontSize": "64"
         },
         "type": "typography",
         "description": "use for no qualification percent"
@@ -5997,12 +5997,12 @@
         "description": "use as bg for refferal program"
       },
       "accent text 3": {
-        "value": "{bg.other.accent-on-light}",
+        "value": "{base.primary}",
         "type": "color",
         "description": "use as bg for refferal program"
       },
       "text accent 1": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.primary}",
         "type": "color",
         "description": "use as bg for sum text"
       },
@@ -6035,7 +6035,7 @@
         "description": "use as bg for refferal program lable"
       },
       "progress": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.primary}",
         "type": "color",
         "description": "use as bg for progress"
       },
@@ -6111,7 +6111,7 @@
           "description": "use for current steps element"
         },
         "progress-line-inactive": {
-          "value": "#CAD5F4",
+          "value": "{base.silver}",
           "type": "color",
           "description": "use for inactive progress step vertical and horizontal"
         },
@@ -6126,7 +6126,7 @@
           "description": "use for default progress step vertical"
         },
         "icon": {
-          "value": "#303E5A",
+          "value": "#ffffff66",
           "type": "color",
           "description": "use for progress icons"
         },
@@ -6141,6 +6141,20 @@
           "value": "#ffffff1a",
           "type": "color",
           "description": "use for qualification card background"
+        },
+        "border": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for qualification card border"
         }
       },
       "social-media-card": {

@@ -2481,6 +2481,20 @@
           "value": "{base.accent-light}",
           "type": "color",
           "description": "use for qualification card background"
+        },
+        "border": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for qualification card border"
         }
       },
       "social-media-card": {
