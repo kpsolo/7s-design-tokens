@@ -6477,7 +6477,7 @@
         },
         "fill": {
           "default": {
-            "value": "{core.brand-30.50a20}",
+            "value": "{core.brand-30.50a10}",
             "type": "color"
           },
           "hover": {
