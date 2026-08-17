@@ -2521,6 +2521,24 @@
         }
       }
     },
+    "statistic": {
+      "card": {
+        "fill": {
+          "value": "{bg.secondary}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for statistic card background"
+        }
+      }
+    },
     "bg": {
       "blur": {
         "value": "{bg.blur}",
