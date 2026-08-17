@@ -6143,17 +6143,8 @@
           "description": "use for qualification card background"
         },
         "border": {
-          "value": "#ffffff1a",
+          "value": "rgba(255, 192, 46, 0.1)",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0",
-                "space": "lch"
-              }
-            }
-          },
           "description": "use for qualification card border"
         }
       },

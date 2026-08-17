@@ -2461,9 +2461,9 @@
           "description": "use for active progress step vertical and horizontal"
         },
         "progress-line-default": {
-          "value": "{base.light}",
+          "value": "{betting.hover card}",
           "type": "color",
-          "description": "use for default progress step vertical"
+          "description": "use for default progress step vertical and horizontal"
         },
         "icon": {
           "value": "#303E5A",
