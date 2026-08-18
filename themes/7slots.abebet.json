@@ -879,6 +879,68 @@
         "fontSize": "{font-size.4}"
       },
       "type": "typography"
+    },
+    "refferal-program": {
+      "text-strong": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.4}",
+          "lineHeight": "{line-height.1}",
+          "fontSize": "{font-size.4}"
+        },
+        "type": "typography",
+        "description": "use for primary rate lable"
+      },
+      "text-regular": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.0}",
+          "lineHeight": "{line-height.sm}",
+          "fontSize": "{font-size.3}"
+        },
+        "type": "typography",
+        "description": "use for thin text in reff cards"
+      },
+      "earning-numbers": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "{line-height.4}",
+          "fontSize": "{font-size.7}"
+        },
+        "type": "typography",
+        "description": "use for earnings numbers"
+      },
+      "earning-currency": {
+        "value": {
+          "fontFamily": "{font-family.accent}",
+          "fontWeight": "{font-weight.2}",
+          "lineHeight": "{line-height.2}",
+          "fontSize": "{font-size.5}"
+        },
+        "type": "typography",
+        "description": "use for earnings currency"
+      },
+      "no-qualification-number": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "88",
+          "fontSize": "88"
+        },
+        "type": "typography",
+        "description": "use for no qualification numbers"
+      },
+      "no-qualification-percent": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.3}",
+          "lineHeight": "72",
+          "fontSize": "64"
+        },
+        "type": "typography",
+        "description": "use for no qualification percent"
+      }
     }
   },
   "shadow": {
@@ -5964,6 +6026,260 @@
       "value": "linear-gradient(148.34deg, #391368 7.31%, #391368 21.83%, #1B1B23 47.6%, #1B1B23 76.41%)",
       "type": "color",
       "description": "bg news card"
+    }
+  },
+  "refferal-program": {
+    "card": {
+      "bg": {
+        "value": "{bg.technical}",
+        "type": "color",
+        "description": "use as bg for refferal program"
+      },
+      "accent text 3": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "use as bg for refferal program"
+      },
+      "text accent 1": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "use as bg for sum text"
+      },
+      "border": {
+        "value": "linear-gradient(150deg, rgba(255,255,255,.3) 0%, rgba(255,255,255,0) 34%, rgba(255,255,255,0) 70%, rgba(255,255,255,.3)0%)",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "border for refferal card"
+      },
+      "bg-lable": {
+        "value": "{bg.other.accent-on-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "use as bg for refferal program lable"
+      },
+      "progress": {
+        "value": "{base.primary}",
+        "type": "color",
+        "description": "use as bg for progress"
+      },
+      "text primary": {
+        "value": "{base.light}",
+        "type": "color",
+        "description": "use as bg for primary text"
+      },
+      "progress 2": {
+        "value": "{small-elements.progress-large-bg}",
+        "type": "color",
+        "description": "use as bg for progress line secondary"
+      },
+      "text secondary": {
+        "value": "{base.light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.9",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "use as bg for secondary text"
+      },
+      "accent 2": {
+        "value": "{base.accent-tertiary}",
+        "type": "color",
+        "description": "use as bg for withdraw text"
+      },
+      "bg-no qualification": {
+        "value": "{base.accent-primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "use as no qualification bg for refferal program"
+      },
+      "radius": {
+        "value": "{radius.card}",
+        "type": "borderRadius",
+        "description": "Radius for reff cards"
+      },
+      "radius-progress-line": {
+        "value": "{radius.item}",
+        "type": "borderRadius",
+        "description": "Radius for progress line"
+      },
+      "opacity 1": {
+        "value": "30%",
+        "type": "opacity",
+        "description": "use for refferal-program element"
+      },
+      "opacity 2": {
+        "value": "7%",
+        "type": "opacity",
+        "description": "use for refferal-program element"
+      }
+    },
+    "qualification": {
+      "steps": {
+        "point": {
+          "value": "{base.success}",
+          "type": "color",
+          "description": "use for current steps element"
+        },
+        "progress-line-inactive": {
+          "value": "{base.silver}",
+          "type": "color",
+          "description": "use for inactive progress step vertical and horizontal"
+        },
+        "progress-line-active": {
+          "value": "{base.success}",
+          "type": "color",
+          "description": "use for active progress step vertical and horizontal"
+        },
+        "progress-line-default": {
+          "value": "{base.light}",
+          "type": "color",
+          "description": "use for default progress step vertical"
+        },
+        "icon": {
+          "value": "#ffffff66",
+          "type": "color",
+          "description": "use for progress icons"
+        },
+        "complite-icon": {
+          "value": "{base.success}",
+          "type": "color",
+          "description": "use for progress complite icon"
+        }
+      },
+      "card": {
+        "fill": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "description": "use for qualification card background"
+        },
+        "border": {
+          "value": "rgba(255, 192, 46, 0.1)",
+          "type": "color",
+          "description": "use for qualification card border"
+        }
+      },
+      "social-media-card": {
+        "fill": {
+          "value": "{bg.overlay.2}",
+          "type": "color",
+          "description": "use for social media icon background"
+        },
+        "icon-fill": {
+          "value": "{icon.accent}",
+          "type": "color",
+          "description": "use for social media icons background in invite block"
+        }
+      }
+    },
+    "statistic": {
+      "card": {
+        "fill": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "description": "use for statistic card background"
+        }
+      }
+    },
+    "rule-card": {
+      "opacity": {
+        "value": "100%",
+        "type": "opacity",
+        "description": "Use for rule cards opacity"
+      }
+    },
+    "bg": {
+      "blur": {
+        "value": "{Padding.blur}",
+        "type": "dimension",
+        "description": "use for refferal bg cards and rules"
+      }
+    }
+  },
+  "reffaral-program": {
+    "shadow": {
+      "rule-card": {
+        "value": [
+          {
+            "x": "-28",
+            "y": "28",
+            "blur": "28",
+            "spread": "0",
+            "color": "transparent",
+            "type": "innerShadow"
+          },
+          {
+            "x": "28",
+            "y": "-28",
+            "blur": "28",
+            "spread": "0",
+            "color": "transparent",
+            "type": "innerShadow"
+          }
+        ],
+        "type": "boxShadow",
+        "description": "use as inner shaddow on cards - referrals"
+      },
+      "special-blocks": {
+        "card2": {
+          "value": [
+            {
+              "x": "-28",
+              "y": "28",
+              "blur": "28",
+              "spread": "0",
+              "color": "rgba(255, 255, 255, 0.03)",
+              "type": "innerShadow"
+            },
+            {
+              "x": "28",
+              "y": "-28",
+              "blur": "28",
+              "spread": "0",
+              "color": "rgba(194, 194, 194, 0.03)",
+              "type": "innerShadow"
+            },
+            {
+              "x": "0",
+              "y": "2",
+              "blur": "4",
+              "spread": "0",
+              "color": "rgba(13, 22, 46, 0.08)",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow",
+          "description": "use as inner shaddow on cards - referrals, achivements"
+        }
+      }
     }
   }
 }
