@@ -5768,7 +5768,7 @@
   "refferal-program": {
     "card": {
       "bg": {
-        "value": "{bg.technical}",
+        "value": "{bg.card.bg.1}",
         "type": "color",
         "description": "use as bg for refferal program"
       },
@@ -5811,7 +5811,7 @@
         "description": "use as bg for refferal program lable"
       },
       "progress": {
-        "value": "{base.primary}",
+        "value": "{base.light}",
         "type": "color",
         "description": "use as bg for progress"
       },
@@ -5821,7 +5821,7 @@
         "description": "use as bg for primary text"
       },
       "progress 2": {
-        "value": "{small-elements.progress-large-bg}",
+        "value": "#404040",
         "type": "color",
         "description": "use as bg for progress line secondary"
       },
@@ -5845,17 +5845,8 @@
         "description": "use as bg for withdraw text"
       },
       "bg-no qualification": {
-        "value": "{base.accent-primary}",
+        "value": "{live-lottery.card-bg}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16",
-              "space": "lch"
-            }
-          }
-        },
         "description": "use as no qualification bg for refferal program"
       },
       "radius": {
@@ -5921,6 +5912,15 @@
         "border": {
           "value": "rgba(255, 192, 46, 0.1)",
           "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0",
+                "space": "lch"
+              }
+            }
+          },
           "description": "use for qualification card border"
         }
       },
@@ -5940,7 +5940,7 @@
     "statistic": {
       "card": {
         "fill": {
-          "value": "#ffffff1a",
+          "value": "{bg.overlay.light-1}",
           "type": "color",
           "description": "use for statistic card background"
         }
