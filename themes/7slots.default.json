@@ -2373,7 +2373,7 @@
         "description": "use as bg for refferal program"
       },
       "bg-no qualification": {
-        "value": "#105AC9",
+        "value": "#000000",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -2532,6 +2532,20 @@
             }
           },
           "description": "use for social media icons background in invite block"
+        },
+        "invite-fill": {
+          "value": "{bg.secondary}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          },
+          "description": "use for social media invite card background"
         }
       }
     },
@@ -2551,6 +2565,22 @@
           },
           "description": "use for statistic card background"
         }
+      }
+    },
+    "main-screen": {
+      "bg-element": {
+        "value": "linear-gradient(-270deg, #44A6A5 6%, #2A70BC 96%)",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "use for elips element at main secreen background"
       }
     },
     "bg": {

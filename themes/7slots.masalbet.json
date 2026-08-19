@@ -5943,6 +5943,11 @@
             }
           },
           "description": "use for social media icons background in invite block"
+        },
+        "invite-fill": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "description": "use for social media invite card background"
         }
       }
     },
@@ -5967,6 +5972,22 @@
         "value": "{Padding.blur}",
         "type": "dimension",
         "description": "use for refferal bg cards and rules"
+      }
+    },
+    "main-screen": {
+      "bg-element": {
+        "value": "{bg.other.accent-on-light}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.15",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "use for elips element at main secreen background"
       }
     }
   },
