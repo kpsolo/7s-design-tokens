@@ -6060,18 +6060,18 @@
         "description": "border for refferal card"
       },
       "bg-lable": {
-        "value": "{bg.other.accent-on-light}",
+        "value": "{base.light}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.3",
+              "value": "0.15",
               "space": "lch"
             }
           }
         },
-        "description": "use as bg for refferal program lable"
+        "description": "use as bg for refferal program card lable"
       },
       "progress": {
         "value": "{base.primary}",
@@ -6236,7 +6236,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0",
               "space": "lch"
             }
           }

@@ -5797,18 +5797,18 @@
         "description": "border for refferal card"
       },
       "bg-lable": {
-        "value": "{bg.other.accent-on-light}",
+        "value": "{base.dark}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.3",
+              "value": "0.2",
               "space": "lch"
             }
           }
         },
-        "description": "use as bg for refferal program lable"
+        "description": "use as bg for refferal program card lable"
       },
       "progress": {
         "value": "{base.light}",
@@ -5845,7 +5845,7 @@
         "description": "use as bg for withdraw text"
       },
       "bg-no qualification": {
-        "value": "linear-gradient(104deg, #7D5B0A 0%, #59420C 100%)",
+        "value": "linear-gradient(284deg, #A67603 0%, #62480A 99%)",
         "type": "color",
         "description": "use as no qualification bg for refferal program"
       },
@@ -5982,7 +5982,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.15",
+              "value": "0",
               "space": "lch"
             }
           }

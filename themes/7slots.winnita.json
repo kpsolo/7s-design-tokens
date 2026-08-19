@@ -2509,7 +2509,7 @@
           "description": "use for social media icons background in invite block"
         },
         "invite-fill": {
-          "value": "{bg.tertiary}",
+          "value": "{base.accent-light}",
           "type": "color",
           "description": "use for social media invite card background"
         }
@@ -2532,7 +2532,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "0.2",
+              "value": "0",
               "space": "lch"
             }
           }
