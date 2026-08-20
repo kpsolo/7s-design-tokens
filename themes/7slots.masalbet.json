@@ -5768,7 +5768,7 @@
   "refferal-program": {
     "card": {
       "bg": {
-        "value": "{bg.balance-default}",
+        "value": "linear-gradient(114deg, rgba(157, 157, 157, 0.60) 23%, rgba(57, 57, 57, 0.60) 98%)",
         "type": "color",
         "description": "use as bg for refferal program"
       },
@@ -5821,7 +5821,7 @@
         "description": "use as bg for primary text"
       },
       "progress 2": {
-        "value": "#4E4E4D",
+        "value": "#7D7D7D",
         "type": "color",
         "description": "use as bg for progress line secondary"
       },

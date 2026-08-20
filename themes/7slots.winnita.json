@@ -2342,7 +2342,7 @@
         "description": "use as bg for refferal program"
       },
       "text accent 1": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.light}",
         "type": "color",
         "description": "use as bg for sum text"
       },
@@ -2375,7 +2375,7 @@
         "description": "use as bg for refferal program lable"
       },
       "progress": {
-        "value": "{base.accent-secondary}",
+        "value": "{base.light}",
         "type": "color",
         "description": "use as bg for progress"
       },
