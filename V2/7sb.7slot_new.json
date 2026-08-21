@@ -8583,7 +8583,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.white.a70}",
+          "value": "{core.white.a80}",
           "type": "color"
         },
         "tertiary": {
