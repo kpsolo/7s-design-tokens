@@ -6579,6 +6579,32 @@
           "type": "color"
         }
       }
+    },
+    "referral-program": {
+      "card": {
+        "no-qualification": {
+          "percent": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{text.strongest}",
+              "fontSize": "72",
+              "lineHeight": "72"
+            },
+            "type": "typography",
+            "description": "use for percent in no qualification referral card"
+          },
+          "number": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{text.strongest}",
+              "fontSize": "96",
+              "lineHeight": "96"
+            },
+            "type": "typography",
+            "description": "use for percent numbers in no qualification referral card"
+          }
+        }
+      }
     }
   },
   "Casino": {
@@ -6929,26 +6955,6 @@
         "lineHeight": "{xxl}"
       },
       "type": "typography"
-    },
-    "3xl-stronger": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.strongest}",
-        "fontSize": "72",
-        "lineHeight": "72"
-      },
-      "type": "typography",
-      "description": "use for percent in no qualification referral card"
-    },
-    "4xl-stronger": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.strongest}",
-        "fontSize": "96",
-        "lineHeight": "96"
-      },
-      "type": "typography",
-      "description": "use for percent numbers in no qualification referral card"
     }
   },
   "Icon": {
