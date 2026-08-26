@@ -6718,6 +6718,11 @@
             "type": "color",
             "description": "card 5"
           },
+          "qrcod": {
+            "value": "{core.white.a8}",
+            "type": "color",
+            "description": "Background QR code "
+          },
           "qrcod-off": {
             "value": "linear-gradient(180deg, #386267 0%, #365F63 23.56%, #345558 58.17%, #304F53 100%)",
             "type": "color"
