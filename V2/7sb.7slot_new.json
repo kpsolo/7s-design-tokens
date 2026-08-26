@@ -6695,23 +6695,28 @@
         "background": {
           "1": {
             "value": "linear-gradient(155deg, #287D85 2.44%, #226972 7.84%, #123944 34.61%, #181F27 73.13%)",
-            "type": "color"
+            "type": "color",
+            "description": "card 1"
           },
           "2": {
             "value": "linear-gradient(151deg, #3D72B3 -7.66%, #3D72B3 -2.28%, #1D3653 18.16%, #202535 50.27%)",
-            "type": "color"
+            "type": "color",
+            "description": "card 2"
           },
           "3": {
             "value": "linear-gradient(156deg, #9B244D -3.01%, rgba(132, 31, 66, 0.78) 2.61%, #1C212E 41.17%)",
-            "type": "color"
+            "type": "color",
+            "description": "card 3"
           },
           "4": {
             "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
-            "type": "color"
+            "type": "color",
+            "description": "card 4"
           },
           "5": {
             "value": "linear-gradient(151deg, #4B2C80 3.96%, #37225B 23.71%, #1C212E 56.34%)",
-            "type": "color"
+            "type": "color",
+            "description": "card 5"
           },
           "qrcod-off": {
             "value": "linear-gradient(180deg, #386267 0%, #365F63 23.56%, #345558 58.17%, #304F53 100%)",
