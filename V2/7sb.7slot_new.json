@@ -6609,7 +6609,7 @@
     "vip": {
       "border": {
         "main": {
-          "value": "{core.brand-30.500}",
+          "value": "linear-gradient(225deg, {core.white.a0} 0%, {core.white.a20} 100%)",
           "type": "color"
         },
         "default": {
