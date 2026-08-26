@@ -6644,6 +6644,10 @@
           "value": "linear-gradient(135deg, #287D86 1.26%, #20656E 5.99%, #17333D 38.92%, #181F27 63.16%)",
           "type": "color"
         },
+        "main2": {
+          "value": "linear-gradient(350deg, #255761 7.93%, #194953 14.48%, #14323C 47.02%, #252B32 93.83%);",
+          "type": "color"
+        },
         "secondry": {
           "value": "#111A1D",
           "type": "color"
