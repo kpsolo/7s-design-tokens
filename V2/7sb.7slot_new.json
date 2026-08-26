@@ -672,9 +672,9 @@
       }
     },
     "popup": {
-      "general": {
+      "main": {
         "value": {
-          "color": "{contextual.popup.border}",
+          "color": "{contextual.vip.border.main}",
           "width": "{depth.025}",
           "style": "solid"
         },
@@ -810,6 +810,32 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "vip": {
+      "main": {
+        "value": {
+          "color": "{contextual.popup.border}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "bottom-top": {
+        "value": {
+          "color": "{contextual.popup.bottom.border}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "text": {
+        "value": {
+          "color": "{contextual.popup.bottom.border}",
+          "width": "{depth.025}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
     }
   },
   "shadow": {
@@ -6619,7 +6645,7 @@
       },
       "card": {
         "main": {
-          "value": "{semantic.gradients.16}",
+          "value": "linear-gradient(135deg, #287D86 1.26%, #20656E 5.99%, #17333D 38.92%, #181F27 63.16%)",
           "type": "color"
         },
         "secondry": {
