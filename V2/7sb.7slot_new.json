@@ -6605,6 +6605,28 @@
           }
         }
       }
+    },
+    "vip": {
+      "border": {
+        "main": {
+          "value": "{core.brand-30.500}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{core.white.a0}",
+          "type": "color"
+        }
+      },
+      "card": {
+        "main": {
+          "value": "{semantic.gradients.16}",
+          "type": "color"
+        },
+        "secondry": {
+          "value": "{core.brand-60.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "Casino": {
