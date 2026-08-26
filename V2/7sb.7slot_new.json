@@ -6677,6 +6677,40 @@
           "type": "color"
         }
       }
+    },
+    "mobapp": {
+      "cost-indicator": {
+        "text&icon": {
+          "value": "{core.additionals.accent-secondary}",
+          "type": "color"
+        }
+      },
+      "card": {
+        "border": {
+          "default": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "background": {
+          "1": {
+            "value": "linear-gradient(155deg, #287D85 2.44%, #226972 7.84%, #123944 34.61%, #181F27 73.13%)",
+            "type": "color"
+          },
+          "2": {
+            "value": "linear-gradient(151deg, #3D72B3 -7.66%, #3D72B3 -2.28%, #1D3653 18.16%, #202535 50.27%)",
+            "type": "color"
+          },
+          "3": {
+            "value": "linear-gradient(156deg, #9B244D -3.01%, rgba(132, 31, 66, 0.78) 2.61%, #1C212E 41.17%)",
+            "type": "color"
+          },
+          "4": {
+            "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "Casino": {
