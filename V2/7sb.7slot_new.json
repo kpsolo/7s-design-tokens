@@ -6733,6 +6733,12 @@
           }
         }
       }
+    },
+    "navmenu": {
+      "mask": {
+        "value": "linear-gradient(90deg, #FFF 0%, #FFF 86.71%, rgba(255, 255, 255, 0.00) 96.27%)",
+        "type": "color"
+      }
     }
   },
   "Casino": {
