@@ -9911,6 +9911,18 @@
       "type": "typography"
     }
   },
+  "mobapp": {
+    "number-card": {
+      "value": {
+        "fontFamily": "{main}",
+        "fontWeight": "{Black}",
+        "fontSize": "52px",
+        "lineHeight": "60px"
+      },
+      "type": "typography",
+      "description": "number mobapp card"
+    }
+  },
   "wheel": {
     "popup": {
       "vip-bet-amount": {
