@@ -6712,6 +6712,14 @@
           "5": {
             "value": "linear-gradient(151deg, #4B2C80 3.96%, #37225B 23.71%, #1C212E 56.34%)",
             "type": "color"
+          },
+          "qrcod-off": {
+            "value": "linear-gradient(180deg, #386267 0%, #365F63 23.56%, #345558 58.17%, #304F53 100%)",
+            "type": "color"
+          },
+          "qrcod-on": {
+            "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%);",
+            "type": "color"
           }
         }
       }
