@@ -6708,6 +6708,10 @@
           "4": {
             "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
             "type": "color"
+          },
+          "5": {
+            "value": "linear-gradient(151deg, #4B2C80 3.96%, #37225B 23.71%, #1C212E 56.34%)",
+            "type": "color"
           }
         }
       }
