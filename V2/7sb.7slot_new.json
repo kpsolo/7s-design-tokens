@@ -3364,7 +3364,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{semantic.background.slate-on-card}",
+          "value": "{core.brand-30.50a20}",
           "type": "color"
         }
       },
