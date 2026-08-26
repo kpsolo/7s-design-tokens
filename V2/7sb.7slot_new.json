@@ -674,7 +674,7 @@
     "popup": {
       "main": {
         "value": {
-          "color": "{contextual.vip.border.main}",
+          "color": "{contextual.vip.border.card}",
           "width": "{depth.025}",
           "style": "solid"
         },
@@ -6634,12 +6634,8 @@
     },
     "vip": {
       "border": {
-        "main": {
+        "card": {
           "value": "linear-gradient(225deg, {core.white.a0} 0%, {core.white.a20} 100%)",
-          "type": "color"
-        },
-        "default": {
-          "value": "{core.white.a0}",
           "type": "color"
         }
       },
@@ -6649,7 +6645,7 @@
           "type": "color"
         },
         "secondry": {
-          "value": "{core.brand-60.500}",
+          "value": "#111A1D",
           "type": "color"
         }
       }
