@@ -672,9 +672,9 @@
       }
     },
     "popup": {
-      "main": {
+      "general": {
         "value": {
-          "color": "{contextual.vip.border.card}",
+          "color": "{contextual.popup.border}",
           "width": "{depth.025}",
           "style": "solid"
         },
@@ -810,32 +810,6 @@
         "style": "solid"
       },
       "type": "border"
-    },
-    "vip": {
-      "main": {
-        "value": {
-          "color": "{contextual.popup.border}",
-          "width": "{depth.025}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "bottom-top": {
-        "value": {
-          "color": "{contextual.popup.bottom.border}",
-          "width": "{depth.025}",
-          "style": "solid"
-        },
-        "type": "border"
-      },
-      "text": {
-        "value": {
-          "color": "{contextual.popup.bottom.border}",
-          "width": "{depth.025}",
-          "style": "solid"
-        },
-        "type": "border"
-      }
     }
   },
   "shadow": {
@@ -1705,30 +1679,6 @@
           }
         ],
         "type": "boxShadow"
-      }
-    },
-    "vip": {
-      "card": {
-        "value": [
-          {
-            "x": "28",
-            "y": "-28",
-            "blur": "28",
-            "spread": "0px",
-            "color": "rgba(194, 194, 194, 0.03)",
-            "type": "innerShadow"
-          },
-          {
-            "x": "28",
-            "y": "-28",
-            "blur": "28",
-            "spread": "0",
-            "color": "rgba(255, 255, 255, 0.03)",
-            "type": "innerShadow"
-          }
-        ],
-        "type": "boxShadow",
-        "description": "Shadow for Vip landing card "
       }
     }
   },
@@ -3364,7 +3314,7 @@
     "accordion": {
       "fill": {
         "1": {
-          "value": "{core.brand-30.50a20}",
+          "value": "{semantic.background.slate-on-card}",
           "type": "color"
         }
       },
@@ -5102,6 +5052,53 @@
           "value": "{semantic.text.default.heading}",
           "type": "color"
         }
+      },
+      "card": {
+        "yes-qualification": {
+          "fill": {
+            "value": "radial-gradient( #2F8491 0%, #226A76 50%, #103F48 100%)",
+            "type": "color",
+            "description": "use for referral card fill with done qualification state"
+          },
+          "border": {
+            "value": "linear-gradient(135deg, #FFFFFF33 0%, #FFFFFF1A 50%, #FFFFFF14 100%)",
+            "type": "color",
+            "description": "use for referral card border with done qualification state"
+          }
+        },
+        "no-qualification": {
+          "fill": {
+            "value": "radial-gradient( #619EF7 0%, #477DD1 50%, #1F4B8F 100%)",
+            "type": "color",
+            "description": "use for referral card fill with no qualification state"
+          },
+          "border": {
+            "value": "linear-gradient(135deg, #FFFFFF33 0%, #FFFFFF1A 50%, #FFFFFF14 100%)",
+            "type": "color",
+            "description": "use for referral card border with no qualification state"
+          },
+          "number": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{text.strongest}",
+              "fontSize": "96",
+              "lineHeight": "96",
+              "letterSpacing": "-5px"
+            },
+            "type": "typography",
+            "description": "use for percent numbers in no qualification referral card"
+          },
+          "percent": {
+            "value": {
+              "fontFamily": "{accent}",
+              "fontWeight": "{text.strongest}",
+              "fontSize": "72",
+              "lineHeight": "72"
+            },
+            "type": "typography",
+            "description": "use for percent in no qualification referral card"
+          }
+        }
       }
     },
     "menu": {
@@ -6629,116 +6626,6 @@
           "type": "color"
         }
       }
-    },
-    "referral-program": {
-      "card": {
-        "no-qualification": {
-          "percent": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{text.strongest}",
-              "fontSize": "72",
-              "lineHeight": "72"
-            },
-            "type": "typography",
-            "description": "use for percent in no qualification referral card"
-          },
-          "number": {
-            "value": {
-              "fontFamily": "{accent}",
-              "fontWeight": "{text.strongest}",
-              "fontSize": "96",
-              "lineHeight": "96"
-            },
-            "type": "typography",
-            "description": "use for percent numbers in no qualification referral card"
-          }
-        }
-      }
-    },
-    "vip": {
-      "border": {
-        "card": {
-          "value": "linear-gradient(225deg, {core.white.a0} 0%, {core.white.a20} 100%)",
-          "type": "color"
-        }
-      },
-      "card": {
-        "main": {
-          "value": "linear-gradient(135deg, #287D86 1.26%, #20656E 5.99%, #17333D 38.92%, #181F27 63.16%)",
-          "type": "color"
-        },
-        "main2": {
-          "value": "linear-gradient(350deg, #255761 7.93%, #194953 14.48%, #14323C 47.02%, #252B32 93.83%);",
-          "type": "color"
-        },
-        "secondry": {
-          "value": "#111A1D",
-          "type": "color"
-        }
-      }
-    },
-    "mobapp": {
-      "cost-indicator": {
-        "text&icon": {
-          "value": "{core.additionals.accent-secondary}",
-          "type": "color"
-        }
-      },
-      "card": {
-        "border": {
-          "default": {
-            "value": "{core.white.a10}",
-            "type": "color"
-          }
-        },
-        "background": {
-          "1": {
-            "value": "linear-gradient(155deg, #287D85 2.44%, #226972 7.84%, #123944 34.61%, #181F27 73.13%)",
-            "type": "color",
-            "description": "card 1"
-          },
-          "2": {
-            "value": "linear-gradient(151deg, #3D72B3 -7.66%, #3D72B3 -2.28%, #1D3653 18.16%, #202535 50.27%)",
-            "type": "color",
-            "description": "card 2"
-          },
-          "3": {
-            "value": "linear-gradient(156deg, #9B244D -3.01%, rgba(132, 31, 66, 0.78) 2.61%, #1C212E 41.17%)",
-            "type": "color",
-            "description": "card 3"
-          },
-          "4": {
-            "value": "linear-gradient(133deg, #9C6C0D -11.97%, #544628 6.81%, #362D19 26.58%, #1D212E 44.91%, #1C212E 91.81%)",
-            "type": "color",
-            "description": "card 4"
-          },
-          "5": {
-            "value": "linear-gradient(151deg, #4B2C80 3.96%, #37225B 23.71%, #1C212E 56.34%)",
-            "type": "color",
-            "description": "card 5"
-          },
-          "qrcod": {
-            "value": "{core.white.a8}",
-            "type": "color",
-            "description": "Background QR code "
-          },
-          "qrcod-off": {
-            "value": "linear-gradient(180deg, #386267 0%, #365F63 23.56%, #345558 58.17%, #304F53 100%)",
-            "type": "color"
-          },
-          "qrcod-on": {
-            "value": "linear-gradient(180deg, #5CD995 0%, #3A9B84 100%);",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "navmenu": {
-      "mask": {
-        "value": "linear-gradient(90deg, #FFF 0%, #FFF 86.71%, rgba(255, 255, 255, 0.00) 96.27%)",
-        "type": "color"
-      }
     }
   },
   "Casino": {
@@ -6779,10 +6666,6 @@
     "value": "32px",
     "type": "fontSizes"
   },
-  "scale-9": {
-    "value": "40px",
-    "type": "fontSizes"
-  },
   "xs": {
     "value": "16px",
     "type": "lineHeights"
@@ -6809,10 +6692,6 @@
   },
   "xxl": {
     "value": "38px",
-    "type": "lineHeights"
-  },
-  "xxxl": {
-    "value": "48px",
     "type": "lineHeights"
   },
   "text-decoration": {
@@ -7095,15 +6974,6 @@
         "fontWeight": "{text.stronger}",
         "fontSize": "{scale-8}",
         "lineHeight": "{xxl}"
-      },
-      "type": "typography"
-    },
-    "xxxl-stronger": {
-      "value": {
-        "fontFamily": "{accent}",
-        "fontWeight": "{text.strongest}",
-        "fontSize": "{scale-9}",
-        "lineHeight": "{xxxl}"
       },
       "type": "typography"
     }
@@ -9915,18 +9785,6 @@
         "lineHeight": "34px"
       },
       "type": "typography"
-    }
-  },
-  "mobapp": {
-    "number-card": {
-      "value": {
-        "fontFamily": "{main}",
-        "fontWeight": "{Black}",
-        "fontSize": "52px",
-        "lineHeight": "60px"
-      },
-      "type": "typography",
-      "description": "number mobapp card"
     }
   },
   "wheel": {
