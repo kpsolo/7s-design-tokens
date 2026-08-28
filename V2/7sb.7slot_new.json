@@ -5099,6 +5099,39 @@
             "description": "use for percent in no qualification referral card"
           }
         }
+      },
+      "social-media": {
+        "card": {
+          "fill": {
+            "value": "#000000",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.26",
+                  "space": "lch"
+                }
+              }
+            },
+            "description": "use for social media card fill"
+          },
+          "border": {
+            "value": "linear-gradient(135deg, #FFFFFF33 0%, #FFFFFF1A 50%, #FFFFFF14 100%)",
+            "type": "color",
+            "description": "use for social media card border"
+          },
+          "icon": {
+            "value": "{semantic.gradients.15}",
+            "type": "color",
+            "description": "use for social media icon fill"
+          },
+          "blur": {
+            "value": "40px",
+            "type": "dimension",
+            "description": "use for social media background blur"
+          }
+        }
       }
     },
     "menu": {
