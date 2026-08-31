@@ -8685,7 +8685,7 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{core.white.a50}",
+          "value": "{core.white.a80}",
           "type": "color"
         }
       },
