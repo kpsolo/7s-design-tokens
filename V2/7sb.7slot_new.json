@@ -6677,6 +6677,18 @@
           }
         }
       }
+    },
+    "top-up": {
+      "banner": {
+        "border": {
+          "value": "{core.white.a15}",
+          "type": "color"
+        },
+        "fill": {
+          "value": "{core.brand-30.700}",
+          "type": "color"
+        }
+      }
     }
   },
   "Casino": {
