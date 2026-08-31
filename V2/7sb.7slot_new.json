@@ -6669,6 +6669,12 @@
         "border": {
           "value": "{core.brand-60.200}",
           "type": "color"
+        },
+        "text": {
+          "secondary": {
+            "value": "{core.white.a100}",
+            "type": "color"
+          }
         }
       }
     }
