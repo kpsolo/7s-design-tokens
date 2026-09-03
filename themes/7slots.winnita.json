@@ -3151,6 +3151,11 @@
       "value": "rgba(255, 255, 255, 0.2)",
       "type": "color",
       "description": "use for tabs popups border "
+    },
+    "blur-referral": {
+      "value": "50px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
     }
   },
   "nav": {
