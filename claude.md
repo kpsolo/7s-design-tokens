@@ -73,7 +73,10 @@ The token files follow the W3C Design Tokens Community Group specification forma
   * Production brand overrides: `/themes/7slots.<brand>.json`.
   * Pre-update masalbet snapshot: `/themes/7slots.masalbet-old.json`.
   * V2 redesign: `/V2/7sb.7slot_new.json`.
-* **Editing Tokens**: When updating tokens, ensure references (`{alias}`) are preserved and correctly matched to the expected categories. Avoid hardcoding raw values where token aliases are available.
+* **Token Studio "-copy" Artifacts**:
+  * When a designer duplicates or copies a token to another set in the Figma Token Studio plugin, Token Studio automatically appends `-copy` to the token name (e.g., `card.bg-copy`, `nav-promo-copy`, `6-copy`).
+  * These are unintentional naming artifacts.
+  * When verifying/syncing themes, rename `-copy` tokens to their canonical names if missing, or delete them if the canonical token already exists.
 * **Logging Changes in Notes Files**:
   * **ALWAYS** record detailed change logs, palette analyses, alias strategies, and decision tables in the stream-specific note files:
     * Production Themes (`/themes/`) changes $\rightarrow$ write to [`notes-7sl-old.md`](file:///c:/Work/7slots/notes-7sl-old.md).
@@ -84,10 +87,10 @@ The token files follow the W3C Design Tokens Community Group specification forma
 
 ## 🛠️ Verification & Synchronization Tools
 
-* **`scripts/verify-sync.js`**: Quick synchronization verifier that compares theme token sets against the `7slots.default.json` baseline, reporting missing tokens, extra tokens, and type mismatches.
+* **`scripts/verify-sync.js`**: Quick synchronization verifier that compares theme token sets against the `7slots.default.json` baseline, reporting missing tokens, extra tokens, type mismatches, and Token Studio `-copy` artifacts.
   * Run all themes: `node scripts/verify-sync.js`
   * Summary table only: `node scripts/verify-sync.js -s`
   * Single theme details: `node scripts/verify-sync.js -t <theme>`
-  * Filter by pattern (e.g. `pregame`): `node scripts/verify-sync.js -f <pattern>`
+  * Filter by pattern (e.g. `ref`, `pregame`): `node scripts/verify-sync.js -f <pattern>`
   * Output as JSON: `node scripts/verify-sync.js --json`
 

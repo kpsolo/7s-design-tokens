@@ -4,7 +4,11 @@
  * 7Slots Design Tokens Synchronization Verifier
  *
  * Compares all theme token sets against the baseline (default: 7slots.default.json)
- * and highlights missing tokens, extra tokens, and type mismatches.
+ * and highlights missing tokens, extra tokens, type mismatches, and "-copy" artifacts.
+ *
+ * MEMO: Tokens ending with "-copy" (e.g. "bg-copy", "6-copy") are created
+ * automatically by Token Studio when a user copies a token to another set in Figma.
+ * These are usually unrenamed duplicates or missing canonical tokens.
  *
  * Usage:
  *   node scripts/verify-sync.js [options]
@@ -79,9 +83,24 @@ ${c.cyan}Options:${c.reset}
   -a, --all                 Include snapshot themes (e.g. masalbet-old)
   --json                    Output results in JSON format
   -h, --help                Show this help message
+
+${c.yellow}Memo on "-copy" tokens:${c.reset}
+  Tokens ending in "-copy" (e.g. "card.bg-copy") are created automatically
+  by Token Studio when copying tokens between sets in Figma. The verifier flags
+  these so they can be renamed to canonical names or cleaned up.
 `);
     process.exit(0);
   }
+}
+
+// Helper to test if a token path is a copy artifact
+function isCopyToken(tokenPath) {
+  return /-copy(\b|\.|$)|_copy(\b|\.|$)/i.test(tokenPath);
+}
+
+// Suggest canonical name by stripping -copy
+function getCanonicalSuggestion(tokenPath) {
+  return tokenPath.replace(/-copy(-\d+)?/gi, '');
 }
 
 // Ensure theme name format
@@ -178,10 +197,23 @@ try {
   process.exit(1);
 }
 
+// Find -copy tokens in baseline
+const baseCopyTokens = [];
+for (const [pathKey, token] of baseTokens.entries()) {
+  if (isCopyToken(pathKey)) {
+    baseCopyTokens.push({
+      path: pathKey,
+      type: token.type,
+      canonical: getCanonicalSuggestion(pathKey),
+    });
+  }
+}
+
 const report = {
   baseline: {
     theme: baseThemeName,
     totalTokens: baseTokens.size,
+    copyTokens: baseCopyTokens,
   },
   results: [],
 };
@@ -208,6 +240,7 @@ for (const themeName of themesToCompare) {
   const missing = [];
   const extra = [];
   const typeMismatches = [];
+  const copyTokens = [];
 
   // Check for missing tokens and type mismatches
   for (const [pathKey, baseToken] of baseTokens.entries()) {
@@ -232,7 +265,7 @@ for (const themeName of themesToCompare) {
     }
   }
 
-  // Check for extra tokens
+  // Check for extra tokens and copy tokens
   for (const [pathKey, themeToken] of themeTokens.entries()) {
     if (!baseTokens.has(pathKey)) {
       if (!filterRegex || filterRegex.test(pathKey)) {
@@ -242,15 +275,28 @@ for (const themeName of themesToCompare) {
         });
       }
     }
+
+    if (isCopyToken(pathKey)) {
+      if (!filterRegex || filterRegex.test(pathKey)) {
+        const canonical = getCanonicalSuggestion(pathKey);
+        copyTokens.push({
+          path: pathKey,
+          canonical,
+          existsInBaseline: baseTokens.has(canonical),
+          existsInTheme: themeTokens.has(canonical),
+        });
+      }
+    }
   }
 
   report.results.push({
     theme: themeName,
     totalTokens: themeTokens.size,
-    isSynced: missing.length === 0 && extra.length === 0 && typeMismatches.length === 0,
+    isSynced: missing.length === 0 && extra.length === 0 && typeMismatches.length === 0 && copyTokens.length === 0,
     missing,
     extra,
     typeMismatches,
+    copyTokens,
   });
 }
 
@@ -269,7 +315,16 @@ console.log(`${c.gray}Comparing:${c.reset}      ${themesToCompare.length} theme(
 if (filterPattern) {
   console.log(`${c.gray}Filter Pattern:${c.reset} ${c.yellow}${filterPattern}${c.reset}`);
 }
-console.log('');
+console.log(`${c.dim}Memo: "-copy" tokens are auto-created when copying in Token Studio (Figma).${c.reset}\n`);
+
+// Print baseline -copy warnings if any
+if (baseCopyTokens.length > 0) {
+  console.log(`${c.yellow}${c.bold}⚠️  Baseline "${baseThemeName}" has ${baseCopyTokens.length} "-copy" artifact(s):${c.reset}`);
+  baseCopyTokens.forEach(b => {
+    console.log(`   ${c.yellow}*${c.reset} ${b.path} ${c.gray}(suggested: "${b.canonical}")${c.reset}`);
+  });
+  console.log('');
+}
 
 // Print Summary Table
 function stripAnsi(str) {
@@ -287,11 +342,12 @@ function padLeft(str, len) {
 }
 
 const cols = [
-  { name: 'Theme', width: 22, align: 'left' },
-  { name: 'Tokens', width: 10, align: 'right' },
-  { name: 'Missing', width: 11, align: 'right' },
-  { name: 'Extra', width: 9, align: 'right' },
-  { name: 'Type Err', width: 11, align: 'right' },
+  { name: 'Theme', width: 20, align: 'left' },
+  { name: 'Tokens', width: 8, align: 'right' },
+  { name: 'Missing', width: 9, align: 'right' },
+  { name: 'Extra', width: 8, align: 'right' },
+  { name: 'Type Err', width: 10, align: 'right' },
+  { name: '-copy', width: 8, align: 'right' },
   { name: 'Status', width: 12, align: 'left' }
 ];
 
@@ -313,6 +369,9 @@ for (const res of report.results) {
   const typeErrStr = res.typeMismatches.length === 0
     ? `${c.green}0${c.reset}`
     : `${c.magenta}${res.typeMismatches.length}${c.reset}`;
+  const copyStr = res.copyTokens.length === 0
+    ? `${c.green}0${c.reset}`
+    : `${c.yellow}${res.copyTokens.length}${c.reset}`;
   const statusStr = res.isSynced
     ? `${c.green}✔ SYNCED${c.reset}`
     : `${c.red}✘ DESYNC${c.reset}`;
@@ -323,7 +382,8 @@ for (const res of report.results) {
     padLeft(missingStr, cols[2].width),
     padLeft(extraStr, cols[3].width),
     padLeft(typeErrStr, cols[4].width),
-    padRight(statusStr, cols[5].width),
+    padLeft(copyStr, cols[5].width),
+    padRight(statusStr, cols[6].width),
   ].join(' | ') + ' |';
 
   console.log(row);
@@ -361,6 +421,22 @@ if (!summaryOnly) {
       console.log(`  ${c.magenta}${c.bold}Type mismatches with baseline (${res.typeMismatches.length}):${c.reset}`);
       res.typeMismatches.forEach(tm => {
         console.log(`    ${c.magenta}~${c.reset} ${c.bold}${tm.path}${c.reset}: baseline=${c.cyan}${tm.baselineType}${c.reset}, theme=${c.yellow}${tm.themeType}${c.reset}`);
+      });
+    }
+
+    // 4. Copy Artifacts (-copy)
+    if (res.copyTokens.length > 0) {
+      console.log(`  ${c.yellow}${c.bold}Artifact "-copy" tokens (${res.copyTokens.length}) [Auto-created by Token Studio]:${c.reset}`);
+      res.copyTokens.forEach(ct => {
+        let note = '';
+        if (ct.existsInBaseline) {
+          note = `${c.green}→ Baseline has canonical "${ct.canonical}" (rename needed)${c.reset}`;
+        } else if (ct.existsInTheme) {
+          note = `${c.red}→ Duplicate: theme already has "${ct.canonical}" (remove needed)${c.reset}`;
+        } else {
+          note = `${c.gray}→ Suggested canonical: "${ct.canonical}"${c.reset}`;
+        }
+        console.log(`    ${c.yellow}⚠️ ${c.reset} ${c.bold}${ct.path}${c.reset} ${note}`);
       });
     }
 
