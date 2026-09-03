@@ -848,7 +848,7 @@
       },
       "type": "typography"
     },
-    "refferal-program": {
+    "referral-program": {
       "text-strong": {
         "value": {
           "fontFamily": "{font-family.main}",
@@ -1584,7 +1584,7 @@
       "description": "Shadow for active mob app screenshots"
     }
   },
-  "refferal-program": {
+  "referral-program": {
     "shadow": {
       "rule-card": {
         "value": [

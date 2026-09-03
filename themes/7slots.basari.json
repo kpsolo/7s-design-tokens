@@ -862,7 +862,7 @@
       "type": "typography",
       "description": "links in shop hover state"
     },
-    "refferal-program": {
+    "referral-program": {
       "text-strong": {
         "value": {
           "fontFamily": "{font-family.main}",
@@ -5989,7 +5989,7 @@
       "description": "bg news card"
     }
   },
-  "refferal-program": {
+  "referral-program": {
     "card": {
       "bg": {
         "value": "linear-gradient(107deg, #8D262B 4%, #440D10 100%)",

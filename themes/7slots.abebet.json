@@ -880,7 +880,7 @@
       },
       "type": "typography"
     },
-    "refferal-program": {
+    "referral-program": {
       "text-strong": {
         "value": {
           "fontFamily": "{font-family.main}",
@@ -6028,7 +6028,7 @@
       "description": "bg news card"
     }
   },
-  "refferal-program": {
+  "referral-program": {
     "card": {
       "bg": {
         "value": "linear-gradient(118deg, #912266 6%, #461B52 64%, #331848 96%)",

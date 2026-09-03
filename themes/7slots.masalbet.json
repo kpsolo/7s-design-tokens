@@ -808,7 +808,7 @@
       "type": "typography",
       "description": "Body"
     },
-    "refferal-program": {
+    "referral-program": {
       "text-strong": {
         "value": {
           "fontFamily": "{font-family.main}",
@@ -5765,7 +5765,7 @@
       "description": "bg news card"
     }
   },
-  "refferal-program": {
+  "referral-program": {
     "card": {
       "bg": {
         "value": "linear-gradient(114deg, rgba(157, 157, 157, 0.60) 23%, rgba(57, 57, 57, 0.60) 98%)",
