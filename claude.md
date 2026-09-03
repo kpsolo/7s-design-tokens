@@ -79,3 +79,15 @@ The token files follow the W3C Design Tokens Community Group specification forma
     * Production Themes (`/themes/`) changes $\rightarrow$ write to [`notes-7sl-old.md`](file:///c:/Work/7slots/notes-7sl-old.md).
     * V2 Redesign (`/V2/`) changes $\rightarrow$ write to [`notes-7sl-v2.md`](file:///c:/Work/7slots/notes-7sl-v2.md).
   * Keep `claude.md` updated with high-level summaries and references to these detailed note files in the **Change Log & Notes Index** section.
+
+---
+
+## 🛠️ Verification & Synchronization Tools
+
+* **`scripts/verify-sync.js`**: Quick synchronization verifier that compares theme token sets against the `7slots.default.json` baseline, reporting missing tokens, extra tokens, and type mismatches.
+  * Run all themes: `node scripts/verify-sync.js`
+  * Summary table only: `node scripts/verify-sync.js -s`
+  * Single theme details: `node scripts/verify-sync.js -t <theme>`
+  * Filter by pattern (e.g. `pregame`): `node scripts/verify-sync.js -f <pattern>`
+  * Output as JSON: `node scripts/verify-sync.js --json`
+
