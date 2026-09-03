@@ -3746,8 +3746,12 @@
           "type": "color"
         },
         "navmenu": {
-          "fill": {
+          "primary": {
             "value": "{core.brand-60.900}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core.brand-60.700}",
             "type": "color"
           },
           "overlay": {
