@@ -70,6 +70,26 @@
       "type": "typography",
       "description": "Caption"
     },
+    "body-card-fun": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.2}"
+      },
+      "type": "typography",
+      "description": "Caption"
+    },
+    "caption-small-strong": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}"
+      },
+      "type": "typography",
+      "description": "Caption (unread)"
+    },
     "caption-small-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -345,6 +365,17 @@
         "type": "typography",
         "description": "use for no qualification percent"
       }
+    },
+    "button-text-demo": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
+      },
+      "type": "typography",
+      "description": "use for demo button"
     },
     "title-small": {
       "value": {
@@ -3304,6 +3335,45 @@
       "value": "#252D40",
       "type": "color",
       "description": "use for cash popups bg"
+    },
+    "thumb": {
+      "placeholder-fill": {
+        "value": "rgba(28, 33, 46, 0.4)",
+        "type": "color",
+        "description": "color for thumb placeholder"
+      }
+    }
+  },
+  "pregame": {
+    "self-close-message": {
+      "fill": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for self-close message fill"
+      },
+      "close-border": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for self-close cross icon border"
+      }
     }
   },
   "opacity": {
@@ -3531,9 +3601,9 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "rgba({base.accent-light} , 0)",
+        "value": "rgba(0, 0, 0, 0)",
         "type": "color",
-        "description": "Background for bottom part and button in pregame modal"
+        "description": "Background for bottom part and button in pregame modal rgba({base.accent-light} , 0)"
       },
       "app-hover": {
         "value": "#f2fcff",
@@ -3566,8 +3636,17 @@
         "description": "Background for shop  price selection buttons "
       },
       "demo-buttons": {
-        "value": "rgba({base.primary}, 0.1)",
+        "value": "{base.primary}",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
         "description": "Background for shop  price selection buttons "
       }
     },
@@ -3767,7 +3846,7 @@
         "description": "Text color on tertiary disabled button"
       },
       "demo": {
-        "value": "{base.light}",
+        "value": "{text.link}",
         "type": "color",
         "description": "Text color on demo button"
       }
@@ -3804,6 +3883,11 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
+      },
+      "label-thumb-my games": {
+        "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
+        "type": "color",
+        "description": "Color for label thumb my games widget"
       }
     },
     "widget": {

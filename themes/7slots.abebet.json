@@ -2934,6 +2934,13 @@
       "value": "50px",
       "type": "dimension",
       "description": "use for bg blue in 1st deposit cards"
+    },
+    "thumb": {
+      "placeholder-fill": {
+        "value": "rgba(255, 255, 255, 0.04)",
+        "type": "color",
+        "description": "color for thumb placeholder"
+      }
     }
   },
   "nav": {
@@ -3389,6 +3396,10 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
+      },
+      "label-thumb-my games": {
+        "value": "rgba(137, 29, 221, 0.8)",
+        "type": "color"
       }
     },
     "scrollbar": {
@@ -6031,6 +6042,38 @@
       "value": "linear-gradient(148.34deg, #391368 7.31%, #391368 21.83%, #1B1B23 47.6%, #1B1B23 76.41%)",
       "type": "color",
       "description": "bg news card"
+    }
+  },
+  "pregame": {
+    "self-close-message": {
+      "fill": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for timer-welcome-bonus "
+      },
+      "close-border": {
+        "value": "{base.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "lch"
+            }
+          }
+        },
+        "description": "bg for self-close cross icon border"
+      }
     }
   },
   "referral-program": {
