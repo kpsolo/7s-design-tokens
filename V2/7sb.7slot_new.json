@@ -4680,6 +4680,11 @@
         "value": "{semantic.background.slate-2}",
         "type": "color"
       },
+      "bg": {
+        "value": "{core.white.a8}",
+        "type": "color",
+        "description": "bg Progres menu"
+      },
       "border": {
         "value": "{core.white.a8}",
         "type": "color"
