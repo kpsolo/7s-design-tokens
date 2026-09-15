@@ -1,11 +1,11 @@
 {
   "main": {
-    "value": "Inter",
+    "value": "Akshar",
     "type": "fontFamilies",
     "description": "font family for main content"
   },
   "accent": {
-    "value": "Inter",
+    "value": "Akshar",
     "type": "fontFamilies",
     "description": "font family for accent, header"
   },
