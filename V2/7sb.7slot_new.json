@@ -2602,6 +2602,23 @@
         }
       }
     },
+    "pregame": {
+      "cart": {
+        "fill": {
+          "value": "{core.brand-60.600}",
+          "type": "color",
+          "description": "use for card pregame"
+        }
+      },
+      "overlay": {
+        "value": "linear-gradient(180deg, rgba(12, 9, 6, 0.30) -1.25%, rgba(41, 32, 22, 0.30) 100%)",
+        "type": "color"
+      },
+      "background": {
+        "value": "#2D1816",
+        "type": "color"
+      }
+    },
     "thumb-games": {
       "show-more": {
         "card": {
@@ -3248,16 +3265,6 @@
       },
       "devider": {
         "value": "rgba(57, 38, 2, 0.10)",
-        "type": "color"
-      }
-    },
-    "pregame": {
-      "overlay": {
-        "value": "linear-gradient(180deg, rgba(12, 9, 6, 0.30) -1.25%, rgba(41, 32, 22, 0.30) 100%)",
-        "type": "color"
-      },
-      "background": {
-        "value": "#2D1816",
         "type": "color"
       }
     },
