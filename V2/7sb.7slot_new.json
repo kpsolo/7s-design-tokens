@@ -2603,12 +2603,16 @@
       }
     },
     "pregame": {
-      "cart": {
+      "card": {
         "fill": {
           "value": "{core.brand-60.600}",
           "type": "color",
           "description": "use for card pregame"
         }
+      },
+      "overlay,fill": {
+        "value": "{semantic.background.brand.static.active}",
+        "type": "color"
       },
       "overlay": {
         "value": "linear-gradient(180deg, rgba(12, 9, 6, 0.30) -1.25%, rgba(41, 32, 22, 0.30) 100%)",
