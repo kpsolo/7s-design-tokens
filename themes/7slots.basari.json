@@ -5941,28 +5941,28 @@
   "pregame": {
     "self-close-message": {
       "fill": {
-        "value": "{base.primary}",
+        "value": "#ffffff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
         "description": "bg for timer-welcome-bonus "
       },
       "close-border": {
-        "value": "{base.primary}",
+        "value": "#ffffff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.24",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },

@@ -2968,28 +2968,28 @@
   "pregame": {
     "self-close-message": {
       "fill": {
-        "value": "{base.primary}",
+        "value": "#ffffff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
         "description": "bg for self-close message fill"
       },
       "close-border": {
-        "value": "{base.primary}",
+        "value": "#ffffff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.24",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
@@ -3227,14 +3227,14 @@
         "description": "Background for shop  price selection buttons "
       },
       "demo-buttons": {
-        "value": "{base.primary}",
+        "value": "#ffffff",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
             "modify": {
               "type": "alpha",
               "value": "0.1",
-              "space": "lch"
+              "space": "srgb"
             }
           }
         },
