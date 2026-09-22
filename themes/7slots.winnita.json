@@ -6171,5 +6171,37 @@
       "type": "color",
       "description": "bg news card"
     }
+  },
+  "pregame": {
+    "self-close-message": {
+      "fill": {
+        "value": "#105AC9",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for self-close message fill"
+      },
+      "close-border": {
+        "value": "#192947",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "use for self-close message border icon"
+      }
+    }
   }
 }
