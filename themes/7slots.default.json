@@ -65,7 +65,7 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.5}"
+        "fontSize": "{font-size.3}"
       },
       "type": "typography",
       "description": "Caption"
@@ -2576,7 +2576,7 @@
       "description": "Radius for select (0)"
     },
     "small-tips": {
-      "value": "24px",
+      "value": "4px",
       "type": "borderRadius",
       "description": "Radius for small elements and widgets, notification in menu item"
     },
@@ -4287,7 +4287,7 @@
       "description": "use for disabled icons in lists (loyalty)"
     },
     "secondary": {
-      "value": "{base.primary}",
+      "value": "{base.dark}",
       "type": "color",
       "description": "menu, bottom sheet"
     },
@@ -4302,8 +4302,17 @@
       "description": "use for categories"
     },
     "tertiary": {
-      "value": "rgba(255, 255, 255, 0.80)",
+      "value": "#1C212E",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.8",
+            "space": "srgb"
+          }
+        }
+      },
       "description": "icons in inputs (registration, profile)"
     },
     "accent": {
