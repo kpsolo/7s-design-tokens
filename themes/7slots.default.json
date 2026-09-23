@@ -70,6 +70,26 @@
       "type": "typography",
       "description": "Caption"
     },
+    "body-card-fun": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.2}"
+      },
+      "type": "typography",
+      "description": "Caption"
+    },
+    "caption-small-strong": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}"
+      },
+      "type": "typography",
+      "description": "Caption (unread)"
+    },
     "caption-small-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
@@ -90,14 +110,15 @@
       "type": "typography",
       "description": "timer-welcome-bonus-stronger - text bonus"
     },
-    "body-timer-welcome-bonus-desktop-stronger": {
+    "body-1": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
+        "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "Body"
     },
     "body-timer-welcome-bonus-desktop": {
       "value": {
@@ -108,25 +129,6 @@
       },
       "type": "typography",
       "description": "Body"
-    },
-    "body-1-strong": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.4}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}"
-      },
-      "type": "typography",
-      "description": "Body (unread), button"
-    },
-    "body-1-stronger": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}"
-      },
-      "type": "typography"
     },
     "body-1-cross": {
       "value": {
@@ -139,15 +141,42 @@
       "type": "typography",
       "description": "Body"
     },
-    "body-1": {
+    "body-1-stronger": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography"
+    },
+    "body-timer-welcome-bonus-desktop-stronger": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography"
+    },
+    "text-fun-sum": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
+        "lineHeight": "{line-height.1}",
+        "fontSize": "{font-size.4}"
+      },
+      "type": "typography"
+    },
+    "body-1-strong": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.4}",
         "lineHeight": "{line-height.1}",
         "fontSize": "{font-size.4}"
       },
       "type": "typography",
-      "description": "Body"
+      "description": "Body (unread), button"
     },
     "body-1-strong-cross": {
       "value": {
@@ -159,41 +188,12 @@
       },
       "type": "typography"
     },
-    "body-card-fun": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
-      },
-      "type": "typography",
-      "description": "Caption"
-    },
-    "text-fun-sum": {
+    "button-text-sm": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.4}"
-      },
-      "type": "typography"
-    },
-    "caption-small-strong": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}"
-      },
-      "type": "typography",
-      "description": "Caption (unread)"
-    },
-    "button-text-lg": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.4}",
+        "lineHeight": "{line-height.xs}",
+        "fontSize": "{font-size.2}",
         "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
@@ -209,36 +209,27 @@
       "type": "typography",
       "description": "small button in pregame"
     },
-    "button-text-demo": {
+    "link-s": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.0}",
+        "lineHeight": "{line-height.sm}",
+        "fontSize": "{font-size.3}",
+        "textDecoration": "{text-decoration.none}"
+      },
+      "type": "typography",
+      "description": "Link text"
+    },
+    "link-s-hover": {
       "value": {
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.4}",
-        "textCase": "{text-case.none}"
-      },
-      "type": "typography"
-    },
-    "button-text-sm": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.2}",
-        "lineHeight": "{line-height.xs}",
-        "fontSize": "{font-size.2}",
-        "textCase": "{text-case.uppercase}"
-      },
-      "type": "typography"
-    },
-    "button-text-app": {
-      "value": {
-        "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.1}",
-        "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.3}",
-        "textCase": "{text-case.capitalize}"
+        "textDecoration": "{text-decoration.underline}"
       },
       "type": "typography",
-      "description": "Caption (unread)"
+      "description": "Link text"
     },
     "link-m": {
       "value": {
@@ -262,89 +253,37 @@
       "type": "typography",
       "description": "Link text"
     },
-    "link-s-hover": {
+    "button-text-app": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.s}",
+        "fontSize": "{font-size.3}",
+        "textCase": "{text-case.capitalize}"
+      },
+      "type": "typography",
+      "description": "Caption (unread)"
+    },
+    "button-text-lg": {
+      "value": {
+        "fontFamily": "{font-family.main}",
+        "fontWeight": "{font-weight.2}",
         "lineHeight": "{line-height.m}",
-        "fontSize": "{font-size.3}",
-        "textDecoration": "{text-decoration.underline}"
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.uppercase}"
       },
-      "type": "typography",
-      "description": "Link text"
+      "type": "typography"
     },
-    "link-s": {
+    "button-text-demo": {
       "value": {
         "fontFamily": "{font-family.main}",
-        "fontWeight": "{font-weight.0}",
-        "lineHeight": "{line-height.sm}",
-        "fontSize": "{font-size.3}",
-        "textDecoration": "{text-decoration.none}"
+        "fontWeight": "{font-weight.1}",
+        "lineHeight": "{line-height.m}",
+        "fontSize": "{font-size.4}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
-      "description": "Link text"
-    },
-    "referral-program": {
-      "text-strong": {
-        "value": {
-          "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.4}",
-          "lineHeight": "{line-height.1}",
-          "fontSize": "{font-size.4}"
-        },
-        "type": "typography",
-        "description": "use for primary rate lable"
-      },
-      "text-regular": {
-        "value": {
-          "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.0}",
-          "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size.3}"
-        },
-        "type": "typography",
-        "description": "use for thin text in reff cards"
-      },
-      "earning-numbers": {
-        "value": {
-          "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
-          "lineHeight": "{line-height.4}",
-          "fontSize": "{font-size.7}"
-        },
-        "type": "typography",
-        "description": "use for earnings numbers"
-      },
-      "earning-currency": {
-        "value": {
-          "fontFamily": "{font-family.accent}",
-          "fontWeight": "{font-weight.2}",
-          "lineHeight": "{line-height.2}",
-          "fontSize": "{font-size.5}"
-        },
-        "type": "typography",
-        "description": "use for earnings currency"
-      },
-      "no-qualification-number": {
-        "value": {
-          "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
-          "lineHeight": "96",
-          "fontSize": "96"
-        },
-        "type": "typography",
-        "description": "use for no qualification numbers"
-      },
-      "no-qualification-percent": {
-        "value": {
-          "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
-          "lineHeight": "78",
-          "fontSize": "72"
-        },
-        "type": "typography",
-        "description": "use for no qualification percent"
-      }
+      "description": "use for demo button"
     },
     "title-small": {
       "value": {
@@ -1654,323 +1593,6 @@
       "description": "shaddow on item hover state in desktop categories dropdown"
     }
   },
-  "referral-program": {
-    "shadow": {
-      "rule-card": {
-        "value": [
-          {
-            "x": "-28",
-            "y": "28",
-            "blur": "28",
-            "spread": "0",
-            "color": "rgba(255, 255, 255, 0.03)",
-            "type": "innerShadow"
-          },
-          {
-            "x": "28",
-            "y": "-28",
-            "blur": "28",
-            "spread": "0",
-            "color": "rgba(194, 194, 194, 0.03)",
-            "type": "innerShadow"
-          },
-          {
-            "x": "0",
-            "y": "2",
-            "blur": "4",
-            "spread": "0",
-            "color": "rgba(13, 22, 46, 0.08)",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow",
-        "description": "use as inner shaddow on cards - referrals, achivements"
-      },
-      "special-blocks": {
-        "card2": {
-          "value": [
-            {
-              "x": "-28",
-              "y": "28",
-              "blur": "28",
-              "spread": "0",
-              "color": "rgba(255, 255, 255, 0.03)",
-              "type": "innerShadow"
-            },
-            {
-              "x": "28",
-              "y": "-28",
-              "blur": "28",
-              "spread": "0",
-              "color": "rgba(194, 194, 194, 0.03)",
-              "type": "innerShadow"
-            },
-            {
-              "x": "0",
-              "y": "2",
-              "blur": "4",
-              "spread": "0",
-              "color": "rgba(13, 22, 46, 0.08)",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow",
-          "description": "use as inner shaddow on cards - referrals, achivements"
-        }
-      }
-    },
-    "card": {
-      "radius": {
-        "value": "{radius.card}",
-        "type": "borderRadius",
-        "description": "Radius for reff cards"
-      },
-      "radius-progress-line": {
-        "value": "{radius.item}",
-        "type": "borderRadius",
-        "description": "Radius for progress line"
-      },
-      "opacity 1": {
-        "value": "30%",
-        "type": "opacity",
-        "description": "use for refferal-program element"
-      },
-      "opacity 2": {
-        "value": "7%",
-        "type": "opacity",
-        "description": "use for refferal-program element"
-      },
-      "bg": {
-        "value": "linear-gradient(96deg, #44A6A5 5.85%, #2A70BC 95.66%)",
-        "type": "color",
-        "description": "use as bg for refferal program"
-      },
-      "bg-no qualification": {
-        "value": "#000000",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.16",
-              "space": "lch"
-            }
-          }
-        },
-        "description": "use as no qualification bg for refferal program"
-      },
-      "accent text 3": {
-        "value": "linear-gradient(-270deg, #44A6A5 6%, #2A70BC 96%)",
-        "type": "color",
-        "description": "use as bg for refferal program"
-      },
-      "text accent 1": {
-        "value": "linear-gradient(360deg, #A3FF9C 27%, #CEFFE4 99%)",
-        "type": "color",
-        "description": "use as bg for sum text"
-      },
-      "border": {
-        "value": "linear-gradient(150deg, rgba(255,255,255,.3) 0%, rgba(255,255,255,0) 34%, rgba(255,255,255,0) 70%, rgba(255,255,255,.3) 100%)",
-        "type": "color",
-        "description": "border for refferal card"
-      },
-      "bg-lable": {
-        "value": "rgba(55, 76, 109, 0.3)",
-        "type": "color",
-        "description": "use as bg for refferal program lable"
-      },
-      "progress": {
-        "value": "linear-gradient(-270deg, #CEFFE4 99%, #A3FF9C 48%)",
-        "type": "color",
-        "description": "use as bg for progress"
-      },
-      "text primary": {
-        "value": "{base.primary}",
-        "type": "color",
-        "description": "use as bg for primary text"
-      },
-      "progress 2": {
-        "value": "{base.primary}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        },
-        "description": "use as bg for progress line secondary"
-      },
-      "text secondary": {
-        "value": "rgba(255, 255, 255, 0.9)",
-        "type": "color",
-        "description": "use as bg for secondary text"
-      },
-      "accent 2": {
-        "value": "{base.accent-secondary}",
-        "type": "color",
-        "description": "use as bg for withdraw text"
-      }
-    },
-    "qualification": {
-      "steps": {
-        "point": {
-          "value": "{base.accent-primary}",
-          "type": "color",
-          "description": "use for current steps element"
-        },
-        "progress-line-inactive": {
-          "value": "rgba({base.light}, 0.6)",
-          "type": "color",
-          "description": "use for inactive progress step vertical and horizontal"
-        },
-        "progress-line-active": {
-          "value": "{base.accent-primary}",
-          "type": "color",
-          "description": "use for active progress step vertical and horizontal"
-        },
-        "progress-line-default": {
-          "value": "{base.primary}",
-          "type": "color",
-          "description": "use for default progress step vertical"
-        },
-        "icon": {
-          "value": "#A4A6AB",
-          "type": "color",
-          "description": "use for progress icons"
-        },
-        "complite-icon": {
-          "value": "{base.accent-primary}",
-          "type": "color",
-          "description": "use for progress complite icon"
-        }
-      },
-      "card": {
-        "fill": {
-          "value": "{bg.secondary}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.2",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for qualification card background"
-        },
-        "border": {
-          "value": "#45FFBA",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.1",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for qualification card border"
-        }
-      },
-      "social-media-card": {
-        "fill": {
-          "value": "{base.light}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.08",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for social media icon background"
-        },
-        "icon-fill": {
-          "value": "#55D19B",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.3",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for social media icons background in invite block"
-        },
-        "invite-fill": {
-          "value": "{bg.secondary}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.3",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for social media invite card background"
-        }
-      }
-    },
-    "statistic": {
-      "card": {
-        "fill": {
-          "value": "{bg.secondary}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.2",
-                "space": "lch"
-              }
-            }
-          },
-          "description": "use for statistic card background"
-        }
-      }
-    },
-    "main-screen": {
-      "bg-element": {
-        "value": "linear-gradient(-270deg, #44A6A5 6%, #2A70BC 96%)",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        },
-        "description": "use for elips element at main secreen background"
-      }
-    },
-    "bg": {
-      "blur": {
-        "value": "{bg.blur}",
-        "type": "dimension",
-        "description": "use for refferal bg cards and rules"
-      }
-    },
-    "rule-card": {
-      "opacity": {
-        "value": "20%",
-        "type": "opacity",
-        "description": "Use for rule cards opacity"
-      }
-    }
-  },
   "border": {
     "ghost-1": {
       "value": {
@@ -2628,12 +2250,37 @@
       "description": "use for elements with large radius  - golden tickets bages in lottery"
     }
   },
-  "bg": {
-    "blur-referral": {
-      "value": "150px",
-      "type": "dimension",
-      "description": "use for bg blue in 1st deposit cards"
+  "opacity": {
+    "08": {
+      "value": "80%",
+      "type": "opacity"
     },
+    "06": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "00": {
+      "value": "0",
+      "type": "opacity"
+    },
+    "09": {
+      "value": "90%",
+      "type": "opacity"
+    },
+    "04": {
+      "value": "40%",
+      "type": "opacity"
+    },
+    "01": {
+      "value": "10%",
+      "type": "opacity"
+    },
+    "02": {
+      "value": "20%",
+      "type": "opacity"
+    }
+  },
+  "bg": {
     "technical": {
       "value": "linear-gradient(180deg, #456DAC 0%, #2F456E 100%)",
       "type": "color",
@@ -3285,6 +2932,11 @@
       "type": "dimension",
       "description": "use for circle elements on primary bg"
     },
+    "blur-referral": {
+      "value": "150px",
+      "type": "dimension",
+      "description": "use for bg blue in 1st deposit cards"
+    },
     "blur-achivements": {
       "value": "18px",
       "type": "dimension",
@@ -3304,36 +2956,45 @@
       "value": "#252D40",
       "type": "color",
       "description": "use for cash popups bg"
+    },
+    "thumb": {
+      "placeholder-fill": {
+        "value": "rgba(28, 33, 46, 0.4)",
+        "type": "color",
+        "description": "color for thumb placeholder"
+      }
     }
   },
-  "opacity": {
-    "08": {
-      "value": "80%",
-      "type": "opacity"
-    },
-    "06": {
-      "value": "60%",
-      "type": "opacity"
-    },
-    "00": {
-      "value": "0",
-      "type": "opacity"
-    },
-    "09": {
-      "value": "90%",
-      "type": "opacity"
-    },
-    "04": {
-      "value": "40%",
-      "type": "opacity"
-    },
-    "01": {
-      "value": "10%",
-      "type": "opacity"
-    },
-    "02": {
-      "value": "20%",
-      "type": "opacity"
+  "pregame": {
+    "self-close-message": {
+      "fill": {
+        "value": "#ffffff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for self-close message fill"
+      },
+      "close-border": {
+        "value": "#ffffff",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.24",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "bg for self-close cross icon border"
+      }
     }
   },
   "nav": {
@@ -3531,9 +3192,9 @@
         "description": "Background for secondary buttons disabled"
       },
       "app-default": {
-        "value": "rgba({base.accent-light} , 0)",
+        "value": "rgba(0, 0, 0, 0)",
         "type": "color",
-        "description": "Background for bottom part and button in pregame modal"
+        "description": "Background for bottom part and button in pregame modal rgba({base.accent-light} , 0)"
       },
       "app-hover": {
         "value": "#f2fcff",
@@ -3566,8 +3227,17 @@
         "description": "Background for shop  price selection buttons "
       },
       "demo-buttons": {
-        "value": "rgba({base.primary}, 0.1)",
+        "value": "#ffffff",
         "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "srgb"
+            }
+          }
+        },
         "description": "Background for shop  price selection buttons "
       }
     },
@@ -3767,7 +3437,7 @@
         "description": "Text color on tertiary disabled button"
       },
       "demo": {
-        "value": "{base.light}",
+        "value": "{text.link}",
         "type": "color",
         "description": "Text color on demo button"
       }
@@ -3804,6 +3474,11 @@
         "value": "{base.light}",
         "type": "color",
         "description": "Color for label thumb"
+      },
+      "label-thumb-my games": {
+        "value": "linear-gradient(180deg, #387BE0 0%, #0E4596 100%)",
+        "type": "color",
+        "description": "Color for label thumb my games widget"
       }
     },
     "widget": {
@@ -6409,38 +6084,6 @@
       "value": "linear-gradient(151deg, #4D3175 14.63%, #382045 34.44%, #261D28 50.71%, #1C212E 85.37%)",
       "type": "color",
       "description": "bg news card"
-    }
-  },
-  "pregame": {
-    "self-close-message": {
-      "fill": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for self-close message fill"
-      },
-      "close-border": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.24",
-              "space": "srgb"
-            }
-          }
-        },
-        "description": "use for self-close message border icon"
-      }
     }
   }
 }
