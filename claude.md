@@ -16,6 +16,7 @@ This repository acts as the central source of truth for **design tokens** used a
 Detailed logs of changes, brand palette analyses, alias strategies, and token alignment records are maintained in dedicated notes files split by stream:
 
 * **Production Themes (`/themes/`) Notes**: [`notes-7sl-old.md`](file:///c:/Work/7slots/notes-7sl-old.md)
+  * *2026-09-23*: Migrate 43 Referral Program tokens from `refferal-program` branch across all production themes and add `scripts/sync-referral-tokens.js` tool.
   * *2026-09-23*: Update `bg.card.bg.2` (`--bg-card-bg-2`) provider card background gradient for `masalbet`.
   * *2026-08-03*: Full token set alignment of `masalbet` (`7slots.masalbet.json`) to `7slots.default.json` baseline using `basari` alias patterns. Pre-update snapshot preserved in `7slots.masalbet-old.json`.
 * **V2 Redesign (`/V2/`) Notes**: [`notes-7sl-v2.md`](file:///c:/Work/7slots/notes-7sl-v2.md)
@@ -101,4 +102,9 @@ The token files follow the W3C Design Tokens Community Group specification forma
   * Single theme details: `node scripts/verify-sync.js -t <theme>`
   * Filter by pattern (e.g. `ref`, `pregame`): `node scripts/verify-sync.js -f <pattern>`
   * Output as JSON: `node scripts/verify-sync.js --json`
+* **`scripts/sync-referral-tokens.js`**: Migrates and verifies the 43 canonical Referral Program tokens across all theme sets from the `refferal-program` git branch.
+  * Verify all themes: `node scripts/sync-referral-tokens.js --verify`
+  * Apply migration: `node scripts/sync-referral-tokens.js --apply`
+  * Dry-run simulation: `node scripts/sync-referral-tokens.js --dry-run`
+  * Single theme: `node scripts/sync-referral-tokens.js -t <theme>`
 

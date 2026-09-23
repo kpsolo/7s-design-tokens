@@ -5,6 +5,7 @@ This file records the detailed history of modifications, brand palette analyses,
 ---
 
 ## 📌 Change Log Index
+- **2026-09-23**: Referral Program token migration (43 tokens moved from `refferal-program` branch to all production themes).
 - **2026-09-23**: `masalbet` (`7slots.masalbet.json`) updated `--bg-card-bg-2` (`bg.card.bg.2`) gradient value for provider cards.
 - **2026-08-03**: `masalbet` (`7slots.masalbet.json`) complete token set alignment to `7slots.default.json` baseline.
 
@@ -147,4 +148,72 @@ All 57 missing tokens were added to `themes/7slots.masalbet.json`, adopting `bas
   `linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)`
 - **New Value**:
   `linear-gradient(148deg, rgba(78, 73, 62, 0.60) 5%, rgba(114, 102, 79, 0.23) 30.55%, rgba(43, 38, 34, 0.48) 50.39%, rgba(52, 46, 38, 0.60) 80.93%)`
+
+---
+
+## 📝 2026-09-23: Referral Program Token Migration (`refferal-program` $\rightarrow$ `main`)
+
+### Overview
+Migrated 43 canonical Referral Program design tokens from branch `refferal-program` to `main` across all 5 active production themes (`7slots.default.json`, `7slots.abebet.json`, `7slots.basari.json`, `7slots.masalbet.json`, `7slots.winnita.json`).
+
+### Tool Created
+Created synchronization and verification utility [`scripts/sync-referral-tokens.js`](file:///c:/Work/7slots/scripts/sync-referral-tokens.js):
+- `node scripts/sync-referral-tokens.js --verify`: Verifies all 43 tokens across themes against `refferal-program` branch.
+- `node scripts/sync-referral-tokens.js --apply`: Applies token extractions to local files.
+
+### 43 Migrated Tokens List
+* **Typography (7 tokens)**:
+  - `typography.referral-program.text-strong`
+  - `typography.referral-program.text-regular`
+  - `typography.referral-program.earning-numbers`
+  - `typography.referral-program.earning-currency`
+  - `typography.referral-program.no-qualification-number`
+  - `typography.referral-program.no-qualification-percent`
+  - `typography.special-blocks.referral-number`
+* **Shadows (3 tokens)**:
+  - `shadow.special-blocks.referral`
+  - `referral-program.shadow.rule-card`
+  - `referral-program.shadow.special-blocks.card2`
+* **Card & Elements (15 tokens)**:
+  - `referral-program.card.radius`
+  - `referral-program.card.radius-progress-line`
+  - `referral-program.card.opacity 1`
+  - `referral-program.card.opacity 2`
+  - `referral-program.card.bg`
+  - `referral-program.card.bg-no qualification`
+  - `referral-program.card.accent text 3`
+  - `referral-program.card.text accent 1`
+  - `referral-program.card.border`
+  - `referral-program.card.bg-lable`
+  - `referral-program.card.progress`
+  - `referral-program.card.text primary`
+  - `referral-program.card.progress 2`
+  - `referral-program.card.text secondary`
+  - `referral-program.card.accent 2`
+* **Qualification Steps & Cards (11 tokens)**:
+  - `referral-program.qualification.steps.point`
+  - `referral-program.qualification.steps.progress-line-inactive`
+  - `referral-program.qualification.steps.progress-line-active`
+  - `referral-program.qualification.steps.progress-line-default`
+  - `referral-program.qualification.steps.icon`
+  - `referral-program.qualification.steps.complite-icon`
+  - `referral-program.qualification.card.fill`
+  - `referral-program.qualification.card.border`
+  - `referral-program.qualification.social-media-card.fill`
+  - `referral-program.qualification.social-media-card.icon-fill`
+  - `referral-program.qualification.social-media-card.invite-fill`
+* **Statistic, Main Screen, Background & Rules (4 tokens)**:
+  - `referral-program.statistic.card.fill`
+  - `referral-program.main-screen.bg-element`
+  - `referral-program.bg.blur`
+  - `referral-program.rule-card.opacity`
+* **Borders & Blur (3 tokens)**:
+  - `border.special-blocks.referral-card`
+  - `border.special-blocks.referral-card-line`
+  - `bg.blur-referral`
+
+### Verification Summary
+- **All 5 theme sets**: 43/43 verified (0 missing, 0 mismatches, 0 syntax/rgba errors).
+- **Baseline synchronization**: `node scripts/verify-sync.js -s` confirmed `masalbet` maintains 0 missing tokens.
+
 
