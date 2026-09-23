@@ -49,6 +49,10 @@ This folder hosts the new design system tokens under development.
 The token files follow the W3C Design Tokens Community Group specification format used by Token Studio:
 * **References/Aliases**: Tokens frequently reference base tokens using the `{category.name}` syntax (e.g., `"{font-family.main}"`).
 * **Composite Tokens**: Typography and shadows are represented as objects detailing multiple sub-properties (e.g., `fontSize`, `lineHeight`, `fontWeight`, `fontFamily`).
+* **Color & Gradient Format Rule (`rgba` only)**:
+  * **Always use standard `rgba(r, g, b, a)` format** for any color with opacity / alpha transparency (e.g., `rgba(78, 73, 62, 0.60)`).
+  * In gradients (`linear-gradient`, `radial-gradient`), all color stops with transparency **must** use `rgba(r, g, b, a)` format.
+  * **Never use modern CSS Color Module 4 slash syntax** (such as `rgb(r g b / a)` or `hsl(h s l / a)`). Always convert them to `rgba(r, g, b, a)`.
 
 ```json
 "typography": {
@@ -78,6 +82,9 @@ The token files follow the W3C Design Tokens Community Group specification forma
   * When a designer duplicates or copies a token to another set in the Figma Token Studio plugin, Token Studio automatically appends `-copy` to the token name (e.g., `card.bg-copy`, `nav-promo-copy`, `6-copy`).
   * These are unintentional naming artifacts.
   * When verifying/syncing themes, rename `-copy` tokens to their canonical names if missing, or delete them if the canonical token already exists.
+* **Color Format Rule (Always Use `rgba`)**:
+  * **MANDATORY**: Always use standard comma-separated `rgba(r, g, b, a)` format (with alpha between `0` and `1`, e.g., `rgba(78, 73, 62, 0.60)`) for any colors with transparency, including within linear or radial gradient color stops.
+  * **NEVER** output or preserve modern CSS slash notation (`rgb(r g b / a)` or `hsl(h s l / a)`). If provided in user prompts or copied from Dev Mode/inspectors, immediately convert them to standard `rgba(...)`.
 * **Logging Changes in Notes Files**:
   * **ALWAYS** record detailed change logs, palette analyses, alias strategies, and decision tables in the stream-specific note files:
     * Production Themes (`/themes/`) changes $\rightarrow$ write to [`notes-7sl-old.md`](file:///c:/Work/7slots/notes-7sl-old.md).
