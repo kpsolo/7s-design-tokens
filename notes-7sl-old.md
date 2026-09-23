@@ -5,6 +5,7 @@ This file records the detailed history of modifications, brand palette analyses,
 ---
 
 ## 📌 Change Log Index
+- **2026-09-23**: `masalbet` (`7slots.masalbet.json`) updated `--bg-card-bg-2` (`bg.card.bg.2`) gradient value for provider cards.
 - **2026-08-03**: `masalbet` (`7slots.masalbet.json`) complete token set alignment to `7slots.default.json` baseline.
 
 ---
@@ -133,3 +134,17 @@ All 57 missing tokens were added to `themes/7slots.masalbet.json`, adopting `bas
 - **Canonical Key Coverage**: 884 / 884 keys (100%).
 - **Missing Keys vs 7slots Baseline**: **0**.
 - **JSON Format**: Valid W3C Design Tokens Community Group JSON format with 2-space indentation.
+
+---
+
+## 📝 2026-09-23: `masalbet` Provider Card BG Update (`--bg-card-bg-2`)
+
+### Token Details
+- **Token Path**: `bg.card.bg.2` (exports to CSS variable `--bg-card-bg-2`)
+- **Type**: `color`
+- **Description**: `bg for provider card`
+- **Previous Value** (default 7slots baseline):
+  `linear-gradient(148deg, rgba(27, 87, 158, 0.60) 9.9%, rgba(34, 43, 60, 0.23) 30.55%, rgba(23, 39, 68, 0.48) 50.39%, rgba(23, 39, 68, 0.60) 80.93%)`
+- **New Value**:
+  `linear-gradient(148deg, rgba(78, 73, 62, 0.60) 5%, rgba(114, 102, 79, 0.23) 30.55%, rgba(43, 38, 34, 0.48) 50.39%, rgba(52, 46, 38, 0.60) 80.93%)`
+
