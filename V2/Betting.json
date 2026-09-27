@@ -360,37 +360,24 @@
   },
   "notification": {
     "notificationBlocked": {
-      "value": "{core.white.a100}",
+      "value": "{core.grey.200}",
       "type": "color"
     },
     "notificationError": {
-      "value": "{core.white.a100}",
+      "value": "{core.validation.danger.500}",
       "type": "color"
     },
     "notificationInfo": {
-      "value": "{core.white.a100}",
+      "value": "{core.grey.100}",
       "type": "color"
     },
     "notificationSuccess": {
-      "value": "{core.white.a100}",
+      "value": "{core.brand-10.400}",
       "type": "color"
     },
     "notificationWarning": {
-      "value": "{core.brand-60.800}",
+      "value": "{core.validation.warning.500}",
       "type": "color"
-    },
-    "colorsPrimary2-a20": {
-      "value": "{core.brand-60.800}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.2",
-            "space": "lch"
-          }
-        }
-      }
     }
   }
 }
