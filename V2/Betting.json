@@ -281,7 +281,7 @@
   },
   "text": {
     "textButton": {
-      "value": "{core.brand-10.400}",
+      "value": "{contextual.button.primary.fill.default}",
       "type": "color"
     },
     "textPrimary": {
