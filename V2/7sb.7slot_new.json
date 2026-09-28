@@ -7912,7 +7912,7 @@
           "description": "Secondary.red 500"
         },
         "800": {
-          "value": "{core.white.a0}",
+          "value": "#B62D3E",
           "type": "color",
           "description": "Secondary.red 500"
         },
