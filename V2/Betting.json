@@ -364,7 +364,7 @@
       "type": "color"
     },
     "notificationError": {
-      "value": "{core.validation.danger.500}",
+      "value": "#B62D3E",
       "type": "color"
     },
     "notificationInfo": {
