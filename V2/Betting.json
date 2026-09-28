@@ -356,19 +356,6 @@
           }
         }
       }
-    },
-    "textSecondary-a80": {
-      "value": "{core.grey.100}",
-      "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.8",
-            "space": "lch"
-          }
-        }
-      }
     }
   },
   "notification": {
