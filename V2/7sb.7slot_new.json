@@ -437,6 +437,10 @@
       "ticket-number": {
         "value": "{border-radius.core.100}",
         "type": "borderRadius"
+      },
+      "players-place": {
+        "value": "{border-radius.core.200}",
+        "type": "borderRadius"
       }
     },
     "profile": {
