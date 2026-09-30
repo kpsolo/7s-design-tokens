@@ -259,7 +259,7 @@
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.s}",
         "fontSize": "{font-size.3}",
-        "textCase": "{text-case.capitalize}"
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Caption (unread)"
