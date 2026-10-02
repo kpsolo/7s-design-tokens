@@ -4647,6 +4647,20 @@
       "type": "color",
       "description": "Background for jackpot widget"
     },
+    "jackpot-widget-bg-new": {
+      "value": "#000000",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.16",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "Use for jackpot anoungt background for new widget"
+    },
     "jackpot-line": {
       "value": "radial-gradient(50% 50% at 50% 50%, #27FFA4 0%, rgba(45, 216, 144, 0.39) 100%)",
       "type": "color",

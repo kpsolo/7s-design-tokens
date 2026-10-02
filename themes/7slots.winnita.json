@@ -4740,6 +4740,20 @@
       "value": "#264BAC",
       "type": "color",
       "description": "for bg on registration banner"
+    },
+    "jackpot-widget-bg-new": {
+      "value": "#14213A",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.50",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "Use for jackpot anoungt background for new widget"
     }
   },
   "filed spacing": {

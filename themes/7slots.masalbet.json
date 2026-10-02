@@ -4859,6 +4859,20 @@
         "type": "color",
         "description": "VIP landing bg color"
       }
+    },
+    "jackpot-widget-bg-new": {
+      "value": "#000000",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.16",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "Use for jackpot anoungt background for new widget"
     }
   },
   "filed spacing": {

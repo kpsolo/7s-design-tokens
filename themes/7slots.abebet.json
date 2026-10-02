@@ -4883,6 +4883,20 @@
       "value": "linear-gradient(129deg, #892164 0%, #571D57 59.83%, #411E5C 100%);",
       "type": "color",
       "description": "for bg on registration banner"
+    },
+    "jackpot-widget-bg-new": {
+      "value": "#000000",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.16",
+            "space": "srgb"
+          }
+        }
+      },
+      "description": "Use for jackpot anoungt background for new widget"
     }
   },
   "filed spacing": {
