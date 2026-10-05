@@ -4298,6 +4298,12 @@
     "0,2": {
       "value": "0.2",
       "type": "letterSpacing"
+    },
+    "minus": {
+      "0,2": {
+        "value": "-0.2px",
+        "type": "letterSpacing"
+      }
     }
   },
   "paragraph-spacing": {
