@@ -245,7 +245,8 @@
         "fontFamily": "{font-family.main}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.1}",
-        "fontSize": "{font-size.5}"
+        "fontSize": "{font-size.5}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Small titles"
