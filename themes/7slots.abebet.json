@@ -366,7 +366,8 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.2}",
-        "fontSize": "{font-size.6}"
+        "fontSize": "{font-size.6}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Title text for games group, top title in cashbox filter"
