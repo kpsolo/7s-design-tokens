@@ -306,7 +306,8 @@
         "fontFamily": "{font-family.accent}",
         "fontWeight": "{font-weight.1}",
         "lineHeight": "{line-height.5}",
-        "fontSize": "{font-size.7}"
+        "fontSize": "{font-size.7}",
+        "textCase": "{text-case.none}"
       },
       "type": "typography",
       "description": "Email header"
