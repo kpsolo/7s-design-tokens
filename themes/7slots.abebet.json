@@ -2067,7 +2067,8 @@
     },
     "m": {
       "value": "16px",
-      "type": "spacing"
+      "type": "spacing",
+      "description": "-"
     },
     "l": {
       "value": "24px",
