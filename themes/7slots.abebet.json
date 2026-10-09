@@ -944,7 +944,7 @@
     },
     "body-card-fun": {
       "value": {
-        "fontFamily": "{font-family.fester}",
+        "fontFamily": "{font-family.roboto-condensed}",
         "fontWeight": "{font-weight.0}",
         "lineHeight": "{line-height.sm}",
         "fontSize": "{font-size.3}"
@@ -4230,15 +4230,15 @@
       "type": "fontFamilies"
     },
     "main": {
-      "value": "{font-family.fester}",
+      "value": "{font-family.roboto-condensed}",
       "type": "fontFamilies"
     },
     "accent": {
-      "value": "{font-family.fester}",
+      "value": "{font-family.roboto-condensed}",
       "type": "fontFamilies"
     },
-    "fester": {
-      "value": "Fester",
+    "roboto-condensed": {
+      "value": "Roboto Condensed",
       "type": "fontFamilies"
     }
   },

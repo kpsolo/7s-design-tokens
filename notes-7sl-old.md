@@ -5,6 +5,7 @@ This file records the detailed history of modifications, brand palette analyses,
 ---
 
 ## 📌 Change Log Index
+- **2026-10-09**: Abebet (`7slots.abebet.json`) replaced font `Fester` with `"Roboto Condensed"`.
 - **2026-09-23**: Referral Program token migration (43 tokens moved from `refferal-program` branch to all production themes).
 - **2026-09-23**: `masalbet` (`7slots.masalbet.json`) updated `--bg-card-bg-2` (`bg.card.bg.2`) gradient value for provider cards.
 - **2026-08-03**: `masalbet` (`7slots.masalbet.json`) complete token set alignment to `7slots.default.json` baseline.
@@ -38,8 +39,8 @@ Below are the compiled baseline color palettes for all 5 brands across the 7slot
 | **Error** | `#B62D3E` | `#CF0000` | `#CF0000` | `#EB0202` | `#DE3838` |
 | **Light** | `#FFFFFF` | `#FFFFFF` | `#FFFFFF` | `#FFFFFF` | `#FFFFFF` |
 | **Primary Text** | `#FFFFFF` | `#FFFFFF` | `#FFFFFF` | `#FFFFFF` | `#192947` |
-| **Font Main** | `Inter` | `{font-family.fester}` / `Fester` | `{font-family.fester}` / `Fester` | `{font-family.fester}` / `Fester` | `Akshar` |
-| **Font Accent** | `Golos UI` | `{font-family.fester}` / `Fester` | `{font-family.fester}` / `Fester` | `{font-family.fester}` / `Fester` | `Teko` |
+| **Font Main** | `Inter` | `{font-family.fester}` / `Fester` | `{font-family.fester}` / `Fester` | `{font-family.roboto-condensed}` / `Roboto Condensed` | `Akshar` |
+| **Font Accent** | `Golos UI` | `{font-family.fester}` / `Fester` | `{font-family.fester}` / `Fester` | `{font-family.roboto-condensed}` / `Roboto Condensed` | `Teko` |
 
 ---
 
@@ -215,5 +216,22 @@ Created synchronization and verification utility [`scripts/sync-referral-tokens.
 ### Verification Summary
 - **All 5 theme sets**: 43/43 verified (0 missing, 0 mismatches, 0 syntax/rgba errors).
 - **Baseline synchronization**: `node scripts/verify-sync.js -s` confirmed `masalbet` maintains 0 missing tokens.
+
+---
+
+## 📝 2026-10-09: `abebet` Font Family Replacement (`Fester` $\rightarrow$ `Roboto Condensed`)
+
+### Overview & Objective
+Replace the Abebet brand typography font from `Fester` to `"Roboto Condensed"`.
+
+### Changes Applied
+1. **`themes/7slots.abebet.json`**:
+   - Replaced token `font-family.fester` with `font-family.roboto-condensed` (`"value": "Roboto Condensed"`).
+   - Updated `font-family.main` value to `"{font-family.roboto-condensed}"`.
+   - Updated `font-family.accent` value to `"{font-family.roboto-condensed}"`.
+   - Updated `typography.body-card-fun` fontFamily to `"{font-family.roboto-condensed}"`.
+2. **`themes/$themes.json`**:
+   - Updated Abebet theme style reference from `"font-family.fester"` to `"font-family.roboto-condensed"` (`279e84731031b4f2f0162c90668183db32851719`).
+
 
 
