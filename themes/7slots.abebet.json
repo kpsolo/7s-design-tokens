@@ -907,7 +907,7 @@
       "earning-numbers": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "{line-height.4}",
           "fontSize": "{font-size.7}"
         },
@@ -927,7 +927,7 @@
       "no-qualification-number": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "88",
           "fontSize": "88"
         },
@@ -937,7 +937,7 @@
       "no-qualification-percent": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "72",
           "fontSize": "64"
         },
