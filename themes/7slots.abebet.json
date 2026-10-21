@@ -495,7 +495,7 @@
       "jackpot-title": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "58px",
           "fontSize": "58px",
           "letterSpacing": "-1px",
@@ -507,7 +507,7 @@
       "x-status": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "{line-height.sm}",
           "fontSize": "{font-size.1-desktop}"
         },
@@ -684,7 +684,7 @@
       "jackpot-title-additional": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "58px",
           "fontSize": "58px",
           "letterSpacing": "-1%",
@@ -708,7 +708,7 @@
       "payment-block-mob": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "24px",
           "fontSize": "18px",
           "letterSpacing": "0%",
@@ -720,7 +720,7 @@
       "payment-block-main-desktop": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "38px",
           "fontSize": "32px",
           "letterSpacing": "0%",
@@ -732,7 +732,7 @@
       "payment-block-additional-desktop": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "32px",
           "fontSize": "20px",
           "letterSpacing": "0%",
@@ -786,7 +786,7 @@
       "titlemob-slotmachine": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "25px",
           "fontSize": "24"
         },
@@ -796,7 +796,7 @@
       "titlemob-slotmachineS": {
         "value": {
           "fontFamily": "{font-family.main}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "fontSize": "18",
           "lineHeight": "22px"
         },
@@ -806,7 +806,7 @@
       "promolanding-1place": {
         "value": {
           "fontFamily": "{font-family.accent}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "32px",
           "fontSize": "22px"
         },
@@ -816,7 +816,7 @@
       "VIPSpace": {
         "value": {
           "fontFamily": "{font-family.accent}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "48px",
           "fontSize": "48px"
         },
@@ -826,7 +826,7 @@
       "VIPbonus-mob": {
         "value": {
           "fontFamily": "{font-family.accent}",
-          "fontWeight": "{font-weight.3}",
+          "fontWeight": "{font-weight.2}",
           "lineHeight": "34px",
           "fontSize": "28px"
         },
