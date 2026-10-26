@@ -836,6 +836,16 @@
           "fontSize": "6px"
         },
         "type": "typography"
+      },
+      "cashback-balance": {
+        "value": {
+          "fontFamily": "{font-family.main}",
+          "fontWeight": "{font-weight.2}",
+          "fontSize": "20px",
+          "lineHeight": "26px",
+          "letterSpacing": "0%"
+        },
+        "type": "typography"
       }
     },
     "link-xs": {
