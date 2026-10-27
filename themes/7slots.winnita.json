@@ -6265,6 +6265,14 @@
         "value": "{text.title.accent}",
         "type": "color"
       }
+    },
+    "border-card-loyalty": {
+      "value": "rgb(202, 213, 244)",
+      "type": "color"
+    },
+    "banner-text-accent": {
+      "value": "{base.accent-secondary}",
+      "type": "color"
     }
   }
 }

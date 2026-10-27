@@ -6505,6 +6505,14 @@
         "value": "{referral-program.card.text accent 1}",
         "type": "color"
       }
+    },
+    "border-card-loyalty": {
+      "value": "#ffffff14",
+      "type": "color"
+    },
+    "banner-text-accent": {
+      "value": "{base.accent-primary}",
+      "type": "color"
     }
   }
 }
