@@ -6514,6 +6514,10 @@
       "value": "{base.accent-primary}",
       "type": "color"
     },
+    "progress-element": {
+      "value": "#ffffff1a",
+      "type": "color"
+    },
     "card": {
       "fill": {
         "value": "linear-gradient(180deg, rgba(60, 170, 209, 0.30) 0%, rgba(37, 84, 128, 0.30) 100%);",

@@ -6283,6 +6283,10 @@
         "value": "transparent",
         "type": "color"
       }
+    },
+    "progress-element": {
+      "value": "rgb(202, 213, 244)",
+      "type": "color"
     }
   }
 }
