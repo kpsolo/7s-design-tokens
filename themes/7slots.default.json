@@ -6494,5 +6494,17 @@
         "description": "Use for rule cards opacity"
       }
     }
+  },
+  "cashback": {
+    "balance": {
+      "bg-opacity": {
+        "value": "rgba(55, 76, 109, 0.4)",
+        "type": "color"
+      },
+      "text-accent": {
+        "value": "{referral-program.card.text accent 1}",
+        "type": "color"
+      }
+    }
   }
 }
