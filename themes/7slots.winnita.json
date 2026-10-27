@@ -6273,6 +6273,16 @@
     "banner-text-accent": {
       "value": "{base.accent-secondary}",
       "type": "color"
+    },
+    "card": {
+      "fill": {
+        "value": "rgba(67, 177, 131, 0.20)",
+        "type": "color"
+      },
+      "border": {
+        "value": "transparent",
+        "type": "color"
+      }
     }
   }
 }

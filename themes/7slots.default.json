@@ -6513,6 +6513,16 @@
     "banner-text-accent": {
       "value": "{base.accent-primary}",
       "type": "color"
+    },
+    "card": {
+      "fill": {
+        "value": "linear-gradient(180deg, rgba(60, 170, 209, 0.30) 0%, rgba(37, 84, 128, 0.30) 100%);",
+        "type": "color"
+      },
+      "border": {
+        "value": "#ffffff14",
+        "type": "color"
+      }
     }
   }
 }
