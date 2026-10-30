@@ -4909,7 +4909,7 @@
       "description": "Use for jackpot anoungt background for new widget"
     },
     "verification-notice": {
-      "value": "{base.warning}",
+      "value": "#D07A00",
       "type": "color",
       "description": "Use for verification-notice background"
     }
