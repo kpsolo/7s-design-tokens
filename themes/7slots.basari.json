@@ -4858,7 +4858,7 @@
       "description": "Use for jackpot anoungt background for new widget"
     },
     "verification-notice": {
-      "value": "{base.warning}",
+      "value": "#D16604",
       "type": "color",
       "description": "Use for verification-notice background"
     }
