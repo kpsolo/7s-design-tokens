@@ -4712,6 +4712,11 @@
       "type": "color",
       "description": "for success bg"
     },
+    "verification-notice": {
+      "value": "{base.warning}",
+      "type": "color",
+      "description": "Use for verification-notice background"
+    },
     "error-bg": {
       "value": "#E09AA3",
       "type": "color",

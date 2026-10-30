@@ -4907,6 +4907,11 @@
         }
       },
       "description": "Use for jackpot anoungt background for new widget"
+    },
+    "verification-notice": {
+      "value": "{base.warning}",
+      "type": "color",
+      "description": "Use for verification-notice background"
     }
   },
   "filed spacing": {
