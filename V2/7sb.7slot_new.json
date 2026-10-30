@@ -1981,6 +1981,10 @@
               "value": "{core.brand-10.400}",
               "type": "color"
             },
+            "fill-empty": {
+              "value": "{core.white.a90}",
+              "type": "color"
+            },
             "icon": {
               "value": "{core.brand-10.400}",
               "type": "color"
