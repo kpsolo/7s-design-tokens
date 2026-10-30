@@ -2972,6 +2972,10 @@
           "container": {
             "value": "{core.white.a25}",
             "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a40}",
+            "type": "color"
           }
         },
         "static": {
