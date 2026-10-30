@@ -4768,6 +4768,20 @@
           "type": "color"
         }
       },
+      "bonus-card": {
+        "bottom": {
+          "fill": {
+            "value": "{core.brand-60.700a60}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "active": {
+            "value": "{semantic.gradients.10}",
+            "type": "color"
+          }
+        }
+      },
       "promo-code-button": {
         "fill": {
           "default": {
