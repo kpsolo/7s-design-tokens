@@ -2970,11 +2970,11 @@
             "type": "color"
           },
           "container": {
-            "value": "{core.white.a25}",
+            "value": "{core.white.a20}",
             "type": "color"
           },
           "border": {
-            "value": "{core.white.a40}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         },
