@@ -2970,7 +2970,7 @@
             "type": "color"
           },
           "container": {
-            "value": "{core.white.a20}",
+            "value": "{core.white.a25}",
             "type": "color"
           }
         },
