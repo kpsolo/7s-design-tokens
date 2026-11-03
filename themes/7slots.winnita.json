@@ -5335,6 +5335,16 @@
         "value": "{icon.accent-additional}",
         "type": "color",
         "description": "content color for show more thumb"
+      },
+      "icon-extra": {
+        "value": "#192947cc",
+        "type": "color",
+        "description": "bg icon favorites pregame"
+      },
+      "icon-additional": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "bg icon favorites ingame"
       }
     },
     "overlay": {

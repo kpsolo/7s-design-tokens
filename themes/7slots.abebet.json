@@ -5827,6 +5827,16 @@
         "value": "{text.primary}",
         "type": "color",
         "description": "content color for show more thumb"
+      },
+      "icon-extra": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "bg icon favorites pregame"
+      },
+      "icon-additional": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "bg icon favorites ingame"
       }
     },
     "content": {

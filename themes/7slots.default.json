@@ -5897,6 +5897,16 @@
         },
         "description": "bg under star"
       },
+      "icon-extra": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "bg icon favorites pregame"
+      },
+      "icon-additional": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "bg icon favorites ingame"
+      },
       "extra-additional": {
         "value": "{gamepage.bg.extra}",
         "type": "color",
