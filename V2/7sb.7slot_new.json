@@ -4783,6 +4783,10 @@
           "active": {
             "value": "{semantic.gradients.10}",
             "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.800a10}",
+            "type": "color"
           }
         }
       },
