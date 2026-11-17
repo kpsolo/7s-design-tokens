@@ -6611,7 +6611,7 @@
             "type": "color"
           },
           "hover": {
-            "value": "{contextual.strip.card.fill.default}",
+            "value": "{core.brand-60.700}",
             "type": "color"
           }
         },
