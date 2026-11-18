@@ -6625,6 +6625,18 @@
           "value": "{core.white.a10}",
           "type": "color"
         }
+      },
+      "steps": {
+        "line": {
+          "active": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.brand-30.50a20}",
+            "type": "color"
+          }
+        }
       }
     },
     "registration": {
