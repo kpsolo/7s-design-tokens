@@ -6582,6 +6582,23 @@
           "type": "color"
         }
       },
+      "steps": {
+        "line": {
+          "background": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-30.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core.grey.600}",
+            "type": "color",
+            "description": "bg steps card in banner"
+          }
+        }
+      },
       "card": {
         "stroke": {
           "default": {
@@ -6624,18 +6641,6 @@
         "status": {
           "value": "{core.white.a10}",
           "type": "color"
-        }
-      },
-      "steps": {
-        "line": {
-          "active": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
-          },
-          "default": {
-            "value": "{core.brand-30.50a20}",
-            "type": "color"
-          }
         }
       }
     },
@@ -8424,7 +8429,7 @@
         "description": "gradients.orange 600"
       },
       "6": {
-        "value": "linear-gradient(180deg, rgba(245, 190, 61, 0.00) 0%, #F3BC3F 100%), linear-gradient(180deg, #FED234 0%, rgba(243, 192, 73, 0.00) 100%)",
+        "value": "linear-gradient(180deg, #F6EDFB 0%, #9C5FF7 100%)",
         "type": "color",
         "description": "gradients.Border button"
       },
