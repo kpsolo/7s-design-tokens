@@ -2200,6 +2200,28 @@
             "type": "color"
           }
         }
+      },
+      "selection": {
+        "default": {
+          "fill": {
+            "value": "{core.white.a8}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "fill": {
+            "value": "{core.brand-10.400a10}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{core.brand-10.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "label": {
