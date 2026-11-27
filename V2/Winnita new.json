@@ -1765,20 +1765,24 @@
         },
         "text": {
           "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           },
           "hover": {
-            "value": "{core.grey.50}",
-            "type": "color"
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           },
           "active": {
-            "value": "{core.grey.200}",
-            "type": "color"
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           },
           "disabled": {
-            "value": "{core.white.a60}",
-            "type": "color"
+            "value": "{semantic.text.disabled.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           }
         },
         "border-color": {
@@ -1933,20 +1937,24 @@
         },
         "text": {
           "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           },
           "hover": {
-            "value": "{core.grey.50}",
-            "type": "color"
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           },
           "active": {
-            "value": "{core.grey.200}",
-            "type": "color"
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           },
           "disabled": {
-            "value": "{core.white.a60}",
-            "type": "color"
+            "value": "{semantic.text.disabled.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: button content on light neutral/transparent surfaces"
           }
         },
         "border-color": {
@@ -2657,17 +2665,20 @@
       "show-more": {
         "card": {
           "fill": {
-            "value": "{core.brand-30.50a10}",
-            "type": "color"
+            "value": "{semantic.background.slate-4}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           },
           "border": {
-            "value": "{core.white.a20}",
-            "type": "color"
+            "value": "{semantic.border.default.default}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         },
         "content": {
-          "value": "{semantic.text.brand.on-brand}",
-          "type": "color"
+          "value": "{semantic.text.brand.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "normal": {
           "content": {
@@ -2712,18 +2723,21 @@
       },
       "empty": {
         "content": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "value": "{semantic.icon.default.secondary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "fill": {
-          "value": "{core.brand-60.500}",
-          "type": "color"
+          "value": "{semantic.background.slate-1}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "text": {
         "primary": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "accent": {
           "value": "{core.brand-10.500}",
@@ -2777,8 +2791,9 @@
               "type": "color"
             },
             "active": {
-              "value": "{core.brand-10.400}",
-              "type": "color"
+              "value": "{semantic.border.default.active}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             },
             "hover": {
               "value": "{core.white.a0}",
@@ -2923,8 +2938,9 @@
       },
       "line": {
         "normal": {
-          "value": "{core.white.a8}",
-          "type": "color"
+          "value": "{semantic.divider.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "banner": {
           "value": "{core.white.a8}",
@@ -3566,8 +3582,9 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.50a30}",
-            "type": "color"
+            "value": "{semantic.text.disabled.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: disabled control remains visible on white"
           }
         },
         "placeholder": {
@@ -3576,8 +3593,9 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{core.grey.50a30}",
-            "type": "color"
+            "value": "{semantic.text.disabled.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: disabled control remains visible on white"
           },
           "invert": {
             "default": {
@@ -3617,54 +3635,66 @@
       "fill": {
         "primary": {
           "default": {
-            "value": "{core.white.a8}",
-            "type": "color"
+            "value": "{semantic.background.slate-2}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "filled": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-2}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "hover": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-1}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "active": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-2}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "validation": {
-            "value": "{contextual.input.fill.primary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-2}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "disabled": {
-            "value": "{core.white.a5}",
-            "type": "color"
+            "value": "{semantic.background.slate-1}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           }
         },
         "secondary": {
           "default": {
             "value": "{semantic.background.slate-2}",
-            "type": "color"
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "hover": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-1}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "filled": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-2}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "active": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-2}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "validation": {
-            "value": "{contextual.input.fill.secondary.default}",
-            "type": "color"
+            "value": "{semantic.background.slate-2}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           },
           "disabled": {
-            "value": "{core.brand-30.600}",
-            "type": "color"
+            "value": "{semantic.background.slate-1}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light input surface"
           }
         }
       },
@@ -3722,8 +3752,9 @@
           }
         },
         "disabled": {
-          "value": "{core.grey.50a30}",
-          "type": "color"
+          "value": "{semantic.text.disabled.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: disabled control remains visible on white"
         }
       }
     },
@@ -3872,39 +3903,46 @@
     },
     "sidebar": {
       "border": {
-        "value": "{core.white.a8}",
-        "type": "color"
+        "value": "{semantic.divider.default.primary}",
+        "type": "color",
+        "description": "Winnita V2 light draft: sidebar separator on white"
       }
     },
     "header": {
       "desktop": {
         "menu-item": {
           "default": {
-            "value": "{core.brand-30.200}",
-            "type": "color"
+            "value": "{semantic.text.default.secondary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: production neutral navigation text #525252; selected navigation uses blue #0A5AC9"
           },
           "hover": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
+            "value": "{semantic.text.brand.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: desktop navigation in white header"
           },
           "active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
+            "value": "{semantic.text.brand.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: desktop navigation in white header"
           }
         },
         "special-menu-item": {
           "fill": {
-            "value": "rgba(27, 24, 19, 0.50)",
-            "type": "color"
+            "value": "{semantic.background.slate-4}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           },
           "current": {
             "fill": {
-              "value": "{core.white.a8}",
-              "type": "color"
+              "value": "{semantic.background.slate-4}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             },
             "icon": {
-              "value": "{core.white.a100}",
-              "type": "color"
+              "value": "{semantic.icon.default.primary}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           },
           "border": {
@@ -3913,52 +3951,61 @@
               "type": "color"
             },
             "hover": {
-              "value": "{core.white.a50}",
-              "type": "color"
+              "value": "{semantic.border.static.hover}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           },
           "text": {
             "default": {
-              "value": "{core.brand-30.600}",
-              "type": "color"
+              "value": "{semantic.text.default.primary}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             },
             "hover": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
+              "value": "{semantic.text.brand.primary}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           },
           "balance": {
             "fill": {
-              "value": "linear-gradient(270deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.05) 40.7%, rgba(255, 255, 255, 0.05) 82.26%)",
-              "type": "color"
+              "value": "{semantic.background.slate-4}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           }
         },
         "background": {
           "fill": {
-            "value": "{core.brand-60.800}",
-            "type": "color"
+            "value": "{semantic.background.page}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           },
           "border": {
-            "value": "{core.white.a8}",
-            "type": "color"
+            "value": "{semantic.divider.default.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         }
       },
       "mobile": {
         "fill": {
-          "value": "linear-gradient(180deg, rgba(24, 18, 0, 0.73) 0%, rgba(23, 18, 1, 0.75) 25%, rgba(22, 17, 1, 0.61) 46.35%, rgba(28, 22, 4, 0.27) 76.04%, rgba(28, 22, 4, 0.11) 89.06%, rgba(28, 22, 4, 0.00) 100%)",
-          "type": "color"
+          "value": "{semantic.background.page}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "top-up": {
           "fill": {
-            "value": "{core.white.a15}",
-            "type": "color"
+            "value": "{semantic.background.slate-4}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         },
         "content": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "notification": {
@@ -3971,27 +4018,32 @@
           "type": "color"
         },
         "text": {
-          "value": "{core.brand-30.200}",
-          "type": "color"
+          "value": "{semantic.text.brand.on-brand}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "item": {
         "text": {
           "default": {
-            "value": "{semantic.text.default.heading}",
-            "type": "color"
+            "value": "{semantic.text.default.secondary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: production neutral navigation text #525252; selected navigation uses blue #0A5AC9"
           },
           "hover": {
-            "value": "{semantic.gradients.14}",
-            "type": "color"
+            "value": "{semantic.text.brand.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: header text on white"
           },
           "active": {
-            "value": "{semantic.gradients.14}",
-            "type": "color"
+            "value": "{semantic.text.brand.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: header text on white"
           },
           "disabled": {
-            "value": "{semantic.text.default.tertiary}",
-            "type": "color"
+            "value": "{semantic.text.disabled.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: header text on white"
           }
         },
         "fill": {
@@ -4014,20 +4066,24 @@
         },
         "icon": {
           "default": {
-            "value": "{semantic.gradients.15}",
-            "type": "color"
+            "value": "{semantic.icon.default.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: remove dark-theme gradient icon"
           },
           "hover": {
-            "value": "{semantic.gradients.14}",
-            "type": "color"
+            "value": "{semantic.icon.brand.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: remove dark-theme gradient icon"
           },
           "active": {
-            "value": "{semantic.gradients.14}",
-            "type": "color"
+            "value": "{semantic.icon.brand.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: remove dark-theme gradient icon"
           },
           "disabled": {
-            "value": "{semantic.icon.default.tertiary}",
-            "type": "color"
+            "value": "{semantic.icon.default.disabled}",
+            "type": "color",
+            "description": "Winnita V2 light draft: remove dark-theme gradient icon"
           }
         },
         "border": {
@@ -4051,8 +4107,9 @@
       },
       "background": {
         "fill-current": {
-          "value": "linear-gradient(180deg, rgba(26, 37, 61, 0.80) 0%, rgba(26, 35, 57, 0.67) 28.65%, rgba(37, 45, 64, 0.52) 53.65%, rgba(37, 45, 64, 0.22) 76.04%, rgba(37, 45, 64, 0.06) 89.06%, rgba(37, 45, 64, 0.00) 100%)",
-          "type": "color"
+          "value": "{semantic.background.page}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       }
     },
@@ -4121,20 +4178,24 @@
     "menu-item": {
       "fill": {
         "default": {
-          "value": "{core.white.a8}",
-          "type": "color"
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar item surface"
         },
         "hover": {
-          "value": "{core.white.a8}",
-          "type": "color"
+          "value": "{semantic.background.slate-1}",
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar item surface"
         },
         "active": {
-          "value": "{core.brand-10.400a10}",
-          "type": "color"
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar item surface"
         },
         "disabled": {
-          "value": "{core.white.a8}",
-          "type": "color"
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar item surface"
         }
       },
       "text": {
@@ -4157,20 +4218,24 @@
       },
       "icon": {
         "default": {
-          "value": "{semantic.gradients.15}",
-          "type": "color"
+          "value": "{semantic.icon.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar icon on white"
         },
         "hover": {
           "value": "{semantic.icon.brand.primary}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar icon on white"
         },
         "active": {
-          "value": "{semantic.gradients.14}",
-          "type": "color"
+          "value": "{semantic.icon.brand.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar icon on white"
         },
         "disabled": {
-          "value": "{semantic.text.disabled.primary}",
-          "type": "color"
+          "value": "{semantic.icon.default.disabled}",
+          "type": "color",
+          "description": "Winnita V2 light draft: sidebar icon on white"
         }
       },
       "mob": {
@@ -4234,19 +4299,23 @@
       "border": {
         "default": {
           "value": "{core.white.a0}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: selection uses blue fill and text without new geometry"
         },
         "hover": {
-          "value": "{core.brand-10.600a40}",
-          "type": "color"
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Winnita V2 light draft: selection uses blue fill and text without new geometry"
         },
         "active": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "{core.white.a0}",
+          "type": "color",
+          "description": "Winnita V2 light draft: selection uses blue fill and text without new geometry"
         },
         "disabled": {
           "value": "{core.white.a0}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: selection uses blue fill and text without new geometry"
         }
       }
     },
@@ -4638,12 +4707,14 @@
             "type": "color"
           },
           "selected": {
-            "value": "{core.brand-10.400a10}",
-            "type": "color"
+            "value": "{semantic.background.slate-4}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           },
           "hover": {
-            "value": "{core.brand-10.400a10}",
-            "type": "color"
+            "value": "{semantic.background.slate-1}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         },
         "text": {
@@ -4726,13 +4797,14 @@
         "type": "color"
       },
       "bg": {
-        "value": "{core.white.a8}",
+        "value": "{semantic.background.slate-1}",
         "type": "color",
-        "description": "bg Progres menu"
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "border": {
-        "value": "{core.white.a8}",
-        "type": "color"
+        "value": "{semantic.border.default.default}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "ovelray-fill": {
         "value": "linear-gradient(180deg, {core.brand-60.700a0} 0%, {core.brand-60.700} 50%)",
@@ -4912,29 +4984,33 @@
     "homepage": {
       "nav-menu": {
         "fill": {
-          "value": "{core.grey.900a40}",
+          "value": "{semantic.background.page}",
           "type": "color",
-          "description": "del?"
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "item": {
           "text": {
             "default": {
-              "value": "{core.brand-30.300}",
-              "type": "color"
+              "value": "{semantic.text.default.secondary}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             },
             "hover-active": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
+              "value": "{semantic.text.brand.primary}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           },
           "icon": {
             "default": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
+              "value": "{semantic.icon.default.secondary}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             },
             "hover-active": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
+              "value": "{semantic.icon.brand.primary}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           },
           "fill": {
@@ -4949,25 +5025,29 @@
           },
           "border": {
             "border-active-state": {
-              "value": "{core.brand-10.500}",
-              "type": "color"
+              "value": "{semantic.border.default.active}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           }
         },
         "button": {
           "fill": {
             "default": {
-              "value": "{core.white.a8}",
-              "type": "color"
+              "value": "{semantic.background.slate-2}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             },
             "hover-active": {
-              "value": "{core.brand-60.500a40}",
-              "type": "color"
+              "value": "{semantic.background.slate-4}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           },
           "content": {
-            "value": "{core.brand-30.300}",
-            "type": "color"
+            "value": "{semantic.icon.default.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         },
         "mobile": {
@@ -5010,19 +5090,22 @@
       "collection": {
         "background": {
           "background-card": {
-            "value": "linear-gradient(90deg, #2D532C 0%, #395128 11.11%, #424E25 22.22%, #494B24 33.33%, #504925 44.44%, #544627 55.56%, #58442A 66.67%, #5A422E 77.78%, #5B4033 88.89%, #5A3F37 100%)",
-            "type": "color"
+            "value": "{semantic.background.slate-4}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light blue collection category surface for readable dark title"
           }
         },
         "item": {
           "title": {
-            "value": "{core.brand-60.800}",
-            "type": "color"
+            "value": "{semantic.text.default.heading}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         },
         "title": {
-          "value": "{core.brand-30.300}",
-          "type": "color"
+          "value": "{semantic.text.default.heading}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "slider": {
@@ -5059,8 +5142,9 @@
       },
       "title&show-all": {
         "icon": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "{semantic.icon.default.secondary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "link": {
           "default": {
@@ -5225,43 +5309,51 @@
       },
       "fill": {
         "value": "{semantic.background.slate-2}",
-        "type": "color"
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "text": {
         "primary": {
-          "value": "{core.brand-30.200}",
-          "type": "color"
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "accent": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "{semantic.text.brand.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "warning": {
           "value": "{core.validation.danger.600}",
           "type": "color"
         },
         "secondary": {
-          "value": "{core.brand-60.800}",
-          "type": "color"
+          "value": "{semantic.text.default.secondary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "tertiary": {
-          "value": "{core.brand-60.600a60}",
-          "type": "color"
+          "value": "{semantic.text.default.tertiary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "devider": {
-        "value": "{core.white.a25}",
-        "type": "color"
+        "value": "{semantic.divider.default.primary}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "item": {
         "text": {
           "default": {
-            "value": "{core.brand-30.200}",
-            "type": "color"
+            "value": "{semantic.text.default.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           },
           "hover-active": {
-            "value": "{core.brand-10.500}",
-            "type": "color"
+            "value": "{semantic.text.brand.primary}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         },
         "new": {
@@ -5276,8 +5368,9 @@
         },
         "fill": {
           "active": {
-            "value": "{core.white.a5}",
-            "type": "color"
+            "value": "{semantic.background.slate-4}",
+            "type": "color",
+            "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
           }
         },
         "notification": {
@@ -5291,8 +5384,9 @@
           }
         },
         "icon-left": {
-          "value": "{core.brand-30.200}",
-          "type": "color"
+          "value": "{semantic.icon.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "balance-number": {
@@ -5306,13 +5400,15 @@
         }
       },
       "icon": {
-        "value": "{core.brand-30.200}",
-        "type": "color"
+        "value": "{semantic.icon.default.primary}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "quick-pay": {
         "fill": {
-          "value": "{core.grey.400}",
-          "type": "color"
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "item": {
           "text": {
@@ -5354,12 +5450,14 @@
           },
           "inform": {
             "fill": {
-              "value": "{core.white.a5}",
-              "type": "color"
+              "value": "{semantic.background.slate-2}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             },
             "border": {
-              "value": "{core.white.a20}",
-              "type": "color"
+              "value": "{semantic.border.default.default}",
+              "type": "color",
+              "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
             }
           }
         },
@@ -5376,13 +5474,15 @@
           "type": "color"
         },
         "divider": {
-          "value": "{core.white.a60}",
-          "type": "color"
+          "value": "{semantic.divider.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "overlay": {
-        "value": "linear-gradient(180deg, rgba(28, 21, 72, 0.00) 50%, #1C1548 100%)",
-        "type": "color"
+        "value": "{semantic.background.slate-2}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "status": {
         "fill": {
@@ -5531,9 +5631,9 @@
     },
     "segment-control": {
       "fill": {
-        "value": "{core.white.a5}",
+        "value": "{semantic.background.slate-1}",
         "type": "color",
-        "description": "Segment Control"
+        "description": "Winnita V2 light draft: light segmented control"
       },
       "devider": {
         "value": "{core.white.a0}",
@@ -5548,14 +5648,14 @@
             "description": "Segment Control"
           },
           "hover": {
-            "value": "{core.brand-60.700}",
+            "value": "{semantic.background.slate-2}",
             "type": "color",
-            "description": "Segment Control"
+            "description": "Winnita V2 light draft: selected segment on light container"
           },
           "active": {
-            "value": "{core.brand-60.700}",
+            "value": "{semantic.background.slate-2}",
             "type": "color",
-            "description": "Segment Control"
+            "description": "Winnita V2 light draft: selected segment on light container"
           }
         },
         "text": {
@@ -5577,12 +5677,14 @@
         },
         "border": {
           "active": {
-            "value": "{core.white.a10}",
-            "type": "color"
+            "value": "{semantic.border.default.default}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light segment border"
           },
           "hover": {
-            "value": "{core.white.a5}",
-            "type": "color"
+            "value": "{semantic.border.default.default}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light segment border"
           },
           "default": {
             "value": "{core.white.a0}",
@@ -5605,34 +5707,39 @@
         }
       },
       "border": {
-        "value": "{core.brand-60.300}",
+        "value": "{semantic.border.default.default}",
         "type": "color",
-        "description": "Segment Control"
+        "description": "Winnita V2 light draft: light segmented control"
       }
     },
     "popup": {
       "fill": {
-        "value": "{core.brand-60.700}",
-        "type": "color"
+        "value": "{semantic.background.slate-2}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "additional-block": {
         "fill": {
-          "value": "rgba(214, 157, 15, 0.32)",
-          "type": "color"
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "border": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
+          "value": "{semantic.border.default.active}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "slate": {
         "1": {
-          "value": "{core.white.a5}",
-          "type": "color"
+          "value": "{semantic.background.slate-1}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "2": {
-          "value": "{core.white.a5}",
-          "type": "color"
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "overlay": {
@@ -5641,16 +5748,19 @@
       },
       "text": {
         "heading": {
-          "value": "{semantic.text.static.primary}",
-          "type": "color"
+          "value": "{semantic.text.default.heading}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "content": {
-          "value": "{semantic.text.static.primary}",
-          "type": "color"
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "secondary": {
-          "value": "{semantic.text.static.primary}",
-          "type": "color"
+          "value": "{semantic.text.default.secondary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         },
         "tertiary": {
           "value": "{semantic.text.static.tertiary}",
@@ -5679,13 +5789,15 @@
       },
       "icon": {
         "1": {
-          "value": "rgba(57, 38, 2, 0.30)",
-          "type": "color"
+          "value": "{semantic.icon.default.primary}",
+          "type": "color",
+          "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
         }
       },
       "close-icon-fill": {
-        "value": "{core.brand-30.300}",
-        "type": "color"
+        "value": "{semantic.icon.default.primary}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "bottom": {
         "fill": {
@@ -5698,16 +5810,19 @@
         }
       },
       "border": {
-        "value": "{core.white.a25}",
-        "type": "color"
+        "value": "{semantic.border.default.default}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "devider": {
-        "value": "rgba(57, 38, 2, 0.20)",
-        "type": "color"
+        "value": "{semantic.divider.default.primary}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "devider-2": {
-        "value": "rgba(57, 38, 2, 0.10)",
-        "type": "color"
+        "value": "{semantic.divider.default.primary}",
+        "type": "color",
+        "description": "Winnita V2 light draft: contextual light-theme compatibility for validation screen"
       },
       "additional-blick": {
         "border": {
@@ -6226,16 +6341,19 @@
     "category-item": {
       "fill": {
         "default": {
-          "value": "{core.white.a8}",
-          "type": "color"
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Winnita V2 light draft: category card surface on white"
         },
         "hover": {
-          "value": "{core.white.a8}",
-          "type": "color"
+          "value": "{semantic.background.slate-1}",
+          "type": "color",
+          "description": "Winnita V2 light draft: category card surface on white"
         },
         "active": {
-          "value": "{core.white.a8}",
-          "type": "color"
+          "value": "{semantic.background.slate-4}",
+          "type": "color",
+          "description": "Winnita V2 light draft: category card surface on white"
         }
       },
       "border": {
@@ -6248,8 +6366,9 @@
           "type": "color"
         },
         "active": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "{semantic.border.default.active}",
+          "type": "color",
+          "description": "Winnita V2 light draft: blue selected category"
         }
       }
     },
@@ -7150,139 +7269,59 @@
   "core": {
     "grey": {
       "25": {
-        "value": "{core.grey.500}",
+        "value": "#F8F8F9",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.95",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita production reference: input.bg.hover"
       },
       "50": {
-        "value": "{core.grey.500}",
+        "value": "#F0F2F5",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.9",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "100": {
-        "value": "{core.grey.500}",
+        "value": "#E3E7EE",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.72",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "200": {
-        "value": "{core.grey.500}",
+        "value": "#C6CCE0",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.54",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita production reference: input.border.default"
       },
       "300": {
-        "value": "{core.grey.500}",
+        "value": "#A1A6B0",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.36",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita production reference: input.text.value-submain"
       },
       "400": {
-        "value": "{core.grey.500}",
+        "value": "#525252",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.18",
-              "space": "lch"
-            }
-          }
-        },
-        "description": "basic.sand 1100"
+        "description": "Winnita production reference: header.content.primary"
       },
       "500": {
-        "value": "#1E2B52",
-        "type": "color"
+        "value": "#313644",
+        "type": "color",
+        "description": "Winnita production reference: text.title.main"
       },
       "600": {
-        "value": "{core.grey.500}",
+        "value": "#192947",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita production reference: text.primary"
       },
       "700": {
-        "value": "{core.grey.500}",
+        "value": "#14213A",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.4",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita production reference: base.dark"
       },
       "800": {
-        "value": "{core.grey.500}",
+        "value": "#0D1729",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.6",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "900": {
-        "value": "{core.grey.500}",
+        "value": "#080F1D",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.8",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "a10": {
         "value": "{core.grey.900}",
@@ -7773,52 +7812,57 @@
     },
     "brand-30": {
       "50": {
-        "value": "#D2E5FF",
+        "value": "#EBF1FF",
         "type": "color",
-        "description": "basic.sand 50"
+        "description": "Winnita production reference: base.accent-light"
       },
       "100": {
-        "value": "#BCDFFF",
+        "value": "#DEE8FF",
         "type": "color",
-        "description": "basic.sand 100"
+        "description": "Winnita production reference: button.bg.app-hover"
       },
       "200": {
-        "value": "#8CC5FF",
+        "value": "#C4CEE6",
         "type": "color",
-        "description": "basic.sand 200"
+        "description": "Winnita production reference: button.bg.app-pressed"
       },
       "300": {
-        "value": "#4CABFE",
+        "value": "#4090FF",
         "type": "color",
-        "description": "basic.sand 300"
+        "description": "Winnita production reference: text.link-hover"
       },
       "400": {
-        "value": "#60A4E5",
-        "type": "color"
+        "value": "#2674DE",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "500": {
-        "value": "#2FB4F0",
-        "type": "color"
+        "value": "#0A5AC9",
+        "type": "color",
+        "description": "Winnita production reference: base.accent-primary"
       },
       "600": {
-        "value": "#2F9BF0",
+        "value": "#0848A1",
         "type": "color",
-        "description": "basic.sand 400"
+        "description": "Winnita production reference: menu.bg.banner"
       },
       "700": {
-        "value": "#387BE0",
-        "type": "color"
+        "value": "#063D78",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "800": {
-        "value": "#1E5DB8",
-        "type": "color"
+        "value": "#042950",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "900": {
-        "value": "#193D84",
-        "type": "color"
+        "value": "#02172D",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "50a10": {
-        "value": "#D2E5FF",
+        "value": "{core.brand-30.50}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -7831,7 +7875,7 @@
         }
       },
       "50a20": {
-        "value": "#D2E5FF",
+        "value": "{core.brand-30.50}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -7844,7 +7888,7 @@
         }
       },
       "50a25": {
-        "value": "#D2E5FF",
+        "value": "{core.brand-30.50}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -7938,29 +7982,74 @@
     "validation": {
       "danger": {
         "50": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.95",
+                "space": "lch"
+              }
+            }
+          }
         },
         "100": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch"
+              }
+            }
+          }
         },
         "200": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "lch"
+              }
+            }
+          }
         },
         "300": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
         },
         "400": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.25",
+                "space": "lch"
+              }
+            }
+          }
         },
         "500": {
           "value": "{core.additionals.validation.danger}",
@@ -7982,19 +8071,46 @@
           "description": "Secondary.red 600"
         },
         "700": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          }
         },
         "800": {
-          "value": "#B62D3E",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
         },
         "900": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.danger.500}",
           "type": "color",
-          "description": "Secondary.red 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.7",
+                "space": "lch"
+              }
+            }
+          }
         },
         "a20": {
           "value": "{core.validation.danger.500}",
@@ -8027,29 +8143,74 @@
       },
       "success": {
         "50": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.95",
+                "space": "lch"
+              }
+            }
+          }
         },
         "100": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch"
+              }
+            }
+          }
         },
         "200": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "lch"
+              }
+            }
+          }
         },
         "300": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
         },
         "400": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.25",
+                "space": "lch"
+              }
+            }
+          }
         },
         "500": {
           "value": "{core.additionals.validation.success}",
@@ -8071,19 +8232,46 @@
           "description": "Primary.emerald 500"
         },
         "700": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          }
         },
         "800": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
         },
         "900": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.success.500}",
           "type": "color",
-          "description": "Primary.emerald 500"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.7",
+                "space": "lch"
+              }
+            }
+          }
         },
         "a20": {
           "value": "{core.validation.success.500}",
@@ -8116,29 +8304,74 @@
       },
       "warning": {
         "50": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.95",
+                "space": "lch"
+              }
+            }
+          }
         },
         "100": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.88",
+                "space": "lch"
+              }
+            }
+          }
         },
         "200": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.72",
+                "space": "lch"
+              }
+            }
+          }
         },
         "300": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
         },
         "400": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "0.25",
+                "space": "lch"
+              }
+            }
+          }
         },
         "500": {
           "value": "{core.additionals.validation.warning}",
@@ -8160,19 +8393,46 @@
           "description": "Secondary.yellow 300"
         },
         "700": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          }
         },
         "800": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.5",
+                "space": "lch"
+              }
+            }
+          }
         },
         "900": {
-          "value": "{core.white.a0}",
+          "value": "{core.validation.warning.500}",
           "type": "color",
-          "description": "Secondary.yellow 300"
+          "description": "Winnita V2 draft: generated LCH status shade; 500 anchor from production",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.7",
+                "space": "lch"
+              }
+            }
+          }
         },
         "a20": {
           "value": "{core.validation.warning.500}",
@@ -8206,48 +8466,57 @@
     },
     "brand-10": {
       "50": {
-        "value": "#dcf8eb",
-        "type": "color"
+        "value": "#F0FBF2",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "100": {
-        "value": "#a8e4c4",
-        "type": "color"
+        "value": "#D9F5E0",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "200": {
-        "value": "#6ccc9c",
-        "type": "color"
+        "value": "#B0EBBD",
+        "type": "color",
+        "description": "Winnita production reference: button.bg.primary-disabled-additional"
       },
       "300": {
-        "value": "#24C161",
-        "type": "color"
+        "value": "#70CA84",
+        "type": "color",
+        "description": "Winnita production reference: button.border.tertiary-hover"
       },
       "400": {
-        "value": "#2DD890",
+        "value": "#4DD16A",
         "type": "color",
-        "description": "Primary.Amber 800"
+        "description": "Winnita production reference: button.bg.primary-hover"
       },
       "500": {
-        "value": "#39c270",
-        "type": "color"
+        "value": "#39CC59",
+        "type": "color",
+        "description": "Winnita production reference: button.bg.primary"
       },
       "600": {
-        "value": "#1e9450",
-        "type": "color"
+        "value": "#33B850",
+        "type": "color",
+        "description": "Winnita production reference: button.bg.primary-pressed"
       },
       "700": {
-        "value": "#208C48",
-        "type": "color"
+        "value": "#298F3F",
+        "type": "color",
+        "description": "Winnita production reference: button.border.tertiary-pressed"
       },
       "800": {
-        "value": "#0c3c20",
-        "type": "color"
+        "value": "#1B602A",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "900": {
-        "value": "#061e10",
-        "type": "color"
+        "value": "#0E3015",
+        "type": "color",
+        "description": "Winnita V2 draft: proposed supporting shade; review in new UI"
       },
       "400a20": {
-        "value": "#2DD890",
+        "value": "{core.brand-10.400}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -8327,24 +8596,24 @@
     },
     "additionals": {
       "gold": {
-        "value": "#FFDD47",
+        "value": "#FFC13B",
         "type": "color",
-        "description": "basic.bronze"
+        "description": "Winnita production reference: base.gold"
       },
       "silver": {
-        "value": "#DADFEC",
+        "value": "#8A8F98",
         "type": "color",
-        "description": "basic.silver"
+        "description": "Winnita production reference: base.silver"
       },
       "bronze": {
         "value": "#FFB053",
         "type": "color",
-        "description": "basic.bronze"
+        "description": "Winnita production reference: base.bronze"
       },
       "accent-secondary": {
-        "value": "#FCFF71",
+        "value": "#3BEA62",
         "type": "color",
-        "description": "basic.bronze"
+        "description": "Winnita production reference: base.accent-secondary"
       },
       "purple": {
         "value": "#8C46D3",
@@ -8352,74 +8621,149 @@
       },
       "validation": {
         "danger": {
-          "value": "#FB3C3C",
+          "value": "#DE3838",
           "type": "color",
-          "description": "core.brand-preset.validation.danger"
+          "description": "Winnita production reference: base.error"
         },
         "success": {
-          "value": "#2DD890",
-          "type": "color"
+          "value": "#0BB12F",
+          "type": "color",
+          "description": "Winnita production reference: base.success"
         },
         "warning": {
-          "value": "#EF9F27",
-          "type": "color"
+          "value": "#FF9B25",
+          "type": "color",
+          "description": "Winnita production reference: base.warning"
         },
         "info": {
-          "value": "{core.brand-30.600}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2: blue information accent, based on production base.accent-primary"
         }
       }
     },
     "red": {
       "50": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.95",
+              "space": "lch"
+            }
+          }
+        }
       },
       "100": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.88",
+              "space": "lch"
+            }
+          }
+        }
       },
       "200": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.72",
+              "space": "lch"
+            }
+          }
+        }
       },
       "300": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
       },
       "400": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.25",
+              "space": "lch"
+            }
+          }
+        }
       },
       "500": {
-        "value": "#FE4C25",
+        "value": "#FF5050",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita production reference: button.bg.secondary"
       },
       "600": {
-        "value": "#CB3D1E",
+        "value": "#E64848",
         "type": "color",
-        "description": "Secondary.red 600"
+        "description": "Winnita production reference: button.bg.secondary-pressed"
       },
       "700": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.3",
+              "space": "lch"
+            }
+          }
+        }
       },
       "800": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.5",
+              "space": "lch"
+            }
+          }
+        }
       },
       "900": {
-        "value": "{core.white.a0}",
+        "value": "{core.red.500}",
         "type": "color",
-        "description": "Secondary.red 500"
+        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.7",
+              "space": "lch"
+            }
+          }
+        }
       }
     }
   },
@@ -8505,67 +8849,71 @@
     },
     "background": {
       "1": {
-        "value": "#1C1548",
+        "value": "{core.white.a100}",
         "type": "color",
-        "description": "basic.sand 900"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "2": {
-        "value": "#252339",
+        "value": "{core.grey.25}",
         "type": "color",
-        "description": "basic.replaceable.sand 1100"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "3": {
-        "value": "#2F2859",
+        "value": "{core.brand-30.50}",
         "type": "color",
-        "description": "gradient.yellow 50"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "4": {
-        "value": "#060423",
+        "value": "{core.grey.50}",
         "type": "color",
-        "description": "gradient.Black 600"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "slate-1": {
-        "value": "{core.brand-60.900}",
+        "value": "{core.grey.25}",
         "type": "color",
-        "description": "text input 1"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "slate-2": {
-        "value": "{core.brand-60.800}",
+        "value": "{core.white.a100}",
         "type": "color",
-        "description": "text input 2"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "slate-3": {
-        "value": "{core.white.a10}",
+        "value": "{core.grey.50}",
         "type": "color",
-        "description": "text input 2"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "slate-on-card": {
-        "value": "rgba(250, 236, 209, 0.25)",
+        "value": "{core.grey.25}",
         "type": "color",
-        "description": "should be used as a surface color for text, labels"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "page": {
-        "value": "{core.brand-60.700}",
+        "value": "{core.white.a100}",
         "type": "color",
-        "description": "should be used as a surface color for text, labels"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "brand": {
         "primary": {
           "default": {
-            "value": "linear-gradient(180deg, {core.brand-10.300} 0%, {core.brand-10.700} 100%)",
-            "type": "color"
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Winnita V2 light draft: solid primary action state; secondary stays blue pending product review"
           },
           "hover": {
-            "value": "linear-gradient(180deg, {core.brand-10.200} 0%, {core.brand-10.700} 100%)",
-            "type": "color"
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Winnita V2 light draft: solid primary action state; secondary stays blue pending product review"
           },
           "active": {
-            "value": "linear-gradient(180deg, {core.brand-10.500} 0%, {core.brand-10.700} 100%)",
-            "type": "color"
+            "value": "{core.brand-10.600}",
+            "type": "color",
+            "description": "Winnita V2 light draft: solid primary action state; secondary stays blue pending product review"
           },
           "disabled": {
-            "value": "linear-gradient(180deg, {core.brand-10.300a60} 0%, {core.brand-10.700a60} 100%)",
-            "type": "color"
+            "value": "rgba(57, 204, 89, 0.4)",
+            "type": "color",
+            "description": "Winnita V2 light draft: disabled action at 40% opacity"
           }
         },
         "emphasizing": {
@@ -8596,166 +8944,198 @@
         },
         "secondary": {
           "default": {
-            "value": "linear-gradient(180deg, {core.brand-30.600} 0%, {core.brand-30.800} 100%)",
-            "type": "color"
+            "value": "{core.brand-30.500}",
+            "type": "color",
+            "description": "Winnita V2 light draft: solid secondary action state; secondary stays blue pending product review"
           },
           "hover": {
-            "value": "linear-gradient(180deg, {core.brand-30.400} 0%, {core.brand-30.800} 100%)",
-            "type": "color"
+            "value": "{core.brand-30.400}",
+            "type": "color",
+            "description": "Winnita V2 light draft: solid secondary action state; secondary stays blue pending product review"
           },
           "active": {
-            "value": "linear-gradient(180deg, {core.brand-30.600} 0%, {core.brand-30.800} 100%)",
-            "type": "color"
+            "value": "{core.brand-30.600}",
+            "type": "color",
+            "description": "Winnita V2 light draft: solid secondary action state; secondary stays blue pending product review"
           },
           "disabled": {
-            "value": "linear-gradient(180deg, {core.brand-30.600a60} 0%, {core.brand-30.800a60} 100%)",
-            "type": "color"
+            "value": "rgba(10, 90, 201, 0.4)",
+            "type": "color",
+            "description": "Winnita V2 light draft: disabled action at 40% opacity"
           }
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a10}",
-            "type": "color"
+            "value": "{core.grey.50}",
+            "type": "color",
+            "description": "Winnita V2 light draft: neutral button surface on white"
           },
           "hover": {
-            "value": "{semantic.background.brand.tertiary.default}",
-            "type": "color"
+            "value": "{core.grey.100}",
+            "type": "color",
+            "description": "Winnita V2 light draft: neutral button surface on white"
           },
           "active": {
-            "value": "{semantic.background.brand.tertiary.hover}",
-            "type": "color"
+            "value": "{core.grey.200}",
+            "type": "color",
+            "description": "Winnita V2 light draft: neutral button surface on white"
           },
           "disabled": {
-            "value": "{core.white.a10}",
-            "type": "color"
+            "value": "{core.grey.25}",
+            "type": "color",
+            "description": "Winnita V2 light draft: neutral button surface on white"
           }
         },
         "ghost-popup": {
           "default": {
             "value": "{core.white.a0}",
-            "type": "color"
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           },
           "hover": {
-            "value": "{core.white.a0}",
-            "type": "color"
+            "value": "{core.brand-30.50}",
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           },
           "active": {
-            "value": "{core.white.a0}",
-            "type": "color"
+            "value": "{core.brand-30.100}",
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           },
           "disabled": {
             "value": "{core.white.a0}",
-            "type": "color"
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           }
         },
         "static": {
           "default": {
             "value": "{core.white.a0}",
-            "type": "color"
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           },
           "hover": {
-            "value": "{core.white.a0}",
-            "type": "color"
+            "value": "{core.brand-30.50}",
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           },
           "active": {
-            "value": "{semantic.background.brand.tertiary.hover}",
-            "type": "color"
+            "value": "{core.brand-30.100}",
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           },
           "disabled": {
             "value": "{core.white.a0}",
-            "type": "color"
+            "type": "color",
+            "description": "Winnita V2 light draft: transparent/light interaction surface"
           }
         }
       },
       "slate-4": {
-        "value": "{semantic.background.slate-on-card}",
+        "value": "{core.brand-30.50}",
         "type": "color",
-        "description": "text input 2"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       },
       "slate-5": {
-        "value": "{core.brand-10.800}",
+        "value": "{core.brand-10.50}",
         "type": "color",
-        "description": "text input 2"
+        "description": "Winnita V2 light draft: light surface role; component consumers require visual review"
       }
     },
     "divider": {
       "default": {
         "primary": {
-          "value": "{core.white.a10}",
+          "value": "{core.grey.100}",
           "type": "color",
-          "description": "basic.sand 900"
+          "description": "Winnita V2 light draft: light-theme divider.default role"
         },
         "secondary": {
-          "value": "{core.brand-30.500a10}",
-          "type": "color"
+          "value": "{core.grey.100}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme divider.default role"
         },
         "accent": {
-          "value": "{core.brand-30.200a30}",
-          "type": "color"
+          "value": "{core.brand-30.200}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme divider.default role"
         }
       }
     },
     "icon": {
       "static": {
         "primary": {
-          "value": "{core.white.a90}",
-          "type": "color"
+          "value": "{core.grey.400}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.static role"
         },
         "secondary": {
-          "value": "{core.grey.900a60}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.static role"
         },
         "tertiary": {
-          "value": "{core.grey.900a40}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.static role"
         },
         "disabled": {
-          "value": "{core.brand-30.600}",
-          "type": "color"
+          "value": "{core.grey.200}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.static role"
         },
         "accent": {
-          "value": "{core.brand-10.400}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.static role"
         }
       },
       "default": {
         "primary": {
-          "value": "{core.white.a85}",
-          "type": "color"
+          "value": "{core.grey.400}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.default role"
         },
         "secondary": {
-          "value": "{core.white.a70}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.default role"
         },
         "tertiary": {
-          "value": "{core.white.a50}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.default role"
         },
         "disabled": {
-          "value": "{core.white.a25}",
-          "type": "color"
+          "value": "{core.grey.200}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.default role"
         }
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.400}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.brand role"
         },
         "secondary": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.brand role"
         },
         "on-brand": {
-          "value": "{core.brand-60.900}",
-          "type": "color"
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.brand role"
         },
         "on-brand-secondary": {
-          "value": "{core.brand-60.800}",
-          "type": "color"
+          "value": "{core.white.a100}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.brand role"
         },
         "on-brand-tertiary": {
-          "value": "{semantic.background.2}",
-          "type": "color"
+          "value": "{core.grey.600}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme icon.brand role"
         }
       },
       "banner-cart": {
@@ -8780,52 +9160,63 @@
     "text": {
       "default": {
         "heading": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "value": "{core.grey.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.default role"
         },
         "primary": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "value": "{core.grey.600}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.default role"
         },
         "secondary": {
-          "value": "{core.white.a70}",
-          "type": "color"
+          "value": "{core.grey.400}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.default role"
         },
         "tertiary": {
-          "value": "{core.white.a80}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.default role"
         }
       },
       "brand": {
         "primary": {
-          "value": "{core.brand-10.400}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.brand role"
         },
         "secondary": {
-          "value": "{core.additionals.accent-secondary}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.brand role"
         },
         "on-brand": {
           "value": "{core.white.a100}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.brand role"
         },
         "on-brand-secondary": {
           "value": "{core.white.a100}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.brand role"
         },
         "on-brand-tertiary": {
-          "value": "{core.white.a100}",
-          "type": "color"
+          "value": "{core.grey.600}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.brand role"
         }
       },
       "disabled": {
         "primary": {
-          "value": "{core.white.a25}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.disabled role"
         },
         "brand": {
-          "value": "{core.white.a40}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.disabled role"
         },
         "on-brand": {
           "value": "{core.white.a50}",
@@ -8836,56 +9227,67 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{core.grey.600}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.disabled role"
         }
       },
       "static": {
         "primary": {
-          "value": "{core.grey.50}",
-          "type": "color"
+          "value": "{core.grey.600}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.static role"
         },
         "secondary": {
-          "value": "{core.grey.900a80}",
-          "type": "color"
+          "value": "{core.grey.400}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.static role"
         },
         "tertiary": {
-          "value": "{core.grey.900a60}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.static role"
         },
         "accent": {
-          "value": "{core.brand-10.600}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme text.static role"
         }
       },
       "danger": {
         "default": {
           "value": "{core.validation.danger.600}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: status text on light surfaces; final contrast to review on exact components"
         },
         "static": {
           "value": "{core.validation.danger.600}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: status text on light surfaces; final contrast to review on exact components"
         }
       },
       "success": {
         "default": {
-          "value": "{core.validation.success.500}",
-          "type": "color"
+          "value": "{core.validation.success.700}",
+          "type": "color",
+          "description": "Winnita V2 light draft: status text on light surfaces; final contrast to review on exact components"
         },
         "static": {
-          "value": "{core.validation.success.600}",
-          "type": "color"
+          "value": "{core.validation.success.700}",
+          "type": "color",
+          "description": "Winnita V2 light draft: status text on light surfaces; final contrast to review on exact components"
         }
       },
       "warning": {
         "default": {
-          "value": "{core.validation.warning.500}",
-          "type": "color"
+          "value": "{core.validation.warning.800}",
+          "type": "color",
+          "description": "Winnita V2 light draft: status text on light surfaces; final contrast to review on exact components"
         },
         "static": {
-          "value": "{core.validation.warning.600}",
-          "type": "color"
+          "value": "{core.validation.warning.800}",
+          "type": "color",
+          "description": "Winnita V2 light draft: status text on light surfaces; final contrast to review on exact components"
         }
       },
       "banner-cart": {
@@ -8951,20 +9353,24 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
+            "value": "{core.grey.200}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
           },
           "hover": {
-            "value": "{core.grey.50}",
-            "type": "color"
+            "value": "{core.grey.300}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
           },
           "active": {
-            "value": "{core.grey.200}",
-            "type": "color"
+            "value": "{core.grey.400}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
           },
           "disabled": {
-            "value": "{core.white.a60}",
-            "type": "color"
+            "value": "{core.grey.100}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
           }
         },
         "ghost-popup": {
@@ -8987,107 +9393,129 @@
         },
         "static": {
           "default": {
-            "value": "{core.white.a100}",
-            "type": "color"
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.static role"
           },
           "hover": {
-            "value": "{core.grey.50}",
-            "type": "color"
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.static role"
           },
           "active": {
-            "value": "{core.grey.200}",
-            "type": "color"
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.static role"
           },
           "disabled": {
-            "value": "{core.white.a60}",
-            "type": "color"
+            "value": "{core.white.a0}",
+            "type": "color",
+            "description": "Winnita V2 light draft: light-theme border.brand.static role"
           }
         }
       },
       "active": {
         "element": {
-          "value": "linear-gradient(311deg, #534928 0%, rgba(232, 177, 82, 0.43) 46.5%, #F59300 95.5%)",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: blue focus/selection border replaces decorative gold gradient"
         }
       },
       "static": {
         "default": {
-          "value": "{core.white.a10}",
-          "type": "color"
+          "value": "{core.grey.200}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.static role"
         },
         "filled": {
-          "value": "{core.white.a10}",
-          "type": "color"
+          "value": "{core.grey.200}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.static role"
         },
         "hover": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "{core.brand-30.400}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.static role"
         },
         "active": {
-          "value": "{core.brand-10.500}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.static role"
         },
         "validation": {
           "value": "{core.validation.danger.500}",
-          "type": "color"
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.static role"
         },
         "disabled": {
-          "value": "{core.white.a10}",
-          "type": "color"
+          "value": "{core.grey.100}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.static role"
         }
       },
       "default": {
         "default": {
-          "value": "{core.white.a0}",
-          "type": "color"
+          "value": "{core.grey.100}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.default role"
         },
         "hover": {
-          "value": "{core.white.a0}",
-          "type": "color"
+          "value": "{core.grey.200}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.default role"
         },
         "active": {
-          "value": "{core.white.a0}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.default role"
         },
         "disabled": {
-          "value": "{core.white.a0}",
-          "type": "color"
+          "value": "{core.grey.100}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme border.default role"
         }
       }
     },
     "link": {
       "default": {
         "default": {
-          "value": "{semantic.text.default.primary}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme link.default role"
         },
         "disabled": {
-          "value": "{semantic.text.default.tertiary}",
-          "type": "color"
+          "value": "{core.grey.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme link.default role"
         },
         "hover": {
-          "value": "{core.brand-60.200}",
-          "type": "color"
+          "value": "{core.brand-30.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme link.default role"
         }
       },
       "accent": {
         "default": {
-          "value": "{core.brand-30.50}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme link.accent role"
         },
         "hover": {
-          "value": "{core.brand-60.200}",
-          "type": "color"
+          "value": "{core.brand-30.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme link.accent role"
         }
       },
       "static": {
         "default": {
-          "value": "{semantic.text.static.primary}",
-          "type": "color"
+          "value": "{core.brand-30.500}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme link.static role"
         },
         "hover": {
-          "value": "{core.brand-60.200}",
-          "type": "color"
+          "value": "{core.brand-30.300}",
+          "type": "color",
+          "description": "Winnita V2 light draft: light-theme link.static role"
         }
       }
     }
