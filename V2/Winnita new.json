@@ -1881,20 +1881,24 @@
         },
         "text": {
           "default": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
+            "value": "{semantic.text.button.ghost-popup.default}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "hover": {
-            "value": "{core.brand-10.400}",
-            "type": "color"
+            "value": "{semantic.text.button.ghost-popup.hover}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "active": {
-            "value": "{core.brand-10.700}",
-            "type": "color"
+            "value": "{semantic.text.button.ghost-popup.active}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "disabled": {
-            "value": "{core.brand-10.600a40}",
-            "type": "color"
+            "value": "{semantic.text.button.ghost-popup.disabled}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           }
         },
         "border-color": {
@@ -1927,8 +1931,9 @@
             "type": "color"
           },
           "active": {
-            "value": "{semantic.background.brand.static.active}",
-            "type": "color"
+            "value": "{semantic.background.brand.static.default}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "disabled": {
             "value": "{semantic.background.brand.static.disabled}",
@@ -8700,18 +8705,9 @@
         }
       },
       "400": {
-        "value": "{core.red.500}",
+        "value": "#FF6161",
         "type": "color",
-        "description": "Winnita V2 draft: generated red shade; component role to be mapped later",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.25",
-              "space": "lch"
-            }
-          }
-        }
+        "description": "Winnita production reference: secondary hover; approved in Figma 70010:103030"
       },
       "500": {
         "value": "#FF5050",
@@ -8898,17 +8894,17 @@
           "default": {
             "value": "{core.brand-10.500}",
             "type": "color",
-            "description": "Winnita V2 light draft: solid primary action state; secondary stays blue pending product review"
+            "description": "Winnita approved solid green primary button; secondary actions use red"
           },
           "hover": {
             "value": "{core.brand-10.400}",
             "type": "color",
-            "description": "Winnita V2 light draft: solid primary action state; secondary stays blue pending product review"
+            "description": "Winnita approved solid green primary button; secondary actions use red"
           },
           "active": {
             "value": "{core.brand-10.600}",
             "type": "color",
-            "description": "Winnita V2 light draft: solid primary action state; secondary stays blue pending product review"
+            "description": "Winnita approved solid green primary button; secondary actions use red"
           },
           "disabled": {
             "value": "rgba(57, 204, 89, 0.4)",
@@ -8944,80 +8940,125 @@
         },
         "secondary": {
           "default": {
-            "value": "{core.brand-30.500}",
+            "value": "{core.red.500}",
             "type": "color",
-            "description": "Winnita V2 light draft: solid secondary action state; secondary stays blue pending product review"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "hover": {
-            "value": "{core.brand-30.400}",
+            "value": "{core.red.400}",
             "type": "color",
-            "description": "Winnita V2 light draft: solid secondary action state; secondary stays blue pending product review"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "active": {
-            "value": "{core.brand-30.600}",
+            "value": "{core.red.600}",
             "type": "color",
-            "description": "Winnita V2 light draft: solid secondary action state; secondary stays blue pending product review"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "disabled": {
-            "value": "rgba(10, 90, 201, 0.4)",
+            "value": "{core.red.500}",
             "type": "color",
-            "description": "Winnita V2 light draft: disabled action at 40% opacity"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.4",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "tertiary": {
           "default": {
-            "value": "{core.grey.50}",
+            "value": "{core.grey.600}",
             "type": "color",
-            "description": "Winnita V2 light draft: neutral button surface on white"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "hover": {
-            "value": "{core.grey.100}",
+            "value": "{core.grey.600}",
             "type": "color",
-            "description": "Winnita V2 light draft: neutral button surface on white"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "active": {
-            "value": "{core.grey.200}",
+            "value": "{core.grey.600}",
             "type": "color",
-            "description": "Winnita V2 light draft: neutral button surface on white"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "disabled": {
-            "value": "{core.grey.25}",
+            "value": "{core.grey.600}",
             "type": "color",
-            "description": "Winnita V2 light draft: neutral button surface on white"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "ghost-popup": {
           "default": {
             "value": "{core.white.a0}",
             "type": "color",
-            "description": "Winnita V2 light draft: transparent/light interaction surface"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.white.a0}",
             "type": "color",
-            "description": "Winnita V2 light draft: transparent/light interaction surface"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "active": {
-            "value": "{core.brand-30.100}",
+            "value": "{core.white.a0}",
             "type": "color",
-            "description": "Winnita V2 light draft: transparent/light interaction surface"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "disabled": {
             "value": "{core.white.a0}",
             "type": "color",
-            "description": "Winnita V2 light draft: transparent/light interaction surface"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           }
         },
         "static": {
           "default": {
             "value": "{core.white.a0}",
             "type": "color",
-            "description": "Winnita V2 light draft: transparent/light interaction surface"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "hover": {
-            "value": "{core.brand-30.50}",
+            "value": "{core.white.a0}",
             "type": "color",
-            "description": "Winnita V2 light draft: transparent/light interaction surface"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "active": {
             "value": "{core.brand-30.100}",
@@ -9027,7 +9068,7 @@
           "disabled": {
             "value": "{core.white.a0}",
             "type": "color",
-            "description": "Winnita V2 light draft: transparent/light interaction surface"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           }
         }
       },
@@ -9311,6 +9352,30 @@
           "value": "{core.brand-30.500}",
           "type": "color"
         }
+      },
+      "button": {
+        "ghost-popup": {
+          "default": {
+            "value": "{core.brand-10.600}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
+          },
+          "hover": {
+            "value": "{core.brand-10.400}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
+          },
+          "active": {
+            "value": "{core.brand-10.700}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
+          },
+          "disabled": {
+            "value": "{core.brand-10.600a40}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
+          }
+        }
       }
     },
     "border": {
@@ -9353,64 +9418,95 @@
         },
         "tertiary": {
           "default": {
-            "value": "{core.grey.200}",
-            "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
-          },
-          "hover": {
-            "value": "{core.grey.300}",
-            "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
-          },
-          "active": {
             "value": "{core.grey.400}",
             "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
+          },
+          "hover": {
+            "value": "{core.grey.500}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
+          },
+          "active": {
+            "value": "{core.grey.600}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "disabled": {
-            "value": "{core.grey.100}",
+            "value": "{core.grey.300}",
             "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.tertiary role"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.6",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "ghost-popup": {
           "default": {
-            "value": "{core.brand-10.600}",
-            "type": "color"
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "hover": {
             "value": "{core.brand-10.400}",
-            "type": "color"
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "active": {
-            "value": "{core.brand-10.700}",
-            "type": "color"
+            "value": "{core.brand-10.600}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "disabled": {
-            "value": "{core.brand-10.600a40}",
-            "type": "color"
+            "value": "{core.brand-10.500}",
+            "type": "color",
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.4",
+                  "space": "lch"
+                }
+              }
+            }
           }
         },
         "static": {
           "default": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.400}",
             "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.static role"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "hover": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.500}",
             "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.static role"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "active": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.600}",
             "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.static role"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27"
           },
           "disabled": {
-            "value": "{core.white.a0}",
+            "value": "{core.grey.300}",
             "type": "color",
-            "description": "Winnita V2 light draft: light-theme border.brand.static role"
+            "description": "Winnita approved button matrix: Figma 70010:103030, 2026-11-27",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.6",
+                  "space": "lch"
+                }
+              }
+            }
           }
         }
       },

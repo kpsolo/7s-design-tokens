@@ -48,3 +48,15 @@ Prepared the preceding core and light semantic drafts for GitHub publication at 
 ## 2026-11-27 — Winnita rounded buttons
 
 Only border-radius.button.sm/md/lg now alias border-radius.core.full (9999), giving pill/circle silhouettes equivalent to the old Winnita radius-44 reference at current button heights. Colors, type, sizes, spacing and base 7slots tokens are unchanged. Isolated Winnita preview standard buttons receive matching local radius overrides; global component masters remain unchanged.
+
+## 2026-11-27 — Approved Winnita button colors and outlines
+
+Source of truth: Figma button matrix `70010:103030` within `70010:102981`, 120 variants. Only `V2/Winnita new.json` token values are updated.
+
+- Secondary: core.red.400 is now the production hover anchor #FF6161 (replaces the provisional generated shade); semantic background secondary aliases red.500 / red.400 / red.600, with red.500 at alpha 0.4 for disabled. Contextual secondary fills inherit these roles. White content and transparent borders remain unchanged.
+- Tertiary: semantic fill aliases grey.600 at alpha 0.1 in all four states; borders are grey.400 / grey.500 / grey.600 / grey.300 at alpha 0.6 for disabled. Existing dark text roles are preserved.
+- Static: transparent fills and the same neutral border states as Tertiary. Its active contextual fill now aliases semantic.background.brand.static.default: the shared semantic static.active and pregame overlay remain unchanged.
+- Ghost (existing JSON name ghost-popup): transparent fill in all states; green borders use brand-10.500 / .400 / .600 / .500 at alpha 0.4 for disabled. Added four semantic.text.button.ghost-popup roles to preserve the approved darker text shades (.600 / .400 / .700 / .600a40) without direct contextual-to-core links.
+- Primary green colors, pill radii, typography, size, padding, effects and border widths are unchanged. Component effects and per-variant opacity remain inherited Figma component properties; they are not newly exported as color tokens.
+
+40 token objects affected: 1 core, 34 semantic (including 4 additions), 5 contextual. All previous paths retained; total 1659 tokens. Validated 300 fill/border/text comparisons across 120 Figma variants (one 8-bit step allowed for color/alpha serialization), alias graph without missing references or cycles, and byte-identical 7slots base. No production theme or theme activation changes.
