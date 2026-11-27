@@ -129,6 +129,34 @@
           "value": "{size.800}",
           "type": "sizing"
         }
+      },
+      "padding": {
+        "sm": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        }
+      }
+    },
+    "padding-vertical": {
+      "sm": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{spacing.0}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{spacing.0}",
+        "type": "spacing"
       }
     }
   },
@@ -1877,19 +1905,19 @@
         },
         "text": {
           "default": {
-            "value": "{core.brand-10.600}",
+            "value": "{semantic.text.button.ghost-popup.default}",
             "type": "color"
           },
           "hover": {
-            "value": "{core.brand-10.400}",
+            "value": "{semantic.text.button.ghost-popup.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{core.brand-10.700}",
+            "value": "{semantic.text.button.ghost-popup.active}",
             "type": "color"
           },
           "disabled": {
-            "value": "{core.brand-10.600a40}",
+            "value": "{semantic.text.button.ghost-popup.disabled}",
             "type": "color"
           }
         },
@@ -8909,6 +8937,26 @@
           "value": "{core.brand-30.500}",
           "type": "color"
         }
+      },
+      "button": {
+        "ghost-popup": {
+          "default": {
+            "value": "{core.brand-10.600}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.brand-10.400}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.brand-10.700}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.brand-10.600a40}",
+            "type": "color"
+          }
+        }
       }
     },
     "border": {
@@ -9390,6 +9438,18 @@
     "2": {
       "value": "2%",
       "type": "letterSpacing"
+    },
+    "0px": {
+      "value": "0px",
+      "type": "letterSpacing"
+    },
+    "0-2px": {
+      "value": "0.2px",
+      "type": "letterSpacing"
+    },
+    "0-5px": {
+      "value": "0.5px",
+      "type": "letterSpacing"
     }
   },
   "Expanded": {
@@ -9428,6 +9488,18 @@
     },
     "800": {
       "value": "64",
+      "type": "sizing"
+    },
+    "20px": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "22px": {
+      "value": "22",
+      "type": "sizing"
+    },
+    "32px": {
+      "value": "32",
       "type": "sizing"
     }
   },
@@ -9974,6 +10046,22 @@
         },
         "type": "typography"
       }
+    }
+  },
+  "font-size": {
+    "15px": {
+      "value": "15px",
+      "type": "fontSizes"
+    },
+    "17px": {
+      "value": "17px",
+      "type": "fontSizes"
+    }
+  },
+  "line-height": {
+    "15px": {
+      "value": "15px",
+      "type": "lineHeights"
     }
   }
 }

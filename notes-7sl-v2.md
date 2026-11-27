@@ -64,3 +64,19 @@ Source of truth: Figma button matrix `70010:103030` within `70010:102981`, 120 v
 ## 2026-11-27 — Approved Winnita button typography
 
 Visual approval: Figma `70018:106767` / button set `70018:106816`, 60 text variants using Akshar Medium 500 with UPPER case. Updated only text.button-small, text.button-medium and text.button-large in V2/Winnita new.json: fontWeight references text.strong → Medium (500), and textCase references text-case.uppercase. Existing foundation values and shared text.strong/text.strongest roles are unchanged. Font family, size, line height, spacing, colors and radii are unchanged. All 1659 token paths retained; recursive aliases checked without missing targets/cycles. The 7slots base is byte-identical to origin/main.
+
+## 2026-11-27 — Approved Winnita button sizing and cross-brand schema alignment
+
+User approved the visual size trial in Figma 70018:106767 and an identical token path/type structure in the new 7slots and Winnita sets. Both V2 files now contain 1674 tokens. Production themes and activation files remain unchanged.
+
+Winnita changes:
+- Text button heights SM/MD/LG: 22/32/40; font sizes 14/15/17px; line heights 16/15/18px; letter spacing 0/0.2/0.5px. Existing Medium 500 and uppercase are retained.
+- Horizontal padding 12/16/16, text-wrapper horizontal padding 0, gap 4, vertical padding 2/4/4. Added button.padding-vertical roles.
+- Icon glyph size 16/24/24; icon-only button dimensions 20/32/32, with 2/4/4 inset. Added button.icon-only-type.padding roles. Colors, outlines, effects and pill radii remain unchanged. Auto-layout Hug/Fill is still a Figma component property rather than a JSON token.
+
+Shared structural additions:
+- size.20px/22px/32px; font-size.15px/17px; line-height.15px; letter-spacing.0px/0-2px/0-5px. Existing shared size, font-scale and spacing values are unchanged.
+- Both sets receive the six padding roles. Their 7slots defaults preserve the existing configuration (vertical padding 0, icon-only horizontal inset 8); the new roles are available for component binding, not an automatic global Figma update.
+- Added the four semantic.text.button.ghost-popup states to 7slots, preserving its own core references. Existing contextual Ghost text links now route through them. Winnita already has the same paths.
+
+Validation: exact token path/type parity; no deleted original paths; recursive references valid and acyclic; all 1655 pre-existing 7slots token values resolve identically (including preserved modifier metadata). Winnita dimension, padding and composite typography values match the approved matrix. 7slots gains 19 paths and changes four equivalent aliases; Winnita gains 15 paths and updates 20 existing token objects.
