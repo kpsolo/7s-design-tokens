@@ -7134,27 +7134,30 @@
     "button-large": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strongest}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-3}",
-        "lineHeight": "{md}"
+        "lineHeight": "{md}",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
     "button-medium": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strongest}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-2}",
-        "lineHeight": "{sm}"
+        "lineHeight": "{sm}",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },
     "button-small": {
       "value": {
         "fontFamily": "{main}",
-        "fontWeight": "{text.strongest}",
+        "fontWeight": "{text.strong}",
         "fontSize": "{scale-2}",
-        "lineHeight": "{sm}"
+        "lineHeight": "{sm}",
+        "textCase": "{text-case.uppercase}"
       },
       "type": "typography"
     },

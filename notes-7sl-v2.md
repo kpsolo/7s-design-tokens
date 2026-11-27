@@ -60,3 +60,7 @@ Source of truth: Figma button matrix `70010:103030` within `70010:102981`, 120 v
 - Primary green colors, pill radii, typography, size, padding, effects and border widths are unchanged. Component effects and per-variant opacity remain inherited Figma component properties; they are not newly exported as color tokens.
 
 40 token objects affected: 1 core, 34 semantic (including 4 additions), 5 contextual. All previous paths retained; total 1659 tokens. Validated 300 fill/border/text comparisons across 120 Figma variants (one 8-bit step allowed for color/alpha serialization), alias graph without missing references or cycles, and byte-identical 7slots base. No production theme or theme activation changes.
+
+## 2026-11-27 — Approved Winnita button typography
+
+Visual approval: Figma `70018:106767` / button set `70018:106816`, 60 text variants using Akshar Medium 500 with UPPER case. Updated only text.button-small, text.button-medium and text.button-large in V2/Winnita new.json: fontWeight references text.strong → Medium (500), and textCase references text-case.uppercase. Existing foundation values and shared text.strong/text.strongest roles are unchanged. Font family, size, line height, spacing, colors and radii are unchanged. All 1659 token paths retained; recursive aliases checked without missing targets/cycles. The 7slots base is byte-identical to origin/main.

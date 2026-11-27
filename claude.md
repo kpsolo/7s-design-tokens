@@ -115,3 +115,5 @@ The token files follow the W3C Design Tokens Community Group specification forma
 * 2026-11-27: Winnita button sm/md/lg radii use core.full; all other styling and 7slots baseline preserved.
 
 * 2026-11-27: Approved Winnita button matrix mapped through core → semantic → contextual: red Secondary, translucent Tertiary, outlined Static/Ghost; 1659 tokens including 4 Ghost text roles. 7slots baseline unchanged.
+
+* 2026-11-27: Approved Winnita button typography: three button composites use Medium 500 and uppercase; sizes and 7slots baseline unchanged.
