@@ -44,3 +44,7 @@ Changed token objects: 77. No new core paths.
 ## 2026-11-27 — Winnita draft prepared for publication
 
 Prepared the preceding core and light semantic drafts for GitHub publication at user request. Initial upload attempts were blocked by GitHub access. GitHub CLI is now authenticated as JacobSave and repository write access (push: true) has been verified; publication is authorized. Token scope is exclusively `V2/Winnita new.json`; accompanying changes only document this work. `V2/7sb.7slot_new.json`, production themes and theme activation remain unchanged. Supporting palette shades and secondary action mapping remain draft; the isolated Figma preview includes paint overrides and is not a global theme activation.
+
+## 2026-11-27 — Winnita rounded buttons
+
+Only border-radius.button.sm/md/lg now alias border-radius.core.full (9999), giving pill/circle silhouettes equivalent to the old Winnita radius-44 reference at current button heights. Colors, type, sizes, spacing and base 7slots tokens are unchanged. Isolated Winnita preview standard buttons receive matching local radius overrides; global component masters remain unchanged.

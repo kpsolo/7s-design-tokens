@@ -183,15 +183,15 @@
     },
     "button": {
       "sm": {
-        "value": "{border-radius.core.100}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{border-radius.core.200}",
+        "value": "{border-radius.core.full}",
         "type": "borderRadius"
       }
     },

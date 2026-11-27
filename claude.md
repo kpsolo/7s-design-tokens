@@ -111,3 +111,5 @@ The token files follow the W3C Design Tokens Community Group specification forma
   * Dry-run simulation: `node scripts/sync-referral-tokens.js --dry-run`
   * Single theme: `node scripts/sync-referral-tokens.js -t <theme>`
 
+
+* 2026-11-27: Winnita button sm/md/lg radii use core.full; all other styling and 7slots baseline preserved.
